@@ -21,7 +21,10 @@ versions:
 - date: 2001-11-30
   languages:
   - kaz
+- date: 2004-12-24
+  languages:
+  - kaz
 version_date:
-  kaz: 2001-11-30
+  kaz: 2004-12-24
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/7774/kaz/30.11.2001
+  kaz: https://zan.gov.kz/client/#!/doc/7774/kaz/24.12.2004
