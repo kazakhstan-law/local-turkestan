@@ -1,0 +1,24 @@
+key: V01U000332_
+akn: /akn/kz/act/2001-07-23/V01U000332_
+act_code: '9680'
+requisite: Решение акима Южно-Казахстанской области от 24 июля 2001 года № 188. Зарегистрировано Управлением юстиции Южно-Казахстанской области 3 августа 2001 года № 332
+title:
+  rus: О создании комиссии
+  kaz: Комиссия құру туралы
+form: РЕШ
+type_codes:
+- РЕШ
+approved_on: 2001-07-23
+approved_by:
+- '166000000003'
+versions:
+- date: 2001-07-23
+  languages:
+  - kaz
+  - rus
+version_date:
+  kaz: 2001-07-23
+  rus: 2001-07-23
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/9680/kaz/23.07.2001
+  rus: https://zan.gov.kz/client/#!/doc/9680/rus/23.07.2001
