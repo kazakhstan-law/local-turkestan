@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/43394/kaz/29.04.2009
+source: https://zan.gov.kz/client/#!/doc/43394/kaz/13.07.2009
 ---
 
 > *Төлеби аудандық мәслихатының*  

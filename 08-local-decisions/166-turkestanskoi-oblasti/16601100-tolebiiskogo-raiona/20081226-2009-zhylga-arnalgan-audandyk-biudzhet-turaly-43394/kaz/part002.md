@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/43394/kaz/29.04.2009
+source: https://zan.gov.kz/client/#!/doc/43394/kaz/13.07.2009
 ---
 
 ## 2009 жылға арналған жергілікті бюджеттің атқарылуы барысында секвестерлеуге жатпайтын аудандық бюджеттің бағдарламалар тізбесі
@@ -62,28 +62,29 @@ source: https://zan.gov.kz/client/#!/doc/43394/kaz/29.04.2009
 
 ## 2009 жылға арналған ауылдық округтің бюджеттік бағдарламаларының тізбесі
 
-> *Ескерту. 5-Қосымша жаңа редакцияда - Оңтүстік Қазақстан облысы Төлеби аудандық мәслихатының 2009.04.29 N 15/113-IV (2009 жылғы 1 қаңтардан бастап қолданысқа енгiзiледi) Шешімімен.*
+> *Ескерту. 5-Қосымша жаңа редакцияда - Оңтүстік Қазақстан облысы Төлеби аудандық мәслихатының 2009.07.13 N 17/127-IV (2009 жылғы 1 қаңтардан бастап қолданысқа енгiзiледi) Шешімімен.*
 
 <table>
 <tr>
-<td colspan="5">Функционалдық топ</td>
+<td colspan="6">Функционалдық топ</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="4">Кіші функция</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td colspan="3">Бюджеттік бағдарламалардың әкiмшiсi</td>
+<td colspan="5">Кіші функция</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td></td>
-<td colspan="2">Бағдарлама</td>
+<td colspan="4">Бюджеттік бағдарламалардың әкiмшiсi</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Бағдарлама</td>
+</tr>
+<tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -95,11 +96,13 @@ source: https://zan.gov.kz/client/#!/doc/43394/kaz/29.04.2009
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер көрсету</td>
 </tr>
 <tr>
 <td></td>
 <td>1</td>
+<td></td>
 <td></td>
 <td></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
@@ -109,6 +112,7 @@ source: https://zan.gov.kz/client/#!/doc/43394/kaz/29.04.2009
 <td></td>
 <td>123</td>
 <td></td>
+<td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл (село), ауылдық (селолық) округ әкімінің аппараты</td>
 </tr>
 <tr>
@@ -116,10 +120,12 @@ source: https://zan.gov.kz/client/#!/doc/43394/kaz/29.04.2009
 <td></td>
 <td></td>
 <td>001</td>
+<td></td>
 <td>Қаладағы ауданның, аудандық маңызы бар қаланың, кенттің, ауылдың (селоның), ауылдық (селолық) округтің әкімі аппаратының қызметін қамтамасыз ету</td>
 </tr>
 <tr>
 <td>04</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -130,12 +136,14 @@ source: https://zan.gov.kz/client/#!/doc/43394/kaz/29.04.2009
 <td>1</td>
 <td></td>
 <td></td>
+<td></td>
 <td>Мектепке дейiнгi тәрбие және оқыту</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>123</td>
+<td></td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл (село), ауылдық (селолық) округ әкімінің аппараты</td>
 </tr>
@@ -144,11 +152,13 @@ source: https://zan.gov.kz/client/#!/doc/43394/kaz/29.04.2009
 <td></td>
 <td></td>
 <td>004</td>
+<td></td>
 <td>Мектепке дейінгі тәрбие ұйымдарының қызметін қамтамасыз ету</td>
 </tr>
 <tr>
 <td></td>
 <td>2</td>
+<td></td>
 <td></td>
 <td></td>
 <td>Жалпы бастауыш, жалпы негізгі, жалпы орта бiлiм беру</td>
@@ -158,6 +168,7 @@ source: https://zan.gov.kz/client/#!/doc/43394/kaz/29.04.2009
 <td></td>
 <td>123</td>
 <td></td>
+<td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл (село), ауылдық (селолық) округ әкімінің аппараты</td>
 </tr>
 <tr>
@@ -165,11 +176,13 @@ source: https://zan.gov.kz/client/#!/doc/43394/kaz/29.04.2009
 <td></td>
 <td></td>
 <td>005</td>
+<td></td>
 <td>Аудандық (селолық) жерлерде балаларды мектепке дейін тегін алып баруды және кері алып келуді ұйымдастыру</td>
 </tr>
 <tr>
 <td></td>
 <td>9</td>
+<td></td>
 <td></td>
 <td></td>
 <td>Бiлiм беру саласындағы өзге де қызметтер</td>
@@ -179,6 +192,7 @@ source: https://zan.gov.kz/client/#!/doc/43394/kaz/29.04.2009
 <td></td>
 <td>123</td>
 <td></td>
+<td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл (село), ауылдық (селолық) округ әкімінің аппараты</td>
 </tr>
 <tr>
@@ -186,10 +200,12 @@ source: https://zan.gov.kz/client/#!/doc/43394/kaz/29.04.2009
 <td></td>
 <td></td>
 <td>018</td>
+<td></td>
 <td>Өңірлік жұмыспен қамту және кадрларды қайта даярлау стратегиясын іске асыру шеңберінде білім беру объектілерін күрделі, ағымдағы жөндеу</td>
 </tr>
 <tr>
 <td>06</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -200,12 +216,14 @@ source: https://zan.gov.kz/client/#!/doc/43394/kaz/29.04.2009
 <td>2</td>
 <td></td>
 <td></td>
+<td></td>
 <td>Әлеуметтiк көмек</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>123</td>
+<td></td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл (село), ауылдық (селолық) округ әкімінің аппараты</td>
 </tr>
@@ -214,10 +232,12 @@ source: https://zan.gov.kz/client/#!/doc/43394/kaz/29.04.2009
 <td></td>
 <td></td>
 <td>003</td>
+<td></td>
 <td>Мұқтаж азаматтарға үйінде әлеуметтiк көмек көрсету</td>
 </tr>
 <tr>
 <td>07</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -228,12 +248,14 @@ source: https://zan.gov.kz/client/#!/doc/43394/kaz/29.04.2009
 <td>2</td>
 <td></td>
 <td></td>
+<td></td>
 <td>Коммуналдық шаруашылық</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>123</td>
+<td></td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл (село), ауылдық (селолық) округ әкімінің аппараты</td>
 </tr>
@@ -242,12 +264,14 @@ source: https://zan.gov.kz/client/#!/doc/43394/kaz/29.04.2009
 <td></td>
 <td></td>
 <td>014</td>
+<td></td>
 <td>Елдi мекендерді сумен жабдықтауды ұйымдастыру</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>123</td>
+<td></td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл (село), ауылдық (селолық) округ әкімінің аппараты</td>
 </tr>
@@ -256,11 +280,13 @@ source: https://zan.gov.kz/client/#!/doc/43394/kaz/29.04.2009
 <td></td>
 <td></td>
 <td>015</td>
+<td></td>
 <td>Өңірлік жұмыспен қамту және кадрларды қайта даярлау стратегиясын іске асыру шеңберінде инженерлік коммуникациялық инфрақұрылымды жөндеу және елді-мекендерді көркейту</td>
 </tr>
 <tr>
 <td></td>
 <td>3</td>
+<td></td>
 <td></td>
 <td></td>
 <td>Елді-мекендерді көркейту</td>
@@ -270,6 +296,7 @@ source: https://zan.gov.kz/client/#!/doc/43394/kaz/29.04.2009
 <td></td>
 <td>123</td>
 <td></td>
+<td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл (село), ауылдық (селолық) округ әкімінің аппараты</td>
 </tr>
 <tr>
@@ -277,12 +304,14 @@ source: https://zan.gov.kz/client/#!/doc/43394/kaz/29.04.2009
 <td></td>
 <td></td>
 <td>008</td>
+<td></td>
 <td>Елдi мекендерде көшелерді жарықтандыру</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>123</td>
+<td></td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл (село), ауылдық (селолық) округ әкімінің аппараты</td>
 </tr>
@@ -291,12 +320,14 @@ source: https://zan.gov.kz/client/#!/doc/43394/kaz/29.04.2009
 <td></td>
 <td></td>
 <td>009</td>
+<td></td>
 <td>Елдi мекендердің санитариясын қамтамасыз ету</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>123</td>
+<td></td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл (село), ауылдық (селолық) округ әкімінің аппараты</td>
 </tr>
@@ -305,12 +336,14 @@ source: https://zan.gov.kz/client/#!/doc/43394/kaz/29.04.2009
 <td></td>
 <td></td>
 <td>010</td>
+<td></td>
 <td>Жерлеу орындарын күтіп-ұстау және туысы жоқ адамдарды жерлеу</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>123</td>
+<td></td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл (село), ауылдық (селолық) округ әкімінің аппараты</td>
 </tr>
@@ -319,10 +352,12 @@ source: https://zan.gov.kz/client/#!/doc/43394/kaz/29.04.2009
 <td></td>
 <td></td>
 <td>011</td>
+<td></td>
 <td>Елдi мекендерді абаттандыру және көгалдандыру</td>
 </tr>
 <tr>
 <td>12</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -333,12 +368,14 @@ source: https://zan.gov.kz/client/#!/doc/43394/kaz/29.04.2009
 <td>1</td>
 <td></td>
 <td></td>
+<td></td>
 <td>Автомобиль көлiгi</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>123</td>
+<td></td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл (село), ауылдық (селолық) округ әкімінің аппараты</td>
 </tr>
@@ -348,8 +385,10 @@ source: https://zan.gov.kz/client/#!/doc/43394/kaz/29.04.2009
 <td></td>
 <td>013</td>
 <td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -362,13 +401,11 @@ source: https://zan.gov.kz/client/#!/doc/43394/kaz/29.04.2009
 
 <table>
 <tr>
-<td></td>
-<td>Жалпы сомасы, мың теңге</td>
-<td colspan="7">Қала және ауылдық округ әкімдіктері</td>
+<td rowspan="2">N р/с</td>
+<td rowspan="2">Жалпы сомасы, мың теңге</td>
+<td colspan="9">Қала және ауылдық округ әкімдіктері</td>
 </tr>
 <tr>
-<td>N р/с</td>
-<td></td>
 <td>Ленгір</td>
 <td>Ақжар</td>
 <td>Аққұм</td>
@@ -376,94 +413,112 @@ source: https://zan.gov.kz/client/#!/doc/43394/kaz/29.04.2009
 <td>Зертас</td>
 <td>Жоғарғы - Ақсу</td>
 <td>Көксәйек</td>
+<td>Қазығұрт</td>
+<td>Қасқасу</td>
 </tr>
 <tr>
 <td>1</td>
-<td>108802</td>
+<td>111414</td>
 <td>11863</td>
-<td>6814</td>
+<td>8564</td>
 <td>5904</td>
 <td>7242</td>
 <td>5614</td>
-<td>6276</td>
+<td>6576</td>
 <td>7836</td>
+<td>8400</td>
+<td>5894</td>
 </tr>
 <tr>
 <td>2</td>
-<td>108802</td>
+<td>111414</td>
 <td>11863</td>
-<td>6814</td>
+<td>8564</td>
 <td>5904</td>
 <td>7242</td>
 <td>5614</td>
-<td>6276</td>
+<td>6576</td>
 <td>7836</td>
+<td>8400</td>
+<td>5894</td>
 </tr>
 <tr>
 <td>3</td>
-<td>108802</td>
+<td>111414</td>
 <td>11863</td>
-<td>6814</td>
+<td>8564</td>
 <td>5904</td>
 <td>7242</td>
 <td>5614</td>
-<td>6276</td>
+<td>6576</td>
 <td>7836</td>
+<td>8400</td>
+<td>5894</td>
 </tr>
 <tr>
 <td>4</td>
-<td>108802</td>
+<td>111414</td>
 <td>11863</td>
-<td>6814</td>
+<td>8564</td>
 <td>5904</td>
 <td>7242</td>
 <td>5614</td>
-<td>6276</td>
+<td>6576</td>
 <td>7836</td>
+<td>8400</td>
+<td>5894</td>
 </tr>
 <tr>
 <td>5</td>
-<td>136177</td>
+<td>137345</td>
 <td>62071</td>
 <td>0</td>
 <td>0</td>
 <td>666</td>
 <td>537</td>
 <td>0</td>
-<td>11085</td>
+<td>12535</td>
+<td>39921</td>
+<td>0</td>
 </tr>
 <tr>
 <td>6</td>
-<td>88154</td>
+<td>89604</td>
 <td>62071</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
-<td>9794</td>
+<td>11244</td>
+<td>10032</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7</td>
-<td>88154</td>
+<td>89604</td>
 <td>62071</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
-<td>9794</td>
+<td>11244</td>
+<td>10032</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8</td>
-<td>88154</td>
+<td>89604</td>
 <td>62071</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>9794</td>
+<td>11244</td>
+<td>10032</td>
+<td></td>
 </tr>
 <tr>
 <td>9</td>
@@ -475,6 +530,8 @@ source: https://zan.gov.kz/client/#!/doc/43394/kaz/29.04.2009
 <td>537</td>
 <td>0</td>
 <td>1291</td>
+<td>2964</td>
+<td>0</td>
 </tr>
 <tr>
 <td>10</td>
@@ -486,6 +543,8 @@ source: https://zan.gov.kz/client/#!/doc/43394/kaz/29.04.2009
 <td>537</td>
 <td>0</td>
 <td>1291</td>
+<td>2964</td>
+<td>0</td>
 </tr>
 <tr>
 <td>11</td>
@@ -497,38 +556,46 @@ source: https://zan.gov.kz/client/#!/doc/43394/kaz/29.04.2009
 <td>537</td>
 <td></td>
 <td>1291</td>
+<td>2964</td>
+<td></td>
 </tr>
 <tr>
 <td>12</td>
-<td>39482</td>
+<td>39200</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
+<td>0</td>
+<td>26925</td>
 <td>0</td>
 </tr>
 <tr>
 <td>13</td>
-<td>39482</td>
+<td>39200</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
+<td>0</td>
+<td>26925</td>
 <td>0</td>
 </tr>
 <tr>
 <td>14</td>
-<td>39482</td>
+<td>39200</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td>26925</td>
 <td></td>
 </tr>
 <tr>
@@ -541,6 +608,8 @@ source: https://zan.gov.kz/client/#!/doc/43394/kaz/29.04.2009
 <td>376</td>
 <td>0</td>
 <td>376</td>
+<td>376</td>
+<td>363</td>
 </tr>
 <tr>
 <td>16</td>
@@ -552,6 +621,8 @@ source: https://zan.gov.kz/client/#!/doc/43394/kaz/29.04.2009
 <td>376</td>
 <td>0</td>
 <td>376</td>
+<td>376</td>
+<td>363</td>
 </tr>
 <tr>
 <td>17</td>
@@ -563,6 +634,8 @@ source: https://zan.gov.kz/client/#!/doc/43394/kaz/29.04.2009
 <td>376</td>
 <td>0</td>
 <td>376</td>
+<td>376</td>
+<td>363</td>
 </tr>
 <tr>
 <td>18</td>
@@ -574,28 +647,34 @@ source: https://zan.gov.kz/client/#!/doc/43394/kaz/29.04.2009
 <td>376</td>
 <td></td>
 <td>376</td>
+<td>376</td>
+<td>363</td>
 </tr>
 <tr>
 <td>19</td>
-<td>352956</td>
-<td>43708</td>
+<td>340966</td>
+<td>43598</td>
 <td>8450</td>
 <td>7604</td>
 <td>25896</td>
-<td>6643</td>
+<td>6593</td>
 <td>9160</td>
-<td>25254</td>
+<td>25204</td>
+<td>77506</td>
+<td>6101</td>
 </tr>
 <tr>
 <td>20</td>
-<td>326457</td>
-<td>26000</td>
+<td>314467</td>
+<td>25990</td>
 <td>8200</td>
 <td>7284</td>
 <td>25576</td>
 <td>4928</td>
 <td>8840</td>
 <td>23679</td>
+<td>75080</td>
+<td>5606</td>
 </tr>
 <tr>
 <td>21</td>
@@ -607,6 +686,8 @@ source: https://zan.gov.kz/client/#!/doc/43394/kaz/29.04.2009
 <td>4928</td>
 <td>8840</td>
 <td>23679</td>
+<td>2500</td>
+<td>5606</td>
 </tr>
 <tr>
 <td>22</td>
@@ -618,61 +699,73 @@ source: https://zan.gov.kz/client/#!/doc/43394/kaz/29.04.2009
 <td>4928</td>
 <td>8840</td>
 <td>23679</td>
+<td>2500</td>
+<td>5606</td>
 </tr>
 <tr>
 <td>23</td>
-<td>176300</td>
-<td>26000</td>
+<td>164310</td>
+<td>25990</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
+<td>0</td>
+<td>72580</td>
 <td>0</td>
 </tr>
 <tr>
 <td>24</td>
-<td>176300</td>
-<td>26000</td>
+<td>164310</td>
+<td>25990</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td>72580</td>
 <td></td>
 </tr>
 <tr>
 <td>25</td>
 <td>26499</td>
-<td>17708</td>
+<td>17608</td>
 <td>250</td>
 <td>320</td>
 <td>320</td>
-<td>1715</td>
+<td>1665</td>
 <td>320</td>
-<td>1575</td>
+<td>1525</td>
+<td>2426</td>
+<td>495</td>
 </tr>
 <tr>
 <td>26</td>
 <td>6668</td>
-<td>2379</td>
+<td>2279</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
-<td>1465</td>
+<td>1415</td>
 <td>0</td>
-<td>1255</td>
+<td>1205</td>
+<td>1524</td>
+<td>245</td>
 </tr>
 <tr>
 <td>27</td>
 <td>6668</td>
-<td>2379</td>
+<td>2279</td>
 <td></td>
 <td></td>
 <td></td>
-<td>1465</td>
+<td>1415</td>
 <td></td>
-<td>1255</td>
+<td>1205</td>
+<td>1524</td>
+<td>245</td>
 </tr>
 <tr>
 <td>28</td>
@@ -684,6 +777,8 @@ source: https://zan.gov.kz/client/#!/doc/43394/kaz/29.04.2009
 <td>100</td>
 <td>120</td>
 <td>120</td>
+<td>100</td>
+<td>100</td>
 </tr>
 <tr>
 <td>29</td>
@@ -695,11 +790,15 @@ source: https://zan.gov.kz/client/#!/doc/43394/kaz/29.04.2009
 <td>100</td>
 <td>120</td>
 <td>120</td>
+<td>100</td>
+<td>100</td>
 </tr>
 <tr>
 <td>30</td>
 <td>200</td>
 <td>200</td>
+<td>0</td>
+<td>0</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
@@ -717,6 +816,8 @@ source: https://zan.gov.kz/client/#!/doc/43394/kaz/29.04.2009
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>32</td>
@@ -728,6 +829,8 @@ source: https://zan.gov.kz/client/#!/doc/43394/kaz/29.04.2009
 <td>150</td>
 <td>200</td>
 <td>200</td>
+<td>802</td>
+<td>150</td>
 </tr>
 <tr>
 <td>33</td>
@@ -739,10 +842,13 @@ source: https://zan.gov.kz/client/#!/doc/43394/kaz/29.04.2009
 <td>150</td>
 <td>200</td>
 <td>200</td>
+<td>802</td>
+<td>150</td>
 </tr>
 <tr>
 <td>34</td>
-<td>7885</td>
+<td>8485</td>
+<td>600</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
@@ -750,10 +856,12 @@ source: https://zan.gov.kz/client/#!/doc/43394/kaz/29.04.2009
 <td>0</td>
 <td>0</td>
 <td>0</td>
+<td>4250</td>
 </tr>
 <tr>
 <td>35</td>
-<td>7885</td>
+<td>8485</td>
+<td>600</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
@@ -761,10 +869,12 @@ source: https://zan.gov.kz/client/#!/doc/43394/kaz/29.04.2009
 <td>0</td>
 <td>0</td>
 <td>0</td>
+<td>4250</td>
 </tr>
 <tr>
 <td>36</td>
-<td>7885</td>
+<td>8485</td>
+<td>600</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
@@ -772,10 +882,12 @@ source: https://zan.gov.kz/client/#!/doc/43394/kaz/29.04.2009
 <td>0</td>
 <td>0</td>
 <td>0</td>
+<td>4250</td>
 </tr>
 <tr>
 <td>37</td>
-<td>7885</td>
+<td>8485</td>
+<td>600</td>
 <td></td>
 <td></td>
 <td></td>
@@ -783,17 +895,20 @@ source: https://zan.gov.kz/client/#!/doc/43394/kaz/29.04.2009
 <td></td>
 <td></td>
 <td></td>
+<td>4250</td>
 </tr>
 <tr>
 <td>38</td>
-<td>610265</td>
-<td>118880</td>
-<td>15264</td>
+<td>602655</td>
+<td>119370</td>
+<td>17014</td>
 <td>13508</td>
 <td>34166</td>
-<td>13170</td>
-<td>15436</td>
-<td>44551</td>
+<td>13120</td>
+<td>15736</td>
+<td>45951</td>
+<td>126203</td>
+<td>16608</td>
 </tr>
 </table>
 
@@ -801,13 +916,10 @@ source: https://zan.gov.kz/client/#!/doc/43394/kaz/29.04.2009
 
 <table>
 <tr>
-<td></td>
-<td colspan="8">Қала және ауылдық округ әкімдіктері</td>
+<td rowspan="2">N р/с</td>
+<td colspan="6">Қала және ауылдық округ әкімдіктері</td>
 </tr>
 <tr>
-<td>N р/с</td>
-<td>Қазығұрт</td>
-<td>Қасқасу</td>
 <td>Қоғалы</td>
 <td>Қаратөбе</td>
 <td>Бірінші - Мамыр</td>
@@ -817,63 +929,51 @@ source: https://zan.gov.kz/client/#!/doc/43394/kaz/29.04.2009
 </tr>
 <tr>
 <td>1</td>
-<td>8400</td>
-<td>5894</td>
 <td>6004</td>
 <td>5898</td>
 <td>8897</td>
 <td>6241</td>
 <td>8578</td>
-<td>7341</td>
+<td>7903</td>
 </tr>
 <tr>
 <td>2</td>
-<td>8400</td>
-<td>5894</td>
 <td>6004</td>
 <td>5898</td>
 <td>8897</td>
 <td>6241</td>
 <td>8578</td>
-<td>7341</td>
+<td>7903</td>
 </tr>
 <tr>
 <td>3</td>
-<td>8400</td>
-<td>5894</td>
 <td>6004</td>
 <td>5898</td>
 <td>8897</td>
 <td>6241</td>
 <td>8578</td>
-<td>7341</td>
+<td>7903</td>
 </tr>
 <tr>
 <td>4</td>
-<td>8400</td>
-<td>5894</td>
 <td>6004</td>
 <td>5898</td>
 <td>8897</td>
 <td>6241</td>
 <td>8578</td>
-<td>7341</td>
+<td>7903</td>
 </tr>
 <tr>
 <td>5</td>
-<td>39933</td>
-<td>0</td>
 <td>311</td>
 <td>1375</td>
 <td>0</td>
-<td>19232</td>
+<td>18962</td>
 <td>0</td>
 <td>967</td>
 </tr>
 <tr>
 <td>6</td>
-<td>10032</td>
-<td>0</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
@@ -883,8 +983,6 @@ source: https://zan.gov.kz/client/#!/doc/43394/kaz/29.04.2009
 </tr>
 <tr>
 <td>7</td>
-<td>10032</td>
-<td>0</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
@@ -894,8 +992,6 @@ source: https://zan.gov.kz/client/#!/doc/43394/kaz/29.04.2009
 </tr>
 <tr>
 <td>8</td>
-<td>10032</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -905,8 +1001,6 @@ source: https://zan.gov.kz/client/#!/doc/43394/kaz/29.04.2009
 </tr>
 <tr>
 <td>9</td>
-<td>2964</td>
-<td>0</td>
 <td>311</td>
 <td>1375</td>
 <td>0</td>
@@ -916,8 +1010,6 @@ source: https://zan.gov.kz/client/#!/doc/43394/kaz/29.04.2009
 </tr>
 <tr>
 <td>10</td>
-<td>2964</td>
-<td>0</td>
 <td>311</td>
 <td>1375</td>
 <td>0</td>
@@ -927,8 +1019,6 @@ source: https://zan.gov.kz/client/#!/doc/43394/kaz/29.04.2009
 </tr>
 <tr>
 <td>11</td>
-<td>2964</td>
-<td></td>
 <td>311</td>
 <td>1375</td>
 <td></td>
@@ -938,41 +1028,33 @@ source: https://zan.gov.kz/client/#!/doc/43394/kaz/29.04.2009
 </tr>
 <tr>
 <td>12</td>
-<td>26937</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
-<td>0</td>
-<td>12545</td>
+<td>12275</td>
 <td>0</td>
 <td>0</td>
 </tr>
 <tr>
 <td>13</td>
-<td>26937</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
-<td>0</td>
-<td>12545</td>
+<td>12275</td>
 <td>0</td>
 <td>0</td>
 </tr>
 <tr>
 <td>14</td>
-<td>26937</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td>12545</td>
+<td>12275</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>15</td>
-<td>376</td>
-<td>363</td>
 <td>0</td>
 <td>0</td>
 <td>356</td>
@@ -982,8 +1064,6 @@ source: https://zan.gov.kz/client/#!/doc/43394/kaz/29.04.2009
 </tr>
 <tr>
 <td>16</td>
-<td>376</td>
-<td>363</td>
 <td>0</td>
 <td>0</td>
 <td>356</td>
@@ -993,8 +1073,6 @@ source: https://zan.gov.kz/client/#!/doc/43394/kaz/29.04.2009
 </tr>
 <tr>
 <td>17</td>
-<td>376</td>
-<td>363</td>
 <td>0</td>
 <td>0</td>
 <td>356</td>
@@ -1004,8 +1082,6 @@ source: https://zan.gov.kz/client/#!/doc/43394/kaz/29.04.2009
 </tr>
 <tr>
 <td>18</td>
-<td>376</td>
-<td>363</td>
 <td></td>
 <td></td>
 <td>356</td>
@@ -1015,30 +1091,24 @@ source: https://zan.gov.kz/client/#!/doc/43394/kaz/29.04.2009
 </tr>
 <tr>
 <td>19</td>
-<td>83171</td>
-<td>5856</td>
 <td>7510</td>
-<td>21501</td>
+<td>21471</td>
 <td>17072</td>
 <td>4198</td>
-<td>61250</td>
-<td>25683</td>
+<td>54950</td>
+<td>25653</td>
 </tr>
 <tr>
 <td>20</td>
-<td>80700</td>
-<td>5606</td>
 <td>7260</td>
-<td>21251</td>
+<td>21221</td>
 <td>16752</td>
 <td>3948</td>
-<td>61000</td>
-<td>25433</td>
+<td>54700</td>
+<td>25403</td>
 </tr>
 <tr>
 <td>21</td>
-<td>2500</td>
-<td>5606</td>
 <td>7260</td>
 <td>13751</td>
 <td>16752</td>
@@ -1048,8 +1118,6 @@ source: https://zan.gov.kz/client/#!/doc/43394/kaz/29.04.2009
 </tr>
 <tr>
 <td>22</td>
-<td>2500</td>
-<td>5606</td>
 <td>7260</td>
 <td>13751</td>
 <td>16752</td>
@@ -1059,30 +1127,24 @@ source: https://zan.gov.kz/client/#!/doc/43394/kaz/29.04.2009
 </tr>
 <tr>
 <td>23</td>
-<td>78200</td>
+<td>0</td>
+<td>7470</td>
 <td>0</td>
 <td>0</td>
-<td>7500</td>
-<td>0</td>
-<td>0</td>
-<td>61000</td>
-<td>3600</td>
+<td>54700</td>
+<td>3570</td>
 </tr>
 <tr>
 <td>24</td>
-<td>78200</td>
+<td></td>
+<td>7470</td>
 <td></td>
 <td></td>
-<td>7500</td>
-<td></td>
-<td></td>
-<td>61000</td>
-<td>3600</td>
+<td>54700</td>
+<td>3570</td>
 </tr>
 <tr>
 <td>25</td>
-<td>2471</td>
-<td>250</td>
 <td>250</td>
 <td>250</td>
 <td>320</td>
@@ -1092,8 +1154,6 @@ source: https://zan.gov.kz/client/#!/doc/43394/kaz/29.04.2009
 </tr>
 <tr>
 <td>26</td>
-<td>1569</td>
-<td>0</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
@@ -1103,8 +1163,6 @@ source: https://zan.gov.kz/client/#!/doc/43394/kaz/29.04.2009
 </tr>
 <tr>
 <td>27</td>
-<td>1569</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1116,8 +1174,6 @@ source: https://zan.gov.kz/client/#!/doc/43394/kaz/29.04.2009
 <td>28</td>
 <td>100</td>
 <td>100</td>
-<td>100</td>
-<td>100</td>
 <td>120</td>
 <td>100</td>
 <td>100</td>
@@ -1125,8 +1181,6 @@ source: https://zan.gov.kz/client/#!/doc/43394/kaz/29.04.2009
 </tr>
 <tr>
 <td>29</td>
-<td>100</td>
-<td>100</td>
 <td>100</td>
 <td>100</td>
 <td>120</td>
@@ -1142,8 +1196,6 @@ source: https://zan.gov.kz/client/#!/doc/43394/kaz/29.04.2009
 <td>0</td>
 <td>0</td>
 <td>0</td>
-<td>0</td>
-<td>0</td>
 </tr>
 <tr>
 <td>31</td>
@@ -1153,13 +1205,9 @@ source: https://zan.gov.kz/client/#!/doc/43394/kaz/29.04.2009
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td>32</td>
-<td>802</td>
-<td>150</td>
 <td>150</td>
 <td>150</td>
 <td>200</td>
@@ -1169,8 +1217,6 @@ source: https://zan.gov.kz/client/#!/doc/43394/kaz/29.04.2009
 </tr>
 <tr>
 <td>33</td>
-<td>802</td>
-<td>150</td>
 <td>150</td>
 <td>150</td>
 <td>200</td>
@@ -1181,8 +1227,6 @@ source: https://zan.gov.kz/client/#!/doc/43394/kaz/29.04.2009
 <tr>
 <td>34</td>
 <td>0</td>
-<td>4250</td>
-<td>0</td>
 <td>500</td>
 <td>500</td>
 <td>0</td>
@@ -1191,8 +1235,6 @@ source: https://zan.gov.kz/client/#!/doc/43394/kaz/29.04.2009
 </tr>
 <tr>
 <td>35</td>
-<td>0</td>
-<td>4250</td>
 <td>0</td>
 <td>500</td>
 <td>500</td>
@@ -1203,8 +1245,6 @@ source: https://zan.gov.kz/client/#!/doc/43394/kaz/29.04.2009
 <tr>
 <td>36</td>
 <td>0</td>
-<td>4250</td>
-<td>0</td>
 <td>500</td>
 <td>500</td>
 <td>0</td>
@@ -1214,8 +1254,6 @@ source: https://zan.gov.kz/client/#!/doc/43394/kaz/29.04.2009
 <tr>
 <td>37</td>
 <td></td>
-<td>4250</td>
-<td></td>
 <td>500</td>
 <td>500</td>
 <td></td>
@@ -1224,14 +1262,12 @@ source: https://zan.gov.kz/client/#!/doc/43394/kaz/29.04.2009
 </tr>
 <tr>
 <td>38</td>
-<td>131880</td>
-<td>16363</td>
 <td>13825</td>
-<td>29274</td>
+<td>29244</td>
 <td>26825</td>
-<td>30003</td>
-<td>72753</td>
-<td>34367</td>
+<td>29733</td>
+<td>66453</td>
+<td>34899</td>
 </tr>
 </table>
 
@@ -1242,32 +1278,30 @@ source: https://zan.gov.kz/client/#!/doc/43394/kaz/29.04.2009
 
 ## 2009 жылға арналған аудандық бюджеттің бюджеттік даму бағдарламаларының тізбесі
 
-> *Ескерту. 6-Қосымша жаңа редакцияда - Оңтүстік Қазақстан облысы Төлеби аудандық мәслихатының 2009.04.29 N 15/113-IV (2009 жылғы 1 қаңтардан бастап қолданысқа енгiзiледi) Шешімімен.*
+> *Ескерту. 6-Қосымша жаңа редакцияда - Оңтүстік Қазақстан облысы Төлеби аудандық мәслихатының 2009.07.13 N 17/127-IV (2009 жылғы 1 қаңтардан бастап қолданысқа енгiзiледi) Шешімімен.*
 
 <table>
 <tr>
-<td colspan="5">Функционалдық топ</td>
-<td>мың теңге</td>
+<td colspan="6">Функционалдық топ</td>
+<td rowspan="4">мың теңге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="4">Кіші функция</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td colspan="3">Бюджеттік бағдарламалардың әкiмшiсi</td>
-<td></td>
+<td colspan="5">Кіші функция</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td></td>
-<td colspan="2">Бағдарлама</td>
-<td></td>
+<td colspan="4">Бюджеттік бағдарламалардың әкiмшiсi</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Бағдарлама</td>
+</tr>
+<tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1281,101 +1315,78 @@ source: https://zan.gov.kz/client/#!/doc/43394/kaz/29.04.2009
 <td></td>
 <td></td>
 <td></td>
-<td>1 886 038</td>
+<td></td>
+<td>1 747 773</td>
 </tr>
 <tr>
 <td>4</td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Бiлiм беру</td>
-<td>1530323</td>
+<td>1399166</td>
 </tr>
 <tr>
 <td></td>
 <td>9</td>
 <td></td>
 <td></td>
+<td></td>
 <td>Бiлiм беру саласындағы өзге де қызметтер</td>
-<td>1530323</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>464</td>
-<td></td>
-<td>Ауданның (облыстық маңызы бар қаланың) білім беру бөлімі</td>
-<td>75264</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>011</td>
-<td>Өңірлік жұмыспен қамту және кадрларды қайта даярлау стратегиясын іске асыру шеңберінде білім беру объектілерін күрделі, ағымдағы жөндеу</td>
-<td>75264</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>123</td>
-<td></td>
-<td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл (село), ауылдық (селолық) округ әкімінің аппараты</td>
-<td>39482</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>018</td>
-<td>Өңірлік жұмыспен қамту және кадрларды қайта даярлау стратегиясын іске асыру шеңберінде білім беру объектілерін күрделі, ағымдағы жөндеу</td>
-<td>39482</td>
+<td>1399166</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>467</td>
 <td></td>
+<td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) құрылыс бөлімі</td>
-<td>1415577</td>
+<td>1399166</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>037</td>
+<td></td>
 <td>Білім беру объектілерін салу және реконструкциялау</td>
-<td>1415577</td>
+<td>1399166</td>
 </tr>
 <tr>
 <td>07</td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>274140</td>
+<td>271332</td>
 </tr>
 <tr>
 <td></td>
 <td>1</td>
 <td></td>
 <td></td>
+<td></td>
 <td>Тұрғын үй шаруашылығы</td>
-<td>274140</td>
+<td>271332</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>467</td>
 <td></td>
+<td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) құрылыс бөлімі</td>
-<td>274140</td>
+<td>271332</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>003</td>
+<td></td>
 <td>Тұрғын үй салу</td>
 <td></td>
 </tr>
@@ -1383,15 +1394,17 @@ source: https://zan.gov.kz/client/#!/doc/43394/kaz/29.04.2009
 <td></td>
 <td></td>
 <td></td>
-<td>005</td>
-<td>Коммуналдық шаруашылық объектілерін дамыту</td>
-<td>62389</td>
+<td>031</td>
+<td></td>
+<td>Өңірлік жұмыспен қамту және кадрларды қайта даярлау стратегиясын іске асыру шеңберінде инженерлік коммуникациялық инфрақұрылымды дамыту</td>
+<td>59581</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>006</td>
+<td></td>
 <td>Сумен жабдықтау жүйесін дамыту</td>
 <td>211751</td>
 </tr>
@@ -1400,37 +1413,24 @@ source: https://zan.gov.kz/client/#!/doc/43394/kaz/29.04.2009
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Отын-энергетика кешенi және жер қойнауын пайдалану</td>
-<td>70 575</td>
+<td>66 275</td>
 </tr>
 <tr>
 <td></td>
 <td>09</td>
 <td></td>
 <td></td>
+<td></td>
 <td>Отын-энергетика кешені және жер қойнауын пайдалану саласындағы өзге де қызметтер</td>
-<td>70 575</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>458</td>
-<td></td>
-<td>Ауданның (облыстық маңызы бар қаланың) тұрғын үй-коммуналдық шаруашылығы, жолаушылар көлігі және автомобиль жолдары бөлімі</td>
-<td>4 300</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>019</td>
-<td>Жылу-энергетикалық жүйені дамыту</td>
-<td>4 300</td>
+<td>66 275</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>467</td>
+<td></td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) құрылыс бөлімі</td>
 <td>66 275</td>
@@ -1440,11 +1440,13 @@ source: https://zan.gov.kz/client/#!/doc/43394/kaz/29.04.2009
 <td></td>
 <td></td>
 <td>009</td>
+<td></td>
 <td>Жылу-энергетикалық жүйені дамыту</td>
 <td>66 275</td>
 </tr>
 <tr>
 <td>12</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1456,6 +1458,7 @@ source: https://zan.gov.kz/client/#!/doc/43394/kaz/29.04.2009
 <td>1</td>
 <td></td>
 <td></td>
+<td></td>
 <td>Автомобиль көлiгi</td>
 <td>11 000</td>
 </tr>
@@ -1463,6 +1466,7 @@ source: https://zan.gov.kz/client/#!/doc/43394/kaz/29.04.2009
 <td></td>
 <td></td>
 <td>458</td>
+<td></td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) тұрғын үй-коммуналдық шаруашылығы, жолаушылар көлігі және автомобиль жолдары бөлімі</td>
 <td>11 000</td>
@@ -1472,6 +1476,7 @@ source: https://zan.gov.kz/client/#!/doc/43394/kaz/29.04.2009
 <td></td>
 <td></td>
 <td>022</td>
+<td></td>
 <td>Көлік инфрақұрылымын дамыту</td>
 <td>11 000</td>
 </tr>
