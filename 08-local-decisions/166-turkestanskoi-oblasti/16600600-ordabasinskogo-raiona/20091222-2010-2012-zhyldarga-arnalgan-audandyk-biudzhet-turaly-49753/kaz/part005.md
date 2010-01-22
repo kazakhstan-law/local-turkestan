@@ -1,140 +1,18 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
+source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.01.2010
 ---
 
-## Бюджеттік инвестициялық жобаларды (бағдарламаларды) іске асыруға және заңды тұлғалардың жарғылық қорын қалыптастыруға бағытталған, бюджеттік бағдарламалар бөлінісінде 2010 жылға арналған аудандық бюджеттік даму бағдарламаларының тізбесі
-
-<table>
-<tr>
-<td colspan="5">Функционалдық топ</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="4">Кіші функция</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td colspan="3">Бюджеттік бағдарламалардың әкiмшiсi</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2">Бағдарлама</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Атауы</td>
-</tr>
-<tr>
-<td colspan="4">1</td>
-<td>2</td>
-</tr>
-<tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>ІІ. ШЫҒЫНДАР</th>
-</tr>
-<tr>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td>Бiлiм беру</td>
-</tr>
-<tr>
-<td></td>
-<td>9</td>
-<td></td>
-<td></td>
-<td>Бiлiм беру саласындағы өзге де қызметтер</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>467</td>
-<td></td>
-<td>Ауданның (облыстық маңызы бар қаланың) құрылыс бөлімі</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>037</td>
-<td>Білім беру объектілерін салу және реконструкциялау</td>
-</tr>
-<tr>
-<td>07</td>
-<td></td>
-<td></td>
-<td></td>
-<td>Тұрғын үй-коммуналдық шаруашылық</td>
-</tr>
-<tr>
-<td></td>
-<td>1</td>
-<td></td>
-<td></td>
-<td>Тұрғын үй шаруашылығы</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>467</td>
-<td></td>
-<td>Ауданның (облыстық маңызы бар қаланың) құрылыс бөлімі</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>004</td>
-<td>Инженерлік коммуникациялық инфрақұрылымды дамыту және жайластыру және (немесе) сатып алуға кредит беру</td>
-</tr>
-<tr>
-<td></td>
-<td>2</td>
-<td></td>
-<td></td>
-<td>Коммуналдық шаруашылық</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>467</td>
-<td></td>
-<td>Ауданның (облыстық маңызы бар қаланың) құрылыс бөлімі</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>006</td>
-<td>Сумен жабдықтау жүйесін дамыту</td>
-</tr>
-</table>
-
-> *"2010 – 2012 жылдарға арналған*  
-> *аудандық бюджет туралы" Ордабасы*  
-> *аудандық мәслихатының 2009 жылғы*  
-> *22 желтоқсандағы № 24/3 шешіміне*  
-> *5-қосымша*
-
 ## 2010 жылға арналған аудандық бюджеттен қаржыландырылатын әрбір ауылдық округтің бюджеттік бағдарламалардың тізбесі
+
+> *Ескерту. 5-Қосымша жаңа редакцияда - Оңтүстік Қазақстан облысы Ордабасы аудандық мәслихатының 2010.01.22 N 26/1 (2010 жылдың 1 қаңтарынан бастап қолданысқа енгізіледі) Шешімімен.*
 
 <table>
 <tr>
 <td></td>
 <td colspan="5">Функционалдық топ</td>
 <td rowspan="5">
-жалпы сомасы,
+Жалпы сомасы,
 мың теңге
 </td>
 </tr>
@@ -164,70 +42,70 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>Атауы</td>
 </tr>
 <tr>
-<td>1</td>
+<td>1.</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td>ІІ. ШЫҒЫНДАР</td>
-<td>286497</td>
+<td>313051</td>
 </tr>
 <tr>
-<td>2</td>
+<td>2.</td>
 <td>01</td>
 <td></td>
 <td></td>
 <td></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>82393</td>
+<td>90847</td>
 </tr>
 <tr>
-<td>3</td>
+<td>3.</td>
 <td></td>
 <td>1</td>
 <td></td>
 <td></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>82393</td>
+<td>90847</td>
 </tr>
 <tr>
-<td>4</td>
+<td>4.</td>
 <td></td>
 <td></td>
 <td>123</td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл (село), ауылдық (селолық) округ әкімінің аппараты</td>
-<td>82393</td>
+<td>90847</td>
 </tr>
 <tr>
-<td>5</td>
+<td>5.</td>
 <td></td>
 <td></td>
 <td></td>
 <td>001</td>
 <td>Қаладағы аудан, аудандық маңызы бар қаланың, кент, ауыл (село), ауылдық (селолық) округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>81593</td>
+<td>89097</td>
 </tr>
 <tr>
-<td>6</td>
+<td>6.</td>
 <td></td>
 <td></td>
 <td></td>
 <td>023</td>
 <td>Мемлекеттік органдарды материалдық-техникалық жарақтандыру</td>
-<td>800</td>
+<td>1750</td>
 </tr>
 <tr>
-<td>7</td>
+<td>7.</td>
 <td>04</td>
 <td></td>
 <td></td>
 <td></td>
 <td>Бiлiм беру</td>
-<td>173606</td>
+<td>191706</td>
 </tr>
 <tr>
-<td>8</td>
+<td>8.</td>
 <td></td>
 <td>1</td>
 <td></td>
@@ -236,7 +114,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>166423</td>
 </tr>
 <tr>
-<td>9</td>
+<td>9.</td>
 <td></td>
 <td></td>
 <td>123</td>
@@ -245,7 +123,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>166423</td>
 </tr>
 <tr>
-<td>10</td>
+<td>10.</td>
 <td></td>
 <td></td>
 <td></td>
@@ -254,7 +132,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>166423</td>
 </tr>
 <tr>
-<td>11</td>
+<td>11.</td>
 <td></td>
 <td>2</td>
 <td></td>
@@ -263,7 +141,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>7183</td>
 </tr>
 <tr>
-<td>12</td>
+<td>12.</td>
 <td></td>
 <td></td>
 <td>123</td>
@@ -272,7 +150,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>7183</td>
 </tr>
 <tr>
-<td>13</td>
+<td>13.</td>
 <td></td>
 <td></td>
 <td></td>
@@ -281,7 +159,34 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>7183</td>
 </tr>
 <tr>
-<td>14</td>
+<td>14.</td>
+<td></td>
+<td>9</td>
+<td></td>
+<td></td>
+<td>Бiлiм беру саласындағы өзге де қызметтер</td>
+<td>18100</td>
+</tr>
+<tr>
+<td>15.</td>
+<td></td>
+<td></td>
+<td>123</td>
+<td></td>
+<td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл (село), ауылдық (селолық) округ әкімінің аппараты</td>
+<td>18100</td>
+</tr>
+<tr>
+<td>16.</td>
+<td></td>
+<td></td>
+<td></td>
+<td>018</td>
+<td>Өңірлік жұмыспен қамту және кадрларды қайта даярлау стратегиясын іске асыру шеңберінде білім беру объектілерін күрделі, ағымды жөндеу</td>
+<td>18100</td>
+</tr>
+<tr>
+<td>17.</td>
 <td>05</td>
 <td></td>
 <td></td>
@@ -290,7 +195,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>182</td>
 </tr>
 <tr>
-<td>15</td>
+<td>18.</td>
 <td></td>
 <td>9</td>
 <td></td>
@@ -299,16 +204,16 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>182</td>
 </tr>
 <tr>
-<td>16</td>
+<td>19.</td>
 <td></td>
 <td></td>
 <td>123</td>
 <td></td>
-<td>Қаладағы аудан аудандық маңызы бар қала, кент, ауыл (село), ауылдық (селолық) округ әкімі аппараты</td>
+<td>Қаладағы аудан аудандық маңызы бар қала, кент, аул (село), ауылдық (селолық) округ әкімі аппараты</td>
 <td>182</td>
 </tr>
 <tr>
-<td>17</td>
+<td>20.</td>
 <td></td>
 <td></td>
 <td></td>
@@ -317,7 +222,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>182</td>
 </tr>
 <tr>
-<td>18</td>
+<td>21.</td>
 <td>07</td>
 <td></td>
 <td></td>
@@ -326,34 +231,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>10316</td>
 </tr>
 <tr>
-<td>19</td>
-<td></td>
-<td>2</td>
-<td></td>
-<td></td>
-<td>Коммуналдық шаруашылық</td>
-<td>0</td>
-</tr>
-<tr>
-<td>20</td>
-<td></td>
-<td></td>
-<td>123</td>
-<td></td>
-<td>Қаладағы аудан аудандық маңызы бар қала, кент, ауыл (село), ауылдық (селолық) округ әкімі аппараты</td>
-<td>0</td>
-</tr>
-<tr>
-<td>21</td>
-<td></td>
-<td></td>
-<td></td>
-<td>014</td>
-<td>Елді мекендердің сумен жабдықтауды ұйымдастыру</td>
-<td>0</td>
-</tr>
-<tr>
-<td>22</td>
+<td>22.</td>
 <td></td>
 <td>3</td>
 <td></td>
@@ -362,7 +240,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>10316</td>
 </tr>
 <tr>
-<td>23</td>
+<td>23.</td>
 <td></td>
 <td></td>
 <td>123</td>
@@ -371,7 +249,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>10316</td>
 </tr>
 <tr>
-<td>24</td>
+<td>24.</td>
 <td></td>
 <td></td>
 <td></td>
@@ -380,7 +258,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>5900</td>
 </tr>
 <tr>
-<td>25</td>
+<td>25.</td>
 <td></td>
 <td></td>
 <td></td>
@@ -389,7 +267,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>3091</td>
 </tr>
 <tr>
-<td>26</td>
+<td>26.</td>
 <td></td>
 <td></td>
 <td></td>
@@ -398,7 +276,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>1325</td>
 </tr>
 <tr>
-<td>27</td>
+<td>27.</td>
 <td>12</td>
 <td></td>
 <td></td>
@@ -407,7 +285,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>20000</td>
 </tr>
 <tr>
-<td>28</td>
+<td>28.</td>
 <td></td>
 <td>1</td>
 <td></td>
@@ -416,7 +294,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>20000</td>
 </tr>
 <tr>
-<td>29</td>
+<td>29.</td>
 <td></td>
 <td></td>
 <td>123</td>
@@ -425,7 +303,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>20000</td>
 </tr>
 <tr>
-<td>30</td>
+<td>30.</td>
 <td></td>
 <td></td>
 <td></td>
@@ -439,8 +317,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 
 <table>
 <tr>
-<td></td>
-<td colspan="10">ауылдық округтердің тізбесі</td>
+<td colspan="11">ауылдық округтердің тізбесі</td>
 </tr>
 <tr>
 <td>Р/с</td>
@@ -451,90 +328,103 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>Қарақұм</td>
 <td>Қараспан</td>
 <td>Қажымұқан</td>
-<td>Төрткөл</td>
+<td>Төрткол</td>
 <td>Шұбар</td>
 <td>Шұбарсу</td>
 </tr>
 <tr>
-<td>1</td>
-<td>29075</td>
-<td>19000</td>
-<td>18587</td>
-<td>15803</td>
-<td>20260</td>
-<td>25111</td>
-<td>90168</td>
-<td>30023</td>
-<td>21436</td>
-<td>9851</td>
+<td>1.</td>
+<td>30253</td>
+<td>19845</td>
+<td>20844</td>
+<td>16648</td>
+<td>21105</td>
+<td>26813</td>
+<td>109639</td>
+<td>31966</td>
+<td>22442</td>
+<td>13496</td>
 </tr>
 <tr>
-<td>2</td>
-<td>9056</td>
-<td>6849</td>
-<td>8101</td>
-<td>6479</td>
-<td>6583</td>
-<td>9707</td>
-<td>10091</td>
-<td>9842</td>
-<td>7619</td>
-<td>8066</td>
+<td>2.</td>
+<td>9902</td>
+<td>7694</td>
+<td>8946</td>
+<td>7324</td>
+<td>7428</td>
+<td>10553</td>
+<td>10937</td>
+<td>10688</td>
+<td>8464</td>
+<td>8911</td>
 </tr>
 <tr>
-<td>3</td>
-<td>9056</td>
-<td>6849</td>
-<td>8101</td>
-<td>6479</td>
-<td>6583</td>
-<td>9707</td>
-<td>10091</td>
-<td>9842</td>
-<td>7619</td>
-<td>8066</td>
+<td>3.</td>
+<td>9902</td>
+<td>7694</td>
+<td>8946</td>
+<td>7324</td>
+<td>7428</td>
+<td>10553</td>
+<td>10937</td>
+<td>10688</td>
+<td>8464</td>
+<td>8911</td>
 </tr>
 <tr>
-<td>4</td>
-<td>9056</td>
-<td>6849</td>
-<td>8101</td>
-<td>6479</td>
-<td>6583</td>
-<td>9707</td>
-<td>10091</td>
-<td>9842</td>
-<td>7619</td>
-<td>8066</td>
+<td>4.</td>
+<td>9902</td>
+<td>7694</td>
+<td>8946</td>
+<td>7324</td>
+<td>7428</td>
+<td>10553</td>
+<td>10937</td>
+<td>10688</td>
+<td>8464</td>
+<td>8911</td>
 </tr>
 <tr>
-<td>5</td>
-<td>8976</td>
-<td>6769</td>
-<td>8021</td>
-<td>6399</td>
-<td>6503</td>
-<td>9627</td>
-<td>10011</td>
-<td>9762</td>
-<td>7539</td>
-<td>7986</td>
+<td>5.</td>
+<td>9727</td>
+<td>7519</td>
+<td>8771</td>
+<td>7149</td>
+<td>7253</td>
+<td>10378</td>
+<td>10762</td>
+<td>10513</td>
+<td>8289</td>
+<td>8736</td>
 </tr>
 <tr>
-<td>6</td>
-<td>80</td>
-<td>80</td>
-<td>80</td>
-<td>80</td>
-<td>80</td>
-<td>80</td>
-<td>80</td>
-<td>80</td>
-<td>80</td>
-<td>80</td>
+<td>6.</td>
+<td>175</td>
+<td>175</td>
+<td>175</td>
+<td>175</td>
+<td>175</td>
+<td>175</td>
+<td>175</td>
+<td>175</td>
+<td>175</td>
+<td>175</td>
 </tr>
 <tr>
-<td>7</td>
+<td>7.</td>
+<td>18512</td>
+<td>10480</td>
+<td>10222</td>
+<td>7653</td>
+<td>12006</td>
+<td>14421</td>
+<td>83922</td>
+<td>19439</td>
+<td>12251</td>
+<td>2800</td>
+</tr>
+<tr>
+<td>8.</td>
 <td>18180</td>
 <td>10480</td>
 <td>8810</td>
@@ -547,7 +437,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>0</td>
 </tr>
 <tr>
-<td>8</td>
+<td>9.</td>
 <td>18180</td>
 <td>10480</td>
 <td>8810</td>
@@ -560,20 +450,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>0</td>
 </tr>
 <tr>
-<td>9</td>
-<td>18180</td>
-<td>10480</td>
-<td>8810</td>
-<td>7653</td>
-<td>12006</td>
-<td>13565</td>
-<td>65297</td>
-<td>18342</td>
-<td>12090</td>
-<td>0</td>
-</tr>
-<tr>
-<td>10</td>
+<td>10.</td>
 <td>18180</td>
 <td>10480</td>
 <td>8810</td>
@@ -586,7 +463,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td></td>
 </tr>
 <tr>
-<td>11</td>
+<td>11.</td>
 <td>332</td>
 <td>0</td>
 <td>1412</td>
@@ -599,7 +476,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>2800</td>
 </tr>
 <tr>
-<td>12</td>
+<td>12.</td>
 <td>332</td>
 <td>0</td>
 <td>1412</td>
@@ -612,7 +489,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>2800</td>
 </tr>
 <tr>
-<td>13</td>
+<td>13.</td>
 <td>332</td>
 <td></td>
 <td>1412</td>
@@ -625,7 +502,46 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>2800</td>
 </tr>
 <tr>
-<td>14</td>
+<td>14.</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>18100</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>15.</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>18100</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>16.</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>18100</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>17.</td>
 <td>29</td>
 <td>11</td>
 <td>16</td>
@@ -638,7 +554,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>0</td>
 </tr>
 <tr>
-<td>15</td>
+<td>18.</td>
 <td>29</td>
 <td>11</td>
 <td>16</td>
@@ -651,7 +567,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>0</td>
 </tr>
 <tr>
-<td>16</td>
+<td>19.</td>
 <td>29</td>
 <td>11</td>
 <td>16</td>
@@ -664,7 +580,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>0</td>
 </tr>
 <tr>
-<td>17</td>
+<td>20.</td>
 <td>29</td>
 <td>11</td>
 <td>16</td>
@@ -677,7 +593,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td></td>
 </tr>
 <tr>
-<td>18</td>
+<td>21.</td>
 <td>450</td>
 <td>300</td>
 <td>300</td>
@@ -690,46 +606,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>425</td>
 </tr>
 <tr>
-<td>19</td>
-<td></td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-</tr>
-<tr>
-<td>20</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-</tr>
-<tr>
-<td>21</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-</tr>
-<tr>
-<td>22</td>
+<td>22.</td>
 <td>450</td>
 <td>300</td>
 <td>300</td>
@@ -742,7 +619,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>425</td>
 </tr>
 <tr>
-<td>23</td>
+<td>23.</td>
 <td>450</td>
 <td>300</td>
 <td>300</td>
@@ -755,7 +632,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>425</td>
 </tr>
 <tr>
-<td>24</td>
+<td>24.</td>
 <td>100</td>
 <td>100</td>
 <td>100</td>
@@ -768,7 +645,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>100</td>
 </tr>
 <tr>
-<td>25</td>
+<td>25.</td>
 <td>200</td>
 <td>100</td>
 <td>100</td>
@@ -781,7 +658,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>200</td>
 </tr>
 <tr>
-<td>26</td>
+<td>26.</td>
 <td>150</td>
 <td>100</td>
 <td>100</td>
@@ -794,7 +671,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>125</td>
 </tr>
 <tr>
-<td>27</td>
+<td>27.</td>
 <td>1360</td>
 <td>1360</td>
 <td>1360</td>
@@ -807,7 +684,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>1360</td>
 </tr>
 <tr>
-<td>28</td>
+<td>28.</td>
 <td>1360</td>
 <td>1360</td>
 <td>1360</td>
@@ -820,7 +697,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>1360</td>
 </tr>
 <tr>
-<td>29</td>
+<td>29.</td>
 <td>1360</td>
 <td>1360</td>
 <td>1360</td>
@@ -833,7 +710,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>1360</td>
 </tr>
 <tr>
-<td>30</td>
+<td>30.</td>
 <td>1360</td>
 <td>1360</td>
 <td>1360</td>
@@ -890,7 +767,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>Атауы</td>
 </tr>
 <tr>
-<td>1</td>
+<td>1.</td>
 <td></td>
 <td></td>
 <td></td>
@@ -899,7 +776,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>367432</td>
 </tr>
 <tr>
-<td>2</td>
+<td>2.</td>
 <td>01</td>
 <td></td>
 <td></td>
@@ -908,7 +785,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>103987</td>
 </tr>
 <tr>
-<td>3</td>
+<td>3.</td>
 <td></td>
 <td>1</td>
 <td></td>
@@ -917,7 +794,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>103987</td>
 </tr>
 <tr>
-<td>4</td>
+<td>4.</td>
 <td></td>
 <td></td>
 <td>123</td>
@@ -926,7 +803,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>103987</td>
 </tr>
 <tr>
-<td>5</td>
+<td>5.</td>
 <td></td>
 <td></td>
 <td></td>
@@ -935,7 +812,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>103987</td>
 </tr>
 <tr>
-<td>6</td>
+<td>6.</td>
 <td></td>
 <td></td>
 <td></td>
@@ -944,7 +821,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>0</td>
 </tr>
 <tr>
-<td>7</td>
+<td>7.</td>
 <td>04</td>
 <td></td>
 <td></td>
@@ -953,7 +830,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>227196</td>
 </tr>
 <tr>
-<td>8</td>
+<td>8.</td>
 <td></td>
 <td>1</td>
 <td></td>
@@ -962,7 +839,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>219357</td>
 </tr>
 <tr>
-<td>9</td>
+<td>9.</td>
 <td></td>
 <td></td>
 <td>123</td>
@@ -971,7 +848,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>219357</td>
 </tr>
 <tr>
-<td>10</td>
+<td>10.</td>
 <td></td>
 <td></td>
 <td></td>
@@ -980,7 +857,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>219357</td>
 </tr>
 <tr>
-<td>11</td>
+<td>11.</td>
 <td></td>
 <td>2</td>
 <td></td>
@@ -989,7 +866,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>7839</td>
 </tr>
 <tr>
-<td>12</td>
+<td>12.</td>
 <td></td>
 <td></td>
 <td>123</td>
@@ -998,7 +875,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>7839</td>
 </tr>
 <tr>
-<td>13</td>
+<td>13.</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1007,7 +884,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>7839</td>
 </tr>
 <tr>
-<td>14</td>
+<td>14.</td>
 <td>05</td>
 <td></td>
 <td></td>
@@ -1016,7 +893,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>195</td>
 </tr>
 <tr>
-<td>15</td>
+<td>15.</td>
 <td></td>
 <td>9</td>
 <td></td>
@@ -1025,7 +902,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>195</td>
 </tr>
 <tr>
-<td>16</td>
+<td>16.</td>
 <td></td>
 <td></td>
 <td>123</td>
@@ -1034,7 +911,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>195</td>
 </tr>
 <tr>
-<td>17</td>
+<td>17.</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1043,7 +920,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>195</td>
 </tr>
 <tr>
-<td>18</td>
+<td>18.</td>
 <td>07</td>
 <td></td>
 <td></td>
@@ -1052,7 +929,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>11512</td>
 </tr>
 <tr>
-<td>19</td>
+<td>19.</td>
 <td></td>
 <td>2</td>
 <td></td>
@@ -1061,7 +938,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>0</td>
 </tr>
 <tr>
-<td>20</td>
+<td>20.</td>
 <td></td>
 <td></td>
 <td>123</td>
@@ -1070,7 +947,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>0</td>
 </tr>
 <tr>
-<td>21</td>
+<td>21.</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1079,7 +956,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>0</td>
 </tr>
 <tr>
-<td>22</td>
+<td>22.</td>
 <td></td>
 <td>3</td>
 <td></td>
@@ -1088,7 +965,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>11512</td>
 </tr>
 <tr>
-<td>23</td>
+<td>23.</td>
 <td></td>
 <td></td>
 <td>123</td>
@@ -1097,7 +974,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>11512</td>
 </tr>
 <tr>
-<td>24</td>
+<td>24.</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1106,7 +983,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>6350</td>
 </tr>
 <tr>
-<td>25</td>
+<td>25.</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1115,7 +992,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>3312</td>
 </tr>
 <tr>
-<td>26</td>
+<td>26.</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1124,7 +1001,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>1850</td>
 </tr>
 <tr>
-<td>27</td>
+<td>27.</td>
 <td>12</td>
 <td></td>
 <td></td>
@@ -1133,7 +1010,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>24542</td>
 </tr>
 <tr>
-<td>28</td>
+<td>28.</td>
 <td></td>
 <td>1</td>
 <td></td>
@@ -1142,7 +1019,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>24542</td>
 </tr>
 <tr>
-<td>29</td>
+<td>29.</td>
 <td></td>
 <td></td>
 <td>123</td>
@@ -1151,7 +1028,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>24542</td>
 </tr>
 <tr>
-<td>30</td>
+<td>30.</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1178,7 +1055,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>Шұбарсу</td>
 </tr>
 <tr>
-<td>1</td>
+<td>1.</td>
 <td>36691</td>
 <td>23775</td>
 <td>23197</td>
@@ -1191,7 +1068,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>12487</td>
 </tr>
 <tr>
-<td>2</td>
+<td>2.</td>
 <td>11512</td>
 <td>8446</td>
 <td>10101</td>
@@ -1204,7 +1081,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>10172</td>
 </tr>
 <tr>
-<td>3</td>
+<td>3.</td>
 <td>11512</td>
 <td>8446</td>
 <td>10101</td>
@@ -1217,7 +1094,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>10172</td>
 </tr>
 <tr>
-<td>4</td>
+<td>4.</td>
 <td>11512</td>
 <td>8446</td>
 <td>10101</td>
@@ -1230,7 +1107,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>10172</td>
 </tr>
 <tr>
-<td>5</td>
+<td>5.</td>
 <td>11512</td>
 <td>8446</td>
 <td>10101</td>
@@ -1243,7 +1120,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>10172</td>
 </tr>
 <tr>
-<td>6</td>
+<td>6.</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
@@ -1256,7 +1133,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>0</td>
 </tr>
 <tr>
-<td>7</td>
+<td>7.</td>
 <td>22783</td>
 <td>13109</td>
 <td>10871</td>
@@ -1269,7 +1146,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>0</td>
 </tr>
 <tr>
-<td>8</td>
+<td>8.</td>
 <td>22783</td>
 <td>13109</td>
 <td>10871</td>
@@ -1282,7 +1159,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>0</td>
 </tr>
 <tr>
-<td>9</td>
+<td>9.</td>
 <td>22783</td>
 <td>13109</td>
 <td>10871</td>
@@ -1295,7 +1172,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>0</td>
 </tr>
 <tr>
-<td>10</td>
+<td>10.</td>
 <td>22783</td>
 <td>13109</td>
 <td>10871</td>
@@ -1308,7 +1185,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td></td>
 </tr>
 <tr>
-<td>11</td>
+<td>11.</td>
 <td>357</td>
 <td>0</td>
 <td>1518</td>
@@ -1321,7 +1198,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>3000</td>
 </tr>
 <tr>
-<td>12</td>
+<td>12.</td>
 <td>357</td>
 <td>0</td>
 <td>1518</td>
@@ -1334,7 +1211,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>3000</td>
 </tr>
 <tr>
-<td>13</td>
+<td>13.</td>
 <td>357</td>
 <td></td>
 <td>1518</td>
@@ -1347,7 +1224,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>3000</td>
 </tr>
 <tr>
-<td>14</td>
+<td>14.</td>
 <td>31</td>
 <td>12</td>
 <td>17</td>
@@ -1360,7 +1237,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>0</td>
 </tr>
 <tr>
-<td>15</td>
+<td>15.</td>
 <td>31</td>
 <td>12</td>
 <td>17</td>
@@ -1373,7 +1250,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>0</td>
 </tr>
 <tr>
-<td>16</td>
+<td>16.</td>
 <td>31</td>
 <td>12</td>
 <td>17</td>
@@ -1386,7 +1263,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>0</td>
 </tr>
 <tr>
-<td>17</td>
+<td>17.</td>
 <td>31</td>
 <td>12</td>
 <td>17</td>
@@ -1399,7 +1276,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td></td>
 </tr>
 <tr>
-<td>18</td>
+<td>18.</td>
 <td>565</td>
 <td>408</td>
 <td>408</td>
@@ -1412,7 +1289,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>515</td>
 </tr>
 <tr>
-<td>19</td>
+<td>19.</td>
 <td></td>
 <td>0</td>
 <td>0</td>
@@ -1425,7 +1302,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>0</td>
 </tr>
 <tr>
-<td>20</td>
+<td>20.</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
@@ -1438,7 +1315,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>0</td>
 </tr>
 <tr>
-<td>21</td>
+<td>21.</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
@@ -1451,7 +1328,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>0</td>
 </tr>
 <tr>
-<td>22</td>
+<td>22.</td>
 <td>565</td>
 <td>408</td>
 <td>408</td>
@@ -1464,7 +1341,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>515</td>
 </tr>
 <tr>
-<td>23</td>
+<td>23.</td>
 <td>565</td>
 <td>408</td>
 <td>408</td>
@@ -1477,7 +1354,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>515</td>
 </tr>
 <tr>
-<td>24</td>
+<td>24.</td>
 <td>150</td>
 <td>150</td>
 <td>150</td>
@@ -1490,7 +1367,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>150</td>
 </tr>
 <tr>
-<td>25</td>
+<td>25.</td>
 <td>215</td>
 <td>108</td>
 <td>108</td>
@@ -1503,7 +1380,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>215</td>
 </tr>
 <tr>
-<td>26</td>
+<td>26.</td>
 <td>200</td>
 <td>150</td>
 <td>150</td>
@@ -1516,7 +1393,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>150</td>
 </tr>
 <tr>
-<td>27</td>
+<td>27.</td>
 <td>1800</td>
 <td>1800</td>
 <td>1800</td>
@@ -1529,7 +1406,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>1800</td>
 </tr>
 <tr>
-<td>28</td>
+<td>28.</td>
 <td>1800</td>
 <td>1800</td>
 <td>1800</td>
@@ -1542,7 +1419,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>1800</td>
 </tr>
 <tr>
-<td>29</td>
+<td>29.</td>
 <td>1800</td>
 <td>1800</td>
 <td>1800</td>
@@ -1555,7 +1432,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>1800</td>
 </tr>
 <tr>
-<td>30</td>
+<td>30.</td>
 <td>1800</td>
 <td>1800</td>
 <td>1800</td>
@@ -1612,7 +1489,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>Атауы</td>
 </tr>
 <tr>
-<td>1</td>
+<td>1.</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1621,7 +1498,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>415681</td>
 </tr>
 <tr>
-<td>2</td>
+<td>2.</td>
 <td>01</td>
 <td></td>
 <td></td>
@@ -1630,7 +1507,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>113670</td>
 </tr>
 <tr>
-<td>3</td>
+<td>3.</td>
 <td></td>
 <td>1</td>
 <td></td>
@@ -1639,7 +1516,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>113670</td>
 </tr>
 <tr>
-<td>4</td>
+<td>4.</td>
 <td></td>
 <td></td>
 <td>123</td>
@@ -1648,7 +1525,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>113670</td>
 </tr>
 <tr>
-<td>5</td>
+<td>5.</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1657,7 +1534,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>113670</td>
 </tr>
 <tr>
-<td>6</td>
+<td>6.</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1666,7 +1543,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>0</td>
 </tr>
 <tr>
-<td>7</td>
+<td>7.</td>
 <td>04</td>
 <td></td>
 <td></td>
@@ -1675,7 +1552,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>262234</td>
 </tr>
 <tr>
-<td>8</td>
+<td>8.</td>
 <td></td>
 <td>1</td>
 <td></td>
@@ -1684,7 +1561,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>253853</td>
 </tr>
 <tr>
-<td>9</td>
+<td>9.</td>
 <td></td>
 <td></td>
 <td>123</td>
@@ -1693,7 +1570,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>253853</td>
 </tr>
 <tr>
-<td>10</td>
+<td>10.</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1702,7 +1579,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>253853</td>
 </tr>
 <tr>
-<td>11</td>
+<td>11.</td>
 <td></td>
 <td>2</td>
 <td></td>
@@ -1711,7 +1588,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>8381</td>
 </tr>
 <tr>
-<td>12</td>
+<td>12.</td>
 <td></td>
 <td></td>
 <td>123</td>
@@ -1720,7 +1597,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>8381</td>
 </tr>
 <tr>
-<td>13</td>
+<td>13.</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1729,7 +1606,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>8381</td>
 </tr>
 <tr>
-<td>14</td>
+<td>14.</td>
 <td>05</td>
 <td></td>
 <td></td>
@@ -1738,7 +1615,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>208</td>
 </tr>
 <tr>
-<td>15</td>
+<td>15.</td>
 <td></td>
 <td>9</td>
 <td></td>
@@ -1747,7 +1624,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>208</td>
 </tr>
 <tr>
-<td>16</td>
+<td>16.</td>
 <td></td>
 <td></td>
 <td>123</td>
@@ -1756,7 +1633,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>208</td>
 </tr>
 <tr>
-<td>17</td>
+<td>17.</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1765,7 +1642,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>208</td>
 </tr>
 <tr>
-<td>18</td>
+<td>18.</td>
 <td>07</td>
 <td></td>
 <td></td>
@@ -1774,7 +1651,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>12643</td>
 </tr>
 <tr>
-<td>19</td>
+<td>19.</td>
 <td></td>
 <td>2</td>
 <td></td>
@@ -1783,7 +1660,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>0</td>
 </tr>
 <tr>
-<td>20</td>
+<td>20.</td>
 <td></td>
 <td></td>
 <td>123</td>
@@ -1792,7 +1669,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>0</td>
 </tr>
 <tr>
-<td>21</td>
+<td>21.</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1801,7 +1678,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>0</td>
 </tr>
 <tr>
-<td>22</td>
+<td>22.</td>
 <td></td>
 <td>3</td>
 <td></td>
@@ -1810,7 +1687,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>12643</td>
 </tr>
 <tr>
-<td>23</td>
+<td>23.</td>
 <td></td>
 <td></td>
 <td>123</td>
@@ -1819,7 +1696,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>12643</td>
 </tr>
 <tr>
-<td>24</td>
+<td>24.</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1828,7 +1705,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>6800</td>
 </tr>
 <tr>
-<td>25</td>
+<td>25.</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1837,7 +1714,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>3518</td>
 </tr>
 <tr>
-<td>26</td>
+<td>26.</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1846,7 +1723,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>2325</td>
 </tr>
 <tr>
-<td>27</td>
+<td>27.</td>
 <td>12</td>
 <td></td>
 <td></td>
@@ -1855,7 +1732,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>26926</td>
 </tr>
 <tr>
-<td>28</td>
+<td>28.</td>
 <td></td>
 <td>1</td>
 <td></td>
@@ -1864,7 +1741,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>26926</td>
 </tr>
 <tr>
-<td>29</td>
+<td>29.</td>
 <td></td>
 <td></td>
 <td>123</td>
@@ -1873,7 +1750,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>26926</td>
 </tr>
 <tr>
-<td>30</td>
+<td>30.</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1891,7 +1768,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td colspan="10">ауылдық округтердің тізбесі</td>
 </tr>
 <tr>
-<td>Р/С</td>
+<td>Р/с</td>
 <td>Бадам</td>
 <td>Бөген</td>
 <td>Бөржар</td>
@@ -1904,7 +1781,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>Шұбарсу</td>
 </tr>
 <tr>
-<td>1</td>
+<td>1.</td>
 <td>40680</td>
 <td>26255</td>
 <td>25898</td>
@@ -1917,7 +1794,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>13914</td>
 </tr>
 <tr>
-<td>2</td>
+<td>2.</td>
 <td>12534</td>
 <td>9080</td>
 <td>11225</td>
@@ -1930,7 +1807,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>11309</td>
 </tr>
 <tr>
-<td>3</td>
+<td>3.</td>
 <td>12534</td>
 <td>9080</td>
 <td>11225</td>
@@ -1943,7 +1820,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>11309</td>
 </tr>
 <tr>
-<td>4</td>
+<td>4.</td>
 <td>12534</td>
 <td>9080</td>
 <td>11225</td>
@@ -1956,7 +1833,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>11309</td>
 </tr>
 <tr>
-<td>5</td>
+<td>5.</td>
 <td>12534</td>
 <td>9080</td>
 <td>11225</td>
@@ -1969,7 +1846,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>11309</td>
 </tr>
 <tr>
-<td>6</td>
+<td>6.</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
@@ -1982,7 +1859,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>0</td>
 </tr>
 <tr>
-<td>7</td>
+<td>7.</td>
 <td>25427</td>
 <td>14642</td>
 <td>12135</td>
@@ -1995,7 +1872,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>0</td>
 </tr>
 <tr>
-<td>8</td>
+<td>8.</td>
 <td>25427</td>
 <td>14642</td>
 <td>12135</td>
@@ -2008,7 +1885,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>0</td>
 </tr>
 <tr>
-<td>9</td>
+<td>9.</td>
 <td>25427</td>
 <td>14642</td>
 <td>12135</td>
@@ -2021,7 +1898,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>0</td>
 </tr>
 <tr>
-<td>10</td>
+<td>10.</td>
 <td>25427</td>
 <td>14642</td>
 <td>12135</td>
@@ -2034,7 +1911,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td></td>
 </tr>
 <tr>
-<td>11</td>
+<td>11.</td>
 <td>382</td>
 <td>0</td>
 <td>1624</td>
@@ -2047,7 +1924,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>3200</td>
 </tr>
 <tr>
-<td>12</td>
+<td>12.</td>
 <td>382</td>
 <td>0</td>
 <td>1624</td>
@@ -2060,7 +1937,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>3200</td>
 </tr>
 <tr>
-<td>13</td>
+<td>13.</td>
 <td>382</td>
 <td></td>
 <td>1624</td>
@@ -2073,7 +1950,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>3200</td>
 </tr>
 <tr>
-<td>14</td>
+<td>14.</td>
 <td>33</td>
 <td>13</td>
 <td>18</td>
@@ -2086,7 +1963,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>0</td>
 </tr>
 <tr>
-<td>15</td>
+<td>15.</td>
 <td>33</td>
 <td>13</td>
 <td>18</td>
@@ -2099,7 +1976,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>0</td>
 </tr>
 <tr>
-<td>16</td>
+<td>16.</td>
 <td>33</td>
 <td>13</td>
 <td>18</td>
@@ -2112,7 +1989,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>0</td>
 </tr>
 <tr>
-<td>17</td>
+<td>17.</td>
 <td>33</td>
 <td>13</td>
 <td>18</td>
@@ -2125,7 +2002,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td></td>
 </tr>
 <tr>
-<td>18</td>
+<td>18.</td>
 <td>686</td>
 <td>520</td>
 <td>520</td>
@@ -2138,7 +2015,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>605</td>
 </tr>
 <tr>
-<td>19</td>
+<td>19.</td>
 <td></td>
 <td>0</td>
 <td>0</td>
@@ -2151,7 +2028,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>0</td>
 </tr>
 <tr>
-<td>20</td>
+<td>20.</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
@@ -2164,7 +2041,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>0</td>
 </tr>
 <tr>
-<td>21</td>
+<td>21.</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
@@ -2177,7 +2054,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>0</td>
 </tr>
 <tr>
-<td>22</td>
+<td>22.</td>
 <td>686</td>
 <td>520</td>
 <td>520</td>
@@ -2190,7 +2067,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>605</td>
 </tr>
 <tr>
-<td>23</td>
+<td>23.</td>
 <td>686</td>
 <td>520</td>
 <td>520</td>
@@ -2203,7 +2080,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>605</td>
 </tr>
 <tr>
-<td>24</td>
+<td>24.</td>
 <td>200</td>
 <td>200</td>
 <td>200</td>
@@ -2216,7 +2093,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>200</td>
 </tr>
 <tr>
-<td>25</td>
+<td>25.</td>
 <td>236</td>
 <td>120</td>
 <td>120</td>
@@ -2229,7 +2106,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>230</td>
 </tr>
 <tr>
-<td>26</td>
+<td>26.</td>
 <td>250</td>
 <td>200</td>
 <td>200</td>
@@ -2242,7 +2119,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>175</td>
 </tr>
 <tr>
-<td>27</td>
+<td>27.</td>
 <td>2000</td>
 <td>2000</td>
 <td>2000</td>
@@ -2255,7 +2132,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>2000</td>
 </tr>
 <tr>
-<td>28</td>
+<td>28.</td>
 <td>2000</td>
 <td>2000</td>
 <td>2000</td>
@@ -2268,7 +2145,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>2000</td>
 </tr>
 <tr>
-<td>29</td>
+<td>29.</td>
 <td>2000</td>
 <td>2000</td>
 <td>2000</td>
@@ -2281,7 +2158,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/22.12.2009
 <td>2000</td>
 </tr>
 <tr>
-<td>30</td>
+<td>30.</td>
 <td>2000</td>
 <td>2000</td>
 <td>2000</td>
