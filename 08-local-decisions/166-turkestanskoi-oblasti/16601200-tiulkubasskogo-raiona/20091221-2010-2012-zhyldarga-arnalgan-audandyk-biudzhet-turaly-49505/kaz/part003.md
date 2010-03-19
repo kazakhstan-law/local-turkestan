@@ -1,11 +1,11 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/49505/kaz/28.01.2010
+source: https://zan.gov.kz/client/#!/doc/49505/kaz/19.03.2010
 ---
 
 ## Түлкібас ауданының 2012 жылға арналған бюджеті
 
-> *Ескерту. 3-Қосымша жаңа редакцияда - Оңтүстік Қазақстан облысы Түлкібас аудандық мәслихатының 2010.01.28 N 28/2-04 (2010 жылғы 1 қаңтардан бастап қолданысқа енгiзiледi) Шешімімен.*
+> *Ескерту. 3-Қосымша жаңа редакцияда - Оңтүстік Қазақстан облысы Түлкібас аудандық мәслихатының 2010.03.19 N 29/1-04 (2010 жылғы 1 қаңтардан бастап қолданысқа енгiзiлсін) Шешімімен.*
 
 <table>
 <tr>
@@ -28,14 +28,14 @@ source: https://zan.gov.kz/client/#!/doc/49505/kaz/28.01.2010
 <td></td>
 <td></td>
 <td></td>
-<td>Атауы</td>
+<td>атауы</td>
 </tr>
 <tr>
 <th></th>
 <th></th>
 <th></th>
 <th>І. Кірістер</th>
-<th>5 421 492</th>
+<th>5 321 492</th>
 </tr>
 <tr>
 <td>1</td>
@@ -238,21 +238,21 @@ source: https://zan.gov.kz/client/#!/doc/49505/kaz/28.01.2010
 <td></td>
 <td></td>
 <td>Трансферттердің түсімдері</td>
-<td>4 865 015</td>
+<td>4 765 015</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td>Мемлекеттік басқарудың жоғары тұрған органдарынан түсетін трансферттер</td>
-<td>4 865 015</td>
+<td>4 765 015</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>2</td>
 <td>Облыстық бюджеттен түсетін трансферттер</td>
-<td>4 865 015</td>
+<td>4 765 015</td>
 </tr>
 </table>
 
@@ -297,7 +297,7 @@ source: https://zan.gov.kz/client/#!/doc/49505/kaz/28.01.2010
 <th></th>
 <th></th>
 <th>II. Шығындар</th>
-<th>5 421 492</th>
+<th>5 321 492</th>
 </tr>
 <tr>
 <td>01</td>
@@ -537,7 +537,7 @@ source: https://zan.gov.kz/client/#!/doc/49505/kaz/28.01.2010
 <td></td>
 <td></td>
 <td>Бiлiм беру</td>
-<td>3 564 679</td>
+<td>3 464 679</td>
 </tr>
 <tr>
 <td>04</td>
@@ -633,7 +633,7 @@ source: https://zan.gov.kz/client/#!/doc/49505/kaz/28.01.2010
 <td></td>
 <td></td>
 <td>Бiлiм беру саласындағы өзге де қызметтер</td>
-<td>180 590</td>
+<td>80 590</td>
 </tr>
 <tr>
 <td>04</td>
@@ -673,7 +673,7 @@ source: https://zan.gov.kz/client/#!/doc/49505/kaz/28.01.2010
 <td>472</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) құрылыс, сәулет және қала құрылысы бөлімі</td>
-<td>141 347</td>
+<td>41 347</td>
 </tr>
 <tr>
 <td>04</td>
@@ -681,7 +681,7 @@ source: https://zan.gov.kz/client/#!/doc/49505/kaz/28.01.2010
 <td>472</td>
 <td>037</td>
 <td>Білім беру объектілерін салу және реконструкциялау</td>
-<td>141 347</td>
+<td>41 347</td>
 </tr>
 <tr>
 <td>06</td>
@@ -1153,7 +1153,7 @@ source: https://zan.gov.kz/client/#!/doc/49505/kaz/28.01.2010
 <td>473</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) ветеринария бөлімі</td>
-<td>2 958</td>
+<td>1 265</td>
 </tr>
 <tr>
 <td>10</td>
@@ -1484,8 +1484,9 @@ source: https://zan.gov.kz/client/#!/doc/49505/kaz/28.01.2010
 <td>0</td>
 </tr>
 <tr>
-<td colspan="5">Санаты</td>
-<td rowspan="5">
+<td colspan="4">Санаты</td>
+<td>Атауы</td>
+<td rowspan="4">
 Сомасы,
 мың теңге
 </td>
@@ -1504,13 +1505,6 @@ source: https://zan.gov.kz/client/#!/doc/49505/kaz/28.01.2010
 <td></td>
 <td></td>
 <td colspan="2">Ерекшелігі</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Атауы</td>
 </tr>
 <tr>
 <td></td>
@@ -1686,8 +1680,9 @@ source: https://zan.gov.kz/client/#!/doc/49505/kaz/28.01.2010
 <td>0</td>
 </tr>
 <tr>
-<td colspan="5">Санаты</td>
-<td rowspan="5">
+<td colspan="4">Санаты</td>
+<td>Атауы</td>
+<td rowspan="4">
 Сомасы,
 мың теңге
 </td>
@@ -1706,13 +1701,6 @@ source: https://zan.gov.kz/client/#!/doc/49505/kaz/28.01.2010
 <td></td>
 <td></td>
 <td colspan="2">Ерекшелігі</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Атауы</td>
 </tr>
 <tr>
 <td>8</td>
