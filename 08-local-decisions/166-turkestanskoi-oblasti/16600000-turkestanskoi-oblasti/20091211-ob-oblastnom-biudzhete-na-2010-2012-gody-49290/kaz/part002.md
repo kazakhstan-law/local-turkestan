@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/49290/kaz/12.03.2010
+source: https://zan.gov.kz/client/#!/doc/49290/kaz/19.03.2010
 ---
 
 ## 2011 жылға арналған облыстық бюджет
