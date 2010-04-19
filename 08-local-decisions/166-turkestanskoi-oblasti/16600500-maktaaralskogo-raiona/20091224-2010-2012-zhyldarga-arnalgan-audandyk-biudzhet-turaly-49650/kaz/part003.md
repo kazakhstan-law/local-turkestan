@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/49650/kaz/19.03.2010
+source: https://zan.gov.kz/client/#!/doc/49650/kaz/19.04.2010
 ---
 
 ## Мақтаарал ауданының 2012 жылға арналған аудандық бюджеті
