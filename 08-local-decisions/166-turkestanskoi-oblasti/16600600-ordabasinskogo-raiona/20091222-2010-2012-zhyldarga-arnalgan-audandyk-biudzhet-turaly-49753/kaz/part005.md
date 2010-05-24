@@ -1,11 +1,11 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/49753/kaz/15.04.2010
+source: https://zan.gov.kz/client/#!/doc/49753/kaz/24.05.2010
 ---
 
 ## 2010 жылға арналған аудандық бюджеттен қаржыландырылатын әрбір ауылдық округтің бюджеттік бағдарламалардың тізбесі
 
-> *Ескерту. 5-Қосымша жаңа редакцияда - Оңтүстік Қазақстан облысы Ордабасы аудандық мәслихатының 2010.04.15 N 30/1 (2010 жылдың 1 қаңтарынан бастап қолданысқа енгізіледі) Шешімімен.*
+> *Ескерту. 5-Қосымша жаңа редакцияда - Оңтүстік Қазақстан облысы Ордабасы аудандық мәслихатының 2010.05.24 N 31/1 (2010 жылдың 1 қаңтарынан бастап қолданысқа енгізіледі) Шешімімен.*
 
 <table>
 <tr>
@@ -15,19 +15,17 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/15.04.2010
 <tr>
 <td></td>
 <td colspan="5">Функционалдық топ</td>
-<td>жалпы сомасы</td>
+<td rowspan="5">жалпы сомасы</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="4">Кіші функция</td>
-<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="4">Бюджеттік бағдарламалардың әкiмшiсi</td>
-<td></td>
 </tr>
 <tr>
 <td></td>
@@ -35,7 +33,6 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/15.04.2010
 <td></td>
 <td></td>
 <td colspan="2">Бағдарлама</td>
-<td></td>
 </tr>
 <tr>
 <td>р/с</td>
@@ -44,7 +41,6 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/15.04.2010
 <td></td>
 <td></td>
 <td>Атауы</td>
-<td></td>
 </tr>
 <tr>
 <td>1.</td>
@@ -53,7 +49,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/15.04.2010
 <td></td>
 <td></td>
 <td>ІІ. ШЫҒЫНДАР</td>
-<td>351378</td>
+<td>351564</td>
 </tr>
 <tr>
 <td>2.</td>
@@ -107,7 +103,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/15.04.2010
 <td></td>
 <td></td>
 <td>Бiлiм беру</td>
-<td>220510</td>
+<td>220696</td>
 </tr>
 <tr>
 <td>8.</td>
@@ -116,7 +112,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/15.04.2010
 <td></td>
 <td></td>
 <td>Мектепке дейiнгi тәрбие және оқыту</td>
-<td>195227</td>
+<td>195413</td>
 </tr>
 <tr>
 <td>9.</td>
@@ -125,7 +121,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/15.04.2010
 <td>123</td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл (село), ауылдық (селолық) округ әкімінің аппараты</td>
-<td>195227</td>
+<td>195413</td>
 </tr>
 <tr>
 <td>10.</td>
@@ -134,7 +130,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/15.04.2010
 <td></td>
 <td>004</td>
 <td>Мектепке дейінгі тәрбие ұйымдарын қолдау</td>
-<td>195227</td>
+<td>195413</td>
 </tr>
 <tr>
 <td>11.</td>
@@ -351,7 +347,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/15.04.2010
 <td>21847</td>
 <td>34156</td>
 <td>134139</td>
-<td>33712</td>
+<td>33898</td>
 <td>23322</td>
 <td>13700</td>
 </tr>
@@ -429,7 +425,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/15.04.2010
 <td>12559</td>
 <td>15029</td>
 <td>108207</td>
-<td>20270</td>
+<td>20456</td>
 <td>12798</td>
 <td>2800</td>
 </tr>
@@ -442,7 +438,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/15.04.2010
 <td>12559</td>
 <td>14173</td>
 <td>89582</td>
-<td>19173</td>
+<td>19359</td>
 <td>12637</td>
 <td>0</td>
 </tr>
@@ -455,7 +451,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/15.04.2010
 <td>12559</td>
 <td>14173</td>
 <td>89582</td>
-<td>19173</td>
+<td>19359</td>
 <td>12637</td>
 <td>0</td>
 </tr>
@@ -468,7 +464,7 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/15.04.2010
 <td>12559</td>
 <td>14173</td>
 <td>89582</td>
-<td>19173</td>
+<td>19359</td>
 <td>12637</td>
 <td></td>
 </tr>
@@ -2217,18 +2213,18 @@ source: https://zan.gov.kz/client/#!/doc/49753/kaz/15.04.2010
 <td>Атауы</td>
 </tr>
 <tr>
-<th>4</th>
-<th></th>
-<th></th>
-<th></th>
-<th>Бiлiм беру</th>
+<td>4</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Бiлiм беру</td>
 </tr>
 <tr>
-<th></th>
-<th>2</th>
-<th></th>
-<th></th>
-<th>Бастауыш, негізгі орта және жалпы орта білім беру</th>
+<td></td>
+<td>2</td>
+<td></td>
+<td></td>
+<td>Бастауыш, негізгі орта және жалпы орта білім беру</td>
 </tr>
 <tr>
 <td></td>
