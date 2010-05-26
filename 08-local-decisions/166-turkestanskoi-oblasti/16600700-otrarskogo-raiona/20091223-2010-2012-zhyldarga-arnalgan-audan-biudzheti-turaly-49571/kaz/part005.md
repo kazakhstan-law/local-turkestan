@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/49571/kaz/20.04.2010
+source: https://zan.gov.kz/client/#!/doc/49571/kaz/26.05.2010
 ---
 
 ## 2010 жылға арналған бюджеттік бағдарламаларының тізбесі
