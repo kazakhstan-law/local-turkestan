@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/49505/kaz/21.04.2010
+source: https://zan.gov.kz/client/#!/doc/49505/kaz/01.06.2010
 ---
 
 ## Түлкібас ауданының 2012 жылға арналған бюджеті
@@ -1789,11 +1789,11 @@ source: https://zan.gov.kz/client/#!/doc/49505/kaz/21.04.2010
 <th>Инвестициялық жобалар</th>
 </tr>
 <tr>
-<th>04</th>
-<th></th>
-<th></th>
-<th></th>
-<th>Бiлiм беру</th>
+<td>04</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Бiлiм беру</td>
 </tr>
 <tr>
 <td></td>
@@ -1817,11 +1817,11 @@ source: https://zan.gov.kz/client/#!/doc/49505/kaz/21.04.2010
 <td>Білім беру объектілерін салу және реконструкциялау</td>
 </tr>
 <tr>
-<th>07</th>
-<th></th>
-<th></th>
-<th></th>
-<th>Тұрғын үй-коммуналдық шаруашылық</th>
+<td>07</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Тұрғын үй-коммуналдық шаруашылық</td>
 </tr>
 <tr>
 <td></td>
@@ -1894,11 +1894,11 @@ source: https://zan.gov.kz/client/#!/doc/49505/kaz/21.04.2010
 <td>Жергілікті бюджет қаражаты есебінен</td>
 </tr>
 <tr>
-<th>9</th>
-<th></th>
-<th></th>
-<th></th>
-<th>Отын -энергетика кешені және жер қойнауын пайдалану</th>
+<td>9</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Отын -энергетика кешені және жер қойнауын пайдалану</td>
 </tr>
 <tr>
 <td></td>
