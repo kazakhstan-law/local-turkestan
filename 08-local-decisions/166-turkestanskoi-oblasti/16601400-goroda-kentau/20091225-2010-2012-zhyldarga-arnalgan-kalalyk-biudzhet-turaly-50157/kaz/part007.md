@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/50157/kaz/31.05.2010
+source: https://zan.gov.kz/client/#!/doc/50157/kaz/16.08.2010
 ---
 
 ## Кентау қаласының ауыл әкімдері аппараттарының 2012 жылға арналған бюджеті
