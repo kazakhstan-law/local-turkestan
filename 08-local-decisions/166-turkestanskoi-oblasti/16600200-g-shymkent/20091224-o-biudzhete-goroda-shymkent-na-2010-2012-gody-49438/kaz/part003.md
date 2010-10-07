@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/49438/kaz/23.08.2010
+source: https://zan.gov.kz/client/#!/doc/49438/kaz/07.10.2010
 ---
 
 ## 2012 жылға арналған Шымкент қаласының бюджеті

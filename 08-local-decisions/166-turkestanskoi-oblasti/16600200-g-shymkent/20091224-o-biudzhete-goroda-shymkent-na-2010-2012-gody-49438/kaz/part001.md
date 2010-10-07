@@ -1,15 +1,16 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/49438/kaz/23.08.2010
+source: https://zan.gov.kz/client/#!/doc/49438/kaz/07.10.2010
 ---
 
 ## 2010 жылға арналған Шымкент қаласының бюджеті
 
-> *Ескерту. 1-Қосымша жаңа редакцияда - Шымкент қалалық мәслихатының 2010.08.23 N 38/346-4c (2010 жылдың 1 қаңтарынан бастап қолданысқа енгізіледі) Шешімімен.*
+> *Ескерту. 1-Қосымша жаңа редакцияда - Шымкент қалалық мәслихатының 2010.10.07 N 40/360-4c (2010 жылдың 1 қаңтарынан бастап қолданысқа енгізіледі) Шешімімен.*
 
 <table>
 <tr>
-<td colspan="4">Санаты</td>
+<td colspan="3">Санаты</td>
+<td>Атауы</td>
 <td rowspan="3">
 Сомасы,
 мың теңге
@@ -25,11 +26,6 @@ source: https://zan.gov.kz/client/#!/doc/49438/kaz/23.08.2010
 <td colspan="2">Iшкi сыныбы</td>
 </tr>
 <tr>
-<td colspan="3"></td>
-<td>Атауы</td>
-<td></td>
-</tr>
-<tr>
 <th colspan="3">1</th>
 <th>2</th>
 <th>3</th>
@@ -39,7 +35,7 @@ source: https://zan.gov.kz/client/#!/doc/49438/kaz/23.08.2010
 <td></td>
 <td></td>
 <td>І. КІРІСТЕР</td>
-<td>34 205 247</td>
+<td>34 196 230</td>
 </tr>
 <tr>
 <td>1</td>
@@ -218,6 +214,20 @@ source: https://zan.gov.kz/client/#!/doc/49438/kaz/23.08.2010
 </tr>
 <tr>
 <td></td>
+<td>02</td>
+<td></td>
+<td>Мемлекеттік бюджеттен қаржыландырылатын мемлекеттік мекемелердің тауарларды (жұмыстарды, қызметтерді) өткізуінен түсетін түсімдер</td>
+<td>-</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>1</td>
+<td>Мемлекеттік бюджеттен қаржыландырылатын мемлекеттік мекемелердің тауарларды (жұмыстарды, қызметтерді) өткізуінен түсетін түсімдер</td>
+<td>-</td>
+</tr>
+<tr>
+<td></td>
 <td>03</td>
 <td></td>
 <td>Мемлекеттік бюджеттен қаржыландырылатын мемлекеттік мекемелер ұйымдастыратын мемлекеттік сатып алуды өткізуден түсетін ақша түсімдері</td>
@@ -305,21 +315,21 @@ source: https://zan.gov.kz/client/#!/doc/49438/kaz/23.08.2010
 <td></td>
 <td></td>
 <td>Трансферттердің түсімдері</td>
-<td>14 996 119</td>
+<td>14 987 102</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td>Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td>14 996 119</td>
+<td>14 987 102</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>2</td>
 <td>Облыстық бюджеттен түсетiн трансферттер</td>
-<td>14 996 119</td>
+<td>14 987 102</td>
 </tr>
 </table>
 
@@ -336,15 +346,15 @@ source: https://zan.gov.kz/client/#!/doc/49438/kaz/23.08.2010
 <td colspan="4">Кіші функция</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td colspan="3">Бюджеттік бағдарламалардың әкiмшiсi</td>
+<th></th>
+<th></th>
+<th colspan="3">Бюджеттік бағдарламалардың әкiмшiсi</th>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2">Бағдарлама</td>
+<th></th>
+<th></th>
+<th></th>
+<th colspan="2">Бағдарлама</th>
 </tr>
 <tr>
 <td></td>
@@ -364,7 +374,7 @@ source: https://zan.gov.kz/client/#!/doc/49438/kaz/23.08.2010
 <td></td>
 <td></td>
 <td>ІІ. ШЫҒЫНДАР</td>
-<td>39 534 359</td>
+<td>39 525 342</td>
 </tr>
 <tr>
 <td>01</td>
@@ -932,7 +942,7 @@ source: https://zan.gov.kz/client/#!/doc/49438/kaz/23.08.2010
 <td></td>
 <td></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>15 358 475</td>
+<td>15 349 458</td>
 </tr>
 <tr>
 <td></td>
@@ -1020,7 +1030,7 @@ source: https://zan.gov.kz/client/#!/doc/49438/kaz/23.08.2010
 <td></td>
 <td></td>
 <td>Коммуналдық шаруашылық</td>
-<td>2 091 369</td>
+<td>2 082 352</td>
 </tr>
 <tr>
 <td></td>
@@ -1028,7 +1038,7 @@ source: https://zan.gov.kz/client/#!/doc/49438/kaz/23.08.2010
 <td>458</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) тұрғын үй-коммуналдық шаруашылығы, жолаушылар көлігі және автомобиль жолдары бөлімі</td>
-<td>803 636</td>
+<td>795 618</td>
 </tr>
 <tr>
 <td></td>
@@ -1052,7 +1062,7 @@ source: https://zan.gov.kz/client/#!/doc/49438/kaz/23.08.2010
 <td></td>
 <td>032</td>
 <td>Өңірлік жұмыспен қамту және кадрларды қайта даярлау стратегиясын іске асыру шеңберінде инженерлік коммуникациялық инфрақұрылымды дамыту және елді-мекендерді көркейту</td>
-<td>361 121</td>
+<td>353 103</td>
 </tr>
 <tr>
 <td></td>
@@ -1068,7 +1078,7 @@ source: https://zan.gov.kz/client/#!/doc/49438/kaz/23.08.2010
 <td>467</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) құрылыс бөлімі</td>
-<td>1 287 733</td>
+<td>1 286 734</td>
 </tr>
 <tr>
 <td></td>
@@ -1092,7 +1102,7 @@ source: https://zan.gov.kz/client/#!/doc/49438/kaz/23.08.2010
 <td></td>
 <td>031</td>
 <td>Өңірлік жұмыспен қамту және кадрларды қайта даярлау стратегиясын іске асыру шеңберінде инженерлік коммуникациялық инфрақұрылымды дамыту</td>
-<td>116 663</td>
+<td>115 664</td>
 </tr>
 <tr>
 <td></td>
@@ -1854,19 +1864,22 @@ source: https://zan.gov.kz/client/#!/doc/49438/kaz/23.08.2010
 </td>
 </tr>
 <tr>
-<td></td>
-<td colspan="3">Сыныбы</td>
-<td>Атауы</td>
+<th></th>
+<th colspan="3">Сыныбы</th>
+<th>Атауы</th>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td colspan="3">Ішкі сыныбы</td>
+<th></th>
+<th></th>
+<th colspan="3">Ішкі сыныбы</th>
 </tr>
 <tr>
-<th colspan="4">1</th>
-<th>2</th>
-<th>3</th>
+<td>1</td>
+<td></td>
+<td></td>
+<td></td>
+<td>2</td>
+<td>5</td>
 </tr>
 <tr>
 <td>5</td>
@@ -1900,31 +1913,31 @@ source: https://zan.gov.kz/client/#!/doc/49438/kaz/23.08.2010
 </td>
 </tr>
 <tr>
-<td></td>
-<td colspan="4">Кіші функция</td>
+<th></th>
+<th colspan="4">Кіші функция</th>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td colspan="3">Бюджеттік бағдарламалардың әкiмшiсi</td>
+<th></th>
+<th></th>
+<th colspan="3">Бюджеттік бағдарламалардың әкiмшiсi</th>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2">Бағдарлама</td>
+<th></th>
+<th></th>
+<th></th>
+<th colspan="2">Бағдарлама</th>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Атауы</td>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th>Атауы</th>
 </tr>
 <tr>
-<th colspan="4">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="4">1</td>
+<td>2</td>
+<td>5</td>
 </tr>
 <tr>
 <td></td>
@@ -1932,46 +1945,6 @@ source: https://zan.gov.kz/client/#!/doc/49438/kaz/23.08.2010
 <td></td>
 <td></td>
 <td>IV. Қаржы активтерімен операциялар бойынша сальдо</td>
-<td>0</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Қаржы активтерін сатып алу</td>
-<td>0</td>
-</tr>
-<tr>
-<td>13</td>
-<td></td>
-<td></td>
-<td></td>
-<td>Басқалар</td>
-<td>0</td>
-</tr>
-<tr>
-<td></td>
-<td>9</td>
-<td></td>
-<td></td>
-<td>Басқалар</td>
-<td>0</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>459</td>
-<td></td>
-<td>Ауданның (облыстық маңызы бар қаланың) экономика және қаржы бөлімі</td>
-<td>0</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>014</td>
-<td>Заңды тұлғалардың жарғылық капиталын қалыптастыру немесе ұлғайту</td>
 <td>0</td>
 </tr>
 <tr>
@@ -1998,19 +1971,19 @@ source: https://zan.gov.kz/client/#!/doc/49438/kaz/23.08.2010
 </td>
 </tr>
 <tr>
-<td></td>
-<td colspan="3">Сыныбы</td>
-<td>Атауы</td>
+<th></th>
+<th colspan="3">Сыныбы</th>
+<th>Атауы</th>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td colspan="3">Ішкі сыныбы</td>
+<th></th>
+<th></th>
+<th colspan="3">Ішкі сыныбы</th>
 </tr>
 <tr>
-<th colspan="4">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="4">1</td>
+<td>2</td>
+<td>5</td>
 </tr>
 <tr>
 <td>7</td>
@@ -2035,6 +2008,40 @@ source: https://zan.gov.kz/client/#!/doc/49438/kaz/23.08.2010
 <td></td>
 <td>Қарыз алу келісім-шарттары</td>
 <td>5 802 143</td>
+</tr>
+<tr>
+<td colspan="5">Функционалдық топ</td>
+<td rowspan="5">
+Сомасы,
+мың теңге
+</td>
+</tr>
+<tr>
+<th></th>
+<th colspan="4">Кіші функция</th>
+</tr>
+<tr>
+<th></th>
+<th></th>
+<th colspan="3">Бюджеттік бағдарламалардың әкiмшiсi</th>
+</tr>
+<tr>
+<th></th>
+<th></th>
+<th></th>
+<th colspan="2">Бағдарлама</th>
+</tr>
+<tr>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th>Атауы</th>
+</tr>
+<tr>
+<td colspan="4">1</td>
+<td>2</td>
+<td>5</td>
 </tr>
 <tr>
 <td>16</td>
@@ -2069,26 +2076,27 @@ source: https://zan.gov.kz/client/#!/doc/49438/kaz/23.08.2010
 <td>1 565 000</td>
 </tr>
 <tr>
-<td colspan="5">Санаты</td>
+<td colspan="4">Санаты</td>
+<td></td>
 <td rowspan="3">
 Сомасы,
 мың теңге
 </td>
 </tr>
 <tr>
-<td></td>
-<td colspan="3">Сыныбы</td>
-<td>Атауы</td>
+<th></th>
+<th colspan="3">Сыныбы</th>
+<th>Атауы</th>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td colspan="3">Ішкі сыныбы</td>
+<th></th>
+<th></th>
+<th colspan="3">Ішкі сыныбы</th>
 </tr>
 <tr>
-<th colspan="4">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="4">1</td>
+<td>2</td>
+<td>5</td>
 </tr>
 <tr>
 <td>8</td>

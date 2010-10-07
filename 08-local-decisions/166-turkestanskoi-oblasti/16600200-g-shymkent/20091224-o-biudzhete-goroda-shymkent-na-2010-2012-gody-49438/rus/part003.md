@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/49438/rus/23.08.2010
+source: https://zan.gov.kz/client/#!/doc/49438/rus/07.10.2010
 ---
 
 ## Бюджет города Шымкент на 2012 год
