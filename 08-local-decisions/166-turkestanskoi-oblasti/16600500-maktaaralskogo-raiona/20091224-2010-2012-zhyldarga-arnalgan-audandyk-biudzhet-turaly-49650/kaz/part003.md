@@ -1,11 +1,11 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/49650/kaz/18.08.2010
+source: https://zan.gov.kz/client/#!/doc/49650/kaz/03.11.2010
 ---
 
 ## Мақтаарал ауданының 2012 жылға арналған аудандық бюджеті
 
-> *Ескерту. 3-Қосымша жаңа редакцияда - Оңтүстік Қазақстан облысы Мақтаарал аудандық мәслихатының 2010.08.18 N 37-240-IV (2010 жылғы 1 қаңтардан бастап қолданысқа енгiзiледi) Шешімімен.*
+> *Ескерту. 3-Қосымша жаңа редакцияда - Оңтүстік Қазақстан облысы Мақтаарал аудандық мәслихатының 2010.11.03 N 39-256-IV (2010 жылғы 1 қаңтардан бастап қолданысқа енгiзiледi) Шешімімен.*
 
 <table>
 <tr>
@@ -18,7 +18,8 @@ source: https://zan.gov.kz/client/#!/doc/49650/kaz/18.08.2010
 </tr>
 <tr>
 <td></td>
-<td colspan="3">Сыныбы</td>
+<td colspan="2">Сыныбы</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -35,7 +36,7 @@ source: https://zan.gov.kz/client/#!/doc/49650/kaz/18.08.2010
 <td></td>
 <td></td>
 <td>І. КІРІСТЕР</td>
-<td>14 473 208</td>
+<td>14 473 299</td>
 </tr>
 <tr>
 <td></td>
@@ -455,35 +456,35 @@ source: https://zan.gov.kz/client/#!/doc/49650/kaz/18.08.2010
 <td></td>
 <td></td>
 <td>ТРАНСФЕРТТЕРДІҢ ТҮСІМДЕРІ</td>
-<td>13 495 633</td>
+<td>13 495 724</td>
 </tr>
 <tr>
 <td>4</td>
 <td></td>
 <td></td>
 <td>Трансферттердің түсімдері</td>
-<td>13 495 633</td>
+<td>13 495 724</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td>Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td>13 495 633</td>
+<td>13 495 724</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>2</td>
 <td>Облыстық бюджеттен түсетiн трансферттер</td>
-<td>13 495 633</td>
+<td>13 495 724</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>2</td>
 <td>Нысаналы даму трансферттері</td>
-<td>2 022 308</td>
+<td>2 022 399</td>
 </tr>
 <tr>
 <td></td>
@@ -497,10 +498,7 @@ source: https://zan.gov.kz/client/#!/doc/49650/kaz/18.08.2010
 <table>
 <tr>
 <td colspan="5">Функционалдық топ</td>
-<td rowspan="5">
-Сомасы,
-мың теңге
-</td>
+<td rowspan="4">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
@@ -523,6 +521,7 @@ source: https://zan.gov.kz/client/#!/doc/49650/kaz/18.08.2010
 <td></td>
 <td></td>
 <td>Атауы</td>
+<td></td>
 </tr>
 <tr>
 <th colspan="4">1</th>
@@ -535,7 +534,7 @@ source: https://zan.gov.kz/client/#!/doc/49650/kaz/18.08.2010
 <td></td>
 <td></td>
 <td>ІІ. ШЫҒЫНДАР</td>
-<td>14 473 208</td>
+<td>14 473 299</td>
 </tr>
 <tr>
 <td>01</td>
@@ -719,7 +718,7 @@ source: https://zan.gov.kz/client/#!/doc/49650/kaz/18.08.2010
 <td></td>
 <td></td>
 <td>Бiлiм беру</td>
-<td>11 484 513</td>
+<td>11 484 604</td>
 </tr>
 <tr>
 <td></td>
@@ -823,7 +822,7 @@ source: https://zan.gov.kz/client/#!/doc/49650/kaz/18.08.2010
 <td></td>
 <td></td>
 <td>Бiлiм беру саласындағы өзге де қызметтер</td>
-<td>1 139 037</td>
+<td>1 139 128</td>
 </tr>
 <tr>
 <td></td>
@@ -855,7 +854,7 @@ source: https://zan.gov.kz/client/#!/doc/49650/kaz/18.08.2010
 <td>467</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) құрылыс бөлімі</td>
-<td>1 042 308</td>
+<td>1 042 399</td>
 </tr>
 <tr>
 <td></td>
@@ -863,7 +862,7 @@ source: https://zan.gov.kz/client/#!/doc/49650/kaz/18.08.2010
 <td></td>
 <td>037</td>
 <td>Білім беру объектілерін салу және реконструкциялау</td>
-<td>1 042 308</td>
+<td>1 042 399</td>
 </tr>
 <tr>
 <td>05</td>
@@ -1668,14 +1667,12 @@ source: https://zan.gov.kz/client/#!/doc/49650/kaz/18.08.2010
 <tr>
 <td colspan="4">Санаты</td>
 <td>Атауы</td>
-<td rowspan="4">
-Сомасы,
-мың теңге
-</td>
+<td rowspan="4">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="4">Сыныбы</td>
+<td colspan="3">Сыныбы</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -3255,15 +3252,12 @@ source: https://zan.gov.kz/client/#!/doc/49650/kaz/18.08.2010
 
 ## Мақтаарал ауданының қала, кенттер және ауылдық округтерінің 2010 жылға арналған жылдық қаржыландыру жоспары
 
-> *Ескерту. Шешім 7-қосымшамен толықтырылды - Оңтүстік Қазақстан облысы Мақтаарал аудандық мәслихатының 2010.08.18 N 37-240-IV (2010 жылғы 1 қаңтардан бастап қолданысқа енгiзiледi) Шешімімен.*
+> *Ескерту. Шешім 7-қосымшамен толықтырылды - Оңтүстік Қазақстан облысы Мақтаарал аудандық мәслихатының 2010.08.18 N 37-240-IV Шешімімен; жаңа редакцияда - Оңтүстік Қазақстан облысы Мақтаарал аудандық мәслихатының 2010.11.03 N 39-256-IV Шешімімен.*
 
 <table>
 <tr>
 <td colspan="5">Функционалдық топ</td>
-<td rowspan="5">
-Сомасы,
-мың теңге
-</td>
+<td rowspan="5">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
@@ -3298,7 +3292,7 @@ source: https://zan.gov.kz/client/#!/doc/49650/kaz/18.08.2010
 <td></td>
 <td></td>
 <td>БАРЛЫҒЫ</td>
-<td>683 135</td>
+<td>688 206</td>
 </tr>
 <tr>
 <td>1</td>
@@ -3306,7 +3300,7 @@ source: https://zan.gov.kz/client/#!/doc/49650/kaz/18.08.2010
 <td></td>
 <td></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>250 077</td>
+<td>250 104</td>
 </tr>
 <tr>
 <td></td>
@@ -3314,7 +3308,7 @@ source: https://zan.gov.kz/client/#!/doc/49650/kaz/18.08.2010
 <td></td>
 <td></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>250 077</td>
+<td>250 104</td>
 </tr>
 <tr>
 <td></td>
@@ -3322,7 +3316,7 @@ source: https://zan.gov.kz/client/#!/doc/49650/kaz/18.08.2010
 <td>123</td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл (село), ауылдық (селолық) округ әкімінің аппараты</td>
-<td>250 077</td>
+<td>250 104</td>
 </tr>
 <tr>
 <td></td>
@@ -3330,7 +3324,7 @@ source: https://zan.gov.kz/client/#!/doc/49650/kaz/18.08.2010
 <td></td>
 <td>001</td>
 <td>Қаладағы аудан, аудандық маңызы бар қаланың, кент, ауыл (село), ауылдық (селолық) округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>246 847</td>
+<td>246 874</td>
 </tr>
 <tr>
 <td></td>
@@ -3338,7 +3332,7 @@ source: https://zan.gov.kz/client/#!/doc/49650/kaz/18.08.2010
 <td></td>
 <td></td>
 <td>Жетісай қаласы</td>
-<td>16 819</td>
+<td>17 021</td>
 </tr>
 <tr>
 <td></td>
@@ -3354,7 +3348,7 @@ source: https://zan.gov.kz/client/#!/doc/49650/kaz/18.08.2010
 <td></td>
 <td></td>
 <td>Жаңаауыл ауылдық округі</td>
-<td>10 052</td>
+<td>9 310</td>
 </tr>
 <tr>
 <td></td>
@@ -3370,7 +3364,7 @@ source: https://zan.gov.kz/client/#!/doc/49650/kaz/18.08.2010
 <td></td>
 <td></td>
 <td>Қазыбек би ауылдық округі</td>
-<td>10 197</td>
+<td>10 437</td>
 </tr>
 <tr>
 <td></td>
@@ -3378,7 +3372,7 @@ source: https://zan.gov.kz/client/#!/doc/49650/kaz/18.08.2010
 <td></td>
 <td></td>
 <td>Аязхан Қалыбеков ауылдық округі</td>
-<td>8 424</td>
+<td>8 272</td>
 </tr>
 <tr>
 <td></td>
@@ -3402,7 +3396,7 @@ source: https://zan.gov.kz/client/#!/doc/49650/kaz/18.08.2010
 <td></td>
 <td></td>
 <td>Абай ауылдық округі</td>
-<td>9 271</td>
+<td>9 402</td>
 </tr>
 <tr>
 <td></td>
@@ -3410,7 +3404,7 @@ source: https://zan.gov.kz/client/#!/doc/49650/kaz/18.08.2010
 <td></td>
 <td></td>
 <td>Атамекен ауылдық округі</td>
-<td>9 161</td>
+<td>8 742</td>
 </tr>
 <tr>
 <td></td>
@@ -3426,7 +3420,7 @@ source: https://zan.gov.kz/client/#!/doc/49650/kaz/18.08.2010
 <td></td>
 <td></td>
 <td>Жолдасбай Ералиев ауылдық округі</td>
-<td>10 493</td>
+<td>10 446</td>
 </tr>
 <tr>
 <td></td>
@@ -3434,7 +3428,7 @@ source: https://zan.gov.kz/client/#!/doc/49650/kaz/18.08.2010
 <td></td>
 <td></td>
 <td>Қызылқұм ауылдық округі</td>
-<td>9 387</td>
+<td>9 437</td>
 </tr>
 <tr>
 <td></td>
@@ -3442,7 +3436,7 @@ source: https://zan.gov.kz/client/#!/doc/49650/kaz/18.08.2010
 <td></td>
 <td></td>
 <td>Мақталы ауылдық округі</td>
-<td>9 818</td>
+<td>10 058</td>
 </tr>
 <tr>
 <td></td>
@@ -3450,7 +3444,7 @@ source: https://zan.gov.kz/client/#!/doc/49650/kaz/18.08.2010
 <td></td>
 <td></td>
 <td>Ынтымақ ауылдық округі</td>
-<td>10 110</td>
+<td>10 059</td>
 </tr>
 <tr>
 <td></td>
@@ -3458,7 +3452,7 @@ source: https://zan.gov.kz/client/#!/doc/49650/kaz/18.08.2010
 <td></td>
 <td></td>
 <td>Мырзакент кенті</td>
-<td>10 720</td>
+<td>11 616</td>
 </tr>
 <tr>
 <td></td>
@@ -3466,7 +3460,7 @@ source: https://zan.gov.kz/client/#!/doc/49650/kaz/18.08.2010
 <td></td>
 <td></td>
 <td>Еңбекші ауылдық округі</td>
-<td>8 953</td>
+<td>8 937</td>
 </tr>
 <tr>
 <td></td>
@@ -3482,7 +3476,7 @@ source: https://zan.gov.kz/client/#!/doc/49650/kaz/18.08.2010
 <td></td>
 <td></td>
 <td>Иіржар ауылдық округі</td>
-<td>9 544</td>
+<td>9 483</td>
 </tr>
 <tr>
 <td></td>
@@ -3490,7 +3484,7 @@ source: https://zan.gov.kz/client/#!/doc/49650/kaz/18.08.2010
 <td></td>
 <td></td>
 <td>Жолдыбай Нұрлыбаев ауылдық округі</td>
-<td>9 151</td>
+<td>9 015</td>
 </tr>
 <tr>
 <td></td>
@@ -3498,7 +3492,7 @@ source: https://zan.gov.kz/client/#!/doc/49650/kaz/18.08.2010
 <td></td>
 <td></td>
 <td>Атакент кенті</td>
-<td>10 741</td>
+<td>9 720</td>
 </tr>
 <tr>
 <td></td>
@@ -3514,7 +3508,7 @@ source: https://zan.gov.kz/client/#!/doc/49650/kaz/18.08.2010
 <td></td>
 <td></td>
 <td>Жамбыл ауылдық округі</td>
-<td>9 175</td>
+<td>9 595</td>
 </tr>
 <tr>
 <td></td>
@@ -3522,7 +3516,7 @@ source: https://zan.gov.kz/client/#!/doc/49650/kaz/18.08.2010
 <td></td>
 <td></td>
 <td>Мақтаарал ауылдық округі</td>
-<td>10 918</td>
+<td>11 411</td>
 </tr>
 <tr>
 <td></td>
@@ -3730,7 +3724,7 @@ source: https://zan.gov.kz/client/#!/doc/49650/kaz/18.08.2010
 <td></td>
 <td></td>
 <td>Білім беру</td>
-<td>382 188</td>
+<td>387 718</td>
 </tr>
 <tr>
 <td></td>
@@ -3738,7 +3732,7 @@ source: https://zan.gov.kz/client/#!/doc/49650/kaz/18.08.2010
 <td></td>
 <td></td>
 <td>Мектепке дейiнгi тәрбие және оқыту</td>
-<td>375 888</td>
+<td>380 823</td>
 </tr>
 <tr>
 <td></td>
@@ -3746,7 +3740,7 @@ source: https://zan.gov.kz/client/#!/doc/49650/kaz/18.08.2010
 <td>123</td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл (село), ауылдық (селолық) округ әкімінің аппараты</td>
-<td>375 888</td>
+<td>380 823</td>
 </tr>
 <tr>
 <td></td>
@@ -3754,7 +3748,7 @@ source: https://zan.gov.kz/client/#!/doc/49650/kaz/18.08.2010
 <td></td>
 <td>004</td>
 <td>Мектепке дейінгі тәрбие ұйымдарын қолдау</td>
-<td>375 888</td>
+<td>380 823</td>
 </tr>
 <tr>
 <td></td>
@@ -3882,7 +3876,7 @@ source: https://zan.gov.kz/client/#!/doc/49650/kaz/18.08.2010
 <td></td>
 <td></td>
 <td>Қарақай ауылдық округі</td>
-<td>13 792</td>
+<td>14 889</td>
 </tr>
 <tr>
 <td></td>
@@ -3891,6 +3885,14 @@ source: https://zan.gov.kz/client/#!/doc/49650/kaz/18.08.2010
 <td></td>
 <td>&quot;Сәби&quot; бала бақшасы</td>
 <td>13 792</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Кетебай ауылындағы балабақша</td>
+<td>1 097</td>
 </tr>
 <tr>
 <td></td>
@@ -3915,6 +3917,22 @@ source: https://zan.gov.kz/client/#!/doc/49650/kaz/18.08.2010
 <td></td>
 <td>&quot;Нұр-Асықата&quot; бала бақшасы</td>
 <td>22 519</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Абай ауылдық округі</td>
+<td>3 493</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>&quot;Астана&quot; бала бақшасы</td>
+<td>3 493</td>
 </tr>
 <tr>
 <td></td>
@@ -4042,7 +4060,7 @@ source: https://zan.gov.kz/client/#!/doc/49650/kaz/18.08.2010
 <td></td>
 <td></td>
 <td>Мақтаарал ауылдық округі</td>
-<td>19 279</td>
+<td>19 624</td>
 </tr>
 <tr>
 <td></td>
@@ -4050,7 +4068,7 @@ source: https://zan.gov.kz/client/#!/doc/49650/kaz/18.08.2010
 <td></td>
 <td></td>
 <td>&quot;Ата-мекен&quot; бала бақшасы</td>
-<td>8 432</td>
+<td>8 777</td>
 </tr>
 <tr>
 <td></td>
@@ -4066,7 +4084,7 @@ source: https://zan.gov.kz/client/#!/doc/49650/kaz/18.08.2010
 <td></td>
 <td></td>
 <td>Бастауыш, негізгі орта және жалпы орта білім беру</td>
-<td>6 300</td>
+<td>6 895</td>
 </tr>
 <tr>
 <td></td>
@@ -4074,7 +4092,7 @@ source: https://zan.gov.kz/client/#!/doc/49650/kaz/18.08.2010
 <td>123</td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл (село), ауылдық (селолық) округ әкімінің аппараты</td>
-<td>6 300</td>
+<td>6 895</td>
 </tr>
 <tr>
 <td></td>
@@ -4082,7 +4100,7 @@ source: https://zan.gov.kz/client/#!/doc/49650/kaz/18.08.2010
 <td></td>
 <td>005</td>
 <td>Ауылдық (селолық) жерлерде балаларды мектепке дейін тегін алып баруды және кері алып келуді ұйымдастыру</td>
-<td>6 300</td>
+<td>6 895</td>
 </tr>
 <tr>
 <td></td>
@@ -4106,7 +4124,7 @@ source: https://zan.gov.kz/client/#!/doc/49650/kaz/18.08.2010
 <td></td>
 <td></td>
 <td>Аязхан Қалыбеков ауылдық округі</td>
-<td>450</td>
+<td>630</td>
 </tr>
 <tr>
 <td></td>
@@ -4130,7 +4148,7 @@ source: https://zan.gov.kz/client/#!/doc/49650/kaz/18.08.2010
 <td></td>
 <td></td>
 <td>Қызылқұм ауылдық округі</td>
-<td>1 100</td>
+<td>1 415</td>
 </tr>
 <tr>
 <td></td>
@@ -4138,7 +4156,7 @@ source: https://zan.gov.kz/client/#!/doc/49650/kaz/18.08.2010
 <td></td>
 <td></td>
 <td>Мақталы ауылдық округі</td>
-<td>1 200</td>
+<td>1 300</td>
 </tr>
 <tr>
 <td></td>
@@ -4165,12 +4183,12 @@ source: https://zan.gov.kz/client/#!/doc/49650/kaz/18.08.2010
 <td>1 200</td>
 </tr>
 <tr>
-<th>5</th>
-<th></th>
-<th></th>
-<th></th>
-<th>Денсаулық сақтау</th>
-<th>150</th>
+<td>5</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Денсаулық сақтау</td>
+<td>90</td>
 </tr>
 <tr>
 <td></td>
@@ -4178,7 +4196,7 @@ source: https://zan.gov.kz/client/#!/doc/49650/kaz/18.08.2010
 <td></td>
 <td></td>
 <td>Денсаулық сақтау саласындағы өзге де қызметтер</td>
-<td>150</td>
+<td>90</td>
 </tr>
 <tr>
 <td></td>
@@ -4186,7 +4204,7 @@ source: https://zan.gov.kz/client/#!/doc/49650/kaz/18.08.2010
 <td>123</td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл (село), ауылдық (селолық) округ әкімінің аппараты</td>
-<td>150</td>
+<td>90</td>
 </tr>
 <tr>
 <td></td>
@@ -4194,7 +4212,7 @@ source: https://zan.gov.kz/client/#!/doc/49650/kaz/18.08.2010
 <td></td>
 <td>002</td>
 <td>Ерекше жағдайларда сырқаты ауыр адамдарды дәрігерлік көмек көрсететін ең жақын денсаулық сақтау ұйымына жеткізуді ұйымдастыру</td>
-<td>150</td>
+<td>90</td>
 </tr>
 <tr>
 <td></td>
@@ -4210,14 +4228,6 @@ source: https://zan.gov.kz/client/#!/doc/49650/kaz/18.08.2010
 <td></td>
 <td></td>
 <td>Жаңаауыл ауылдық округі</td>
-<td>10</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Қазыбек би ауылдық округі</td>
 <td>10</td>
 </tr>
 <tr>
@@ -4249,14 +4259,6 @@ source: https://zan.gov.kz/client/#!/doc/49650/kaz/18.08.2010
 <td></td>
 <td></td>
 <td></td>
-<td>Атамекен ауылдық округі</td>
-<td>10</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td>Жолдасбай Ералиев ауылдық округі</td>
 <td>10</td>
 </tr>
@@ -4281,39 +4283,7 @@ source: https://zan.gov.kz/client/#!/doc/49650/kaz/18.08.2010
 <td></td>
 <td></td>
 <td></td>
-<td>Жаңажол ауылдық округі</td>
-<td>10</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Иіржар ауылдық округі</td>
-<td>10</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Жолдыбай Нұрлыбаев ауылдық округі</td>
-<td>10</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td>Бірлік ауылдық округі</td>
-<td>10</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Мақтаарал ауылдық округі</td>
 <td>10</td>
 </tr>
 <tr>
@@ -4322,7 +4292,7 @@ source: https://zan.gov.kz/client/#!/doc/49650/kaz/18.08.2010
 <td></td>
 <td></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>50 720</td>
+<td>50 294</td>
 </tr>
 <tr>
 <td></td>
@@ -4330,7 +4300,7 @@ source: https://zan.gov.kz/client/#!/doc/49650/kaz/18.08.2010
 <td></td>
 <td></td>
 <td>Елді-мекендерді көркейту</td>
-<td>50 720</td>
+<td>50 294</td>
 </tr>
 <tr>
 <td></td>
@@ -4338,7 +4308,7 @@ source: https://zan.gov.kz/client/#!/doc/49650/kaz/18.08.2010
 <td>123</td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл (село), ауылдық (селолық) округ әкімінің аппараты</td>
-<td>50 720</td>
+<td>50 294</td>
 </tr>
 <tr>
 <td></td>
@@ -4346,7 +4316,7 @@ source: https://zan.gov.kz/client/#!/doc/49650/kaz/18.08.2010
 <td></td>
 <td>008</td>
 <td>Елді мекендерде көшелерді жарықтандыру</td>
-<td>18 409</td>
+<td>17 809</td>
 </tr>
 <tr>
 <td></td>
@@ -4514,7 +4484,7 @@ source: https://zan.gov.kz/client/#!/doc/49650/kaz/18.08.2010
 <td></td>
 <td></td>
 <td>Атакент кенті</td>
-<td>1 200</td>
+<td>600</td>
 </tr>
 <tr>
 <td></td>
@@ -4546,7 +4516,7 @@ source: https://zan.gov.kz/client/#!/doc/49650/kaz/18.08.2010
 <td></td>
 <td>009</td>
 <td>Елді мекендердің санитариясын қамтамасыз ету</td>
-<td>12 655</td>
+<td>12 915</td>
 </tr>
 <tr>
 <td></td>
@@ -4642,7 +4612,7 @@ source: https://zan.gov.kz/client/#!/doc/49650/kaz/18.08.2010
 <td></td>
 <td></td>
 <td>Жолдасбай Ералиев ауылдық округі</td>
-<td>100</td>
+<td>360</td>
 </tr>
 <tr>
 <td></td>
@@ -4746,7 +4716,7 @@ source: https://zan.gov.kz/client/#!/doc/49650/kaz/18.08.2010
 <td></td>
 <td>010</td>
 <td>Жерлеу орындарын күтіп-ұстау және туысы жоқ адамдарды жерлеу</td>
-<td>640</td>
+<td>550</td>
 </tr>
 <tr>
 <td></td>
@@ -4777,14 +4747,6 @@ source: https://zan.gov.kz/client/#!/doc/49650/kaz/18.08.2010
 <td></td>
 <td></td>
 <td></td>
-<td>Қазыбек би ауылдық округі</td>
-<td>10</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td>Қарақай ауылдық округі</td>
 <td>10</td>
 </tr>
@@ -4794,14 +4756,6 @@ source: https://zan.gov.kz/client/#!/doc/49650/kaz/18.08.2010
 <td></td>
 <td></td>
 <td>Абай ауылдық округі</td>
-<td>10</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Атамекен ауылдық округі</td>
 <td>10</td>
 </tr>
 <tr>
@@ -4825,48 +4779,8 @@ source: https://zan.gov.kz/client/#!/doc/49650/kaz/18.08.2010
 <td></td>
 <td></td>
 <td></td>
-<td>Мырзакент кенті</td>
-<td>10</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td>Еңбекші ауылдық округі</td>
 <td>10</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Жаңажол ауылдық округі</td>
-<td>10</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Иіржар ауылдық округі</td>
-<td>10</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Жолдыбай Нұрлыбаев ауылдық округі</td>
-<td>10</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Атакент кенті</td>
-<td>20</td>
 </tr>
 <tr>
 <td></td>
@@ -4888,17 +4802,9 @@ source: https://zan.gov.kz/client/#!/doc/49650/kaz/18.08.2010
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td>Мақтаарал ауылдық округі</td>
-<td>10</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
 <td>011</td>
 <td>Елді мекендерді абаттандыру мен көгалдандыру</td>
-<td>19 016</td>
+<td>19 020</td>
 </tr>
 <tr>
 <td></td>
@@ -4994,7 +4900,7 @@ source: https://zan.gov.kz/client/#!/doc/49650/kaz/18.08.2010
 <td></td>
 <td></td>
 <td>Жолдасбай Ералиев ауылдық округі</td>
-<td>200</td>
+<td>420</td>
 </tr>
 <tr>
 <td></td>
@@ -5010,7 +4916,7 @@ source: https://zan.gov.kz/client/#!/doc/49650/kaz/18.08.2010
 <td></td>
 <td></td>
 <td>Мақталы ауылдық округі</td>
-<td>416</td>
+<td>200</td>
 </tr>
 <tr>
 <td></td>
