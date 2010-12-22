@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/49505/kaz/03.11.2010
+source: https://zan.gov.kz/client/#!/doc/49505/kaz/22.12.2010
 ---
 
 ## Түлкібас ауданының 2012 жылға арналған бюджеті
