@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/49448/kaz/08.12.2010
+source: https://zan.gov.kz/client/#!/doc/49448/kaz/23.12.2010
 ---
 
 ## 2010-2012 жылдарға арналған аудандық бюджеттің ауылдық округтер бойынша шығындары
