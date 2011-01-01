@@ -1,7 +1,11 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/49503/kaz/21.12.2010
+source: https://zan.gov.kz/client/#!/doc/49503/kaz/01.01.2011
 ---
+
+> *Бәйдібек аудандық мәслихатының*  
+> *2009 жылғы 21 желтоқсандағы*  
+> *№ 26/137 шешіміне 1-қосымша*
 
 ## 2010 жылға арналған аудан бюджеті
 
@@ -38,11 +42,11 @@ source: https://zan.gov.kz/client/#!/doc/49503/kaz/21.12.2010
 <td>5097387</td>
 </tr>
 <tr>
-<th>1</th>
-<th></th>
-<th></th>
-<th>Салықтық түсімдер</th>
-<th>189480</th>
+<td>1</td>
+<td></td>
+<td></td>
+<td>Салықтық түсімдер</td>
+<td>189480</td>
 </tr>
 <tr>
 <td></td>
@@ -150,11 +154,11 @@ source: https://zan.gov.kz/client/#!/doc/49503/kaz/21.12.2010
 <td>4167</td>
 </tr>
 <tr>
-<th>2</th>
-<th></th>
-<th></th>
-<th>Салықтық емес түсiмдер</th>
-<th>7400</th>
+<td>2</td>
+<td></td>
+<td></td>
+<td>Салықтық емес түсiмдер</td>
+<td>7400</td>
 </tr>
 <tr>
 <td></td>
@@ -206,11 +210,11 @@ source: https://zan.gov.kz/client/#!/doc/49503/kaz/21.12.2010
 <td>6857</td>
 </tr>
 <tr>
-<th>4</th>
-<th></th>
-<th></th>
-<th>Трансферттердің түсімдері</th>
-<th>4893650</th>
+<td>4</td>
+<td></td>
+<td></td>
+<td>Трансферттердің түсімдері</td>
+<td>4893650</td>
 </tr>
 <tr>
 <td></td>
@@ -259,12 +263,12 @@ source: https://zan.gov.kz/client/#!/doc/49503/kaz/21.12.2010
 <td>Атауы</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>II. ШЫҒЫНДАР</th>
-<th>5115948</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>II. ШЫҒЫНДАР</td>
+<td>5115948</td>
 </tr>
 <tr>
 <td>01</td>
@@ -1579,12 +1583,12 @@ source: https://zan.gov.kz/client/#!/doc/49503/kaz/21.12.2010
 <td>54445</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>ІII. Таза бюджеттік кредит беру</th>
-<th>17359</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>ІII. Таза бюджеттік кредит беру</td>
+<td>17359</td>
 </tr>
 <tr>
 <td colspan="5">Функционалдық топ</td>
@@ -1616,12 +1620,12 @@ source: https://zan.gov.kz/client/#!/doc/49503/kaz/21.12.2010
 <td>Атауы</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Бюджеттік кредиттер</th>
-<th>17804</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Бюджеттік кредиттер</td>
+<td>17804</td>
 </tr>
 <tr>
 <td>10</td>
@@ -1719,28 +1723,28 @@ source: https://zan.gov.kz/client/#!/doc/49503/kaz/21.12.2010
 <td>445</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>IV. Қаржы активтерімен жасалатын операциялар бойынша сальдо</th>
-<th>0</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>IV. Қаржы активтерімен жасалатын операциялар бойынша сальдо</td>
+<td>0</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>V. Бюджет (профициті) дефициті</th>
-<th>-5138933</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>V. Бюджет (профициті) дефициті</td>
+<td>-5138933</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>VI. Бюджет (профицитін) дефицитін қаржыландыру</th>
-<th>35920</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>VI. Бюджет (профицитін) дефицитін қаржыландыру</td>
+<td>35920</td>
 </tr>
 <tr>
 <td colspan="4">Санаты</td>
@@ -1766,12 +1770,12 @@ source: https://zan.gov.kz/client/#!/doc/49503/kaz/21.12.2010
 <td colspan="2">Ерекшелігі</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Қарыздар түсімі</th>
-<th>17804</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Қарыздар түсімі</td>
+<td>17804</td>
 </tr>
 <tr>
 <td>7</td>
@@ -1962,11 +1966,11 @@ source: https://zan.gov.kz/client/#!/doc/49503/kaz/21.12.2010
 <td>3502767</td>
 </tr>
 <tr>
-<th>1</th>
-<th></th>
-<th></th>
-<th>Салықтық түсімдер</th>
-<th>215549</th>
+<td>1</td>
+<td></td>
+<td></td>
+<td>Салықтық түсімдер</td>
+<td>215549</td>
 </tr>
 <tr>
 <td></td>
@@ -2074,11 +2078,11 @@ source: https://zan.gov.kz/client/#!/doc/49503/kaz/21.12.2010
 <td>2225</td>
 </tr>
 <tr>
-<th>2</th>
-<th></th>
-<th></th>
-<th>Салықтық емес түсiмдер</th>
-<th>4991</th>
+<td>2</td>
+<td></td>
+<td></td>
+<td>Салықтық емес түсiмдер</td>
+<td>4991</td>
 </tr>
 <tr>
 <td></td>
@@ -2130,11 +2134,11 @@ source: https://zan.gov.kz/client/#!/doc/49503/kaz/21.12.2010
 <td>5425</td>
 </tr>
 <tr>
-<th>4</th>
-<th></th>
-<th></th>
-<th>Трансферттердің түсімдері</th>
-<th>3276802</th>
+<td>4</td>
+<td></td>
+<td></td>
+<td>Трансферттердің түсімдері</td>
+<td>3276802</td>
 </tr>
 <tr>
 <td></td>
@@ -2183,12 +2187,12 @@ source: https://zan.gov.kz/client/#!/doc/49503/kaz/21.12.2010
 <td>Атауы</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>II. ШЫҒЫНДАР</th>
-<th>3502767</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>II. ШЫҒЫНДАР</td>
+<td>3502767</td>
 </tr>
 <tr>
 <td>01</td>
@@ -3175,36 +3179,36 @@ source: https://zan.gov.kz/client/#!/doc/49503/kaz/21.12.2010
 <td>3977</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>ІII. Таза бюджеттік кредит беру</th>
-<th>0</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>ІII. Таза бюджеттік кредит беру</td>
+<td>0</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>IV. Қаржы активтерімен жасалатын операциялар бойынша сальдо</th>
-<th>0</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>IV. Қаржы активтерімен жасалатын операциялар бойынша сальдо</td>
+<td>0</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>V. Бюджет (профициті) дефициті</th>
-<th>0</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>V. Бюджет (профициті) дефициті</td>
+<td>0</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>VI. Бюджет (профицитін) дефицитін қаржыландыру</th>
-<th>0</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>VI. Бюджет (профицитін) дефицитін қаржыландыру</td>
+<td>0</td>
 </tr>
 <tr>
 <td colspan="4">Санаты</td>
@@ -3307,11 +3311,11 @@ source: https://zan.gov.kz/client/#!/doc/49503/kaz/21.12.2010
 <td>4085293</td>
 </tr>
 <tr>
-<th>1</th>
-<th></th>
-<th></th>
-<th>Салықтық түсімдер</th>
-<th>243384</th>
+<td>1</td>
+<td></td>
+<td></td>
+<td>Салықтық түсімдер</td>
+<td>243384</td>
 </tr>
 <tr>
 <td></td>
@@ -3419,11 +3423,11 @@ source: https://zan.gov.kz/client/#!/doc/49503/kaz/21.12.2010
 <td>2402</td>
 </tr>
 <tr>
-<th>2</th>
-<th></th>
-<th></th>
-<th>Салықтық емес түсiмдер</th>
-<th>5391</th>
+<td>2</td>
+<td></td>
+<td></td>
+<td>Салықтық емес түсiмдер</td>
+<td>5391</td>
 </tr>
 <tr>
 <td></td>
@@ -3475,11 +3479,11 @@ source: https://zan.gov.kz/client/#!/doc/49503/kaz/21.12.2010
 <td>5859</td>
 </tr>
 <tr>
-<th>4</th>
-<th></th>
-<th></th>
-<th>Трансферттердің түсімдері</th>
-<th>3830659</th>
+<td>4</td>
+<td></td>
+<td></td>
+<td>Трансферттердің түсімдері</td>
+<td>3830659</td>
 </tr>
 <tr>
 <td></td>
@@ -3528,12 +3532,12 @@ source: https://zan.gov.kz/client/#!/doc/49503/kaz/21.12.2010
 <td>Атауы</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>II. ШЫҒЫНДАР</th>
-<th>4085293</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>II. ШЫҒЫНДАР</td>
+<td>4085293</td>
 </tr>
 <tr>
 <td>01</td>
@@ -4528,36 +4532,36 @@ source: https://zan.gov.kz/client/#!/doc/49503/kaz/21.12.2010
 <td>4255</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>ІII. Таза бюджеттік кредит беру</th>
-<th>0</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>ІII. Таза бюджеттік кредит беру</td>
+<td>0</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>IV. Қаржы активтерімен жасалатын операциялар бойынша сальдо</th>
-<th>0</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>IV. Қаржы активтерімен жасалатын операциялар бойынша сальдо</td>
+<td>0</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>V. Бюджет (профициті) дефициті</th>
-<th>0</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>V. Бюджет (профициті) дефициті</td>
+<td>0</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>VI. Бюджет (профицитін) дефицитін қаржыландыру</th>
-<th>0</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>VI. Бюджет (профицитін) дефицитін қаржыландыру</td>
+<td>0</td>
 </tr>
 <tr>
 <td colspan="4">Санаты</td>
@@ -4651,32 +4655,32 @@ source: https://zan.gov.kz/client/#!/doc/49503/kaz/21.12.2010
 <td colspan="2">Бағдарлама</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>II.ШЫҒЫНДАР</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>II.ШЫҒЫНДАР</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Инвестициялық жобалар</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Инвестициялық жобалар</td>
 </tr>
 <tr>
-<th>4</th>
-<th></th>
-<th></th>
-<th></th>
-<th>Бiлiм беру</th>
+<td>4</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Бiлiм беру</td>
 </tr>
 <tr>
-<th></th>
-<th>09</th>
-<th></th>
-<th></th>
-<th>Білім беру саласындағы өзге де қызметтер</th>
+<td></td>
+<td>09</td>
+<td></td>
+<td></td>
+<td>Білім беру саласындағы өзге де қызметтер</td>
 </tr>
 <tr>
 <td></td>
@@ -4693,18 +4697,18 @@ source: https://zan.gov.kz/client/#!/doc/49503/kaz/21.12.2010
 <td>Білім беру объектілерін салу және реконструкциялау</td>
 </tr>
 <tr>
-<th>7</th>
-<th></th>
-<th></th>
-<th></th>
-<th>Тұрғын үй-коммуналдық шаруашылық</th>
+<td>7</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Тұрғын үй-коммуналдық шаруашылық</td>
 </tr>
 <tr>
-<th></th>
-<th>1</th>
-<th></th>
-<th></th>
-<th>Тұрғын үй шаруашылығы</th>
+<td></td>
+<td>1</td>
+<td></td>
+<td></td>
+<td>Тұрғын үй шаруашылығы</td>
 </tr>
 <tr>
 <td></td>
@@ -4728,11 +4732,11 @@ source: https://zan.gov.kz/client/#!/doc/49503/kaz/21.12.2010
 <td>Инженерлік коммуникациялық инфрақұрылымды дамыту және жайластыру</td>
 </tr>
 <tr>
-<th></th>
-<th>02</th>
-<th></th>
-<th></th>
-<th>Коммуналдық шаруашылық</th>
+<td></td>
+<td>02</td>
+<td></td>
+<td></td>
+<td>Коммуналдық шаруашылық</td>
 </tr>
 <tr>
 <td>7</td>
@@ -4811,11 +4815,11 @@ source: https://zan.gov.kz/client/#!/doc/49503/kaz/21.12.2010
 <td>Бастауыш, негізгі орта және жалпы орта білім беру</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th>464</th>
-<th></th>
-<th>Ауданның (облыстық маңызы бар қаланың) білім бөлімі</th>
+<td></td>
+<td></td>
+<td>464</td>
+<td></td>
+<td>Ауданның (облыстық маңызы бар қаланың) білім бөлімі</td>
 </tr>
 <tr>
 <td></td>
@@ -4825,7 +4829,3 @@ source: https://zan.gov.kz/client/#!/doc/49503/kaz/21.12.2010
 <td>Жалпы білім беру</td>
 </tr>
 </table>
-
-> *Бәйдібек аудандық мәслихатының*  
-> *2009 жылғы 21 желтоқсандағы*  
-> *№ 26/137 шешіміне 6-қосымша*
