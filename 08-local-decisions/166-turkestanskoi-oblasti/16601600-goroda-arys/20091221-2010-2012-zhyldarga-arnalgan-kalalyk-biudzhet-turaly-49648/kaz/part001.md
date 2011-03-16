@@ -1,7 +1,11 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/49648/kaz/02.11.2010
+source: https://zan.gov.kz/client/#!/doc/49648/kaz/16.03.2011
 ---
+
+> *Арыс қалалық мәслихатының*  
+> *2009 жылғы 21 желтоқсандағы*  
+> *№ 28/164-IV шешіміне 1-қосымша*
 
 ## 2010 жылға арналған қалалық бюджет
 
@@ -4751,25 +4755,21 @@ source: https://zan.gov.kz/client/#!/doc/49648/kaz/02.11.2010
 <table>
 <tr>
 <td colspan="5">Функционалдық топ</td>
-<td></td>
 </tr>
 <tr>
 <td></td>
 <td colspan="4">Кіші функция</td>
-<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="3">Бюджеттік бағдарламалардың әкiмшiсi</td>
-<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">Бағдарлама</td>
-<td></td>
 </tr>
 <tr>
 <td></td>
@@ -4777,12 +4777,10 @@ source: https://zan.gov.kz/client/#!/doc/49648/kaz/02.11.2010
 <td></td>
 <td></td>
 <td>Атауы</td>
-<td></td>
 </tr>
 <tr>
 <td colspan="4">1</td>
 <td>2</td>
-<td></td>
 </tr>
 <tr>
 <td>04</td>
@@ -4790,7 +4788,6 @@ source: https://zan.gov.kz/client/#!/doc/49648/kaz/02.11.2010
 <td></td>
 <td></td>
 <td>Бiлiм беру</td>
-<td></td>
 </tr>
 <tr>
 <td></td>
@@ -4798,7 +4795,6 @@ source: https://zan.gov.kz/client/#!/doc/49648/kaz/02.11.2010
 <td></td>
 <td></td>
 <td>Бастауыш, негізгі орта және жалпы орта білім беру</td>
-<td></td>
 </tr>
 <tr>
 <td></td>
@@ -4806,7 +4802,6 @@ source: https://zan.gov.kz/client/#!/doc/49648/kaz/02.11.2010
 <td>464</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) білім бөлімі</td>
-<td></td>
 </tr>
 <tr>
 <td></td>
@@ -4814,7 +4809,6 @@ source: https://zan.gov.kz/client/#!/doc/49648/kaz/02.11.2010
 <td></td>
 <td>003</td>
 <td>Жалпы білім беру</td>
-<td></td>
 </tr>
 </table>
 
