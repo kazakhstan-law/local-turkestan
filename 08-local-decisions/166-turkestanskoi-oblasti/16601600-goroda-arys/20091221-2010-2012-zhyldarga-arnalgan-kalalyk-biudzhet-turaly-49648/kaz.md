@@ -1,5 +1,5 @@
 ---
-version_id: AI49648_6
+version_id: AI49648_7
 act_code: '49648'
 language: kaz
 title: 2010-2012 жылдарға арналған қалалық бюджет туралы
@@ -10,13 +10,9 @@ type_codes:
 approved_by:
 - '166016000002'
 approval_date: 2009-12-21
-version_date: 2010-11-02
+version_date: 2011-03-16
 registry_number: '49648'
-caused_by:
-  code: '55482'
-  title: Арыс қалалық мәслихатының 2009 жылғы 21 желтоқсандағы N 28/164-IV "2010-2012 жылдарға арналған қалалық бюджет туралы" шешіміне өзгерістер енгізу туралы
-  link: https://zan.gov.kz/client/#!/doc/55482/kaz
-source: https://zan.gov.kz/client/#!/doc/49648/kaz/02.11.2010
+source: https://zan.gov.kz/client/#!/doc/49648/kaz
 ---
 
 # 2010-2012 жылдарға арналған қалалық бюджет туралы
@@ -71,9 +67,13 @@ source: https://zan.gov.kz/client/#!/doc/49648/kaz/02.11.2010
 
 10. Осы шешім 2010 жылдың 1 қаңтарынан бастап қолданысқа енгізіледі.
 
-Қалалық мәслихат сессиясының төрағасы С.Файзуллаев
+**Қалалық мәслихат сессиясының төрағасы**
 
-Қалалық мәслихат хатшысы Ө.Керімқұлов
+**С.Файзуллаев**
+
+**Қалалық мәслихат хатшысы**
+
+**Ө.Керімқұлов**
 
 > *Арыс қалалық мәслихатының*  
 > *2009 жылғы 21 желтоқсандағы*  
@@ -4827,25 +4827,21 @@ source: https://zan.gov.kz/client/#!/doc/49648/kaz/02.11.2010
 <table>
 <tr>
 <td colspan="5">Функционалдық топ</td>
-<td></td>
 </tr>
 <tr>
 <td></td>
 <td colspan="4">Кіші функция</td>
-<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="3">Бюджеттік бағдарламалардың әкiмшiсi</td>
-<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">Бағдарлама</td>
-<td></td>
 </tr>
 <tr>
 <td></td>
@@ -4853,12 +4849,10 @@ source: https://zan.gov.kz/client/#!/doc/49648/kaz/02.11.2010
 <td></td>
 <td></td>
 <td>Атауы</td>
-<td></td>
 </tr>
 <tr>
 <td colspan="4">1</td>
 <td>2</td>
-<td></td>
 </tr>
 <tr>
 <td>04</td>
@@ -4866,7 +4860,6 @@ source: https://zan.gov.kz/client/#!/doc/49648/kaz/02.11.2010
 <td></td>
 <td></td>
 <td>Бiлiм беру</td>
-<td></td>
 </tr>
 <tr>
 <td></td>
@@ -4874,7 +4867,6 @@ source: https://zan.gov.kz/client/#!/doc/49648/kaz/02.11.2010
 <td></td>
 <td></td>
 <td>Бастауыш, негізгі орта және жалпы орта білім беру</td>
-<td></td>
 </tr>
 <tr>
 <td></td>
@@ -4882,7 +4874,6 @@ source: https://zan.gov.kz/client/#!/doc/49648/kaz/02.11.2010
 <td>464</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) білім бөлімі</td>
-<td></td>
 </tr>
 <tr>
 <td></td>
@@ -4890,7 +4881,6 @@ source: https://zan.gov.kz/client/#!/doc/49648/kaz/02.11.2010
 <td></td>
 <td>003</td>
 <td>Жалпы білім беру</td>
-<td></td>
 </tr>
 </table>
 
