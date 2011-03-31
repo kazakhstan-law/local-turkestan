@@ -1,9 +1,11 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/56441/kaz/02.03.2011
+source: https://zan.gov.kz/client/#!/doc/56441/kaz/31.03.2011
 ---
 
 ## 2011 жылға арналған қалалық бюджеттің ауыл округтері бойынша жергілікті бюджеттік бағдарламаларының тізбесі
+
+> *Ескерту. 6-Қосымша жаңа редакцияда - Оңтүстік Қазақстан облысы Түркістан қалалық мәслихатының 2011.03.31 N 43/295-IV (2011 жылғы 1 қаңтардан бастап қолданысқа енгізіледі) Шешімімен.*
 
 <table>
 <tr>
@@ -12,8 +14,7 @@ source: https://zan.gov.kz/client/#!/doc/56441/kaz/02.03.2011
 </tr>
 <tr>
 <td></td>
-<td colspan="3">Кіші функция</td>
-<td>Атауы</td>
+<td colspan="4">Кіші функция</td>
 </tr>
 <tr>
 <td></td>
@@ -25,6 +26,14 @@ source: https://zan.gov.kz/client/#!/doc/56441/kaz/02.03.2011
 <td></td>
 <td></td>
 <td colspan="2">Бағдарлама</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Атауы</td>
 </tr>
 <tr>
 <td>1</td>
@@ -60,6 +69,14 @@ source: https://zan.gov.kz/client/#!/doc/56441/kaz/02.03.2011
 </tr>
 <tr>
 <td>5</td>
+<td></td>
+<td></td>
+<td></td>
+<td>023</td>
+<td>Мемлекеттік органдардың күрделі шығыстары</td>
+</tr>
+<tr>
+<td>6</td>
 <td>04</td>
 <td></td>
 <td></td>
@@ -67,7 +84,7 @@ source: https://zan.gov.kz/client/#!/doc/56441/kaz/02.03.2011
 <td>Бiлiм беру</td>
 </tr>
 <tr>
-<td>6</td>
+<td>7</td>
 <td></td>
 <td>1</td>
 <td></td>
@@ -75,7 +92,7 @@ source: https://zan.gov.kz/client/#!/doc/56441/kaz/02.03.2011
 <td>Мектепке дейiнгi тәрбие және оқыту</td>
 </tr>
 <tr>
-<td>7</td>
+<td>8</td>
 <td></td>
 <td></td>
 <td>123</td>
@@ -83,7 +100,7 @@ source: https://zan.gov.kz/client/#!/doc/56441/kaz/02.03.2011
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл (село), ауылдық (селолық) округ әкімінің аппараты</td>
 </tr>
 <tr>
-<td>8</td>
+<td>9</td>
 <td></td>
 <td></td>
 <td></td>
@@ -91,7 +108,15 @@ source: https://zan.gov.kz/client/#!/doc/56441/kaz/02.03.2011
 <td>Мектепке дейінгі тәрбие ұйымдарын қолдау</td>
 </tr>
 <tr>
-<td>9</td>
+<td>10</td>
+<td></td>
+<td></td>
+<td></td>
+<td>025</td>
+<td>Мектеп мұғалімдеріне және мектепке дейінгі ұйымдардың тәрбиешілеріне біліктілік санаты үшін қосымша ақының көлемін ұлғайту</td>
+</tr>
+<tr>
+<td>11</td>
 <td></td>
 <td>2</td>
 <td></td>
@@ -99,7 +124,7 @@ source: https://zan.gov.kz/client/#!/doc/56441/kaz/02.03.2011
 <td>Жалпы бастауыш, жалпы негізгі, жалпы орта бiлiм беру</td>
 </tr>
 <tr>
-<td>10</td>
+<td>12</td>
 <td></td>
 <td></td>
 <td>123</td>
@@ -107,7 +132,7 @@ source: https://zan.gov.kz/client/#!/doc/56441/kaz/02.03.2011
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл (село), ауылдық (селолық) округ әкімінің аппараты</td>
 </tr>
 <tr>
-<td>11</td>
+<td>13</td>
 <td></td>
 <td></td>
 <td></td>
@@ -115,7 +140,7 @@ source: https://zan.gov.kz/client/#!/doc/56441/kaz/02.03.2011
 <td>Ауылдық (селолық) жерлерде балаларды мектепке дейін тегін алып баруды және кері алып келуді ұйымдастыру</td>
 </tr>
 <tr>
-<td>12</td>
+<td>14</td>
 <td>06</td>
 <td></td>
 <td></td>
@@ -123,7 +148,7 @@ source: https://zan.gov.kz/client/#!/doc/56441/kaz/02.03.2011
 <td>Әлеуметтiк көмек және әлеуметтiк қамсыздандыру</td>
 </tr>
 <tr>
-<td>13</td>
+<td>15</td>
 <td></td>
 <td>2</td>
 <td></td>
@@ -131,7 +156,7 @@ source: https://zan.gov.kz/client/#!/doc/56441/kaz/02.03.2011
 <td>Әлеуметтiк көмек</td>
 </tr>
 <tr>
-<td>14</td>
+<td>16</td>
 <td></td>
 <td></td>
 <td>123</td>
@@ -139,7 +164,7 @@ source: https://zan.gov.kz/client/#!/doc/56441/kaz/02.03.2011
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл (село), ауылдық (селолық) округ әкімінің аппараты</td>
 </tr>
 <tr>
-<td>15</td>
+<td>17</td>
 <td></td>
 <td></td>
 <td></td>
@@ -147,7 +172,7 @@ source: https://zan.gov.kz/client/#!/doc/56441/kaz/02.03.2011
 <td>Мұқтаж азаматтарға үйінде әлеуметтік көмек көрсету</td>
 </tr>
 <tr>
-<td>16</td>
+<td>18</td>
 <td>07</td>
 <td></td>
 <td></td>
@@ -155,7 +180,7 @@ source: https://zan.gov.kz/client/#!/doc/56441/kaz/02.03.2011
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
 </tr>
 <tr>
-<td>20</td>
+<td>19</td>
 <td></td>
 <td>3</td>
 <td></td>
@@ -163,7 +188,7 @@ source: https://zan.gov.kz/client/#!/doc/56441/kaz/02.03.2011
 <td>Елді-мекендерді көркейту</td>
 </tr>
 <tr>
-<td>21</td>
+<td>20</td>
 <td></td>
 <td></td>
 <td>123</td>
@@ -171,15 +196,7 @@ source: https://zan.gov.kz/client/#!/doc/56441/kaz/02.03.2011
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл (село), ауылдық (селолық) округ әкімінің аппараты</td>
 </tr>
 <tr>
-<td>22</td>
-<td></td>
-<td></td>
-<td></td>
-<td>008</td>
-<td>Елді мекендерде көшелерді жарықтандыру</td>
-</tr>
-<tr>
-<td>23</td>
+<td>21</td>
 <td></td>
 <td></td>
 <td></td>
@@ -187,7 +204,7 @@ source: https://zan.gov.kz/client/#!/doc/56441/kaz/02.03.2011
 <td>Елді мекендердің санитариясын қамтамасыз ету</td>
 </tr>
 <tr>
-<td>24</td>
+<td>22</td>
 <td></td>
 <td></td>
 <td></td>
@@ -534,36 +551,6 @@ source: https://zan.gov.kz/client/#!/doc/56441/kaz/02.03.2011
 </tr>
 <tr>
 <td>22</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>23</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>24</td>
 <td></td>
 <td></td>
 <td></td>
