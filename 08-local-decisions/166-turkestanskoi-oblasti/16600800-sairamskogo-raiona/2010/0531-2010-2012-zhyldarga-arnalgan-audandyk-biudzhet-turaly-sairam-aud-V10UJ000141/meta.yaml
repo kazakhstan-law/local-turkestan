@@ -15,7 +15,10 @@ versions:
 - date: 2010-05-31
   languages:
   - kaz
+- date: 2011-05-25
+  languages:
+  - kaz
 version_date:
-  kaz: 2010-05-31
+  kaz: 2011-05-25
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/52919/kaz/31.05.2010
+  kaz: https://zan.gov.kz/client/#!/doc/52919/kaz/25.05.2011
