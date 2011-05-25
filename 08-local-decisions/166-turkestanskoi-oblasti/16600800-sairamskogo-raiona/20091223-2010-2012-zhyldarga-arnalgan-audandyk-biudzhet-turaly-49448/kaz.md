@@ -1,5 +1,5 @@
 ---
-version_id: AI49448_8
+version_id: AI49448_9
 act_code: '49448'
 language: kaz
 title: 2010-2012 жылдарға арналған аудандық бюджет туралы
@@ -10,13 +10,9 @@ type_codes:
 approved_by:
 - '166008000002'
 approval_date: 2009-12-23
-version_date: 2010-12-23
+version_date: 2011-05-25
 registry_number: '49448'
-caused_by:
-  code: '56246'
-  title: '"2010-2012 жылдарға арналған аудандық бюджет туралы" Сайрам аудандық мәслихатының 2009 жылғы 23 желтоқсандағы N 25-249/IV шешіміне өзгертулер енгізу туралы'
-  link: https://zan.gov.kz/client/#!/doc/56246/kaz
-source: https://zan.gov.kz/client/#!/doc/49448/kaz/23.12.2010
+source: https://zan.gov.kz/client/#!/doc/49448/kaz
 ---
 
 # 2010-2012 жылдарға арналған аудандық бюджет туралы
@@ -85,9 +81,13 @@ source: https://zan.gov.kz/client/#!/doc/49448/kaz/23.12.2010
 
 6. Осы шешім 2010 жылдың 1 қаңтарынан бастап қолданысқа енгізілсін.
 
-Аудандық мәслихат сессиясының төрағасы Н.Бөрібеков
+**Аудандық мәслихат сессиясының төрағасы**
 
-Аудандық мәслихат хатшысы Т.Тулендиев
+**Н.Бөрібеков**
+
+**Аудандық мәслихат хатшысы**
+
+**Т.Тулендиев**
 
 > *Сайрам аудандық мәслихатының*  
 > *2009 жылғы 23 желтоқсандағы*  
@@ -103,14 +103,14 @@ source: https://zan.gov.kz/client/#!/doc/49448/kaz/23.12.2010
 <th rowspan="3">Сомасы, мың теңге</th>
 </tr>
 <tr>
-<th></th>
-<th colspan="2">Сыныбы</th>
-<th>Атауы</th>
+<td></td>
+<td colspan="2">Сыныбы</td>
+<td>Атауы</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th colspan="2">Iшкi сыныбы</th>
+<td></td>
+<td></td>
+<td colspan="2">Iшкi сыныбы</td>
 </tr>
 <tr>
 <th colspan="3">1</th>
@@ -2163,14 +2163,14 @@ source: https://zan.gov.kz/client/#!/doc/49448/kaz/23.12.2010
 <th rowspan="3">Сомасы, мың теңге</th>
 </tr>
 <tr>
-<th></th>
-<th colspan="2">Сыныбы</th>
-<th>Атауы</th>
+<td></td>
+<td colspan="2">Сыныбы</td>
+<td>Атауы</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th colspan="2">Iшкi сыныбы</th>
+<td></td>
+<td></td>
+<td colspan="2">Iшкi сыныбы</td>
 </tr>
 <tr>
 <th colspan="3">1</th>
@@ -3527,14 +3527,14 @@ source: https://zan.gov.kz/client/#!/doc/49448/kaz/23.12.2010
 <th rowspan="3">Сомасы, мың теңге</th>
 </tr>
 <tr>
-<th></th>
-<th colspan="2">Сыныбы</th>
-<th>Атауы</th>
+<td></td>
+<td colspan="2">Сыныбы</td>
+<td>Атауы</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th colspan="2">Iшкi сыныбы</th>
+<td></td>
+<td></td>
+<td colspan="2">Iшкi сыныбы</td>
 </tr>
 <tr>
 <th>1</th>
@@ -4890,13 +4890,6 @@ source: https://zan.gov.kz/client/#!/doc/49448/kaz/23.12.2010
 <td></td>
 <td></td>
 <td colspan="2">Бағдарлама</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td>1</td>
