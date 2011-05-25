@@ -1,7 +1,11 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/49448/kaz/23.12.2010
+source: https://zan.gov.kz/client/#!/doc/49448/kaz/25.05.2011
 ---
+
+> *Сайрам аудандық мәслихатының*  
+> *2009 жылғы 23 желтоқсандағы*  
+> *№ 25-249/IV шешіміне 1-қосымша*
 
 ## Сайрам ауданының 2010 жылға арналған бюджеті
 
@@ -13,14 +17,14 @@ source: https://zan.gov.kz/client/#!/doc/49448/kaz/23.12.2010
 <th rowspan="3">Сомасы, мың теңге</th>
 </tr>
 <tr>
-<th></th>
-<th colspan="2">Сыныбы</th>
-<th>Атауы</th>
+<td></td>
+<td colspan="2">Сыныбы</td>
+<td>Атауы</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th colspan="2">Iшкi сыныбы</th>
+<td></td>
+<td></td>
+<td colspan="2">Iшкi сыныбы</td>
 </tr>
 <tr>
 <th colspan="3">1</th>
@@ -2073,14 +2077,14 @@ source: https://zan.gov.kz/client/#!/doc/49448/kaz/23.12.2010
 <th rowspan="3">Сомасы, мың теңге</th>
 </tr>
 <tr>
-<th></th>
-<th colspan="2">Сыныбы</th>
-<th>Атауы</th>
+<td></td>
+<td colspan="2">Сыныбы</td>
+<td>Атауы</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th colspan="2">Iшкi сыныбы</th>
+<td></td>
+<td></td>
+<td colspan="2">Iшкi сыныбы</td>
 </tr>
 <tr>
 <th colspan="3">1</th>
@@ -3437,14 +3441,14 @@ source: https://zan.gov.kz/client/#!/doc/49448/kaz/23.12.2010
 <th rowspan="3">Сомасы, мың теңге</th>
 </tr>
 <tr>
-<th></th>
-<th colspan="2">Сыныбы</th>
-<th>Атауы</th>
+<td></td>
+<td colspan="2">Сыныбы</td>
+<td>Атауы</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th colspan="2">Iшкi сыныбы</th>
+<td></td>
+<td></td>
+<td colspan="2">Iшкi сыныбы</td>
 </tr>
 <tr>
 <th>1</th>
@@ -4802,13 +4806,6 @@ source: https://zan.gov.kz/client/#!/doc/49448/kaz/23.12.2010
 <td colspan="2">Бағдарлама</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
 <td>1</td>
 <td></td>
 <td></td>
@@ -5064,7 +5061,3 @@ source: https://zan.gov.kz/client/#!/doc/49448/kaz/23.12.2010
 <td>Жалпы білім беру</td>
 </tr>
 </table>
-
-> *Сайрам аудандық мәслихатының*  
-> *2009 жылғы 23 желтоқсандағы*  
-> *№ 25-249/IV шешіміне 6-қосымша*
