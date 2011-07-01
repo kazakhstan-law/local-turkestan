@@ -1,30 +1,44 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/56237/kaz/30.05.2011
+source: https://zan.gov.kz/client/#!/doc/56237/kaz/01.07.2011
 ---
 
 ## 2011 жылға арналған аудан бюджеті
 
-> *Ескерту. 1-Қосымша жаңа редакцияда - Оңтүстік Қазақстан облысы Бәйдібек аудандық мәслихатының 2011.05.30 N 44/249 (2011 жылғы 1 қаңтардан бастап қолданысқа енгізіледі) Шешімімен.*
+> *Ескерту. 1-Қосымша жаңа редакцияда - Оңтүстік Қазақстан облысы Бәйдібек аудандық мәслихатының 2011.07.01 N 45/258 (2011 жылғы 1 қаңтардан бастап қолданысқа енгізіледі) Шешімімен.*
 
 <table>
 <tr>
-<td colspan="3">Санаты</td>
+<td colspan="5">Санаты</td>
+<td rowspan="5">Сомасы, мың теңге</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="4">Сыныбы</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="3">Ішкі сыныбы</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Ерекшелігі</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td>Атауы</td>
-<td rowspan="3">Сомасы, мың теңге</td>
 </tr>
 <tr>
-<td></td>
-<td colspan="2">Сыныбы</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td colspan="2">Ішкі сыныбы</td>
-</tr>
-<tr>
-<th colspan="3">1</th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
 <th>2</th>
 <th>3</th>
 </tr>
@@ -32,11 +46,13 @@ source: https://zan.gov.kz/client/#!/doc/56237/kaz/30.05.2011
 <td></td>
 <td></td>
 <td></td>
-<td>І. Кірістер</td>
+<td></td>
+<td>І. КІРІСТЕР</td>
 <td>5039078</td>
 </tr>
 <tr>
 <td>1</td>
+<td></td>
 <td></td>
 <td></td>
 <td>Салықтық түсімдер</td>
@@ -46,6 +62,7 @@ source: https://zan.gov.kz/client/#!/doc/56237/kaz/30.05.2011
 <td></td>
 <td>01</td>
 <td></td>
+<td></td>
 <td>Табыс салығы</td>
 <td>88859</td>
 </tr>
@@ -53,12 +70,14 @@ source: https://zan.gov.kz/client/#!/doc/56237/kaz/30.05.2011
 <td></td>
 <td></td>
 <td>2</td>
+<td></td>
 <td>Жеке табыс салығы</td>
 <td>88859</td>
 </tr>
 <tr>
 <td></td>
 <td>03</td>
+<td></td>
 <td></td>
 <td>Әлеуметтік салық</td>
 <td>83994</td>
@@ -67,12 +86,14 @@ source: https://zan.gov.kz/client/#!/doc/56237/kaz/30.05.2011
 <td></td>
 <td></td>
 <td>1</td>
+<td></td>
 <td>Әлеуметтік салық</td>
 <td>83994</td>
 </tr>
 <tr>
 <td></td>
 <td>04</td>
+<td></td>
 <td></td>
 <td>Меншікке салынатын салықтар</td>
 <td>58471</td>
@@ -81,6 +102,7 @@ source: https://zan.gov.kz/client/#!/doc/56237/kaz/30.05.2011
 <td></td>
 <td></td>
 <td>1</td>
+<td></td>
 <td>Мүлікке салынатын салықтар</td>
 <td>33000</td>
 </tr>
@@ -88,6 +110,7 @@ source: https://zan.gov.kz/client/#!/doc/56237/kaz/30.05.2011
 <td></td>
 <td></td>
 <td>3</td>
+<td></td>
 <td>Жер салығы</td>
 <td>5002</td>
 </tr>
@@ -95,6 +118,7 @@ source: https://zan.gov.kz/client/#!/doc/56237/kaz/30.05.2011
 <td></td>
 <td></td>
 <td>4</td>
+<td></td>
 <td>Көлік құралдарына салынатын салық</td>
 <td>18591</td>
 </tr>
@@ -102,12 +126,14 @@ source: https://zan.gov.kz/client/#!/doc/56237/kaz/30.05.2011
 <td></td>
 <td></td>
 <td>5</td>
+<td></td>
 <td>Бірыңғай жер салығы</td>
 <td>1878</td>
 </tr>
 <tr>
 <td></td>
 <td>05</td>
+<td></td>
 <td></td>
 <td>Тауарларға, жұмыстарға және қызметтерге салынатын iшкi салықтар</td>
 <td>6280</td>
@@ -116,6 +142,7 @@ source: https://zan.gov.kz/client/#!/doc/56237/kaz/30.05.2011
 <td></td>
 <td></td>
 <td>2</td>
+<td></td>
 <td>Акциздер</td>
 <td>2280</td>
 </tr>
@@ -123,6 +150,7 @@ source: https://zan.gov.kz/client/#!/doc/56237/kaz/30.05.2011
 <td></td>
 <td></td>
 <td>3</td>
+<td></td>
 <td>Табиғи және басқа ресурстарды пайдаланғаны үшін түсетін түсімдер</td>
 <td>410</td>
 </tr>
@@ -130,12 +158,14 @@ source: https://zan.gov.kz/client/#!/doc/56237/kaz/30.05.2011
 <td></td>
 <td></td>
 <td>4</td>
+<td></td>
 <td>Кәсіпкерлік және кәсіби қызметті жүргізгені үшін алынатын алымдар</td>
 <td>3590</td>
 </tr>
 <tr>
 <td></td>
 <td>08</td>
+<td></td>
 <td></td>
 <td>Заңдық мәнді іс-әрекеттерді жасағаны және (немесе) оған уәкілеттігі бар мемлекеттік органдар немесе лауазымды адамдар құжаттар бергені үшін алынатын міндетті төлемдер</td>
 <td>4984</td>
@@ -144,11 +174,13 @@ source: https://zan.gov.kz/client/#!/doc/56237/kaz/30.05.2011
 <td></td>
 <td></td>
 <td>1</td>
+<td></td>
 <td>Мемлекеттік баж</td>
 <td>4984</td>
 </tr>
 <tr>
 <td>2</td>
+<td></td>
 <td></td>
 <td></td>
 <td>Салықтық емес түсiмдер</td>
@@ -158,6 +190,7 @@ source: https://zan.gov.kz/client/#!/doc/56237/kaz/30.05.2011
 <td></td>
 <td>01</td>
 <td></td>
+<td></td>
 <td>Мемлекеттік меншіктен түсетін кірістер</td>
 <td>2668</td>
 </tr>
@@ -165,6 +198,7 @@ source: https://zan.gov.kz/client/#!/doc/56237/kaz/30.05.2011
 <td></td>
 <td></td>
 <td>5</td>
+<td></td>
 <td>Мемлекет меншігіндегі мүлікті жалға беруден түсетін кірістер</td>
 <td>2668</td>
 </tr>
@@ -172,18 +206,21 @@ source: https://zan.gov.kz/client/#!/doc/56237/kaz/30.05.2011
 <td></td>
 <td>06</td>
 <td></td>
-<td>Басқада салықтық емес түсімдер</td>
+<td></td>
+<td>Басқа да салықтық емес түсімдер</td>
 <td>3160</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>1</td>
-<td>Басқада салықтық емес түсімдер</td>
+<td></td>
+<td>Басқа да салықтық емес түсімдер</td>
 <td>3160</td>
 </tr>
 <tr>
 <td>3</td>
+<td></td>
 <td></td>
 <td></td>
 <td>Негізгі капиталды сатудан түсетін түсімдер</td>
@@ -193,6 +230,7 @@ source: https://zan.gov.kz/client/#!/doc/56237/kaz/30.05.2011
 <td></td>
 <td>03</td>
 <td></td>
+<td></td>
 <td>Жерді және материалдық емес активтерді сату</td>
 <td>6471</td>
 </tr>
@@ -200,6 +238,7 @@ source: https://zan.gov.kz/client/#!/doc/56237/kaz/30.05.2011
 <td></td>
 <td></td>
 <td>1</td>
+<td></td>
 <td>Жерді сату</td>
 <td>6471</td>
 </tr>
@@ -207,12 +246,14 @@ source: https://zan.gov.kz/client/#!/doc/56237/kaz/30.05.2011
 <td>4</td>
 <td></td>
 <td></td>
-<td>Трансферттер түсімі</td>
+<td></td>
+<td>Трансферттердің түсімдері</td>
 <td>4784191</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
+<td></td>
 <td></td>
 <td>Мемлекеттік басқарудың жоғары тұрған органдарынан түсетін трансферттер</td>
 <td>4784191</td>
@@ -221,6 +262,7 @@ source: https://zan.gov.kz/client/#!/doc/56237/kaz/30.05.2011
 <td></td>
 <td></td>
 <td>2</td>
+<td></td>
 <td>Облыстық бюджеттен түсетін трансферттер</td>
 <td>4784191</td>
 </tr>
@@ -229,7 +271,7 @@ source: https://zan.gov.kz/client/#!/doc/56237/kaz/30.05.2011
 <table>
 <tr>
 <td colspan="5">Функционалдық топ</td>
-<td rowspan="5">Сомасы, мың теңге</td>
+<td rowspan="4">Сомасы мың теңге</td>
 </tr>
 <tr>
 <td></td>
@@ -251,14 +293,7 @@ source: https://zan.gov.kz/client/#!/doc/56237/kaz/30.05.2011
 <td></td>
 <td></td>
 <td></td>
-<td>Атауы</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>II. Шығындар</td>
+<td>II. ШЫҒЫНДАР</td>
 <td>5105191</td>
 </tr>
 <tr>
@@ -819,7 +854,7 @@ source: https://zan.gov.kz/client/#!/doc/56237/kaz/30.05.2011
 <td></td>
 <td></td>
 <td>Тұрғын үй шаруашылығы</td>
-<td>10173</td>
+<td>58796</td>
 </tr>
 <tr>
 <td></td>
@@ -827,7 +862,7 @@ source: https://zan.gov.kz/client/#!/doc/56237/kaz/30.05.2011
 <td>472</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) құрылыс, сәулет және қала құрылысы бөлімі</td>
-<td>10173</td>
+<td>58796</td>
 </tr>
 <tr>
 <td></td>
@@ -835,7 +870,7 @@ source: https://zan.gov.kz/client/#!/doc/56237/kaz/30.05.2011
 <td></td>
 <td>003</td>
 <td>Мемлекеттік коммуналдық тұрғын үй қорының тұрғын үй құрылысы және (немесе) сатып алу</td>
-<td>10173</td>
+<td>58796</td>
 </tr>
 <tr>
 <td></td>
@@ -843,7 +878,7 @@ source: https://zan.gov.kz/client/#!/doc/56237/kaz/30.05.2011
 <td></td>
 <td></td>
 <td>Коммуналдық шаруашылық</td>
-<td>446453</td>
+<td>397830</td>
 </tr>
 <tr>
 <td></td>
@@ -883,7 +918,7 @@ source: https://zan.gov.kz/client/#!/doc/56237/kaz/30.05.2011
 <td>472</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) құрылыс, сәулет және қала құрылысы бөлімі</td>
-<td>284413</td>
+<td>235790</td>
 </tr>
 <tr>
 <td></td>
@@ -891,7 +926,7 @@ source: https://zan.gov.kz/client/#!/doc/56237/kaz/30.05.2011
 <td></td>
 <td>006</td>
 <td>Сумен жабдықтау жүйесін дамыту</td>
-<td>284413</td>
+<td>235790</td>
 </tr>
 <tr>
 <td></td>
@@ -1640,17 +1675,12 @@ source: https://zan.gov.kz/client/#!/doc/56237/kaz/30.05.2011
 <td>19060</td>
 </tr>
 <tr>
-<td colspan="2">Санаты</td>
-<td></td>
-<td></td>
-<td>Атауы</td>
+<td colspan="5">Санаты</td>
 <td rowspan="4">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2">Сыныбы</td>
-<td></td>
-<td></td>
+<td colspan="4">Сыныбы</td>
 </tr>
 <tr>
 <td></td>
@@ -1662,6 +1692,14 @@ source: https://zan.gov.kz/client/#!/doc/56237/kaz/30.05.2011
 <td></td>
 <td></td>
 <td colspan="2">Ерекшелігі</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Атауы</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -1728,17 +1766,12 @@ source: https://zan.gov.kz/client/#!/doc/56237/kaz/30.05.2011
 <td>83986</td>
 </tr>
 <tr>
-<td colspan="2">Санаты</td>
-<td></td>
-<td></td>
-<td>Атауы</td>
-<td rowspan="4">Сомасы, мың теңге</td>
+<td colspan="5">Санаты</td>
+<td rowspan="4">Сомасы мың теңге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2">Сыныбы</td>
-<td></td>
-<td></td>
+<td colspan="4">Сыныбы</td>
 </tr>
 <tr>
 <td></td>
@@ -1750,6 +1783,14 @@ source: https://zan.gov.kz/client/#!/doc/56237/kaz/30.05.2011
 <td></td>
 <td></td>
 <td colspan="2">Ерекшелігі</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Атауы</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -1793,7 +1834,7 @@ source: https://zan.gov.kz/client/#!/doc/56237/kaz/30.05.2011
 </tr>
 <tr>
 <td colspan="5">Функционалдық топ</td>
-<td rowspan="5">Сомасы, мың теңге</td>
+<td rowspan="4">Сомасы мың теңге</td>
 </tr>
 <tr>
 <td></td>
@@ -1816,6 +1857,7 @@ source: https://zan.gov.kz/client/#!/doc/56237/kaz/30.05.2011
 <td></td>
 <td></td>
 <td>Атауы</td>
+<td></td>
 </tr>
 <tr>
 <td>16</td>
@@ -1850,17 +1892,12 @@ source: https://zan.gov.kz/client/#!/doc/56237/kaz/30.05.2011
 <td>1187</td>
 </tr>
 <tr>
-<td colspan="2">Санаты</td>
-<td></td>
-<td></td>
-<td>Атауы</td>
-<td rowspan="4">Сомасы, мың теңге</td>
+<td colspan="5">Санаты</td>
+<td rowspan="4">Сомасы мың теңге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2">Сыныбы</td>
-<td></td>
-<td></td>
+<td colspan="4">Сыныбы</td>
 </tr>
 <tr>
 <td></td>
@@ -1872,6 +1909,14 @@ source: https://zan.gov.kz/client/#!/doc/56237/kaz/30.05.2011
 <td></td>
 <td></td>
 <td colspan="2">Ерекшелігі</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Атауы</td>
+<td></td>
 </tr>
 <tr>
 <td>8</td>
