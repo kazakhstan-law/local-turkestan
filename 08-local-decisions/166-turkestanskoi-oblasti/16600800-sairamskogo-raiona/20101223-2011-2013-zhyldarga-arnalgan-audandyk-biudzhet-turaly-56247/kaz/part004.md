@@ -1,28 +1,25 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/56247/kaz/08.08.2011
+source: https://zan.gov.kz/client/#!/doc/56247/kaz/20.10.2011
 ---
 
 ## 2011-2013 жылдарға арналған аудандық бюджеттің ауылдық округтер бойынша шығындары
 
-> *Ескерту. 4-Қосымша жаңа редакцияда - Оңтүстік Қазақстан облысы Сайрам аудандық мәслихат сессиясының 2011.08.08 N 51-408/IV (2011 жылғы 1 қаңтардан бастап қолданысқа енгізіледі) Шешімімен.*
+> *Ескерту. 4-Қосымша жаңа редакцияда - Оңтүстік Қазақстан облысы Сайрам аудандық мәслихат сессиясының 2011.08.08 N 51-408/IV; 2011.10.20 № 53-427/IV (2011 жылғы 1 қаңтардан бастап қолданысқа енгізіледі) Шешімдерімен.*
 
 <table>
 <tr>
-<td colspan="6">Функционалдық топ</td>
-<td colspan="3">Сомасы, мың теңге</td>
+<td colspan="5">Функционалдық топ</td>
+<td colspan="3" rowspan="2">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="5">Кіші функция</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="4">Кіші функция</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="4">Бюджеттік бағдарламалардың әкiмшiсi</td>
+<td colspan="3">Бюджеттік бағдарламалардың әкiмшiсi</td>
 <td>2011 жыл</td>
 <td>2012 жыл</td>
 <td>2013 жыл</td>
@@ -31,23 +28,12 @@ source: https://zan.gov.kz/client/#!/doc/56247/kaz/08.08.2011
 <td></td>
 <td></td>
 <td></td>
-<td colspan="3">Бағдарлама</td>
+<td colspan="2">Бағдарлама</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2">Кіші бағдарлама</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -58,11 +44,7 @@ source: https://zan.gov.kz/client/#!/doc/56247/kaz/08.08.2011
 <td></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th>1</th>
-<th></th>
-<th></th>
+<th colspan="4">1</th>
 <th>2</th>
 <th>3</th>
 <th>4</th>
@@ -73,9 +55,8 @@ source: https://zan.gov.kz/client/#!/doc/56247/kaz/08.08.2011
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>214469</td>
+<td>215072</td>
 <td>249554</td>
 <td>255932</td>
 </tr>
@@ -84,9 +65,8 @@ source: https://zan.gov.kz/client/#!/doc/56247/kaz/08.08.2011
 <td>1</td>
 <td></td>
 <td></td>
-<td></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>214469</td>
+<td>215072</td>
 <td>249554</td>
 <td>255932</td>
 </tr>
@@ -95,9 +75,8 @@ source: https://zan.gov.kz/client/#!/doc/56247/kaz/08.08.2011
 <td>1</td>
 <td>123</td>
 <td></td>
-<td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл (село), ауылдық (селолық) округ әкімінің аппараты</td>
-<td>214469</td>
+<td>215072</td>
 <td>249554</td>
 <td>255932</td>
 </tr>
@@ -106,14 +85,12 @@ source: https://zan.gov.kz/client/#!/doc/56247/kaz/08.08.2011
 <td>1</td>
 <td>123</td>
 <td>001</td>
-<td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қаланың, кент, ауыл (село), ауылдық (селолық) округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>211581</td>
+<td>212222</td>
 <td>249554</td>
 <td>255932</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -128,7 +105,6 @@ source: https://zan.gov.kz/client/#!/doc/56247/kaz/08.08.2011
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Арыс ауылдық округі әкімінің аппараты</td>
 <td>10293</td>
 <td>12877</td>
@@ -139,9 +115,8 @@ source: https://zan.gov.kz/client/#!/doc/56247/kaz/08.08.2011
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Ақбұлақ ауылдық округі әкімінің аппараты</td>
-<td>10532</td>
+<td>10558</td>
 <td>12601</td>
 <td>12816</td>
 </tr>
@@ -150,9 +125,8 @@ source: https://zan.gov.kz/client/#!/doc/56247/kaz/08.08.2011
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Бадам ауылдық округі әкімінің аппараты</td>
-<td>8713</td>
+<td>8810</td>
 <td>9532</td>
 <td>9738</td>
 </tr>
@@ -161,14 +135,12 @@ source: https://zan.gov.kz/client/#!/doc/56247/kaz/08.08.2011
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Жібек-Жолы ауылдық округі әкімінің аппараты</td>
-<td>9048</td>
+<td>9159</td>
 <td>10212</td>
 <td>10681</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -183,9 +155,8 @@ source: https://zan.gov.kz/client/#!/doc/56247/kaz/08.08.2011
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Жұлдыз ауылдық округі әкімінің аппараты</td>
-<td>12303</td>
+<td>12500</td>
 <td>14901</td>
 <td>15409</td>
 </tr>
@@ -194,14 +165,12 @@ source: https://zan.gov.kz/client/#!/doc/56247/kaz/08.08.2011
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Қайнарбұлақ ауылдық округі әкімінің аппараты</td>
-<td>12805</td>
+<td>12916</td>
 <td>15579</td>
 <td>16148</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -216,9 +185,8 @@ source: https://zan.gov.kz/client/#!/doc/56247/kaz/08.08.2011
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Қарамұрт ауылдық округі әкімінің аппараты</td>
-<td>13365</td>
+<td>13447</td>
 <td>15841</td>
 <td>16011</td>
 </tr>
@@ -227,9 +195,8 @@ source: https://zan.gov.kz/client/#!/doc/56247/kaz/08.08.2011
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Қарасу ауылдық округі әкімінің аппараты</td>
-<td>13293</td>
+<td>13484</td>
 <td>15384</td>
 <td>15881</td>
 </tr>
@@ -238,9 +205,8 @@ source: https://zan.gov.kz/client/#!/doc/56247/kaz/08.08.2011
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Қаратөбе ауылдық округі әкімінің аппараты</td>
-<td>12438</td>
+<td>12448</td>
 <td>15578</td>
 <td>15856</td>
 </tr>
@@ -249,9 +215,8 @@ source: https://zan.gov.kz/client/#!/doc/56247/kaz/08.08.2011
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Құтарыс ауылдық округі әкімінің аппараты</td>
-<td>10235</td>
+<td>10346</td>
 <td>10660</td>
 <td>10856</td>
 </tr>
@@ -260,14 +225,12 @@ source: https://zan.gov.kz/client/#!/doc/56247/kaz/08.08.2011
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Көлкент ауылдық округі әкімінің аппараты</td>
-<td>15697</td>
+<td>15608</td>
 <td>15733</td>
 <td>15980</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -282,14 +245,12 @@ source: https://zan.gov.kz/client/#!/doc/56247/kaz/08.08.2011
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Сайрам ауылдық округі әкімінің аппараты</td>
-<td>15458</td>
+<td>15252</td>
 <td>18473</td>
 <td>19622</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -304,14 +265,12 @@ source: https://zan.gov.kz/client/#!/doc/56247/kaz/08.08.2011
 <td></td>
 <td></td>
 <td>023</td>
-<td></td>
 <td>Мемлекеттік органдарды материалдық-техникалық жарақтандыру</td>
-<td>2888</td>
+<td>2850</td>
 <td>0</td>
 <td>0</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -326,14 +285,12 @@ source: https://zan.gov.kz/client/#!/doc/56247/kaz/08.08.2011
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Арыс ауылдық округі әкімінің аппараты</td>
 <td>150</td>
 <td>0</td>
 <td>0</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -348,14 +305,12 @@ source: https://zan.gov.kz/client/#!/doc/56247/kaz/08.08.2011
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Бадам ауылдық округі әкімінің аппараты</td>
 <td>150</td>
 <td>0</td>
 <td>0</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -370,7 +325,6 @@ source: https://zan.gov.kz/client/#!/doc/56247/kaz/08.08.2011
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Жаңаталап ауылдық округі әкімінің аппараты</td>
 <td>138</td>
 <td>0</td>
@@ -381,14 +335,12 @@ source: https://zan.gov.kz/client/#!/doc/56247/kaz/08.08.2011
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Жұлдыз ауылдық округі әкімінің аппараты</td>
-<td>150</td>
+<td>143</td>
 <td>0</td>
 <td>0</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -403,14 +355,12 @@ source: https://zan.gov.kz/client/#!/doc/56247/kaz/08.08.2011
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Қарабұлақ ауылдық округі әкімінің аппараты</td>
-<td>240</td>
+<td>238</td>
 <td>0</td>
 <td>0</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -421,7 +371,6 @@ source: https://zan.gov.kz/client/#!/doc/56247/kaz/08.08.2011
 <td>0</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -436,14 +385,12 @@ source: https://zan.gov.kz/client/#!/doc/56247/kaz/08.08.2011
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Қаратөбе ауылдық округі әкімінің аппараты</td>
 <td>264</td>
 <td>0</td>
 <td>0</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -458,14 +405,12 @@ source: https://zan.gov.kz/client/#!/doc/56247/kaz/08.08.2011
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Көлкент ауылдық округі әкімінің аппараты</td>
 <td>130</td>
 <td>0</td>
 <td>0</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -480,14 +425,12 @@ source: https://zan.gov.kz/client/#!/doc/56247/kaz/08.08.2011
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Сайрам ауылдық округі әкімінің аппараты</td>
-<td>304</td>
+<td>275</td>
 <td>0</td>
 <td>0</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -502,7 +445,6 @@ source: https://zan.gov.kz/client/#!/doc/56247/kaz/08.08.2011
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Бiлiм беру</td>
 <td>11339</td>
 <td>12197</td>
@@ -511,7 +453,6 @@ source: https://zan.gov.kz/client/#!/doc/56247/kaz/08.08.2011
 <tr>
 <td></td>
 <td>2</td>
-<td></td>
 <td></td>
 <td></td>
 <td>Бастауыш, негізгі орта және жалпы орта білім беру</td>
@@ -524,7 +465,6 @@ source: https://zan.gov.kz/client/#!/doc/56247/kaz/08.08.2011
 <td></td>
 <td>123</td>
 <td></td>
-<td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл (село), ауылдық (селолық) округ әкімінің аппараты</td>
 <td>11339</td>
 <td>12197</td>
@@ -535,14 +475,12 @@ source: https://zan.gov.kz/client/#!/doc/56247/kaz/08.08.2011
 <td></td>
 <td></td>
 <td>005</td>
-<td></td>
 <td>Ауылдық (селолық) жерлерде балаларды мектепке дейін тегін алып баруды және кері алып келуді ұйымдастыру</td>
 <td>11339</td>
 <td>12197</td>
 <td>13118</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -557,14 +495,12 @@ source: https://zan.gov.kz/client/#!/doc/56247/kaz/08.08.2011
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Бадам ауылдық округі әкімінің аппараты</td>
 <td>576</td>
 <td>620</td>
 <td>670</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -579,14 +515,12 @@ source: https://zan.gov.kz/client/#!/doc/56247/kaz/08.08.2011
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Қайнарбұлақ ауылдық округі әкімінің аппараты</td>
 <td>394</td>
 <td>425</td>
 <td>457</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -601,14 +535,12 @@ source: https://zan.gov.kz/client/#!/doc/56247/kaz/08.08.2011
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Қарасу ауылдық округі әкімінің аппараты</td>
 <td>808</td>
 <td>870</td>
 <td>931</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -623,14 +555,12 @@ source: https://zan.gov.kz/client/#!/doc/56247/kaz/08.08.2011
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Қаратөбе ауылдық округі әкімінің аппараты</td>
 <td>890</td>
 <td>959</td>
 <td>1033</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -645,14 +575,12 @@ source: https://zan.gov.kz/client/#!/doc/56247/kaz/08.08.2011
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Манкент ауылдық округі әкімінің аппараты</td>
 <td>127</td>
 <td>137</td>
 <td>146</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -667,9 +595,8 @@ source: https://zan.gov.kz/client/#!/doc/56247/kaz/08.08.2011
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>29160</td>
+<td>28907</td>
 <td>34520</td>
 <td>37159</td>
 </tr>
@@ -678,9 +605,8 @@ source: https://zan.gov.kz/client/#!/doc/56247/kaz/08.08.2011
 <td>3</td>
 <td></td>
 <td></td>
-<td></td>
 <td>Елді-мекендерді көркейту</td>
-<td>29160</td>
+<td>28907</td>
 <td>34520</td>
 <td>37159</td>
 </tr>
@@ -689,9 +615,8 @@ source: https://zan.gov.kz/client/#!/doc/56247/kaz/08.08.2011
 <td></td>
 <td>123</td>
 <td></td>
-<td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл (село), ауылдық (селолық) округ әкімінің аппараты</td>
-<td>29160</td>
+<td>28907</td>
 <td>34520</td>
 <td>37159</td>
 </tr>
@@ -700,14 +625,12 @@ source: https://zan.gov.kz/client/#!/doc/56247/kaz/08.08.2011
 <td></td>
 <td></td>
 <td>008</td>
-<td></td>
 <td>Елдi мекендерде көшелердi жарықтандыру</td>
-<td>2258</td>
+<td>2348</td>
 <td>2461</td>
 <td>2640</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -722,14 +645,12 @@ source: https://zan.gov.kz/client/#!/doc/56247/kaz/08.08.2011
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Ақбұлақ ауылдық округі әкімінің аппараты</td>
 <td>59</td>
 <td>63</td>
 <td>68</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -744,14 +665,12 @@ source: https://zan.gov.kz/client/#!/doc/56247/kaz/08.08.2011
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Жаңаталап ауылдық округі әкімінің аппараты</td>
 <td>127</td>
 <td>137</td>
 <td>147</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -766,14 +685,12 @@ source: https://zan.gov.kz/client/#!/doc/56247/kaz/08.08.2011
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Жұлдыз ауылдық округі әкімінің аппараты</td>
 <td>315</td>
 <td>345</td>
 <td>372</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -788,14 +705,12 @@ source: https://zan.gov.kz/client/#!/doc/56247/kaz/08.08.2011
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Қарабұлақ ауылдық округі әкімінің аппараты</td>
 <td>79</td>
 <td>85</td>
 <td>91</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -810,14 +725,12 @@ source: https://zan.gov.kz/client/#!/doc/56247/kaz/08.08.2011
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Қаратөбе ауылдық округі әкімінің аппараты</td>
 <td>249</td>
 <td>103</td>
 <td>111</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -832,7 +745,6 @@ source: https://zan.gov.kz/client/#!/doc/56247/kaz/08.08.2011
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Құтарыс ауылдық округі әкімінің аппараты</td>
 <td>62</td>
 <td>66</td>
@@ -843,14 +755,12 @@ source: https://zan.gov.kz/client/#!/doc/56247/kaz/08.08.2011
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Көлкент ауылдық округі әкімінің аппараты</td>
-<td>86</td>
+<td>176</td>
 <td>92</td>
 <td>99</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -865,14 +775,12 @@ source: https://zan.gov.kz/client/#!/doc/56247/kaz/08.08.2011
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Сайрам ауылдық округі әкімінің аппараты</td>
 <td>390</td>
 <td>419</td>
 <td>449</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -887,14 +795,12 @@ source: https://zan.gov.kz/client/#!/doc/56247/kaz/08.08.2011
 <td></td>
 <td></td>
 <td>009</td>
-<td></td>
 <td>Елдi мекендердiң санитариясын қамтамасыз ету</td>
-<td>23401</td>
+<td>23101</td>
 <td>28135</td>
 <td>30314</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -909,14 +815,12 @@ source: https://zan.gov.kz/client/#!/doc/56247/kaz/08.08.2011
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Арыс ауылдық округі әкімінің аппараты</td>
 <td>396</td>
 <td>427</td>
 <td>460</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -931,14 +835,12 @@ source: https://zan.gov.kz/client/#!/doc/56247/kaz/08.08.2011
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Бадам ауылдық округі әкімінің аппараты</td>
 <td>217</td>
 <td>234</td>
 <td>252</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -953,14 +855,12 @@ source: https://zan.gov.kz/client/#!/doc/56247/kaz/08.08.2011
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Жібек-Жолы ауылдық округі әкімінің аппараты</td>
 <td>824</td>
 <td>988</td>
 <td>1061</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -975,14 +875,12 @@ source: https://zan.gov.kz/client/#!/doc/56247/kaz/08.08.2011
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Қайнарбұлақ ауылдық округі әкімінің аппараты</td>
 <td>618</td>
 <td>666</td>
 <td>718</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -997,14 +895,12 @@ source: https://zan.gov.kz/client/#!/doc/56247/kaz/08.08.2011
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Қарамұрт ауылдық округі әкімінің аппараты</td>
 <td>470</td>
 <td>694</td>
 <td>748</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1019,14 +915,12 @@ source: https://zan.gov.kz/client/#!/doc/56247/kaz/08.08.2011
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Қарасу ауылдық округі әкімінің аппараты</td>
-<td>2070</td>
+<td>1770</td>
 <td>2508</td>
 <td>2703</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1041,14 +935,12 @@ source: https://zan.gov.kz/client/#!/doc/56247/kaz/08.08.2011
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Көлкент ауылдық округі әкімінің аппараты</td>
 <td>856</td>
 <td>922</td>
 <td>994</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1063,14 +955,12 @@ source: https://zan.gov.kz/client/#!/doc/56247/kaz/08.08.2011
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Сайрам ауылдық округі әкімінің аппараты</td>
 <td>3500</td>
 <td>4363</td>
 <td>4701</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1085,14 +975,12 @@ source: https://zan.gov.kz/client/#!/doc/56247/kaz/08.08.2011
 <td></td>
 <td></td>
 <td>011</td>
-<td></td>
 <td>Елдi мекендердi абаттандыру және көгалдандыру</td>
-<td>3501</td>
+<td>3458</td>
 <td>3924</td>
 <td>4205</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1107,14 +995,12 @@ source: https://zan.gov.kz/client/#!/doc/56247/kaz/08.08.2011
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Ақбұлақ ауылдық округі әкімінің аппараты</td>
 <td>159</td>
 <td>171</td>
 <td>183</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1129,14 +1015,12 @@ source: https://zan.gov.kz/client/#!/doc/56247/kaz/08.08.2011
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Жаңаталап ауылдық округі әкімінің аппараты</td>
 <td>102</td>
 <td>109</td>
 <td>117</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1151,7 +1035,6 @@ source: https://zan.gov.kz/client/#!/doc/56247/kaz/08.08.2011
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Жұлдыз ауылдық округі әкімінің аппараты</td>
 <td>220</td>
 <td>240</td>
@@ -1162,14 +1045,12 @@ source: https://zan.gov.kz/client/#!/doc/56247/kaz/08.08.2011
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Қайнарбұлақ ауылдық округі әкімінің аппараты</td>
 <td>222</td>
 <td>239</td>
 <td>256</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1184,7 +1065,6 @@ source: https://zan.gov.kz/client/#!/doc/56247/kaz/08.08.2011
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Қарамұрт ауылдық округі әкімінің аппараты</td>
 <td>230</td>
 <td>257</td>
@@ -1195,14 +1075,12 @@ source: https://zan.gov.kz/client/#!/doc/56247/kaz/08.08.2011
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Қаратөбе ауылдық округі әкімінің аппараты</td>
 <td>230</td>
 <td>259</td>
 <td>279</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1217,14 +1095,12 @@ source: https://zan.gov.kz/client/#!/doc/56247/kaz/08.08.2011
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Құтарыс ауылдық округі әкімінің аппараты</td>
 <td>147</td>
 <td>159</td>
 <td>170</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1239,7 +1115,6 @@ source: https://zan.gov.kz/client/#!/doc/56247/kaz/08.08.2011
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Манкент ауылдық округі әкімінің аппараты</td>
 <td>310</td>
 <td>334</td>
@@ -1250,14 +1125,12 @@ source: https://zan.gov.kz/client/#!/doc/56247/kaz/08.08.2011
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Сайрам ауылдық округі әкімінің аппараты</td>
-<td>323</td>
+<td>280</td>
 <td>346</td>
 <td>370</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1272,47 +1145,42 @@ source: https://zan.gov.kz/client/#!/doc/56247/kaz/08.08.2011
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Мәдениет, спорт, туризм және ақпараттық кеңістiк</td>
-<td>37226</td>
-<td>4733</td>
-<td>4751</td>
+<td>35496</td>
+<td>0</td>
+<td>0</td>
 </tr>
 <tr>
 <td></td>
 <td>1</td>
 <td></td>
 <td></td>
-<td></td>
 <td>Мәдениет саласындағы қызмет</td>
-<td>37226</td>
-<td>4733</td>
-<td>4751</td>
+<td>35496</td>
+<td>0</td>
+<td>0</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>123</td>
 <td></td>
-<td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл (село), ауылдық (селолық) округ әкімінің аппараты</td>
-<td>37226</td>
-<td>4733</td>
-<td>4751</td>
+<td>35496</td>
+<td>0</td>
+<td>0</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>006</td>
-<td></td>
 <td>Жергілікті деңгейде мәдени-демалыс жұмыстарын қолдау</td>
-<td>37226</td>
-<td>4733</td>
-<td>4751</td>
+<td>35496</td>
+<td>0</td>
+<td>0</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1327,7 +1195,6 @@ source: https://zan.gov.kz/client/#!/doc/56247/kaz/08.08.2011
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Жаңаталап ауылдық округі әкімінің аппараты</td>
 <td>1255</td>
 <td></td>
@@ -1338,14 +1205,12 @@ source: https://zan.gov.kz/client/#!/doc/56247/kaz/08.08.2011
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Жібек-Жолы ауылдық округі әкімінің аппараты</td>
-<td>8594</td>
+<td>8372</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1360,14 +1225,12 @@ source: https://zan.gov.kz/client/#!/doc/56247/kaz/08.08.2011
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Қайнарбұлақ ауылдық округі әкімінің аппараты</td>
 <td>873</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1382,14 +1245,12 @@ source: https://zan.gov.kz/client/#!/doc/56247/kaz/08.08.2011
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Қарамұрт ауылдық округі әкімінің аппараты</td>
 <td>15247</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1404,14 +1265,12 @@ source: https://zan.gov.kz/client/#!/doc/56247/kaz/08.08.2011
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Қарасу ауылдық округі әкімінің аппараты</td>
 <td>247</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1426,14 +1285,12 @@ source: https://zan.gov.kz/client/#!/doc/56247/kaz/08.08.2011
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Көлкент ауылдық округі әкімінің аппараты</td>
 <td>611</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1448,11 +1305,10 @@ source: https://zan.gov.kz/client/#!/doc/56247/kaz/08.08.2011
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Сайрам ауылдық округі әкімінің аппараты</td>
-<td>4427</td>
-<td>4733</td>
-<td>4751</td>
+<td>2919</td>
+<td></td>
+<td></td>
 </tr>
 </table>
 
