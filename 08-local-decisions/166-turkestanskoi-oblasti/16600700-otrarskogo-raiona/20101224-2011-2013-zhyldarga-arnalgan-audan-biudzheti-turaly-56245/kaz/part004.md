@@ -1,16 +1,19 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/56245/kaz/21.10.2011
+source: https://zan.gov.kz/client/#!/doc/56245/kaz/09.11.2011
 ---
 
 ## Ауыл әкімшіліктері бағдарламасының 2011 жылға тізбесі
 
-> *Ескерту. 4-Қосымша жаңа редакцияда - Оңтүстік Қазақстан облысы Отырар аудандық мәслихатының 2011.10.21 № 46/297-IV (2011 жылдың 1 қаңтарынан бастап қолданысқа енгізілсін) Шешімімен.*
+> *Ескерту. 4-Қосымша жаңа редакцияда - Оңтүстік Қазақстан облысы Отырар аудандық мәслихатының 2011.11.09 № 47/300-IV (2011 жылдың 1 қаңтарынан бастап қолданысқа енгізілсін) Шешімімен.*
 
 <table>
 <tr>
 <td colspan="5">Функционалдық топ</td>
-<td rowspan="5">сомасы мың теңге</td>
+<td rowspan="5">
+сомасы,
+мың теңге
+</td>
 </tr>
 <tr>
 <td></td>
@@ -40,7 +43,7 @@ source: https://zan.gov.kz/client/#!/doc/56245/kaz/21.10.2011
 <td></td>
 <td></td>
 <td>Шығындар</td>
-<td>441069</td>
+<td>545881</td>
 </tr>
 <tr>
 <td></td>
@@ -48,7 +51,7 @@ source: https://zan.gov.kz/client/#!/doc/56245/kaz/21.10.2011
 <td></td>
 <td></td>
 <td>Отырар ауданы ауыл округтерінің жиыны</td>
-<td>440469</td>
+<td>543312</td>
 </tr>
 <tr>
 <td>01</td>
@@ -96,7 +99,7 @@ source: https://zan.gov.kz/client/#!/doc/56245/kaz/21.10.2011
 <td></td>
 <td></td>
 <td>Бiлiм беру</td>
-<td>248510</td>
+<td>351353</td>
 </tr>
 <tr>
 <td></td>
@@ -104,7 +107,7 @@ source: https://zan.gov.kz/client/#!/doc/56245/kaz/21.10.2011
 <td></td>
 <td></td>
 <td>Мектепке дейiнгi тәрбие және оқыту</td>
-<td>248510</td>
+<td>351353</td>
 </tr>
 <tr>
 <td></td>
@@ -112,7 +115,7 @@ source: https://zan.gov.kz/client/#!/doc/56245/kaz/21.10.2011
 <td>123</td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл (село), ауылдық (селолық) округ әкімінің аппараты</td>
-<td>248510</td>
+<td>351353</td>
 </tr>
 <tr>
 <td></td>
@@ -120,7 +123,7 @@ source: https://zan.gov.kz/client/#!/doc/56245/kaz/21.10.2011
 <td></td>
 <td>004</td>
 <td>Мектепке дейінгі тәрбие ұйымдарын қолдау</td>
-<td>246761</td>
+<td>349604</td>
 </tr>
 <tr>
 <td></td>
@@ -208,7 +211,7 @@ source: https://zan.gov.kz/client/#!/doc/56245/kaz/21.10.2011
 <td></td>
 <td></td>
 <td>Отырар ауданы &quot;Қарақоңыр&quot; ауыл округі</td>
-<td>29267</td>
+<td>31410</td>
 </tr>
 <tr>
 <td>01</td>
@@ -256,7 +259,7 @@ source: https://zan.gov.kz/client/#!/doc/56245/kaz/21.10.2011
 <td></td>
 <td></td>
 <td>Бiлiм беру</td>
-<td>14943</td>
+<td>17086</td>
 </tr>
 <tr>
 <td></td>
@@ -264,7 +267,7 @@ source: https://zan.gov.kz/client/#!/doc/56245/kaz/21.10.2011
 <td></td>
 <td></td>
 <td>Мектепке дейiнгi тәрбие және оқыту</td>
-<td>14943</td>
+<td>17086</td>
 </tr>
 <tr>
 <td></td>
@@ -272,7 +275,7 @@ source: https://zan.gov.kz/client/#!/doc/56245/kaz/21.10.2011
 <td>123</td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл (село), ауылдық (селолық) округ әкімінің аппараты</td>
-<td>14943</td>
+<td>17086</td>
 </tr>
 <tr>
 <td></td>
@@ -280,7 +283,7 @@ source: https://zan.gov.kz/client/#!/doc/56245/kaz/21.10.2011
 <td></td>
 <td>004</td>
 <td>Мектепке дейінгі тәрбие ұйымдарын қолдау</td>
-<td>14837</td>
+<td>16980</td>
 </tr>
 <tr>
 <td></td>
@@ -344,7 +347,7 @@ source: https://zan.gov.kz/client/#!/doc/56245/kaz/21.10.2011
 <td></td>
 <td></td>
 <td>Отырар ауданы &quot;Аққұм&quot; ауыл округі</td>
-<td>19754</td>
+<td>20554</td>
 </tr>
 <tr>
 <td>01</td>
@@ -392,7 +395,7 @@ source: https://zan.gov.kz/client/#!/doc/56245/kaz/21.10.2011
 <td></td>
 <td></td>
 <td>Бiлiм беру</td>
-<td>7231</td>
+<td>8031</td>
 </tr>
 <tr>
 <td></td>
@@ -400,7 +403,7 @@ source: https://zan.gov.kz/client/#!/doc/56245/kaz/21.10.2011
 <td></td>
 <td></td>
 <td>Мектепке дейiнгi тәрбие және оқыту</td>
-<td>7231</td>
+<td>8031</td>
 </tr>
 <tr>
 <td></td>
@@ -408,7 +411,7 @@ source: https://zan.gov.kz/client/#!/doc/56245/kaz/21.10.2011
 <td>123</td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл (село), ауылдық (селолық) округ әкімінің аппараты</td>
-<td>7231</td>
+<td>8031</td>
 </tr>
 <tr>
 <td></td>
@@ -416,7 +419,7 @@ source: https://zan.gov.kz/client/#!/doc/56245/kaz/21.10.2011
 <td></td>
 <td>004</td>
 <td>Мектепке дейінгі тәрбие ұйымдарын қолдау</td>
-<td>7189</td>
+<td>7989</td>
 </tr>
 <tr>
 <td></td>
@@ -480,7 +483,7 @@ source: https://zan.gov.kz/client/#!/doc/56245/kaz/21.10.2011
 <td></td>
 <td></td>
 <td>Отырар ауданы &quot;Көксарай&quot; ауыл округі</td>
-<td>29112</td>
+<td>40515</td>
 </tr>
 <tr>
 <td>01</td>
@@ -528,7 +531,7 @@ source: https://zan.gov.kz/client/#!/doc/56245/kaz/21.10.2011
 <td></td>
 <td></td>
 <td>Бiлiм беру</td>
-<td>14723</td>
+<td>26126</td>
 </tr>
 <tr>
 <td></td>
@@ -536,7 +539,7 @@ source: https://zan.gov.kz/client/#!/doc/56245/kaz/21.10.2011
 <td></td>
 <td></td>
 <td>Мектепке дейiнгi тәрбие және оқыту</td>
-<td>14723</td>
+<td>26126</td>
 </tr>
 <tr>
 <td></td>
@@ -544,7 +547,7 @@ source: https://zan.gov.kz/client/#!/doc/56245/kaz/21.10.2011
 <td>123</td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл (село), ауылдық (селолық) округ әкімінің аппараты</td>
-<td>14723</td>
+<td>26126</td>
 </tr>
 <tr>
 <td></td>
@@ -552,7 +555,7 @@ source: https://zan.gov.kz/client/#!/doc/56245/kaz/21.10.2011
 <td></td>
 <td>004</td>
 <td>Мектепке дейінгі тәрбие ұйымдарын қолдау</td>
-<td>14575</td>
+<td>25978</td>
 </tr>
 <tr>
 <td></td>
@@ -616,7 +619,7 @@ source: https://zan.gov.kz/client/#!/doc/56245/kaz/21.10.2011
 <td></td>
 <td></td>
 <td>Отырар ауданы &quot;Балтакөл&quot; ауыл округі</td>
-<td>16270</td>
+<td>18239</td>
 </tr>
 <tr>
 <td>01</td>
@@ -664,7 +667,7 @@ source: https://zan.gov.kz/client/#!/doc/56245/kaz/21.10.2011
 <td></td>
 <td></td>
 <td>Бiлiм беру</td>
-<td>600</td>
+<td>2569</td>
 </tr>
 <tr>
 <td></td>
@@ -672,7 +675,7 @@ source: https://zan.gov.kz/client/#!/doc/56245/kaz/21.10.2011
 <td></td>
 <td></td>
 <td>Мектепке дейiнгi тәрбие және оқыту</td>
-<td>600</td>
+<td>2569</td>
 </tr>
 <tr>
 <td></td>
@@ -680,7 +683,7 @@ source: https://zan.gov.kz/client/#!/doc/56245/kaz/21.10.2011
 <td>123</td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл (село), ауылдық (селолық) округ әкімінің аппараты</td>
-<td>600</td>
+<td>2569</td>
 </tr>
 <tr>
 <td></td>
@@ -688,7 +691,7 @@ source: https://zan.gov.kz/client/#!/doc/56245/kaz/21.10.2011
 <td></td>
 <td>004</td>
 <td>Мектепке дейінгі тәрбие ұйымдарын қолдау</td>
-<td>600</td>
+<td>2569</td>
 </tr>
 <tr>
 <td>7</td>
@@ -744,7 +747,7 @@ source: https://zan.gov.kz/client/#!/doc/56245/kaz/21.10.2011
 <td></td>
 <td></td>
 <td>Отырар ауданы &quot;Талапты&quot; ауыл округі</td>
-<td>27754</td>
+<td>34285</td>
 </tr>
 <tr>
 <td>01</td>
@@ -792,7 +795,7 @@ source: https://zan.gov.kz/client/#!/doc/56245/kaz/21.10.2011
 <td></td>
 <td></td>
 <td>Бiлiм беру</td>
-<td>12267</td>
+<td>18798</td>
 </tr>
 <tr>
 <td></td>
@@ -800,7 +803,7 @@ source: https://zan.gov.kz/client/#!/doc/56245/kaz/21.10.2011
 <td></td>
 <td></td>
 <td>Мектепке дейiнгi тәрбие және оқыту</td>
-<td>12267</td>
+<td>18798</td>
 </tr>
 <tr>
 <td></td>
@@ -808,7 +811,7 @@ source: https://zan.gov.kz/client/#!/doc/56245/kaz/21.10.2011
 <td>123</td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл (село), ауылдық (селолық) округ әкімінің аппараты</td>
-<td>12267</td>
+<td>18798</td>
 </tr>
 <tr>
 <td></td>
@@ -816,7 +819,7 @@ source: https://zan.gov.kz/client/#!/doc/56245/kaz/21.10.2011
 <td></td>
 <td>004</td>
 <td>Мектепке дейінгі тәрбие ұйымдарын қолдау</td>
-<td>12179</td>
+<td>18710</td>
 </tr>
 <tr>
 <td></td>
@@ -880,7 +883,7 @@ source: https://zan.gov.kz/client/#!/doc/56245/kaz/21.10.2011
 <td></td>
 <td></td>
 <td>Отырар ауданы &quot;Шілік&quot; ауыл округі</td>
-<td>23098</td>
+<td>24498</td>
 </tr>
 <tr>
 <td>01</td>
@@ -928,7 +931,7 @@ source: https://zan.gov.kz/client/#!/doc/56245/kaz/21.10.2011
 <td></td>
 <td></td>
 <td>Бiлiм беру</td>
-<td>10745</td>
+<td>12145</td>
 </tr>
 <tr>
 <td></td>
@@ -936,7 +939,7 @@ source: https://zan.gov.kz/client/#!/doc/56245/kaz/21.10.2011
 <td></td>
 <td></td>
 <td>Мектепке дейiнгi тәрбие және оқыту</td>
-<td>10745</td>
+<td>12145</td>
 </tr>
 <tr>
 <td></td>
@@ -944,7 +947,7 @@ source: https://zan.gov.kz/client/#!/doc/56245/kaz/21.10.2011
 <td>123</td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл (село), ауылдық (селолық) округ әкімінің аппараты</td>
-<td>10745</td>
+<td>12145</td>
 </tr>
 <tr>
 <td></td>
@@ -952,7 +955,7 @@ source: https://zan.gov.kz/client/#!/doc/56245/kaz/21.10.2011
 <td></td>
 <td>004</td>
 <td>Мектепке дейінгі тәрбие ұйымдарын қолдау</td>
-<td>10675</td>
+<td>12075</td>
 </tr>
 <tr>
 <td></td>
@@ -1016,7 +1019,7 @@ source: https://zan.gov.kz/client/#!/doc/56245/kaz/21.10.2011
 <td></td>
 <td></td>
 <td>Отырар ауданы &quot;Шәуілдір&quot; ауыл округі</td>
-<td>126088</td>
+<td>178128</td>
 </tr>
 <tr>
 <td>01</td>
@@ -1064,7 +1067,7 @@ source: https://zan.gov.kz/client/#!/doc/56245/kaz/21.10.2011
 <td></td>
 <td></td>
 <td>Бiлiм беру</td>
-<td>109490</td>
+<td>161530</td>
 </tr>
 <tr>
 <td></td>
@@ -1072,7 +1075,7 @@ source: https://zan.gov.kz/client/#!/doc/56245/kaz/21.10.2011
 <td></td>
 <td></td>
 <td>Мектепке дейiнгi тәрбие және оқыту</td>
-<td>109490</td>
+<td>161530</td>
 </tr>
 <tr>
 <td></td>
@@ -1080,7 +1083,7 @@ source: https://zan.gov.kz/client/#!/doc/56245/kaz/21.10.2011
 <td>123</td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл (село), ауылдық (селолық) округ әкімінің аппараты</td>
-<td>109490</td>
+<td>161530</td>
 </tr>
 <tr>
 <td></td>
@@ -1088,7 +1091,7 @@ source: https://zan.gov.kz/client/#!/doc/56245/kaz/21.10.2011
 <td></td>
 <td>004</td>
 <td>Мектепке дейінгі тәрбие ұйымдарын қолдау</td>
-<td>108789</td>
+<td>160829</td>
 </tr>
 <tr>
 <td></td>
@@ -1136,7 +1139,7 @@ source: https://zan.gov.kz/client/#!/doc/56245/kaz/21.10.2011
 <td></td>
 <td></td>
 <td>Отырар ауданы &quot;Темір&quot; ауыл округі</td>
-<td>26991</td>
+<td>40852</td>
 </tr>
 <tr>
 <td>01</td>
@@ -1184,7 +1187,7 @@ source: https://zan.gov.kz/client/#!/doc/56245/kaz/21.10.2011
 <td></td>
 <td></td>
 <td>Бiлiм беру</td>
-<td>15739</td>
+<td>29600</td>
 </tr>
 <tr>
 <td></td>
@@ -1192,7 +1195,7 @@ source: https://zan.gov.kz/client/#!/doc/56245/kaz/21.10.2011
 <td></td>
 <td></td>
 <td>Мектепке дейiнгi тәрбие және оқыту</td>
-<td>15739</td>
+<td>29600</td>
 </tr>
 <tr>
 <td></td>
@@ -1200,7 +1203,7 @@ source: https://zan.gov.kz/client/#!/doc/56245/kaz/21.10.2011
 <td>123</td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл (село), ауылдық (селолық) округ әкімінің аппараты</td>
-<td>15739</td>
+<td>29600</td>
 </tr>
 <tr>
 <td></td>
@@ -1208,7 +1211,7 @@ source: https://zan.gov.kz/client/#!/doc/56245/kaz/21.10.2011
 <td></td>
 <td>004</td>
 <td>Мектепке дейінгі тәрбие ұйымдарын қолдау</td>
-<td>15524</td>
+<td>29385</td>
 </tr>
 <tr>
 <td></td>
@@ -1256,7 +1259,7 @@ source: https://zan.gov.kz/client/#!/doc/56245/kaz/21.10.2011
 <td></td>
 <td></td>
 <td>Отырар ауданы &quot;Қожатоғай&quot; ауыл округі</td>
-<td>24981</td>
+<td>25381</td>
 </tr>
 <tr>
 <td>01</td>
@@ -1304,7 +1307,7 @@ source: https://zan.gov.kz/client/#!/doc/56245/kaz/21.10.2011
 <td></td>
 <td></td>
 <td>Бiлiм беру</td>
-<td>11209</td>
+<td>11609</td>
 </tr>
 <tr>
 <td></td>
@@ -1312,7 +1315,7 @@ source: https://zan.gov.kz/client/#!/doc/56245/kaz/21.10.2011
 <td></td>
 <td></td>
 <td>Мектепке дейiнгi тәрбие және оқыту</td>
-<td>11209</td>
+<td>11609</td>
 </tr>
 <tr>
 <td></td>
@@ -1320,7 +1323,7 @@ source: https://zan.gov.kz/client/#!/doc/56245/kaz/21.10.2011
 <td>123</td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл (село), ауылдық (селолық) округ әкімінің аппараты</td>
-<td>11209</td>
+<td>11609</td>
 </tr>
 <tr>
 <td></td>
@@ -1328,7 +1331,7 @@ source: https://zan.gov.kz/client/#!/doc/56245/kaz/21.10.2011
 <td></td>
 <td>004</td>
 <td>Мектепке дейінгі тәрбие ұйымдарын қолдау</td>
-<td>11139</td>
+<td>11539</td>
 </tr>
 <tr>
 <td></td>
@@ -1392,7 +1395,7 @@ source: https://zan.gov.kz/client/#!/doc/56245/kaz/21.10.2011
 <td></td>
 <td></td>
 <td>Отырар ауданы &quot;Маяқұм&quot; ауыл округі</td>
-<td>23528</td>
+<td>24328</td>
 </tr>
 <tr>
 <td>01</td>
@@ -1440,7 +1443,7 @@ source: https://zan.gov.kz/client/#!/doc/56245/kaz/21.10.2011
 <td></td>
 <td></td>
 <td>Бiлiм беру</td>
-<td>7670</td>
+<td>8470</td>
 </tr>
 <tr>
 <td></td>
@@ -1448,7 +1451,7 @@ source: https://zan.gov.kz/client/#!/doc/56245/kaz/21.10.2011
 <td></td>
 <td></td>
 <td>Мектепке дейiнгi тәрбие және оқыту</td>
-<td>7670</td>
+<td>8470</td>
 </tr>
 <tr>
 <td></td>
@@ -1456,7 +1459,7 @@ source: https://zan.gov.kz/client/#!/doc/56245/kaz/21.10.2011
 <td>123</td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл (село), ауылдық (селолық) округ әкімінің аппараты</td>
-<td>7670</td>
+<td>8470</td>
 </tr>
 <tr>
 <td></td>
@@ -1464,7 +1467,7 @@ source: https://zan.gov.kz/client/#!/doc/56245/kaz/21.10.2011
 <td></td>
 <td>004</td>
 <td>Мектепке дейінгі тәрбие ұйымдарын қолдау</td>
-<td>7656</td>
+<td>8456</td>
 </tr>
 <tr>
 <td></td>
@@ -1552,7 +1555,7 @@ source: https://zan.gov.kz/client/#!/doc/56245/kaz/21.10.2011
 <td></td>
 <td></td>
 <td>Отырар ауданы &quot;Отырар&quot; ауыл округі</td>
-<td>31025</td>
+<td>41384</td>
 </tr>
 <tr>
 <td>01</td>
@@ -1600,7 +1603,7 @@ source: https://zan.gov.kz/client/#!/doc/56245/kaz/21.10.2011
 <td></td>
 <td></td>
 <td>Бiлiм беру</td>
-<td>18742</td>
+<td>29101</td>
 </tr>
 <tr>
 <td></td>
@@ -1608,7 +1611,7 @@ source: https://zan.gov.kz/client/#!/doc/56245/kaz/21.10.2011
 <td></td>
 <td></td>
 <td>Мектепке дейiнгi тәрбие және оқыту</td>
-<td>18742</td>
+<td>29101</td>
 </tr>
 <tr>
 <td></td>
@@ -1616,7 +1619,7 @@ source: https://zan.gov.kz/client/#!/doc/56245/kaz/21.10.2011
 <td>123</td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл (село), ауылдық (селолық) округ әкімінің аппараты</td>
-<td>18742</td>
+<td>29101</td>
 </tr>
 <tr>
 <td></td>
@@ -1624,7 +1627,7 @@ source: https://zan.gov.kz/client/#!/doc/56245/kaz/21.10.2011
 <td></td>
 <td>004</td>
 <td>Мектепке дейінгі тәрбие ұйымдарын қолдау</td>
-<td>18587</td>
+<td>28946</td>
 </tr>
 <tr>
 <td></td>
@@ -1688,7 +1691,7 @@ source: https://zan.gov.kz/client/#!/doc/56245/kaz/21.10.2011
 <td></td>
 <td></td>
 <td>Отырар ауданы &quot;Ақтөбе&quot; ауыл округі</td>
-<td>27515</td>
+<td>29873</td>
 </tr>
 <tr>
 <td>01</td>
@@ -1736,7 +1739,7 @@ source: https://zan.gov.kz/client/#!/doc/56245/kaz/21.10.2011
 <td></td>
 <td></td>
 <td>Бiлiм беру</td>
-<td>15848</td>
+<td>18206</td>
 </tr>
 <tr>
 <td></td>
@@ -1744,7 +1747,7 @@ source: https://zan.gov.kz/client/#!/doc/56245/kaz/21.10.2011
 <td></td>
 <td></td>
 <td>Мектепке дейiнгi тәрбие және оқыту</td>
-<td>15848</td>
+<td>18206</td>
 </tr>
 <tr>
 <td></td>
@@ -1752,7 +1755,7 @@ source: https://zan.gov.kz/client/#!/doc/56245/kaz/21.10.2011
 <td>123</td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл (село), ауылдық (селолық) округ әкімінің аппараты</td>
-<td>15848</td>
+<td>18206</td>
 </tr>
 <tr>
 <td></td>
@@ -1760,7 +1763,7 @@ source: https://zan.gov.kz/client/#!/doc/56245/kaz/21.10.2011
 <td></td>
 <td>004</td>
 <td>Мектепке дейінгі тәрбие ұйымдарын қолдау</td>
-<td>15778,0</td>
+<td>18136,0</td>
 </tr>
 <tr>
 <td></td>
@@ -1920,7 +1923,7 @@ source: https://zan.gov.kz/client/#!/doc/56245/kaz/21.10.2011
 <td></td>
 <td></td>
 <td>Отырар ауданы &quot;Қарғалы&quot; ауыл округі</td>
-<td>22391</td>
+<td>23139</td>
 </tr>
 <tr>
 <td>01</td>
@@ -1968,7 +1971,7 @@ source: https://zan.gov.kz/client/#!/doc/56245/kaz/21.10.2011
 <td></td>
 <td></td>
 <td>Бiлiм беру</td>
-<td>9903</td>
+<td>10651</td>
 </tr>
 <tr>
 <td></td>
@@ -1976,7 +1979,7 @@ source: https://zan.gov.kz/client/#!/doc/56245/kaz/21.10.2011
 <td></td>
 <td></td>
 <td>Мектепке дейiнгi тәрбие және оқыту</td>
-<td>9903</td>
+<td>10651</td>
 </tr>
 <tr>
 <td></td>
@@ -1984,7 +1987,7 @@ source: https://zan.gov.kz/client/#!/doc/56245/kaz/21.10.2011
 <td>123</td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл (село), ауылдық (селолық) округ әкімінің аппараты</td>
-<td>9903</td>
+<td>10651</td>
 </tr>
 <tr>
 <td></td>
@@ -1992,7 +1995,7 @@ source: https://zan.gov.kz/client/#!/doc/56245/kaz/21.10.2011
 <td></td>
 <td>004</td>
 <td>Мектепке дейінгі тәрбие ұйымдарын қолдау</td>
-<td>9833</td>
+<td>10581</td>
 </tr>
 <tr>
 <td></td>
