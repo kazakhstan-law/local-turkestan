@@ -1,22 +1,20 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/56631/kaz/21.10.2011
+source: https://zan.gov.kz/client/#!/doc/56631/kaz/10.11.2011
 ---
 
 ## 2011 жылға арналған қалалық бюджет
 
-> *Ескерту. 1-Қосымша жаңа редакцияда - Оңтүстік Қазақстан облысы Арыс қалалық мәслихатының 2011.10.21 N 48/305-IV (2011 жылғы 1 қаңтардан бастап қолданысқа енгізіледі) Шешімімен.*
+> *Ескерту. 1-Қосымша жаңа редакцияда - Оңтүстік Қазақстан облысы Арыс қалалық мәслихатының 2011.11.10 N 49/309-IV (2011 жылғы 1 қаңтардан бастап қолданысқа енгізіледі) Шешімімен.*
 
 <table>
 <tr>
-<td colspan="3">Санаты</td>
-<td></td>
+<td colspan="4">Санаты</td>
 <td rowspan="3">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2">Сыныбы</td>
-<td>Атауы</td>
+<td colspan="3">Сыныбы</td>
 </tr>
 <tr>
 <td></td>
@@ -24,7 +22,16 @@ source: https://zan.gov.kz/client/#!/doc/56631/kaz/21.10.2011
 <td colspan="2">Iшкi сыныбы</td>
 </tr>
 <tr>
-<th colspan="3">1</th>
+<td></td>
+<td></td>
+<td></td>
+<td>Атауы</td>
+<td></td>
+</tr>
+<tr>
+<th>1</th>
+<th></th>
+<th></th>
 <th>2</th>
 <th>3</th>
 </tr>
@@ -33,7 +40,7 @@ source: https://zan.gov.kz/client/#!/doc/56631/kaz/21.10.2011
 <td></td>
 <td></td>
 <td>1. КІРІСТЕР</td>
-<td>4548221</td>
+<td>4669185</td>
 </tr>
 <tr>
 <td>1</td>
@@ -222,28 +229,31 @@ source: https://zan.gov.kz/client/#!/doc/56631/kaz/21.10.2011
 <td></td>
 <td></td>
 <td>Трансферттердің түсімдері</td>
-<td>3866236</td>
+<td>3987200</td>
 </tr>
 <tr>
 <td>4</td>
 <td>02</td>
 <td></td>
 <td>Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td>3866236</td>
+<td>3987200</td>
 </tr>
 <tr>
 <td>4</td>
 <td>02</td>
 <td>2</td>
 <td>Облыстық бюджеттен түсетiн трансферттер</td>
-<td>3866236</td>
+<td>3987200</td>
 </tr>
 </table>
 
 <table>
 <tr>
 <td colspan="5">Функционалдық топ</td>
-<td rowspan="5">Сомасы, мың теңге</td>
+<td rowspan="4">
+Сомасы,
+мың теңге
+</td>
 </tr>
 <tr>
 <td></td>
@@ -266,9 +276,13 @@ source: https://zan.gov.kz/client/#!/doc/56631/kaz/21.10.2011
 <td></td>
 <td></td>
 <td>Атауы</td>
+<td></td>
 </tr>
 <tr>
-<th colspan="4">1</th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
 <th>2</th>
 <th>3</th>
 </tr>
@@ -278,7 +292,7 @@ source: https://zan.gov.kz/client/#!/doc/56631/kaz/21.10.2011
 <td></td>
 <td></td>
 <td>ІІ. ШЫҒЫНДАР</td>
-<td>4563525</td>
+<td>4684489</td>
 </tr>
 <tr>
 <td>1</td>
@@ -361,9 +375,9 @@ source: https://zan.gov.kz/client/#!/doc/56631/kaz/21.10.2011
 <td>67933</td>
 </tr>
 <tr>
-<td>1</td>
-<td>1</td>
-<td>123</td>
+<td></td>
+<td></td>
+<td></td>
 <td>022</td>
 <td>Мемлекеттік органдардың күрделі шығыстары</td>
 <td>900</td>
@@ -494,7 +508,15 @@ source: https://zan.gov.kz/client/#!/doc/56631/kaz/21.10.2011
 <td></td>
 <td></td>
 <td>Бiлiм беру</td>
-<td>3129529</td>
+<td>3250633</td>
+</tr>
+<tr>
+<td>4</td>
+<td>1</td>
+<td></td>
+<td></td>
+<td>Мектепке дейiнгi тәрбие және оқыту</td>
+<td>172866</td>
 </tr>
 <tr>
 <td>4</td>
@@ -502,7 +524,7 @@ source: https://zan.gov.kz/client/#!/doc/56631/kaz/21.10.2011
 <td>464</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) білім бөлімі</td>
-<td>139908</td>
+<td>172866</td>
 </tr>
 <tr>
 <td>4</td>
@@ -510,7 +532,7 @@ source: https://zan.gov.kz/client/#!/doc/56631/kaz/21.10.2011
 <td>464</td>
 <td>009</td>
 <td>Мектепке дейінгі тәрбие ұйымдарының қызметін қамтамасыз ету</td>
-<td>118087</td>
+<td>151045</td>
 </tr>
 <tr>
 <td></td>
@@ -526,7 +548,7 @@ source: https://zan.gov.kz/client/#!/doc/56631/kaz/21.10.2011
 <td></td>
 <td></td>
 <td>Бастауыш, негізгі орта және жалпы орта білім беру</td>
-<td>2523748</td>
+<td>2620254</td>
 </tr>
 <tr>
 <td>4</td>
@@ -534,7 +556,7 @@ source: https://zan.gov.kz/client/#!/doc/56631/kaz/21.10.2011
 <td>464</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) білім бөлімі</td>
-<td>2523748</td>
+<td>2620254</td>
 </tr>
 <tr>
 <td>4</td>
@@ -542,7 +564,7 @@ source: https://zan.gov.kz/client/#!/doc/56631/kaz/21.10.2011
 <td>464</td>
 <td>003</td>
 <td>Жалпы білім беру</td>
-<td>2493289</td>
+<td>2589795</td>
 </tr>
 <tr>
 <td>4</td>
@@ -558,7 +580,7 @@ source: https://zan.gov.kz/client/#!/doc/56631/kaz/21.10.2011
 <td></td>
 <td></td>
 <td>Бiлiм беру саласындағы өзге де қызметтер</td>
-<td>465873</td>
+<td>457513</td>
 </tr>
 <tr>
 <td>4</td>
@@ -566,7 +588,7 @@ source: https://zan.gov.kz/client/#!/doc/56631/kaz/21.10.2011
 <td>464</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) білім бөлімі</td>
-<td>108509</td>
+<td>100149</td>
 </tr>
 <tr>
 <td>4</td>
@@ -598,7 +620,7 @@ source: https://zan.gov.kz/client/#!/doc/56631/kaz/21.10.2011
 <td>464</td>
 <td>015</td>
 <td>Жетім баланы (жетім балаларды) және ата-аналарының қамқорынсыз қалған баланы (балаларды) күтіп-ұстауға асыраушыларына ай сайынғы ақшалай қаражат төлемдері</td>
-<td>16481</td>
+<td>8121</td>
 </tr>
 <tr>
 <td></td>
@@ -630,7 +652,7 @@ source: https://zan.gov.kz/client/#!/doc/56631/kaz/21.10.2011
 <td></td>
 <td></td>
 <td>Әлеуметтiк көмек және әлеуметтiк қамсыздандыру</td>
-<td>201442</td>
+<td>201302</td>
 </tr>
 <tr>
 <td>6</td>
@@ -638,7 +660,7 @@ source: https://zan.gov.kz/client/#!/doc/56631/kaz/21.10.2011
 <td></td>
 <td></td>
 <td>Әлеуметтiк көмек</td>
-<td>175679</td>
+<td>175539</td>
 </tr>
 <tr>
 <td>6</td>
@@ -646,7 +668,7 @@ source: https://zan.gov.kz/client/#!/doc/56631/kaz/21.10.2011
 <td>451</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) жұмыспен қамту және әлеуметтік бағдарламалар бөлімі</td>
-<td>173524</td>
+<td>173384</td>
 </tr>
 <tr>
 <td>6</td>
@@ -702,7 +724,7 @@ source: https://zan.gov.kz/client/#!/doc/56631/kaz/21.10.2011
 <td>451</td>
 <td>014</td>
 <td>Мұқтаж азаматтарға үйде әлеуметтiк көмек көрсету</td>
-<td>23235</td>
+<td>23095</td>
 </tr>
 <tr>
 <td>6</td>
@@ -813,7 +835,7 @@ source: https://zan.gov.kz/client/#!/doc/56631/kaz/21.10.2011
 <td>1</td>
 <td>458</td>
 <td>003</td>
-<td>Мемлекеттік тұрғын үй қорының сақтаулуын үйымдастыру</td>
+<td>Мемлекеттік тұрғын үй қорының сақталуын үйымдастыру</td>
 <td>390</td>
 </tr>
 <tr>
@@ -857,9 +879,9 @@ source: https://zan.gov.kz/client/#!/doc/56631/kaz/21.10.2011
 <td>49788</td>
 </tr>
 <tr>
-<td>7</td>
-<td>2</td>
-<td>458</td>
+<td></td>
+<td></td>
+<td></td>
 <td>026</td>
 <td>Ауданның (облыстық маңызы бар қаланың) коммуналдық меншігіндегі жылу жүйелерін қолдануды ұйымдастыру</td>
 <td>47792</td>
@@ -1609,9 +1631,9 @@ source: https://zan.gov.kz/client/#!/doc/56631/kaz/21.10.2011
 <td>4787</td>
 </tr>
 <tr>
-<td>15</td>
-<td>1</td>
-<td>459</td>
+<td></td>
+<td></td>
+<td></td>
 <td>024</td>
 <td>Мемлекеттік органдардың функцияларын мемлекеттік басқарудың төмен тұрған деңгейлерінен жоғарғы деңгейлерге беруге байланысты жоғары тұрған бюджеттерге берілетін ағымдағы нысаналы трансферттер</td>
 <td>3182</td>
@@ -1626,7 +1648,10 @@ source: https://zan.gov.kz/client/#!/doc/56631/kaz/21.10.2011
 </tr>
 <tr>
 <td colspan="5">Функционалдық топ</td>
-<td rowspan="5">Сомасы, мың теңге</td>
+<td rowspan="4">
+Сомасы,
+мың теңге
+</td>
 </tr>
 <tr>
 <td></td>
@@ -1649,6 +1674,7 @@ source: https://zan.gov.kz/client/#!/doc/56631/kaz/21.10.2011
 <td></td>
 <td></td>
 <td>Атауы</td>
+<td></td>
 </tr>
 <tr>
 <th>1</th>
@@ -1699,19 +1725,28 @@ source: https://zan.gov.kz/client/#!/doc/56631/kaz/21.10.2011
 <td>10370</td>
 </tr>
 <tr>
-<td colspan="4">Санаты</td>
-<td>Атауы</td>
-<td rowspan="3">Сомасы, мың теңге</td>
+<td colspan="5">Санаты</td>
+<td rowspan="3">
+Сомасы,
+мың теңге
+</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">Сыныбы</td>
-<td></td>
+<td colspan="4">Сыныбы</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="3">Iшкi сыныбы</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Атауы</td>
+<td></td>
 </tr>
 <tr>
 <th>1</th>
@@ -1755,7 +1790,10 @@ source: https://zan.gov.kz/client/#!/doc/56631/kaz/21.10.2011
 </tr>
 <tr>
 <td colspan="5">Функционалдық топ</td>
-<td rowspan="5">Сомасы, мың теңге</td>
+<td rowspan="4">
+Сомасы,
+мың теңге
+</td>
 </tr>
 <tr>
 <td></td>
@@ -1778,6 +1816,7 @@ source: https://zan.gov.kz/client/#!/doc/56631/kaz/21.10.2011
 <td></td>
 <td></td>
 <td>Атауы</td>
+<td></td>
 </tr>
 <tr>
 <th>1</th>
