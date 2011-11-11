@@ -1,11 +1,11 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/56235/kaz/25.10.2011
+source: https://zan.gov.kz/client/#!/doc/56235/kaz/11.11.2011
 ---
 
 ## 2013 жылға арналған аудан бюджеті
 
-> *Ескерту. 3-Қосымша жаңа редакцияда - Оңтүстік Қазақстан облысы Төлеби аудандық мәслихатының 2011.10.25 N 41/284-IV (2011 жылғы 1 қаңтардан бастап қолданысқа енгізіледі) Шешімімен.*
+> *Ескерту. 3-Қосымша жаңа редакцияда - Оңтүстік Қазақстан облысы Төлеби аудандық мәслихатының 2011.11.11 N 42/286-IV (2011 жылғы 1 қаңтардан бастап қолданысқа енгізіледі) Шешімімен.*
 
 <table>
 <tr>
@@ -132,7 +132,7 @@ source: https://zan.gov.kz/client/#!/doc/56235/kaz/25.10.2011
 <td></td>
 <td>4</td>
 <td>Кәсіпкерлік және кәсіби қызметті жүргізгені үшін алынатын алымдар</td>
-<td>10725</td>
+<td>10212</td>
 </tr>
 <tr>
 <td></td>
@@ -786,7 +786,7 @@ source: https://zan.gov.kz/client/#!/doc/56235/kaz/25.10.2011
 <td></td>
 <td>029</td>
 <td>Сумен жабдықтау жүйесін дамыту</td>
-<td></td>
+<td>55000</td>
 </tr>
 <tr>
 <td></td>
@@ -1381,11 +1381,13 @@ source: https://zan.gov.kz/client/#!/doc/56235/kaz/25.10.2011
 <td rowspan="3">Сомасы, мың теңге</td>
 </tr>
 <tr>
-<td colspan="4">Сыныбы</td>
 <td></td>
+<td colspan="4">Сыныбы</td>
 </tr>
 <tr>
-<td colspan="5">Ішкі сыныбы</td>
+<td></td>
+<td></td>
+<td colspan="3">Ішкі сыныбы</td>
 </tr>
 <tr>
 <td></td>
@@ -1532,11 +1534,13 @@ source: https://zan.gov.kz/client/#!/doc/56235/kaz/25.10.2011
 <td rowspan="3">Сомасы, мың теңге</td>
 </tr>
 <tr>
-<td colspan="4">Сыныбы</td>
 <td></td>
+<td colspan="4">Сыныбы</td>
 </tr>
 <tr>
-<td colspan="5">Ішкі сыныбы</td>
+<td></td>
+<td></td>
+<td colspan="3">Ішкі сыныбы</td>
 </tr>
 <tr>
 <td></td>
@@ -1585,11 +1589,13 @@ source: https://zan.gov.kz/client/#!/doc/56235/kaz/25.10.2011
 <td rowspan="3">Сомасы, мың теңге</td>
 </tr>
 <tr>
-<td colspan="4">Сыныбы</td>
 <td></td>
+<td colspan="4">Сыныбы</td>
 </tr>
 <tr>
-<td colspan="5">Ішкі сыныбы</td>
+<td></td>
+<td></td>
+<td colspan="3">Ішкі сыныбы</td>
 </tr>
 <tr>
 <td>16</td>
@@ -1638,11 +1644,13 @@ source: https://zan.gov.kz/client/#!/doc/56235/kaz/25.10.2011
 <td rowspan="3">Сомасы, мың теңге</td>
 </tr>
 <tr>
-<td colspan="4">Сыныбы</td>
 <td></td>
+<td colspan="4">Сыныбы</td>
 </tr>
 <tr>
-<td colspan="5">Ішкі сыныбы</td>
+<td></td>
+<td></td>
+<td colspan="3">Ішкі сыныбы</td>
 </tr>
 <tr>
 <td></td>
