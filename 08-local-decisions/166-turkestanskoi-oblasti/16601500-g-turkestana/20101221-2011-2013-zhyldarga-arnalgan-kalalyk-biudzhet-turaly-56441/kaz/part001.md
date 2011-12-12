@@ -1,16 +1,15 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/56441/kaz/14.11.2011
+source: https://zan.gov.kz/client/#!/doc/56441/kaz/12.12.2011
 ---
 
 ## 2011 жылға арналған қалалық бюджет
 
-> *Ескерту. 1-Қосымша жаңа редакцияда - Оңтүстік Қазақстан облысы Түркістан қалалық мәслихатының 2011.11.14 № 51/340-IV (2011 жылғы 1 қаңтардан бастап қолданысқа енгізіледі) Шешімімен.*
+> *Ескерту. 1-Қосымша жаңа редакцияда - Оңтүстік Қазақстан облысы Түркістан қалалық мәслихатының 2011.12.12 N 52/345-IV (2011 жылғы 1 қаңтардан бастап қолданысқа енгізіледі) Шешімімен.*
 
 <table>
 <tr>
-<td colspan="3">Санаты</td>
-<td>Атауы</td>
+<td colspan="4">Санаты</td>
 <td rowspan="3">мың теңге</td>
 </tr>
 <tr>
@@ -26,8 +25,15 @@ source: https://zan.gov.kz/client/#!/doc/56441/kaz/14.11.2011
 <td></td>
 <td></td>
 <td></td>
+<td>Атауы</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
 <td>Кірістер</td>
-<td>16 557 202</td>
+<td>16 649 863</td>
 </tr>
 <tr>
 <td>1</td>
@@ -230,28 +236,28 @@ source: https://zan.gov.kz/client/#!/doc/56441/kaz/14.11.2011
 <td></td>
 <td></td>
 <td>Трансферттердiң түсiмдерi</td>
-<td>15 268 067</td>
+<td>15 360 728</td>
 </tr>
 <tr>
 <td></td>
 <td>2</td>
 <td></td>
 <td>Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td>15 268 067</td>
+<td>15 360 728</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>2</td>
 <td>Облыстық бюджеттен түсетiн трансферттер</td>
-<td>15 268 067</td>
+<td>15 360 728</td>
 </tr>
 </table>
 
 <table>
 <tr>
 <td colspan="5">Функционалдық топ</td>
-<td rowspan="5">мың теңге</td>
+<td rowspan="4">мың теңге</td>
 </tr>
 <tr>
 <td></td>
@@ -274,6 +280,7 @@ source: https://zan.gov.kz/client/#!/doc/56441/kaz/14.11.2011
 <td></td>
 <td></td>
 <td>Атауы</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -281,7 +288,7 @@ source: https://zan.gov.kz/client/#!/doc/56441/kaz/14.11.2011
 <td></td>
 <td></td>
 <td>II. Шығындар</td>
-<td>16 605 082</td>
+<td>16 697 743</td>
 </tr>
 <tr>
 <td>01</td>
@@ -529,7 +536,7 @@ source: https://zan.gov.kz/client/#!/doc/56441/kaz/14.11.2011
 <td></td>
 <td></td>
 <td>Бiлiм беру</td>
-<td>9 283 618</td>
+<td>9 376 279</td>
 </tr>
 <tr>
 <td></td>
@@ -641,7 +648,7 @@ source: https://zan.gov.kz/client/#!/doc/56441/kaz/14.11.2011
 <td></td>
 <td></td>
 <td>Бiлiм беру саласындағы өзге де қызметтер</td>
-<td>1 943 222</td>
+<td>2 035 883</td>
 </tr>
 <tr>
 <td></td>
@@ -697,7 +704,7 @@ source: https://zan.gov.kz/client/#!/doc/56441/kaz/14.11.2011
 <td>467</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) құрылыс бөлімі</td>
-<td>1 802 530</td>
+<td>1 895 191</td>
 </tr>
 <tr>
 <td></td>
@@ -705,7 +712,7 @@ source: https://zan.gov.kz/client/#!/doc/56441/kaz/14.11.2011
 <td></td>
 <td>037</td>
 <td>Білім беру объектілерін салу және реконструкциялау</td>
-<td>1 802 530</td>
+<td>1 895 191</td>
 </tr>
 <tr>
 <td>06</td>
@@ -1607,14 +1614,6 @@ source: https://zan.gov.kz/client/#!/doc/56441/kaz/14.11.2011
 <td></td>
 <td></td>
 <td></td>
-<td>005</td>
-<td>Мемлекеттік органдардың күрделі шығыстары</td>
-<td>0</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
 <td>108</td>
 <td>Жергiлiктi бюджеттiк инвестициялық жобалардың және концессиялық жобалардың техникалық-экономикалық негiздемелерiн әзiрлеу және оларға сараптама жасау</td>
 <td>6 720</td>
@@ -1780,15 +1779,12 @@ source: https://zan.gov.kz/client/#!/doc/56441/kaz/14.11.2011
 <td>14 295</td>
 </tr>
 <tr>
-<td colspan="3">Санаты</td>
-<td></td>
-<td></td>
+<td colspan="5">Санаты</td>
 <td></td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">сыныбы</td>
-<td></td>
+<td colspan="4">сыныбы</td>
 <td></td>
 </tr>
 <tr>
@@ -1855,7 +1851,7 @@ source: https://zan.gov.kz/client/#!/doc/56441/kaz/14.11.2011
 </tr>
 <tr>
 <td colspan="5">Функционалдық топ</td>
-<td rowspan="5">мың теңге</td>
+<td rowspan="4">мың теңге</td>
 </tr>
 <tr>
 <td></td>
@@ -1878,6 +1874,7 @@ source: https://zan.gov.kz/client/#!/doc/56441/kaz/14.11.2011
 <td></td>
 <td></td>
 <td>Атауы</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
