@@ -1,46 +1,46 @@
 ---
-part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
+part_of: ../rus.md
+source: https://zan.gov.kz/client/#!/doc/62410/rus/09.01.2012
 ---
 
-## 2012 жылға арналған ауылдық округтің бюджеттік бағдарламаларының тізбесі
+## Перечень бюджета сельских округов на 2012 год
 
-> *Ескерту. 5-Қосымша жаңа редакцияда - Оңтүстік Қазақстан облысы Төлеби аудандық мәслихатының 2012.01.09 N 45/301-IV (2012 жылдың 1 қаңтарынан бастап қолданысқа енгізілсін) Шешімімен.*
+> *Сноска. Приложение 5 в редакции решения Толебийского районного маслихата от 09.01.2012 № 45/301-IV (вводится в действие с 01.01.2012)*
 
 <table>
 <tr>
-<td colspan="5">Функционалдық топ</td>
-<td rowspan="4">Жалпы сомасы, мың теңге</td>
+<td colspan="5">Функциональная группа</td>
+<td rowspan="4">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="4">Кіші функция</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td colspan="3">Бюджеттік бағдарламалардың әкiмшiсi</td>
+<td colspan="4">Функциональная подгруппа</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td></td>
-<td colspan="2">Бағдарлама</td>
+<td colspan="3">Администратор бюджетных программ</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2">Программа</td>
+</tr>
+<tr>
 <td></td>
-<td>Атауы</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Наименование</td>
 <td></td>
 </tr>
 <tr>
-<td>1</td>
+<td>01</td>
 <td></td>
 <td></td>
 <td></td>
-<td>Жалпы сипаттағы мемлекеттiк қызметтер көрсету</td>
+<td>Государственные услуги общего характера</td>
 <td>268539</td>
 </tr>
 <tr>
@@ -48,7 +48,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td>1</td>
 <td></td>
 <td></td>
-<td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
+<td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
 <td>268539</td>
 </tr>
 <tr>
@@ -56,7 +56,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td></td>
 <td>123</td>
 <td></td>
-<td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл (село), ауылдық (селолық) округ әкімінің аппараты</td>
+<td>Аппарат акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
 <td>268539</td>
 </tr>
 <tr>
@@ -64,7 +64,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td></td>
 <td></td>
 <td>001</td>
-<td>Қаладағы ауданның, аудандық маңызы бар қаланың, кенттің, ауылдың (селоның), ауылдық (селолық) округтің әкімі аппаратының қызметін қамтамасыз ету жөніндегі қызметтер</td>
+<td>Аппарат акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
 <td>257234</td>
 </tr>
 <tr>
@@ -72,7 +72,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td></td>
 <td></td>
 <td></td>
-<td>Оның ішінде:</td>
+<td>в том числе:</td>
 <td></td>
 </tr>
 <tr>
@@ -80,7 +80,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td></td>
 <td></td>
 <td></td>
-<td>Ленгір</td>
+<td>Ленгер</td>
 <td>30045</td>
 </tr>
 <tr>
@@ -88,7 +88,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td></td>
 <td></td>
 <td></td>
-<td>Ақжар</td>
+<td>Акжар</td>
 <td>9370</td>
 </tr>
 <tr>
@@ -96,7 +96,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td></td>
 <td></td>
 <td></td>
-<td>Аққұм</td>
+<td>Аккум</td>
 <td>12075</td>
 </tr>
 <tr>
@@ -120,7 +120,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td></td>
 <td></td>
 <td></td>
-<td>Жоғарғы - Ақсу</td>
+<td>Верхне-Аксу</td>
 <td>10404</td>
 </tr>
 <tr>
@@ -128,7 +128,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td></td>
 <td></td>
 <td></td>
-<td>Көксәйек</td>
+<td>Коксайек</td>
 <td>13575</td>
 </tr>
 <tr>
@@ -136,7 +136,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td></td>
 <td></td>
 <td></td>
-<td>Қазығұрт</td>
+<td>Казыгурт</td>
 <td>16158</td>
 </tr>
 <tr>
@@ -144,7 +144,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td></td>
 <td></td>
 <td></td>
-<td>Қасқасу</td>
+<td>Каскасу</td>
 <td>39091</td>
 </tr>
 <tr>
@@ -152,7 +152,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td></td>
 <td></td>
 <td></td>
-<td>Қоғалы</td>
+<td>Когалы</td>
 <td>40212</td>
 </tr>
 <tr>
@@ -160,7 +160,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td></td>
 <td></td>
 <td></td>
-<td>Қаратөбе</td>
+<td>Каратобе</td>
 <td>9358</td>
 </tr>
 <tr>
@@ -168,7 +168,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td></td>
 <td></td>
 <td></td>
-<td>Бірінші мамыр</td>
+<td>Первомаевка</td>
 <td>15395</td>
 </tr>
 <tr>
@@ -176,7 +176,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td></td>
 <td></td>
 <td></td>
-<td>Тасарық</td>
+<td>Тасарык</td>
 <td>9293</td>
 </tr>
 <tr>
@@ -184,7 +184,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td></td>
 <td></td>
 <td></td>
-<td>Киелітас</td>
+<td>Киелитас</td>
 <td>19880</td>
 </tr>
 <tr>
@@ -192,7 +192,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td></td>
 <td></td>
 <td></td>
-<td>Кемеқалған</td>
+<td>Кемекалган</td>
 <td>11654</td>
 </tr>
 <tr>
@@ -200,7 +200,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td></td>
 <td></td>
 <td>022</td>
-<td>Мемлекеттік органдарды материалдық-техникалық жарақтандыру</td>
+<td>Капитальные расходы государственных органов</td>
 <td>11305</td>
 </tr>
 <tr>
@@ -208,7 +208,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td></td>
 <td></td>
 <td></td>
-<td>Оның ішінде:</td>
+<td>в том числе:</td>
 <td></td>
 </tr>
 <tr>
@@ -216,7 +216,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td></td>
 <td></td>
 <td></td>
-<td>Ленгір</td>
+<td>Ленгер</td>
 <td>11305</td>
 </tr>
 <tr>
@@ -224,7 +224,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td></td>
 <td></td>
 <td></td>
-<td>Ақжар</td>
+<td>Акжар</td>
 <td></td>
 </tr>
 <tr>
@@ -232,7 +232,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td></td>
 <td></td>
 <td></td>
-<td>Аққұм</td>
+<td>Аккум</td>
 <td></td>
 </tr>
 <tr>
@@ -256,7 +256,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td></td>
 <td></td>
 <td></td>
-<td>Жоғарғы - Ақсу</td>
+<td>Верхне-Аксу</td>
 <td></td>
 </tr>
 <tr>
@@ -264,7 +264,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td></td>
 <td></td>
 <td></td>
-<td>Көксәйек</td>
+<td>Коксайек</td>
 <td></td>
 </tr>
 <tr>
@@ -272,7 +272,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td></td>
 <td></td>
 <td></td>
-<td>Қазығұрт</td>
+<td>Казыгурт</td>
 <td></td>
 </tr>
 <tr>
@@ -280,7 +280,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td></td>
 <td></td>
 <td></td>
-<td>Қасқасу</td>
+<td>Каскасу</td>
 <td></td>
 </tr>
 <tr>
@@ -288,7 +288,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td></td>
 <td></td>
 <td></td>
-<td>Қоғалы</td>
+<td>Когалы</td>
 <td></td>
 </tr>
 <tr>
@@ -296,7 +296,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td></td>
 <td></td>
 <td></td>
-<td>Қаратөбе</td>
+<td>Каратобе</td>
 <td></td>
 </tr>
 <tr>
@@ -304,7 +304,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td></td>
 <td></td>
 <td></td>
-<td>Бірінші мамыр</td>
+<td>Первомаевка</td>
 <td></td>
 </tr>
 <tr>
@@ -312,7 +312,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td></td>
 <td></td>
 <td></td>
-<td>Тасарық</td>
+<td>Тасарык</td>
 <td></td>
 </tr>
 <tr>
@@ -320,7 +320,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td></td>
 <td></td>
 <td></td>
-<td>Киелітас</td>
+<td>Киелитас</td>
 <td></td>
 </tr>
 <tr>
@@ -328,15 +328,15 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td></td>
 <td></td>
 <td></td>
-<td>Кемеқалған</td>
+<td>Кемекалган</td>
 <td></td>
 </tr>
 <tr>
-<td>4</td>
+<td>04</td>
 <td></td>
 <td></td>
 <td></td>
-<td>Бiлiм беру</td>
+<td>Образование</td>
 <td>407007</td>
 </tr>
 <tr>
@@ -344,7 +344,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td>1</td>
 <td></td>
 <td></td>
-<td>Мектепке дейiнгi тәрбие және оқыту</td>
+<td>Дошкольное воспитание и обучение</td>
 <td>396240</td>
 </tr>
 <tr>
@@ -352,7 +352,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td></td>
 <td>123</td>
 <td></td>
-<td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл (село), ауылдық (селолық) округ әкімінің аппараты</td>
+<td>Аппарат акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
 <td>396240</td>
 </tr>
 <tr>
@@ -360,7 +360,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td></td>
 <td></td>
 <td>004</td>
-<td>Мектепке дейінгі тәрбие ұйымдарының қызметін қамтамасыз ету</td>
+<td>Поддержка организаций дошкольного воспитания и обучения</td>
 <td>396240</td>
 </tr>
 <tr>
@@ -368,7 +368,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td></td>
 <td></td>
 <td></td>
-<td>Оның ішінде:</td>
+<td>в том числе:</td>
 <td></td>
 </tr>
 <tr>
@@ -376,7 +376,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td></td>
 <td></td>
 <td></td>
-<td>Ленгір</td>
+<td>Ленгер</td>
 <td>126149</td>
 </tr>
 <tr>
@@ -384,7 +384,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td></td>
 <td></td>
 <td></td>
-<td>Ақжар</td>
+<td>Акжар</td>
 <td>14375</td>
 </tr>
 <tr>
@@ -392,7 +392,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td></td>
 <td></td>
 <td></td>
-<td>Аққұм</td>
+<td>Аккум</td>
 <td></td>
 </tr>
 <tr>
@@ -416,7 +416,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td></td>
 <td></td>
 <td></td>
-<td>Жоғарғы - Ақсу</td>
+<td>Верхне-Аксу</td>
 <td>21351</td>
 </tr>
 <tr>
@@ -424,7 +424,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td></td>
 <td></td>
 <td></td>
-<td>Көксәйек</td>
+<td>Коксайек</td>
 <td>123481</td>
 </tr>
 <tr>
@@ -432,7 +432,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td></td>
 <td></td>
 <td></td>
-<td>Қазығұрт</td>
+<td>Казыгурт</td>
 <td>31485</td>
 </tr>
 <tr>
@@ -440,7 +440,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td></td>
 <td></td>
 <td></td>
-<td>Қасқасу</td>
+<td>Каскасу</td>
 <td></td>
 </tr>
 <tr>
@@ -448,7 +448,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td></td>
 <td></td>
 <td></td>
-<td>Қоғалы</td>
+<td>Когалы</td>
 <td></td>
 </tr>
 <tr>
@@ -456,7 +456,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td></td>
 <td></td>
 <td></td>
-<td>Қаратөбе</td>
+<td>Каратобе</td>
 <td></td>
 </tr>
 <tr>
@@ -464,7 +464,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td></td>
 <td></td>
 <td></td>
-<td>Бірінші мамыр</td>
+<td>Первомаевка</td>
 <td>14921</td>
 </tr>
 <tr>
@@ -472,7 +472,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td></td>
 <td></td>
 <td></td>
-<td>Тасарық</td>
+<td>Тасарык</td>
 <td>14917</td>
 </tr>
 <tr>
@@ -480,7 +480,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td></td>
 <td></td>
 <td></td>
-<td>Киелітас</td>
+<td>Киелитас</td>
 <td>13349</td>
 </tr>
 <tr>
@@ -488,7 +488,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td></td>
 <td></td>
 <td></td>
-<td>Кемеқалған</td>
+<td>Кемекалган</td>
 <td></td>
 </tr>
 <tr>
@@ -496,7 +496,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td>2</td>
 <td></td>
 <td></td>
-<td>Жалпы бастауыш, жалпы негізгі, жалпы орта бiлiм беру</td>
+<td>Начальное, основное среднее и общее среднее образование</td>
 <td>10767</td>
 </tr>
 <tr>
@@ -504,15 +504,15 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td></td>
 <td>123</td>
 <td></td>
-<td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл (село), ауылдық (селолық) округ әкімінің аппараты</td>
-<td>8339</td>
+<td>Аппарат акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
+<td>10767</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>005</td>
-<td>Аудандық (селолық) жерлерде балаларды мектепке дейін тегін алып баруды және кері алып келуді ұйымдастыру</td>
+<td>Организация бесплатного подвоза учащихся до школы и обратно в аульной (сельской) местности</td>
 <td>8339</td>
 </tr>
 <tr>
@@ -520,7 +520,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td></td>
 <td></td>
 <td></td>
-<td>Оның ішінде:</td>
+<td>в том числе:</td>
 <td></td>
 </tr>
 <tr>
@@ -528,7 +528,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td></td>
 <td></td>
 <td></td>
-<td>Ленгір</td>
+<td>Ленгер</td>
 <td></td>
 </tr>
 <tr>
@@ -536,7 +536,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td></td>
 <td></td>
 <td></td>
-<td>Ақжар</td>
+<td>Акжар</td>
 <td></td>
 </tr>
 <tr>
@@ -544,7 +544,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td></td>
 <td></td>
 <td></td>
-<td>Аққұм</td>
+<td>Аккум</td>
 <td></td>
 </tr>
 <tr>
@@ -568,7 +568,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td></td>
 <td></td>
 <td></td>
-<td>Жоғарғы - Ақсу</td>
+<td>Верхне-Аксу</td>
 <td></td>
 </tr>
 <tr>
@@ -576,7 +576,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td></td>
 <td></td>
 <td></td>
-<td>Көксәйек</td>
+<td>Коксайек</td>
 <td>1969</td>
 </tr>
 <tr>
@@ -584,7 +584,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td></td>
 <td></td>
 <td></td>
-<td>Қазығұрт</td>
+<td>Казыгурт</td>
 <td>5370</td>
 </tr>
 <tr>
@@ -592,7 +592,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td></td>
 <td></td>
 <td></td>
-<td>Қасқасу</td>
+<td>Каскасу</td>
 <td></td>
 </tr>
 <tr>
@@ -600,7 +600,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td></td>
 <td></td>
 <td></td>
-<td>Қоғалы</td>
+<td>Когалы</td>
 <td></td>
 </tr>
 <tr>
@@ -608,7 +608,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td></td>
 <td></td>
 <td></td>
-<td>Қаратөбе</td>
+<td>Каратобе</td>
 <td></td>
 </tr>
 <tr>
@@ -616,7 +616,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td></td>
 <td></td>
 <td></td>
-<td>Бірінші мамыр</td>
+<td>Первомаевка</td>
 <td></td>
 </tr>
 <tr>
@@ -624,7 +624,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td></td>
 <td></td>
 <td></td>
-<td>Тасарық</td>
+<td>Тасарык</td>
 <td></td>
 </tr>
 <tr>
@@ -632,7 +632,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td></td>
 <td></td>
 <td></td>
-<td>Киелітас</td>
+<td>Киелитас</td>
 <td></td>
 </tr>
 <tr>
@@ -640,7 +640,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td></td>
 <td></td>
 <td></td>
-<td>Кемеқалған</td>
+<td>Кемекалган</td>
 <td></td>
 </tr>
 <tr>
@@ -648,7 +648,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td></td>
 <td></td>
 <td>025</td>
-<td>Республикалық бюджеттен берілетін трансферттер есебінен мектеп мұғалімдеріне және мектепке дейінгі ұйымдардың тәрбиешілеріне біліктілік санаты үшін қосымша ақының мөлшерін ұлғайту</td>
+<td>Увеличение размера доплаты за квалификационную категорию учителям школ и воспитателям дошкольных организаций образования за счет трансфертов из республиканского бюджета</td>
 <td>2428</td>
 </tr>
 <tr>
@@ -656,7 +656,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td></td>
 <td></td>
 <td></td>
-<td>Оның ішінде:</td>
+<td>в том числе:</td>
 <td></td>
 </tr>
 <tr>
@@ -664,7 +664,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td></td>
 <td></td>
 <td></td>
-<td>Ленгір</td>
+<td>Ленгер</td>
 <td>616</td>
 </tr>
 <tr>
@@ -672,7 +672,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td></td>
 <td></td>
 <td></td>
-<td>Ақжар</td>
+<td>Акжар</td>
 <td>216</td>
 </tr>
 <tr>
@@ -680,7 +680,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td></td>
 <td></td>
 <td></td>
-<td>Аққұм</td>
+<td>Аккум</td>
 <td></td>
 </tr>
 <tr>
@@ -704,7 +704,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td></td>
 <td></td>
 <td></td>
-<td>Жоғарғы - Ақсу</td>
+<td>Верхне-Аксу</td>
 <td></td>
 </tr>
 <tr>
@@ -712,7 +712,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td></td>
 <td></td>
 <td></td>
-<td>Көксәйек</td>
+<td>Коксайек</td>
 <td>792</td>
 </tr>
 <tr>
@@ -720,7 +720,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td></td>
 <td></td>
 <td></td>
-<td>Қазығұрт</td>
+<td>Казыгурт</td>
 <td>600</td>
 </tr>
 <tr>
@@ -728,7 +728,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td></td>
 <td></td>
 <td></td>
-<td>Қасқасу</td>
+<td>Каскасу</td>
 <td></td>
 </tr>
 <tr>
@@ -736,7 +736,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td></td>
 <td></td>
 <td></td>
-<td>Қоғалы</td>
+<td>Когалы</td>
 <td></td>
 </tr>
 <tr>
@@ -744,7 +744,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td></td>
 <td></td>
 <td></td>
-<td>Қаратөбе</td>
+<td>Каратобе</td>
 <td></td>
 </tr>
 <tr>
@@ -752,7 +752,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td></td>
 <td></td>
 <td></td>
-<td>Бірінші мамыр</td>
+<td>Первомаевка</td>
 <td>108</td>
 </tr>
 <tr>
@@ -760,7 +760,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td></td>
 <td></td>
 <td></td>
-<td>Тасарық</td>
+<td>Тасарык</td>
 <td>96</td>
 </tr>
 <tr>
@@ -768,7 +768,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td></td>
 <td></td>
 <td></td>
-<td>Киелітас</td>
+<td>Киелитас</td>
 <td></td>
 </tr>
 <tr>
@@ -776,15 +776,15 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td></td>
 <td></td>
 <td></td>
-<td>Кемеқалған</td>
+<td>Кемекалган</td>
 <td></td>
 </tr>
 <tr>
-<td>7</td>
+<td>07</td>
 <td></td>
 <td></td>
 <td></td>
-<td>Тұрғын үй-коммуналдық шаруашылық</td>
+<td>Жилищно-коммунальное хозяйство</td>
 <td>64324</td>
 </tr>
 <tr>
@@ -792,7 +792,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td>3</td>
 <td></td>
 <td></td>
-<td>Елді-мекендерді көркейту</td>
+<td>Благоустройство населенных пунктов</td>
 <td>64324</td>
 </tr>
 <tr>
@@ -800,7 +800,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td></td>
 <td>123</td>
 <td></td>
-<td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл (село), ауылдық (селолық) округ әкімінің аппараты</td>
+<td>Аппарат акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
 <td>8877</td>
 </tr>
 <tr>
@@ -808,7 +808,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td></td>
 <td></td>
 <td>009</td>
-<td>Елдi мекендердің санитариясын қамтамасыз ету</td>
+<td>Обеспечение санитарии населенных пунктов</td>
 <td>8877</td>
 </tr>
 <tr>
@@ -816,7 +816,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td></td>
 <td></td>
 <td></td>
-<td>Оның ішінде:</td>
+<td>в том числе:</td>
 <td></td>
 </tr>
 <tr>
@@ -824,7 +824,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td></td>
 <td></td>
 <td></td>
-<td>Ленгір</td>
+<td>Ленгер</td>
 <td>6182</td>
 </tr>
 <tr>
@@ -832,7 +832,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td></td>
 <td></td>
 <td></td>
-<td>Ақжар</td>
+<td>Акжар</td>
 <td></td>
 </tr>
 <tr>
@@ -840,7 +840,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td></td>
 <td></td>
 <td></td>
-<td>Аққұм</td>
+<td>Аккум</td>
 <td></td>
 </tr>
 <tr>
@@ -864,7 +864,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td></td>
 <td></td>
 <td></td>
-<td>Жоғарғы - Ақсу</td>
+<td>Верхне-Аксу</td>
 <td></td>
 </tr>
 <tr>
@@ -872,7 +872,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td></td>
 <td></td>
 <td></td>
-<td>Көксәйек</td>
+<td>Коксайек</td>
 <td>720</td>
 </tr>
 <tr>
@@ -880,7 +880,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td></td>
 <td></td>
 <td></td>
-<td>Қазығұрт</td>
+<td>Казыгурт</td>
 <td>720</td>
 </tr>
 <tr>
@@ -888,7 +888,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td></td>
 <td></td>
 <td></td>
-<td>Қасқасу</td>
+<td>Каскасу</td>
 <td>195</td>
 </tr>
 <tr>
@@ -896,7 +896,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td></td>
 <td></td>
 <td></td>
-<td>Қоғалы</td>
+<td>Когалы</td>
 <td></td>
 </tr>
 <tr>
@@ -904,7 +904,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td></td>
 <td></td>
 <td></td>
-<td>Қаратөбе</td>
+<td>Каратобе</td>
 <td></td>
 </tr>
 <tr>
@@ -912,7 +912,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td></td>
 <td></td>
 <td></td>
-<td>Бірінші мамыр</td>
+<td>Первомаевка</td>
 <td></td>
 </tr>
 <tr>
@@ -920,7 +920,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td></td>
 <td></td>
 <td></td>
-<td>Тасарық</td>
+<td>Тасарык</td>
 <td></td>
 </tr>
 <tr>
@@ -928,7 +928,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td></td>
 <td></td>
 <td></td>
-<td>Киелітас</td>
+<td>Киелитас</td>
 <td>800</td>
 </tr>
 <tr>
@@ -936,7 +936,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td></td>
 <td></td>
 <td></td>
-<td>Кемеқалған</td>
+<td>Кемекалган</td>
 <td></td>
 </tr>
 <tr>
@@ -944,7 +944,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td></td>
 <td>123</td>
 <td></td>
-<td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл (село), ауылдық (селолық) округ әкімінің аппараты</td>
+<td>Аппарат акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
 <td>180</td>
 </tr>
 <tr>
@@ -952,7 +952,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td></td>
 <td></td>
 <td>010</td>
-<td>Жерлеу орындарын күтіп-ұстау және туысы жоқ адамдарды жерлеу</td>
+<td>Содержание мест захоронений и погребение безродных</td>
 <td>180</td>
 </tr>
 <tr>
@@ -960,7 +960,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td></td>
 <td></td>
 <td></td>
-<td>Оның ішінде:</td>
+<td>в том числе:</td>
 <td></td>
 </tr>
 <tr>
@@ -968,7 +968,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td></td>
 <td></td>
 <td></td>
-<td>Ленгір</td>
+<td>Ленгер</td>
 <td>180</td>
 </tr>
 <tr>
@@ -976,7 +976,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td></td>
 <td></td>
 <td></td>
-<td>Ақжар</td>
+<td>Акжар</td>
 <td></td>
 </tr>
 <tr>
@@ -984,7 +984,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td></td>
 <td></td>
 <td></td>
-<td>Аққұм</td>
+<td>Аккум</td>
 <td></td>
 </tr>
 <tr>
@@ -1008,7 +1008,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td></td>
 <td></td>
 <td></td>
-<td>Жоғарғы - Ақсу</td>
+<td>Верхне-Аксу</td>
 <td></td>
 </tr>
 <tr>
@@ -1016,7 +1016,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td></td>
 <td></td>
 <td></td>
-<td>Көксәйек</td>
+<td>Коксайек</td>
 <td></td>
 </tr>
 <tr>
@@ -1024,7 +1024,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td></td>
 <td></td>
 <td></td>
-<td>Қазығұрт</td>
+<td>Казыгурт</td>
 <td></td>
 </tr>
 <tr>
@@ -1032,7 +1032,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td></td>
 <td></td>
 <td></td>
-<td>Қасқасу</td>
+<td>Каскасу</td>
 <td></td>
 </tr>
 <tr>
@@ -1040,7 +1040,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td></td>
 <td></td>
 <td></td>
-<td>Қоғалы</td>
+<td>Когалы</td>
 <td></td>
 </tr>
 <tr>
@@ -1048,7 +1048,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td></td>
 <td></td>
 <td></td>
-<td>Қаратөбе</td>
+<td>Каратобе</td>
 <td></td>
 </tr>
 <tr>
@@ -1056,7 +1056,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td></td>
 <td></td>
 <td></td>
-<td>Бірінші мамыр</td>
+<td>Первомаевка</td>
 <td></td>
 </tr>
 <tr>
@@ -1064,7 +1064,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td></td>
 <td></td>
 <td></td>
-<td>Тасарық</td>
+<td>Тасарык</td>
 <td></td>
 </tr>
 <tr>
@@ -1072,7 +1072,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td></td>
 <td></td>
 <td></td>
-<td>Киелітас</td>
+<td>Киелитас</td>
 <td></td>
 </tr>
 <tr>
@@ -1080,7 +1080,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td></td>
 <td></td>
 <td></td>
-<td>Кемеқалған</td>
+<td>Кемекалган</td>
 <td></td>
 </tr>
 <tr>
@@ -1088,7 +1088,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td></td>
 <td>123</td>
 <td></td>
-<td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл (село), ауылдық (селолық) округ әкімінің аппараты</td>
+<td>Аппарат акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
 <td>55267</td>
 </tr>
 <tr>
@@ -1096,15 +1096,15 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td></td>
 <td></td>
 <td>011</td>
-<td>Елдi мекендерді абаттандыру және көгалдандыру</td>
-<td>55 267</td>
+<td>Благоустройство и озеленение населенных пунктов</td>
+<td>55267</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>Оның ішінде:</td>
+<td>в том числе:</td>
 <td></td>
 </tr>
 <tr>
@@ -1112,15 +1112,15 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td></td>
 <td></td>
 <td></td>
-<td>Ленгір</td>
-<td>53 717</td>
+<td>Ленгер</td>
+<td>53717</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>Ақжар</td>
+<td>Акжар</td>
 <td>100</td>
 </tr>
 <tr>
@@ -1128,7 +1128,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td></td>
 <td></td>
 <td></td>
-<td>Аққұм</td>
+<td>Аккум</td>
 <td>100</td>
 </tr>
 <tr>
@@ -1152,7 +1152,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td></td>
 <td></td>
 <td></td>
-<td>Жоғарғы - Ақсу</td>
+<td>Верхне-Аксу</td>
 <td>100</td>
 </tr>
 <tr>
@@ -1160,7 +1160,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td></td>
 <td></td>
 <td></td>
-<td>Көксәйек</td>
+<td>Коксайек</td>
 <td>100</td>
 </tr>
 <tr>
@@ -1168,7 +1168,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td></td>
 <td></td>
 <td></td>
-<td>Қазығұрт</td>
+<td>Казыгурт</td>
 <td>100</td>
 </tr>
 <tr>
@@ -1176,7 +1176,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td></td>
 <td></td>
 <td></td>
-<td>Қасқасу</td>
+<td>Каскасу</td>
 <td>100</td>
 </tr>
 <tr>
@@ -1184,7 +1184,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td></td>
 <td></td>
 <td></td>
-<td>Қоғалы</td>
+<td>Когалы</td>
 <td>250</td>
 </tr>
 <tr>
@@ -1192,7 +1192,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td></td>
 <td></td>
 <td></td>
-<td>Қаратөбе</td>
+<td>Каратобе</td>
 <td>100</td>
 </tr>
 <tr>
@@ -1200,7 +1200,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td></td>
 <td></td>
 <td></td>
-<td>Бірінші мамыр</td>
+<td>Первомаевка</td>
 <td>100</td>
 </tr>
 <tr>
@@ -1208,7 +1208,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td></td>
 <td></td>
 <td></td>
-<td>Тасарық</td>
+<td>Тасарык</td>
 <td>100</td>
 </tr>
 <tr>
@@ -1216,7 +1216,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td></td>
 <td></td>
 <td></td>
-<td>Киелітас</td>
+<td>Киелитас</td>
 <td>100</td>
 </tr>
 <tr>
@@ -1224,7 +1224,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td></td>
 <td></td>
 <td></td>
-<td>Кемеқалған</td>
+<td>Кемекалган</td>
 <td>100</td>
 </tr>
 <tr>
@@ -1232,62 +1232,69 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td></td>
 <td></td>
 <td></td>
-<td>Барлығы</td>
+<td>Всего:</td>
 <td>739870</td>
 </tr>
 </table>
 
-> *Төлеби аудандық мәслихатының*  
-> *2011 жылғы 21 желтоқсандағы*  
-> *№ 44/294-IV шешімімен*  
-> *бекітілген № 6 қосымша*
+> *Приложение № 6*  
+> *к решению районного маслихата*  
+> *от 21 декабря 2011 года № 44/294-ІV*
 
-## 2012 жылға арналған аудандық бюджеттің бюджеттік даму бағдарламаларының тізбесі
+## Перечень районных бюджетных программ развития на 2012 год направленных на реализацию инвестиционных проектов
 
-> *Ескерту. 6-Қосымша жаңа редакцияда - Оңтүстік Қазақстан облысы Төлеби аудандық мәслихатының 2012.01.09 N 45/301-IV (2012 жылдың 1 қаңтарынан бастап қолданысқа енгізілсін) Шешімімен.*
+> *Сноска. Приложение 6 в редакции решения Толебийского районного маслихата от 09.01.2012 № 45/301-IV (вводится в действие с 01.01.2012)*
 
 <table>
 <tr>
-<td colspan="5">Функционалдық топ</td>
-<td rowspan="4">сомасы, мың теңге</td>
+<td colspan="5">Функциональная группа</td>
+<td rowspan="4">Сумма, тыс тенге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="4">Кіші функция</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td colspan="3">Бюджеттік бағдарламалардың әкiмшiсi</td>
+<td colspan="4">Функциональная подгруппа</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td></td>
-<td colspan="2">Бағдарлама</td>
+<td colspan="3">Администратор бюджетных программ</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2">Программа</td>
+</tr>
+<tr>
 <td></td>
-<td>Атауы</td>
-<td>3795518</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Наименование</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>3 795 518</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>467</td>
 <td></td>
-<td>Ауданның (облыстық маңызы бар қаланың) құрылыс бөлімі</td>
-<td>272995</td>
+<td>Отдел строительства района (города областного значения)</td>
+<td>272 995</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>037</td>
-<td>Білім беру объектілерін салу және реконструкциялау</td>
+<td>Строительство и реконструкция объектов образования</td>
 <td>272995</td>
 </tr>
 <tr>
@@ -1295,15 +1302,15 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td></td>
 <td>467</td>
 <td></td>
-<td>Ауданның (облыстық маңызы бар қаланың) құрылыс бөлімі</td>
-<td>4163</td>
+<td>Отдел строительства района (города областного значения)</td>
+<td>4 163</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>003</td>
-<td>Мемлекеттік коммуналдық тұрғын үй қорының тұрғын үй құрылысы және (немесе) сатып алу</td>
+<td>Строительство и (или) приобретение жилья государственного коммунального жилищного фонда</td>
 <td>2800</td>
 </tr>
 <tr>
@@ -1311,7 +1318,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td></td>
 <td></td>
 <td>004</td>
-<td>Инженерлік коммуникациялық инфрақұрылымды дамыту, жайластыру және (немесе) сатып алу</td>
+<td>Развитие, обустройство и (или) приобретение инженерно-коммуникационной инфраструктуры</td>
 <td>1363</td>
 </tr>
 <tr>
@@ -1319,15 +1326,15 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td></td>
 <td>467</td>
 <td></td>
-<td>Ауданның (облыстық маңызы бар қаланың) құрылыс бөлімі</td>
-<td>2361668</td>
+<td>Отдел строительства района (города областного значения)</td>
+<td>2 361 668</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>006</td>
-<td>Сумен жабдықтау жүйесін дамыту</td>
+<td>Развитие системы водоснабжения</td>
 <td>2361668</td>
 </tr>
 <tr>
@@ -1335,7 +1342,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td></td>
 <td>458</td>
 <td></td>
-<td>Ауданның (облыстық маңызы бар қаланың) тұрғын үй-коммуналдық шаруашылығы, жолаушылар көлігі және автомобиль жолдары бөлімі</td>
+<td>Отдел жилищно-коммунального хозяйства, пассажирского транспорта и автомобильных дорог района (города областного значения)</td>
 <td>1200</td>
 </tr>
 <tr>
@@ -1343,7 +1350,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td></td>
 <td></td>
 <td>019</td>
-<td>Жылу-энергетикалық жүйені дамыту</td>
+<td>Развитие теплоэнергетической системы</td>
 <td>1200</td>
 </tr>
 <tr>
@@ -1351,15 +1358,15 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/09.01.2012
 <td></td>
 <td>467</td>
 <td></td>
-<td>Ауданның (облыстық маңызы бар қаланың) құрылыс бөлімі</td>
-<td>1155492</td>
+<td>Отдел строительства района (города областного значения)</td>
+<td>1 155 492</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>009</td>
-<td>Жылу-энергетикалық жүйені дамыту</td>
+<td>Развитие теплоэнергетической системы</td>
 <td>1155492</td>
 </tr>
 </table>
