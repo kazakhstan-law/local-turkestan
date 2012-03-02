@@ -1,15 +1,16 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/62410/rus/09.01.2012
+source: https://zan.gov.kz/client/#!/doc/62410/rus/02.03.2012
 ---
 
 ## Районный бюджет на 2012 год
 
-> *Сноска. Приложение 1 в редакции решения Толебийского районного маслихата от 09.01.2012 № 45/301-IV (вводится в действие с 01.01.2012)*
+> *Сноска. Приложение 1 в редакции решения Толебийского районного маслихата Южно-Казахстанской области от 02.03.2012 № 2/11-V (вводится в действие с 01.01.2012)*
 
 <table>
 <tr>
-<td colspan="3">Категория</td>
+<td colspan="2">Категория</td>
+<td>Наименование</td>
 <td rowspan="2">Сумма в тысяч тенге</td>
 </tr>
 <tr>
@@ -19,20 +20,14 @@ source: https://zan.gov.kz/client/#!/doc/62410/rus/09.01.2012
 <tr>
 <td></td>
 <td></td>
-<td>Наименование</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>I.Доходы</td>
-<td>10257869</td>
+<td>I. Доходы</td>
+<td>10256836</td>
 </tr>
 <tr>
 <td>1</td>
 <td></td>
 <td>Налоговые поступления</td>
-<td>881456</td>
+<td>915456</td>
 </tr>
 <tr>
 <td></td>
@@ -50,7 +45,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/rus/09.01.2012
 <td></td>
 <td>04</td>
 <td>Hалоги на собственность</td>
-<td>230604</td>
+<td>264604</td>
 </tr>
 <tr>
 <td></td>
@@ -98,13 +93,13 @@ source: https://zan.gov.kz/client/#!/doc/62410/rus/09.01.2012
 <td>4</td>
 <td></td>
 <td>Поступления трансфертов</td>
-<td>9325966</td>
+<td>9290933</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td>Трансферты из вышестоящих органов государственного управления</td>
-<td>9325966</td>
+<td>9290933</td>
 </tr>
 </table>
 
@@ -133,8 +128,8 @@ source: https://zan.gov.kz/client/#!/doc/62410/rus/09.01.2012
 <td></td>
 <td></td>
 <td></td>
-<td>ІІ Затраты</td>
-<td>10262517</td>
+<td>ІІ. Затраты</td>
+<td>10298592</td>
 </tr>
 <tr>
 <td>01</td>
@@ -278,7 +273,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/rus/09.01.2012
 <td></td>
 <td></td>
 <td>Оборона</td>
-<td>11843</td>
+<td>41843</td>
 </tr>
 <tr>
 <td></td>
@@ -310,7 +305,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/rus/09.01.2012
 <td></td>
 <td></td>
 <td>Организация работы по чрезвычайным ситуациям</td>
-<td>200</td>
+<td>30200</td>
 </tr>
 <tr>
 <td></td>
@@ -318,7 +313,15 @@ source: https://zan.gov.kz/client/#!/doc/62410/rus/09.01.2012
 <td>122</td>
 <td></td>
 <td>Аппарат акима района (города областного значения)</td>
-<td>200</td>
+<td>30200</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>006</td>
+<td>Предупреждение и ликвидация чрезвычайных ситуаций масштаба района (города областного значения)</td>
+<td>30000</td>
 </tr>
 <tr>
 <td></td>
@@ -342,7 +345,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/rus/09.01.2012
 <td></td>
 <td></td>
 <td>Дошкольное воспитание и обучение</td>
-<td>398668</td>
+<td>344468</td>
 </tr>
 <tr>
 <td></td>
@@ -350,7 +353,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/rus/09.01.2012
 <td>123</td>
 <td></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
-<td>398668</td>
+<td>344468</td>
 </tr>
 <tr>
 <td></td>
@@ -358,7 +361,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/rus/09.01.2012
 <td></td>
 <td>004</td>
 <td>Поддержка организаций дошкольного воспитания и обучения</td>
-<td>396240</td>
+<td>342040</td>
 </tr>
 <tr>
 <td></td>
@@ -374,7 +377,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/rus/09.01.2012
 <td></td>
 <td></td>
 <td>Начальное, основное среднее и общее среднее образование</td>
-<td>4156587</td>
+<td>4210787</td>
 </tr>
 <tr>
 <td></td>
@@ -398,7 +401,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/rus/09.01.2012
 <td>464</td>
 <td></td>
 <td>Отдел образования района (города областного значения)</td>
-<td>4148248</td>
+<td>4202448</td>
 </tr>
 <tr>
 <td></td>
@@ -406,7 +409,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/rus/09.01.2012
 <td></td>
 <td>003</td>
 <td>Общеобразовательное обучение</td>
-<td>3966833</td>
+<td>4021033</td>
 </tr>
 <tr>
 <td></td>
@@ -662,7 +665,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/rus/09.01.2012
 <td></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>2543055</td>
+<td>2538055</td>
 </tr>
 <tr>
 <td></td>
@@ -702,7 +705,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/rus/09.01.2012
 <td></td>
 <td></td>
 <td>Коммунальное хозяйство</td>
-<td>2447191</td>
+<td>2442191</td>
 </tr>
 <tr>
 <td></td>
@@ -726,7 +729,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/rus/09.01.2012
 <td>467</td>
 <td></td>
 <td>Отдел строительства района (города областного значения)</td>
-<td>2361668</td>
+<td>2356668</td>
 </tr>
 <tr>
 <td></td>
@@ -734,7 +737,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/rus/09.01.2012
 <td></td>
 <td>006</td>
 <td>Развитие системы водоснабжения</td>
-<td>2361668</td>
+<td>2356668</td>
 </tr>
 <tr>
 <td></td>
@@ -1262,7 +1265,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/rus/09.01.2012
 <td></td>
 <td></td>
 <td>Транспорт и коммуникации</td>
-<td>297085</td>
+<td>300435</td>
 </tr>
 <tr>
 <td></td>
@@ -1270,7 +1273,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/rus/09.01.2012
 <td></td>
 <td></td>
 <td>Автомобильный транспорт</td>
-<td>297085</td>
+<td>300435</td>
 </tr>
 <tr>
 <td></td>
@@ -1278,7 +1281,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/rus/09.01.2012
 <td>458</td>
 <td></td>
 <td>Отдел жилищно-коммунального хозяйства, пассажирского транспорта и автомобильных дорог района (города областного значения)</td>
-<td>297085</td>
+<td>300435</td>
 </tr>
 <tr>
 <td></td>
@@ -1286,7 +1289,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/rus/09.01.2012
 <td></td>
 <td>023</td>
 <td>Обеспечение функционирования автомобильных дорог</td>
-<td>297085</td>
+<td>300435</td>
 </tr>
 <tr>
 <td>13</td>
@@ -1294,7 +1297,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/rus/09.01.2012
 <td></td>
 <td></td>
 <td>Прочие</td>
-<td>45560</td>
+<td>50770</td>
 </tr>
 <tr>
 <td></td>
@@ -1302,7 +1305,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/rus/09.01.2012
 <td></td>
 <td></td>
 <td>Прочие</td>
-<td>45560</td>
+<td>50770</td>
 </tr>
 <tr>
 <td></td>
@@ -1310,7 +1313,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/rus/09.01.2012
 <td>458</td>
 <td></td>
 <td>Отдел жилищно-коммунального хозяйства, пассажирского транспорта и автомобильных дорог района (города областного значения)</td>
-<td>12542</td>
+<td>13752</td>
 </tr>
 <tr>
 <td></td>
@@ -1318,7 +1321,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/rus/09.01.2012
 <td></td>
 <td>040</td>
 <td>Реализация мероприятий для решения вопросов обустройства аульных (сельских) округов в реализацию мер по содействию экономическому развитию регионов в рамках Программы «Развитие регионов» за счет целевых трансфертов из республиканского бюджета</td>
-<td>12542</td>
+<td>13752</td>
 </tr>
 <tr>
 <td></td>
@@ -1366,7 +1369,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/rus/09.01.2012
 <td>459</td>
 <td></td>
 <td>Отдел экономики и финансов района (города областного значения)</td>
-<td>3000</td>
+<td>7000</td>
 </tr>
 <tr>
 <td></td>
@@ -1374,7 +1377,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/rus/09.01.2012
 <td></td>
 <td>012</td>
 <td>Резерв местного исполнительного органа района (города областного значения)</td>
-<td>3000</td>
+<td>7000</td>
 </tr>
 <tr>
 <td>15</td>
@@ -1382,7 +1385,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/rus/09.01.2012
 <td></td>
 <td></td>
 <td>Трансферты</td>
-<td>6077</td>
+<td>8592</td>
 </tr>
 <tr>
 <td></td>
@@ -1390,7 +1393,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/rus/09.01.2012
 <td></td>
 <td></td>
 <td>Трансферты</td>
-<td>6077</td>
+<td>8592</td>
 </tr>
 <tr>
 <td></td>
@@ -1398,7 +1401,15 @@ source: https://zan.gov.kz/client/#!/doc/62410/rus/09.01.2012
 <td>459</td>
 <td></td>
 <td>Отдел экономики и финансов района (города областного значения)</td>
-<td>6077</td>
+<td>8592</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>006</td>
+<td>Возврат неиспользованных (недоиспользованных) целевых трансфертов</td>
+<td>2515</td>
 </tr>
 <tr>
 <td></td>
@@ -1413,12 +1424,19 @@ source: https://zan.gov.kz/client/#!/doc/62410/rus/09.01.2012
 <td></td>
 <td></td>
 <td></td>
-<td>ІІІ Чистое бюджетное кредитование</td>
+<td>ІІІ. Чистое бюджетное кредитование</td>
 <td>1802</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Наименование</td>
+<td rowspan="5">Сумма в тысяч тенге</td>
+</tr>
+<tr>
 <td colspan="5">Функциональная группа</td>
-<td rowspan="4">Сумма в тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
@@ -1434,14 +1452,6 @@ source: https://zan.gov.kz/client/#!/doc/62410/rus/09.01.2012
 <td></td>
 <td></td>
 <td colspan="2">Программа</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Наименование</td>
-<td></td>
 </tr>
 <tr>
 <td></td>
@@ -1484,25 +1494,26 @@ source: https://zan.gov.kz/client/#!/doc/62410/rus/09.01.2012
 <td>7281</td>
 </tr>
 <tr>
-<td colspan="5">Категория</td>
-<td rowspan="3">Сумма в тысяч тенге</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="4">Класс</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td colspan="3">Подкласс</td>
-</tr>
-<tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td>Наименование</td>
+<td rowspan="4">Сумма в тысяч тенге</td>
+</tr>
+<tr>
+<td colspan="4">Категория</td>
 <td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">Класс</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3">Подкласс</td>
 </tr>
 <tr>
 <td>5</td>
@@ -1514,7 +1525,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/rus/09.01.2012
 </tr>
 <tr>
 <td></td>
-<td>01</td>
+<td>1</td>
 <td></td>
 <td></td>
 <td>Погашение бюджетных кредитов</td>
@@ -1541,12 +1552,12 @@ source: https://zan.gov.kz/client/#!/doc/62410/rus/09.01.2012
 <td></td>
 <td></td>
 <td></td>
-<td>IV сальдо по операциям с финансовыми активами</td>
+<td>IV. сальдо по операциям с финансовыми активами</td>
 <td></td>
 </tr>
 <tr>
 <td colspan="5">Функциональная группа</td>
-<td rowspan="4">Сумма в тысяч тенге</td>
+<td rowspan="5">Сумма в тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
@@ -1560,7 +1571,8 @@ source: https://zan.gov.kz/client/#!/doc/62410/rus/09.01.2012
 <tr>
 <td></td>
 <td></td>
-<td colspan="3">Программа</td>
+<td></td>
+<td colspan="2">Программа</td>
 </tr>
 <tr>
 <td></td>
@@ -1568,7 +1580,6 @@ source: https://zan.gov.kz/client/#!/doc/62410/rus/09.01.2012
 <td></td>
 <td></td>
 <td>Наименование</td>
-<td></td>
 </tr>
 <tr>
 <td></td>
@@ -1615,29 +1626,16 @@ source: https://zan.gov.kz/client/#!/doc/62410/rus/09.01.2012
 <td></td>
 <td></td>
 <td></td>
-<td>V Дефицит (профицит) бюджета</td>
-<td>-6450</td>
+<td>V. Дефицит (профицит) бюджета</td>
+<td>-43558</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>VI Финансирование дефицита (использование профицита) бюджета</td>
-<td>6450</td>
-</tr>
-<tr>
-<td colspan="5">Категория</td>
-<td rowspan="3">Сумма в тысяч тенге</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="4">Класс</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td colspan="3">Подкласс</td>
+<td>VI. Финансирование дефицита (использование профицита) бюджета</td>
+<td>43558</td>
 </tr>
 <tr>
 <td></td>
@@ -1645,13 +1643,24 @@ source: https://zan.gov.kz/client/#!/doc/62410/rus/09.01.2012
 <td></td>
 <td></td>
 <td>Наименование</td>
+<td rowspan="4">Сумма в тысяч тенге</td>
+</tr>
+<tr>
+<td colspan="4">Категория</td>
 <td></td>
 </tr>
 <tr>
 <td></td>
+<td colspan="2">Класс</td>
 <td></td>
 <td></td>
-<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3">Подкласс</td>
+</tr>
+<tr>
+<td colspan="4"></td>
 <td>Поступления займов</td>
 <td></td>
 </tr>
@@ -1688,8 +1697,15 @@ source: https://zan.gov.kz/client/#!/doc/62410/rus/09.01.2012
 <td>7281</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Наименование</td>
+<td rowspan="5">Сумма в тысяч тенге</td>
+</tr>
+<tr>
 <td colspan="5">Функциональная группа</td>
-<td rowspan="4">Сумма в тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
@@ -1705,14 +1721,6 @@ source: https://zan.gov.kz/client/#!/doc/62410/rus/09.01.2012
 <td></td>
 <td></td>
 <td colspan="2">Программа</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Наименование</td>
-<td></td>
 </tr>
 <tr>
 <td></td>
@@ -1755,16 +1763,18 @@ source: https://zan.gov.kz/client/#!/doc/62410/rus/09.01.2012
 <td>831</td>
 </tr>
 <tr>
-<td colspan="5">Категория</td>
+<td colspan="4">Категория</td>
+<td>Наименование</td>
 <td rowspan="3">Сумма в тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="4">Класс</td>
+<td colspan="2">Класс</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td colspan="3">Подкласс</td>
 </tr>
 <tr>
@@ -1772,16 +1782,8 @@ source: https://zan.gov.kz/client/#!/doc/62410/rus/09.01.2012
 <td></td>
 <td></td>
 <td></td>
-<td>Наименование</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td>Используемые остатки бюджетных средств</td>
-<td>0</td>
+<td>37108</td>
 </tr>
 <tr>
 <td>8</td>
@@ -1789,7 +1791,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/rus/09.01.2012
 <td></td>
 <td></td>
 <td>Используемые остатки бюджетных средств</td>
-<td>0</td>
+<td>37108</td>
 </tr>
 <tr>
 <td></td>
@@ -1797,7 +1799,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/rus/09.01.2012
 <td></td>
 <td></td>
 <td>Используемые остатки бюджетных средств</td>
-<td>0</td>
+<td>37108</td>
 </tr>
 <tr>
 <td></td>
@@ -1805,7 +1807,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/rus/09.01.2012
 <td>1</td>
 <td></td>
 <td>Используемые остатки бюджетных средств</td>
-<td>0</td>
+<td>37108</td>
 </tr>
 <tr>
 <td></td>
@@ -1813,7 +1815,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/rus/09.01.2012
 <td></td>
 <td></td>
 <td>Используемые остатки бюджетных средств</td>
-<td></td>
+<td>37108</td>
 </tr>
 </table>
 
@@ -1823,11 +1825,12 @@ source: https://zan.gov.kz/client/#!/doc/62410/rus/09.01.2012
 
 ## Районный бюджет на 2013 год
 
-> *Сноска. Приложение 2 в редакции решения Толебийского районного маслихата от 09.01.2012 № 45/301-IV (вводится в действие с 01.01.2012)*
+> *Сноска. Приложение 2 в редакции решения Толебийского районного маслихата Южно-Казахстанской области от 02.03.2012 № 2/11-V (вводится в действие с 01.01.2012)*
 
 <table>
 <tr>
-<td colspan="3">Категория</td>
+<td colspan="2">Категория</td>
+<td>Наименование</td>
 <td rowspan="2">Сумма в тысяч тенге</td>
 </tr>
 <tr>
@@ -1837,13 +1840,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/rus/09.01.2012
 <tr>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>I.Доходы</td>
+<td>I. Доходы</td>
 <td>9967636</td>
 </tr>
 <tr>
@@ -1951,7 +1948,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/rus/09.01.2012
 <td></td>
 <td></td>
 <td></td>
-<td>ІІ Затраты</td>
+<td>ІІ. Затраты</td>
 <td>9967636</td>
 </tr>
 <tr>
@@ -2022,7 +2019,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/rus/09.01.2012
 <td></td>
 <td></td>
 <td></td>
-<td>023</td>
+<td>022</td>
 <td>Капитальные расходы государственных органов</td>
 <td>330</td>
 </tr>
@@ -2935,12 +2932,12 @@ source: https://zan.gov.kz/client/#!/doc/62410/rus/09.01.2012
 <td></td>
 <td></td>
 <td></td>
-<td>ІІІ Чистое бюджетное кредитование</td>
+<td>ІІІ. Чистое бюджетное кредитование</td>
 <td>-831</td>
 </tr>
 <tr>
 <td colspan="5">Функциональная группа</td>
-<td rowspan="4">Сумма в тысяч тенге</td>
+<td rowspan="5">Сумма в тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
@@ -2963,7 +2960,6 @@ source: https://zan.gov.kz/client/#!/doc/62410/rus/09.01.2012
 <td></td>
 <td></td>
 <td>Наименование</td>
-<td></td>
 </tr>
 <tr>
 <td></td>
@@ -3006,25 +3002,19 @@ source: https://zan.gov.kz/client/#!/doc/62410/rus/09.01.2012
 <td></td>
 </tr>
 <tr>
-<td colspan="5">Категория</td>
+<td colspan="4">Категория</td>
+<td>Наименование</td>
 <td rowspan="3">Сумма в тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="4">Класс</td>
+<td colspan="2">Класс</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td colspan="3">Подкласс</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Наименование</td>
-<td></td>
 </tr>
 <tr>
 <td>5</td>
@@ -3063,12 +3053,12 @@ source: https://zan.gov.kz/client/#!/doc/62410/rus/09.01.2012
 <td></td>
 <td></td>
 <td></td>
-<td>IV Сальдо по операциям с финансовыми активами</td>
+<td>IV. Сальдо по операциям с финансовыми активами</td>
 <td>0</td>
 </tr>
 <tr>
 <td colspan="5">Функциональная группа</td>
-<td rowspan="4">Сумма в тысяч тенге</td>
+<td rowspan="5">Сумма в тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
@@ -3091,14 +3081,13 @@ source: https://zan.gov.kz/client/#!/doc/62410/rus/09.01.2012
 <td></td>
 <td></td>
 <td>Наименование</td>
-<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>V Дефицит (профицит) бюджета</td>
+<td>V. Дефицит (профицит) бюджета</td>
 <td>-831</td>
 </tr>
 <tr>
@@ -3106,12 +3095,12 @@ source: https://zan.gov.kz/client/#!/doc/62410/rus/09.01.2012
 <td></td>
 <td></td>
 <td></td>
-<td>VI Финансирование дефицита (использование профицита) бюджета</td>
+<td>VI. Финансирование дефицита (использование профицита) бюджета</td>
 <td>831</td>
 </tr>
 <tr>
 <td colspan="5">Функциональная группа</td>
-<td rowspan="4">Сумма в тысяч тенге</td>
+<td rowspan="5">Сумма в тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
@@ -3134,7 +3123,6 @@ source: https://zan.gov.kz/client/#!/doc/62410/rus/09.01.2012
 <td></td>
 <td></td>
 <td>Наименование</td>
-<td></td>
 </tr>
 <tr>
 <td>16</td>
@@ -3184,11 +3172,12 @@ source: https://zan.gov.kz/client/#!/doc/62410/rus/09.01.2012
 
 ## Районный бюджет на 2014 год
 
-> *Сноска. Приложение 3 в редакции решения Толебийского районного маслихата от 09.01.2012 № 45/301-IV (вводится в действие с 01.01.2012)*
+> *Сноска. Приложение 3 в редакции решения Толебийского районного маслихата Южно-Казахстанской области от 02.03.2012 № 2/11-V (вводится в действие с 01.01.2012)*
 
 <table>
 <tr>
-<td colspan="3">Категория</td>
+<td colspan="2">Категория</td>
+<td>Наименование</td>
 <td rowspan="2">Сумма в тысяч тенге</td>
 </tr>
 <tr>
@@ -3198,13 +3187,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/rus/09.01.2012
 <tr>
 <td></td>
 <td></td>
-<td>Наименование</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>I.Доходы</td>
+<td>I. Доходы</td>
 <td>7757902</td>
 </tr>
 <tr>
@@ -3312,7 +3295,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/rus/09.01.2012
 <td></td>
 <td></td>
 <td></td>
-<td>ІІ Затраты</td>
+<td>ІІ. Затраты</td>
 <td>7757902</td>
 </tr>
 <tr>
@@ -3383,7 +3366,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/rus/09.01.2012
 <td></td>
 <td></td>
 <td></td>
-<td>023</td>
+<td>022</td>
 <td>Капитальные расходы государственных органов</td>
 <td>330</td>
 </tr>
@@ -4296,12 +4279,19 @@ source: https://zan.gov.kz/client/#!/doc/62410/rus/09.01.2012
 <td></td>
 <td></td>
 <td></td>
-<td>ІІІ Чистое бюджетное кредитование</td>
+<td>ІІІ. Чистое бюджетное кредитование</td>
 <td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Наименование</td>
+<td rowspan="5">Сумма в тысяч тенге</td>
+</tr>
+<tr>
 <td colspan="5">Функциональная группа</td>
-<td rowspan="4">Сумма в тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
@@ -4317,14 +4307,6 @@ source: https://zan.gov.kz/client/#!/doc/62410/rus/09.01.2012
 <td></td>
 <td></td>
 <td colspan="2">Программа</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Наименование</td>
-<td></td>
 </tr>
 <tr>
 <td></td>
@@ -4367,25 +4349,19 @@ source: https://zan.gov.kz/client/#!/doc/62410/rus/09.01.2012
 <td></td>
 </tr>
 <tr>
-<td colspan="5">Категория</td>
+<td colspan="4">Категория</td>
+<td>Наименование</td>
 <td rowspan="3">Сумма в тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="4">Класс</td>
+<td colspan="2">Класс</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td colspan="3">Подкласс</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Наименование</td>
-<td></td>
 </tr>
 <tr>
 <td>5</td>
@@ -4416,12 +4392,19 @@ source: https://zan.gov.kz/client/#!/doc/62410/rus/09.01.2012
 <td></td>
 <td></td>
 <td></td>
-<td>IV Сальдо по операциям с финансовыми активами</td>
+<td>IV. Сальдо по операциям с финансовыми активами</td>
 <td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Наименование</td>
+<td rowspan="5">Сумма в тысяч тенге</td>
+</tr>
+<tr>
 <td colspan="5">Функциональная группа</td>
-<td rowspan="4">Сумма в тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
@@ -4437,14 +4420,6 @@ source: https://zan.gov.kz/client/#!/doc/62410/rus/09.01.2012
 <td></td>
 <td></td>
 <td colspan="2">Программа</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Наименование</td>
-<td></td>
 </tr>
 <tr>
 <td></td>
@@ -4491,7 +4466,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/rus/09.01.2012
 <td></td>
 <td></td>
 <td></td>
-<td>V Дефицит (профицит) бюджета</td>
+<td>V. Дефицит (профицит) бюджета</td>
 <td></td>
 </tr>
 <tr>
@@ -4499,29 +4474,23 @@ source: https://zan.gov.kz/client/#!/doc/62410/rus/09.01.2012
 <td></td>
 <td></td>
 <td></td>
-<td>VI Финансирование дефицита (использование профицита) бюджета</td>
+<td>VI. Финансирование дефицита (использование профицита) бюджета</td>
 <td></td>
 </tr>
 <tr>
-<td colspan="5">Категория</td>
+<td colspan="4">Категория</td>
+<td>Наименование</td>
 <td rowspan="3">Сумма в тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="4">Класс</td>
+<td colspan="2">Класс</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td colspan="3">Подкласс</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Наименование</td>
-<td></td>
 </tr>
 <tr>
 <td>7</td>
@@ -4557,7 +4526,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/rus/09.01.2012
 </tr>
 <tr>
 <td colspan="5">Функциональная группа</td>
-<td rowspan="4">Сумма в тысяч тенге</td>
+<td rowspan="5">Сумма в тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
@@ -4580,7 +4549,6 @@ source: https://zan.gov.kz/client/#!/doc/62410/rus/09.01.2012
 <td></td>
 <td></td>
 <td>Наименование</td>
-<td></td>
 </tr>
 <tr>
 <td>16</td>
@@ -4615,25 +4583,19 @@ source: https://zan.gov.kz/client/#!/doc/62410/rus/09.01.2012
 <td></td>
 </tr>
 <tr>
-<td colspan="5">Категория</td>
+<td colspan="4">Категория</td>
+<td>Наименование</td>
 <td rowspan="3">Сумма в тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="4">Класс</td>
+<td colspan="2">Класс</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td colspan="3">Подкласс</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Наименование</td>
-<td></td>
 </tr>
 <tr>
 <td>8</td>
