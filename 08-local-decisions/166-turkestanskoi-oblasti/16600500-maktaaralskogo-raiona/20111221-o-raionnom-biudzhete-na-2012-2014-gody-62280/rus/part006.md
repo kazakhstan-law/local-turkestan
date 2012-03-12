@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/62280/rus/09.01.2012
+source: https://zan.gov.kz/client/#!/doc/62280/rus/12.03.2012
 ---
 
 ## Список администраторов бюджетных программ районного бюджета на 2012 год
