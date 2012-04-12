@@ -1,20 +1,22 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/62349/rus/12.03.2012
+source: https://zan.gov.kz/client/#!/doc/62349/rus/12.04.2012
 ---
 
 ## Районный бюджет на 2012 год
 
-> *Сноска. Приложение 1 в редакции решения Байдибекского районного маслихата Южно-Казахстанской области от 12.03 2012 № 2/7 (вводится в действие с 01.01.2012).*
+> *Сноска. Приложение 1 в редакции решения Байдибекского районного маслихата Южно-Казахстанской области от 12.04 2012 № 3/13 (вводится в действие с 01.01.2012).*
 
 <table>
 <tr>
-<td colspan="4">Категория</td>
-<td rowspan="4">Сумма, тысяч тенге</td>
+<td colspan="3">Категория</td>
+<td>Наименование</td>
+<td rowspan="3">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">Класс</td>
+<td colspan="2">Класс</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -22,22 +24,7 @@ source: https://zan.gov.kz/client/#!/doc/62349/rus/12.03.2012
 <td colspan="2">Подкласс</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>Наименование</td>
-<td></td>
-</tr>
-<tr>
-<th>1</th>
-<th></th>
-<th></th>
+<th colspan="3">1</th>
 <th>2</th>
 <th>3</th>
 </tr>
@@ -46,7 +33,7 @@ source: https://zan.gov.kz/client/#!/doc/62349/rus/12.03.2012
 <td></td>
 <td></td>
 <td>I. Доходы</td>
-<td>5874332</td>
+<td>5913999</td>
 </tr>
 <tr>
 <td>1</td>
@@ -221,28 +208,28 @@ source: https://zan.gov.kz/client/#!/doc/62349/rus/12.03.2012
 <td></td>
 <td></td>
 <td>Поступления трансфертов</td>
-<td>5570626</td>
+<td>5610293</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td>Трансферты из вышестоящих органов государственного управления</td>
-<td>5570626</td>
+<td>5610293</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>2</td>
 <td>Трансферты из областного бюджета</td>
-<td>5570626</td>
+<td>5610293</td>
 </tr>
 </table>
 
 <table>
 <tr>
 <td colspan="5">Функциональная группа</td>
-<td rowspan="4">Сумма, тысяч тенге</td>
+<td rowspan="5">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
@@ -265,7 +252,6 @@ source: https://zan.gov.kz/client/#!/doc/62349/rus/12.03.2012
 <td></td>
 <td></td>
 <td>Наименование</td>
-<td></td>
 </tr>
 <tr>
 <td></td>
@@ -273,7 +259,7 @@ source: https://zan.gov.kz/client/#!/doc/62349/rus/12.03.2012
 <td></td>
 <td></td>
 <td>II. Затраты</td>
-<td>5909772</td>
+<td>5949439</td>
 </tr>
 <tr>
 <td>01</td>
@@ -649,7 +635,7 @@ source: https://zan.gov.kz/client/#!/doc/62349/rus/12.03.2012
 <td></td>
 <td></td>
 <td>Социальная помощь и социальное обеспечение</td>
-<td>213813</td>
+<td>224125</td>
 </tr>
 <tr>
 <td></td>
@@ -657,7 +643,7 @@ source: https://zan.gov.kz/client/#!/doc/62349/rus/12.03.2012
 <td></td>
 <td></td>
 <td>Социальная помощь</td>
-<td>191654</td>
+<td>201966</td>
 </tr>
 <tr>
 <td></td>
@@ -665,7 +651,7 @@ source: https://zan.gov.kz/client/#!/doc/62349/rus/12.03.2012
 <td>451</td>
 <td></td>
 <td>Отдел занятости и социальных программ района (города областного значения)</td>
-<td>191654</td>
+<td>201966</td>
 </tr>
 <tr>
 <td></td>
@@ -673,7 +659,7 @@ source: https://zan.gov.kz/client/#!/doc/62349/rus/12.03.2012
 <td></td>
 <td>002</td>
 <td>Программа занятости</td>
-<td>34644</td>
+<td>44956</td>
 </tr>
 <tr>
 <td></td>
@@ -785,7 +771,7 @@ source: https://zan.gov.kz/client/#!/doc/62349/rus/12.03.2012
 <td></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>644789</td>
+<td>674144</td>
 </tr>
 <tr>
 <td></td>
@@ -793,7 +779,39 @@ source: https://zan.gov.kz/client/#!/doc/62349/rus/12.03.2012
 <td></td>
 <td></td>
 <td>Жилищное хозяйство</td>
-<td>5000</td>
+<td>46845</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>455</td>
+<td></td>
+<td>Отдел культуры и развития языков района (города областного значения)</td>
+<td>34467</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>024</td>
+<td>Ремонт объектов в рамках развития сельских населенных пунктов по Программе занятости 2020</td>
+<td>34467</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>464</td>
+<td></td>
+<td>Отдел образования района (города областного значения)</td>
+<td>7378</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>026</td>
+<td>Ремонт объектов в рамках развития сельских населенных пунктов по Программе занятости 2020</td>
+<td>7378</td>
 </tr>
 <tr>
 <td></td>
@@ -817,7 +835,7 @@ source: https://zan.gov.kz/client/#!/doc/62349/rus/12.03.2012
 <td></td>
 <td></td>
 <td>Коммунальное хозяйство</td>
-<td>590297</td>
+<td>577807</td>
 </tr>
 <tr>
 <td></td>
@@ -841,7 +859,7 @@ source: https://zan.gov.kz/client/#!/doc/62349/rus/12.03.2012
 <td>472</td>
 <td></td>
 <td>Отдел строительства, архитектуры и градостроительства района (города областного значения)</td>
-<td>425288</td>
+<td>412798</td>
 </tr>
 <tr>
 <td></td>
@@ -849,7 +867,7 @@ source: https://zan.gov.kz/client/#!/doc/62349/rus/12.03.2012
 <td></td>
 <td>006</td>
 <td>Развитие системы водоснабжения и водоотведения</td>
-<td>425288</td>
+<td>412798</td>
 </tr>
 <tr>
 <td></td>
@@ -1469,7 +1487,7 @@ source: https://zan.gov.kz/client/#!/doc/62349/rus/12.03.2012
 </tr>
 <tr>
 <td colspan="5">Функциональная группа</td>
-<td rowspan="4">Сумма, тысяч тенге</td>
+<td rowspan="5">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
@@ -1492,7 +1510,6 @@ source: https://zan.gov.kz/client/#!/doc/62349/rus/12.03.2012
 <td></td>
 <td></td>
 <td>Наименование</td>
-<td></td>
 </tr>
 <tr>
 <td></td>
@@ -1535,12 +1552,15 @@ source: https://zan.gov.kz/client/#!/doc/62349/rus/12.03.2012
 <td>48540</td>
 </tr>
 <tr>
-<td colspan="5">Категория</td>
+<td colspan="4">Категория</td>
+<td>Наименование</td>
 <td rowspan="4">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="4">Класс</td>
+<td colspan="2">Класс</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -1552,14 +1572,6 @@ source: https://zan.gov.kz/client/#!/doc/62349/rus/12.03.2012
 <td></td>
 <td></td>
 <td colspan="2">Специфика</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Наименование</td>
-<td></td>
 </tr>
 <tr>
 <td></td>
@@ -1626,12 +1638,15 @@ source: https://zan.gov.kz/client/#!/doc/62349/rus/12.03.2012
 <td>78815</td>
 </tr>
 <tr>
-<td colspan="5">Категория</td>
+<td colspan="4">Категория</td>
+<td>Наименование</td>
 <td rowspan="4">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="4">Класс</td>
+<td colspan="2">Класс</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -1643,14 +1658,6 @@ source: https://zan.gov.kz/client/#!/doc/62349/rus/12.03.2012
 <td></td>
 <td></td>
 <td colspan="2">Специфика</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Наименование</td>
-<td></td>
 </tr>
 <tr>
 <td></td>
@@ -1694,7 +1701,7 @@ source: https://zan.gov.kz/client/#!/doc/62349/rus/12.03.2012
 </tr>
 <tr>
 <td colspan="5">Функциональная группа</td>
-<td rowspan="4">Сумма, тысяч тенге</td>
+<td rowspan="5">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
@@ -1717,7 +1724,6 @@ source: https://zan.gov.kz/client/#!/doc/62349/rus/12.03.2012
 <td></td>
 <td></td>
 <td>Наименование</td>
-<td></td>
 </tr>
 <tr>
 <td>16</td>
@@ -1752,12 +1758,15 @@ source: https://zan.gov.kz/client/#!/doc/62349/rus/12.03.2012
 <td>5165</td>
 </tr>
 <tr>
-<td colspan="5">Категория</td>
+<td colspan="4">Категория</td>
+<td>Наименование</td>
 <td rowspan="4">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="4">Класс</td>
+<td colspan="2">Класс</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -1769,14 +1778,6 @@ source: https://zan.gov.kz/client/#!/doc/62349/rus/12.03.2012
 <td></td>
 <td></td>
 <td colspan="2">Специфика</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Наименование</td>
-<td></td>
 </tr>
 <tr>
 <td>8</td>

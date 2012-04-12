@@ -1,20 +1,22 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/62349/kaz/12.03.2012
+source: https://zan.gov.kz/client/#!/doc/62349/kaz/12.04.2012
 ---
 
 ## 2012 жылға арналған аудан бюджеті
 
-> *Ескерту. 1-Қосымша жаңа редакцияда - Оңтүстік Қазақстан облысы Бәйдібек аудандық мәслихатының 2012.03.12 № 2/7 (2012 жылғы 1 қаңтардан бастап қолданысқа енгiзiледі) Шешімімен.*
+> *Ескерту. 1-Қосымша жаңа редакцияда - Оңтүстік Қазақстан облысы Бәйдібек аудандық мәслихатының 2012.04.12 № 3/13 (2012 жылғы 1 қаңтардан бастап қолданысқа енгiзiледі) Шешімімен.*
 
 <table>
 <tr>
-<td colspan="4">Санаты</td>
+<td colspan="3">Санаты</td>
+<td>Атауы</td>
 <td rowspan="3">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">Сыныбы</td>
+<td colspan="2">Сыныбы</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -22,16 +24,7 @@ source: https://zan.gov.kz/client/#!/doc/62349/kaz/12.03.2012
 <td colspan="2">Ішкі сыныбы</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>Атауы</td>
-<td></td>
-</tr>
-<tr>
-<th>1</th>
-<th></th>
-<th></th>
+<th colspan="3">1</th>
 <th>2</th>
 <th>3</th>
 </tr>
@@ -40,7 +33,7 @@ source: https://zan.gov.kz/client/#!/doc/62349/kaz/12.03.2012
 <td></td>
 <td></td>
 <td>І. Кірістер</td>
-<td>5874332</td>
+<td>5913999</td>
 </tr>
 <tr>
 <td>1</td>
@@ -215,28 +208,28 @@ source: https://zan.gov.kz/client/#!/doc/62349/kaz/12.03.2012
 <td></td>
 <td></td>
 <td>Трансферттердің түсімдері</td>
-<td>5570626</td>
+<td>5610293</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td>Мемлекеттік басқарудың жоғары тұрған органдарынан түсетін трансферттер</td>
-<td>5570626</td>
+<td>5610293</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>2</td>
 <td>Облыстық бюджеттен түсетін трансферттер</td>
-<td>5570626</td>
+<td>5610293</td>
 </tr>
 </table>
 
 <table>
 <tr>
 <td colspan="5">Функционалдық топ</td>
-<td rowspan="4">Сомасы мың теңге</td>
+<td rowspan="5">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
@@ -259,7 +252,6 @@ source: https://zan.gov.kz/client/#!/doc/62349/kaz/12.03.2012
 <td></td>
 <td></td>
 <td>Атауы</td>
-<td></td>
 </tr>
 <tr>
 <td></td>
@@ -267,7 +259,7 @@ source: https://zan.gov.kz/client/#!/doc/62349/kaz/12.03.2012
 <td></td>
 <td></td>
 <td>II. Шығындар</td>
-<td>5909772</td>
+<td>5949439</td>
 </tr>
 <tr>
 <td>01</td>
@@ -643,7 +635,7 @@ source: https://zan.gov.kz/client/#!/doc/62349/kaz/12.03.2012
 <td></td>
 <td></td>
 <td>Әлеуметтiк көмек және әлеуметтiк қамтамасыз ету</td>
-<td>213813</td>
+<td>224125</td>
 </tr>
 <tr>
 <td></td>
@@ -651,7 +643,7 @@ source: https://zan.gov.kz/client/#!/doc/62349/kaz/12.03.2012
 <td></td>
 <td></td>
 <td>Әлеуметтiк көмек</td>
-<td>191654</td>
+<td>201966</td>
 </tr>
 <tr>
 <td></td>
@@ -659,7 +651,7 @@ source: https://zan.gov.kz/client/#!/doc/62349/kaz/12.03.2012
 <td>451</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) жұмыспен қамту және әлеуметтік бағдарламалар бөлімі</td>
-<td>191654</td>
+<td>201966</td>
 </tr>
 <tr>
 <td></td>
@@ -667,7 +659,7 @@ source: https://zan.gov.kz/client/#!/doc/62349/kaz/12.03.2012
 <td></td>
 <td>002</td>
 <td>Еңбекпен қамту бағдарламасы</td>
-<td>34644</td>
+<td>44956</td>
 </tr>
 <tr>
 <td></td>
@@ -779,7 +771,7 @@ source: https://zan.gov.kz/client/#!/doc/62349/kaz/12.03.2012
 <td></td>
 <td></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>644789</td>
+<td>674144</td>
 </tr>
 <tr>
 <td></td>
@@ -787,7 +779,39 @@ source: https://zan.gov.kz/client/#!/doc/62349/kaz/12.03.2012
 <td></td>
 <td></td>
 <td>Тұрғын үй шаруашылығы</td>
-<td>5000</td>
+<td>46845</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>455</td>
+<td></td>
+<td>Ауданның (облыстық маңызы бар қаланың) мәдениет және тілдерді дамыту бөлімі</td>
+<td>34467</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>024</td>
+<td>Жұмыспен қамту-2020 бағдарламасы бойынша ауылдық елді мекендерді дамыту шеңберінде объектілерді жөндеу</td>
+<td>34467</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>464</td>
+<td></td>
+<td>Ауданның (облыстық маңызы бар қаланың) білім бөлімі</td>
+<td>7378</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>026</td>
+<td>Жұмыспен қамту-2020 бағдарламасы бойынша ауылдық елді мекендерді дамыту шеңберінде объектілерді жөндеу</td>
+<td>7378</td>
 </tr>
 <tr>
 <td></td>
@@ -811,7 +835,7 @@ source: https://zan.gov.kz/client/#!/doc/62349/kaz/12.03.2012
 <td></td>
 <td></td>
 <td>Коммуналдық шаруашылық</td>
-<td>590297</td>
+<td>577807</td>
 </tr>
 <tr>
 <td></td>
@@ -835,7 +859,7 @@ source: https://zan.gov.kz/client/#!/doc/62349/kaz/12.03.2012
 <td>472</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) құрылыс, сәулет және қала құрылысы бөлімі</td>
-<td>425288</td>
+<td>412798</td>
 </tr>
 <tr>
 <td></td>
@@ -843,7 +867,7 @@ source: https://zan.gov.kz/client/#!/doc/62349/kaz/12.03.2012
 <td></td>
 <td>006</td>
 <td>Сумен жабдықтау және су бұру жүйесін дамыту</td>
-<td>425288</td>
+<td>412798</td>
 </tr>
 <tr>
 <td></td>
@@ -1463,7 +1487,7 @@ source: https://zan.gov.kz/client/#!/doc/62349/kaz/12.03.2012
 </tr>
 <tr>
 <td colspan="5">Функционалдық топ</td>
-<td rowspan="4">Сомасы, мың теңге</td>
+<td rowspan="5">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
@@ -1486,7 +1510,6 @@ source: https://zan.gov.kz/client/#!/doc/62349/kaz/12.03.2012
 <td></td>
 <td></td>
 <td>Атауы</td>
-<td></td>
 </tr>
 <tr>
 <td></td>
@@ -1529,12 +1552,14 @@ source: https://zan.gov.kz/client/#!/doc/62349/kaz/12.03.2012
 <td>48540</td>
 </tr>
 <tr>
-<td colspan="5">Санаты</td>
+<td colspan="4">Санаты</td>
+<td>Атауы</td>
 <td rowspan="4">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="4">Сыныбы</td>
+<td colspan="3">Сыныбы</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -1546,14 +1571,6 @@ source: https://zan.gov.kz/client/#!/doc/62349/kaz/12.03.2012
 <td></td>
 <td></td>
 <td colspan="2">Ерекшелігі</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Атауы</td>
-<td></td>
 </tr>
 <tr>
 <td></td>
@@ -1620,12 +1637,14 @@ source: https://zan.gov.kz/client/#!/doc/62349/kaz/12.03.2012
 <td>78815</td>
 </tr>
 <tr>
-<td colspan="5">Санаты</td>
+<td colspan="4">Санаты</td>
+<td>Атауы</td>
 <td rowspan="4">Сомасы мың теңге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="4">Сыныбы</td>
+<td colspan="3">Сыныбы</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -1637,14 +1656,6 @@ source: https://zan.gov.kz/client/#!/doc/62349/kaz/12.03.2012
 <td></td>
 <td></td>
 <td colspan="2">Ерекшелігі</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Атауы</td>
-<td></td>
 </tr>
 <tr>
 <td></td>
@@ -1688,7 +1699,7 @@ source: https://zan.gov.kz/client/#!/doc/62349/kaz/12.03.2012
 </tr>
 <tr>
 <td colspan="5">Функционалдық топ</td>
-<td rowspan="4">Сомасы мың теңге</td>
+<td rowspan="5">Сомасы мың теңге</td>
 </tr>
 <tr>
 <td></td>
@@ -1711,7 +1722,6 @@ source: https://zan.gov.kz/client/#!/doc/62349/kaz/12.03.2012
 <td></td>
 <td></td>
 <td>Атауы</td>
-<td></td>
 </tr>
 <tr>
 <td>16</td>
@@ -1746,12 +1756,14 @@ source: https://zan.gov.kz/client/#!/doc/62349/kaz/12.03.2012
 <td>5165</td>
 </tr>
 <tr>
-<td colspan="5">Санаты</td>
+<td colspan="4">Санаты</td>
+<td>Атауы</td>
 <td rowspan="4">Сомасы мың теңге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="4">Сыныбы</td>
+<td colspan="3">Сыныбы</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -1763,14 +1775,6 @@ source: https://zan.gov.kz/client/#!/doc/62349/kaz/12.03.2012
 <td></td>
 <td></td>
 <td colspan="2">Ерекшелігі</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Атауы</td>
-<td></td>
 </tr>
 <tr>
 <td>8</td>
