@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/62282/kaz/11.06.2012
+source: https://zan.gov.kz/client/#!/doc/62282/kaz/24.08.2012
 ---
 
 ## 2012 жылға арналған аудандық бюджетте ауылдық округтердің бюджеттік бағдарламарының тізбесі
