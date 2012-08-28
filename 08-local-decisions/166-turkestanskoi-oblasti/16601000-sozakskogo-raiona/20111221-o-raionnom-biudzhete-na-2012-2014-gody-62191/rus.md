@@ -1,5 +1,5 @@
 ---
-version_id: AI62191_9
+version_id: AI62191_11
 act_code: '62191'
 language: rus
 title: О районном бюджете на 2012-2014 годы
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '166010000002'
 approval_date: 2011-12-21
-version_date: 2012-06-15
+version_date: 2012-08-28
 registry_number: '62191'
 caused_by:
-  code: '66151'
+  code: '67954'
   title: О внесении изменений в решение Созакского районного маслихата от 21 декабря 2011 года № 301 "О районном бюджете на 2012-2014 годы"
-  link: https://zan.gov.kz/client/#!/doc/66151/rus
-source: https://zan.gov.kz/client/#!/doc/62191/rus/15.06.2012
+  link: https://zan.gov.kz/client/#!/doc/67954/rus
+source: https://zan.gov.kz/client/#!/doc/62191/rus/28.08.2012
 ---
 
 # О районном бюджете на 2012-2014 годы
