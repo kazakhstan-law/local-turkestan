@@ -1,16 +1,19 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/62410/rus/27.08.2012
+source: https://zan.gov.kz/client/#!/doc/62410/rus/07.11.2012
 ---
 
 ## Районный бюджет на 2012 год
 
-> *Сноска. Приложение 1 в редакции решения Толебийского районного маслихата Южно-Казахстанской области от 27.08.2012 № 8/44-V (вводится в действие с 01.01.2012).*
+> *Сноска. Приложение 1 в редакции решения Толебийского районного маслихата Южно-Казахстанской области от 07.11.2012 № 10/53-V (вводится в действие с 01.01.2012).*
 
 <table>
 <tr>
+<td colspan="3">Наименование</td>
+<td rowspan="3">Сумма, тысяч тенге</td>
+</tr>
+<tr>
 <td colspan="3">Категория</td>
-<td rowspan="2">Сумма в тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
@@ -19,14 +22,8 @@ source: https://zan.gov.kz/client/#!/doc/62410/rus/27.08.2012
 <tr>
 <td></td>
 <td></td>
-<td>Наименование</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
 <td>I.Доходы</td>
-<td>10024020</td>
+<td>10022050</td>
 </tr>
 <tr>
 <td>1</td>
@@ -98,20 +95,20 @@ source: https://zan.gov.kz/client/#!/doc/62410/rus/27.08.2012
 <td>4</td>
 <td></td>
 <td>Поступления трансфертов</td>
-<td>8955346</td>
+<td>8953376</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td>Трансферты из вышестоящих органов государственного управления</td>
-<td>8955346</td>
+<td>8953376</td>
 </tr>
 </table>
 
 <table>
 <tr>
 <td colspan="5">Функциональная группа</td>
-<td rowspan="3">Сумма в тысяч тенге</td>
+<td rowspan="4">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
@@ -127,7 +124,6 @@ source: https://zan.gov.kz/client/#!/doc/62410/rus/27.08.2012
 <td></td>
 <td></td>
 <td colspan="2">Программа</td>
-<td></td>
 </tr>
 <tr>
 <td></td>
@@ -135,7 +131,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/rus/27.08.2012
 <td></td>
 <td></td>
 <td>ІІ Затраты</td>
-<td>10065776</td>
+<td>10063806</td>
 </tr>
 <tr>
 <td>01</td>
@@ -343,7 +339,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/rus/27.08.2012
 <td></td>
 <td></td>
 <td>Образование</td>
-<td>5038552</td>
+<td>5043513</td>
 </tr>
 <tr>
 <td></td>
@@ -383,7 +379,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/rus/27.08.2012
 <td></td>
 <td></td>
 <td>Начальное, основное среднее и общее среднее образование</td>
-<td>4234086</td>
+<td>4237047</td>
 </tr>
 <tr>
 <td></td>
@@ -407,7 +403,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/rus/27.08.2012
 <td>464</td>
 <td></td>
 <td>Отдел образования района (города областного значения)</td>
-<td>4225747</td>
+<td>4228708</td>
 </tr>
 <tr>
 <td></td>
@@ -429,6 +425,14 @@ source: https://zan.gov.kz/client/#!/doc/62410/rus/27.08.2012
 <td></td>
 <td></td>
 <td></td>
+<td>063</td>
+<td>Повышение оплаты труда учителям, прошедшим повышение квалификации по учебным программам АОО «Назарбаев интеллектуальные школы» за счет трансфертов из республиканского бюджета</td>
+<td>2961</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
 <td>064</td>
 <td>Увеличение размера доплаты за квалификационную категорию учителям школ за счет трансфертов из республиканского бюджета</td>
 <td>85716</td>
@@ -439,7 +443,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/rus/27.08.2012
 <td></td>
 <td></td>
 <td>Прочие услуги в области образования</td>
-<td>412813</td>
+<td>414813</td>
 </tr>
 <tr>
 <td></td>
@@ -495,7 +499,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/rus/27.08.2012
 <td>467</td>
 <td></td>
 <td>Отдел строительства района (города областного значения)</td>
-<td>326985</td>
+<td>328985</td>
 </tr>
 <tr>
 <td></td>
@@ -503,7 +507,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/rus/27.08.2012
 <td></td>
 <td>037</td>
 <td>Строительство и реконструкция объектов образования</td>
-<td>326985</td>
+<td>328985</td>
 </tr>
 <tr>
 <td>06</td>
@@ -511,7 +515,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/rus/27.08.2012
 <td></td>
 <td></td>
 <td>Социальная помощь и социальное обеспечение</td>
-<td>334727</td>
+<td>334621</td>
 </tr>
 <tr>
 <td></td>
@@ -519,7 +523,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/rus/27.08.2012
 <td></td>
 <td></td>
 <td>Социальная помощь</td>
-<td>285800</td>
+<td>285694</td>
 </tr>
 <tr>
 <td></td>
@@ -527,7 +531,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/rus/27.08.2012
 <td>451</td>
 <td></td>
 <td>Отдел занятости и социальных программ района (города областного значения)</td>
-<td>279223</td>
+<td>279117</td>
 </tr>
 <tr>
 <td></td>
@@ -575,7 +579,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/rus/27.08.2012
 <td></td>
 <td>007</td>
 <td>Социальная помощь отдельным категориям нуждающихся граждан по решениям местных представительных органов</td>
-<td>21274</td>
+<td>21168</td>
 </tr>
 <tr>
 <td></td>
@@ -671,7 +675,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/rus/27.08.2012
 <td></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>2087505</td>
+<td>2078298</td>
 </tr>
 <tr>
 <td></td>
@@ -767,7 +771,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/rus/27.08.2012
 <td></td>
 <td></td>
 <td>Коммунальное хозяйство</td>
-<td>1381865</td>
+<td>1372658</td>
 </tr>
 <tr>
 <td></td>
@@ -775,7 +779,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/rus/27.08.2012
 <td>458</td>
 <td></td>
 <td>Отдел жилищно-коммунального хозяйства, пассажирского транспорта и автомобильных дорог района (города областного значения)</td>
-<td>85523</td>
+<td>92105</td>
 </tr>
 <tr>
 <td></td>
@@ -783,7 +787,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/rus/27.08.2012
 <td></td>
 <td>012</td>
 <td>Функционирование системы водоснабжения и водоотведения</td>
-<td>85523</td>
+<td>92105</td>
 </tr>
 <tr>
 <td></td>
@@ -791,7 +795,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/rus/27.08.2012
 <td>467</td>
 <td></td>
 <td>Отдел строительства района (города областного значения)</td>
-<td>1296342</td>
+<td>1280553</td>
 </tr>
 <tr>
 <td></td>
@@ -799,7 +803,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/rus/27.08.2012
 <td></td>
 <td>006</td>
 <td>Развитие системы водоснабжения</td>
-<td>1296342</td>
+<td>1280553</td>
 </tr>
 <tr>
 <td></td>
@@ -1087,7 +1091,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/rus/27.08.2012
 <td></td>
 <td></td>
 <td>Топливно-энергетический комплекс и недропользование</td>
-<td>1196511</td>
+<td>1198893</td>
 </tr>
 <tr>
 <td></td>
@@ -1095,7 +1099,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/rus/27.08.2012
 <td></td>
 <td></td>
 <td>Прочие услуги в области топливно-энергетического комплекса и недропользования</td>
-<td>1196511</td>
+<td>1198893</td>
 </tr>
 <tr>
 <td></td>
@@ -1119,7 +1123,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/rus/27.08.2012
 <td>467</td>
 <td></td>
 <td>Отдел строительства района (города областного значения)</td>
-<td>1195311</td>
+<td>1197693</td>
 </tr>
 <tr>
 <td></td>
@@ -1127,7 +1131,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/rus/27.08.2012
 <td></td>
 <td>009</td>
 <td>Развитие теплоэнергетической системы</td>
-<td>1195311</td>
+<td>1197693</td>
 </tr>
 <tr>
 <td>10</td>
@@ -1503,11 +1507,18 @@ source: https://zan.gov.kz/client/#!/doc/62410/rus/27.08.2012
 <td></td>
 <td></td>
 <td>ІІІ Чистое бюджетное кредитование</td>
-<td>1802</td>
+<td>1801</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Наименование</td>
+<td rowspan="5">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td colspan="5">Функциональная группа</td>
-<td rowspan="4">Сумма в тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
@@ -1523,14 +1534,6 @@ source: https://zan.gov.kz/client/#!/doc/62410/rus/27.08.2012
 <td></td>
 <td></td>
 <td colspan="2">Программа</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Наименование</td>
-<td></td>
 </tr>
 <tr>
 <td></td>
@@ -1573,12 +1576,31 @@ source: https://zan.gov.kz/client/#!/doc/62410/rus/27.08.2012
 <td>7281</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Наименование</td>
+<td rowspan="4">Сумма, тысяч тенге</td>
+</tr>
+<tr>
+<td colspan="5">Категория</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="4">Класс</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3">Подкласс</td>
+</tr>
+<tr>
 <td>5</td>
 <td></td>
 <td></td>
 <td></td>
 <td>Погашение бюджетных кредитов</td>
-<td>5479</td>
+<td>5480</td>
 </tr>
 <tr>
 <td></td>
@@ -1586,15 +1608,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/rus/27.08.2012
 <td></td>
 <td></td>
 <td>Погашение бюджетных кредитов</td>
-<td>5479</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Погашение бюджетных кредитов</td>
-<td>5479</td>
+<td>5480</td>
 </tr>
 <tr>
 <td></td>
@@ -1605,6 +1619,26 @@ source: https://zan.gov.kz/client/#!/doc/62410/rus/27.08.2012
 <td>0</td>
 </tr>
 <tr>
+<td colspan="4">Функциональная группа</td>
+<td>Наименование</td>
+<td rowspan="4">Сумма, тысяч тенге</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="4">Функциональная подгруппа</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="3">Администратор бюджетных программ</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Программа</td>
+</tr>
+<tr>
 <td></td>
 <td></td>
 <td></td>
@@ -1613,44 +1647,12 @@ source: https://zan.gov.kz/client/#!/doc/62410/rus/27.08.2012
 <td>0</td>
 </tr>
 <tr>
-<td>13</td>
-<td></td>
-<td></td>
-<td></td>
-<td>Прочие</td>
-<td>0</td>
-</tr>
-<tr>
-<td></td>
-<td>9</td>
-<td></td>
-<td></td>
-<td>Прочие</td>
-<td>0</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>459</td>
-<td></td>
-<td>Отдел экономики и финансов района (города областного значения)</td>
-<td>0</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>014</td>
-<td>Формирование или увеличение уставного капитала юридических лиц</td>
-<td>0</td>
-</tr>
-<tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td>V Дефицит (профицит) бюджета</td>
-<td>-43558</td>
+<td>-43557</td>
 </tr>
 <tr>
 <td></td>
@@ -1658,13 +1660,30 @@ source: https://zan.gov.kz/client/#!/doc/62410/rus/27.08.2012
 <td></td>
 <td></td>
 <td>VI Финансирование дефицита (использование профицита) бюджета</td>
-<td>43558</td>
+<td>43557</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
+<td>Наименование</td>
+<td rowspan="4">Сумма, тысяч тенге</td>
+</tr>
+<tr>
+<td colspan="5">Категория</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3">Класс</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3">Подкласс</td>
+</tr>
+<tr>
+<td colspan="4"></td>
 <td>Поступления займов</td>
 <td>7281</td>
 </tr>
@@ -1687,22 +1706,13 @@ source: https://zan.gov.kz/client/#!/doc/62410/rus/27.08.2012
 <tr>
 <td></td>
 <td></td>
-<td>2</td>
-<td></td>
-<td>Договоры займа</td>
-<td>7281</td>
-</tr>
-<tr>
 <td></td>
 <td></td>
-<td></td>
-<td>03</td>
-<td>Займы, получаемые местным исполнительным органом района (города областного значения)</td>
-<td>7281</td>
+<td>Наименование</td>
+<td rowspan="5">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td colspan="5">Функциональная группа</td>
-<td rowspan="4">Сумма в тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
@@ -1720,20 +1730,12 @@ source: https://zan.gov.kz/client/#!/doc/62410/rus/27.08.2012
 <td colspan="2">Программа</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Наименование</td>
-<td></td>
-</tr>
-<tr>
 <td>16</td>
 <td></td>
 <td></td>
 <td></td>
 <td>Погашение займов</td>
-<td>831</td>
+<td>832</td>
 </tr>
 <tr>
 <td></td>
@@ -1741,7 +1743,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/rus/27.08.2012
 <td></td>
 <td></td>
 <td>Погашение займов</td>
-<td>831</td>
+<td>832</td>
 </tr>
 <tr>
 <td></td>
@@ -1749,7 +1751,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/rus/27.08.2012
 <td>459</td>
 <td></td>
 <td>Отдел экономики и финансов района (города областного значения)</td>
-<td>831</td>
+<td>832</td>
 </tr>
 <tr>
 <td></td>
@@ -1763,9 +1765,25 @@ source: https://zan.gov.kz/client/#!/doc/62410/rus/27.08.2012
 <td></td>
 <td></td>
 <td></td>
+<td>021</td>
+<td>Возврат неиспользованных бюджетных кредитов, выданных из местного бюджета</td>
+<td>1</td>
+</tr>
+<tr>
+<td colspan="5">Наименование</td>
+<td rowspan="4">Сумма, тысяч тенге</td>
+</tr>
+<tr>
+<td colspan="5">Категория</td>
+</tr>
+<tr>
 <td></td>
-<td>Наименование</td>
+<td colspan="3">Класс</td>
 <td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3">Подкласс</td>
 </tr>
 <tr>
 <td></td>
@@ -1799,14 +1817,6 @@ source: https://zan.gov.kz/client/#!/doc/62410/rus/27.08.2012
 <td>Используемые остатки бюджетных средств</td>
 <td>37108</td>
 </tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Используемые остатки бюджетных средств</td>
-<td>37108</td>
-</tr>
 </table>
 
 > *Приложение № 2*  
@@ -1815,12 +1825,15 @@ source: https://zan.gov.kz/client/#!/doc/62410/rus/27.08.2012
 
 ## Районный бюджет на 2013 год
 
-> *Сноска. Приложение 2 в редакции решения Толебийского районного маслихата Южно-Казахстанской области от 27.08.2012 № 8/44-V (вводится в действие с 01.01.2012).*
+> *Сноска. Приложение 2 в редакции решения Толебийского районного маслихата Южно-Казахстанской области от 07.11.2012 № 10/53-V (вводится в действие с 01.01.2012).*
 
 <table>
 <tr>
+<td colspan="4">Наименование</td>
+<td rowspan="4">Сумма, тысяч тенге</td>
+</tr>
+<tr>
 <td colspan="4">Категория</td>
-<td rowspan="3">Сумма в тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
@@ -1830,13 +1843,6 @@ source: https://zan.gov.kz/client/#!/doc/62410/rus/27.08.2012
 <td></td>
 <td></td>
 <td colspan="2">Подкласс</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>Наименование</td>
-<td></td>
 </tr>
 <tr>
 <td></td>
@@ -1941,7 +1947,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/rus/27.08.2012
 <table>
 <tr>
 <td colspan="5">Функциональная группа</td>
-<td rowspan="4">Сумма в тысяч тенге</td>
+<td rowspan="4">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
@@ -2951,6 +2957,26 @@ source: https://zan.gov.kz/client/#!/doc/62410/rus/27.08.2012
 <td>-831</td>
 </tr>
 <tr>
+<td colspan="4">Функциональная группа</td>
+<td>Наименование</td>
+<td rowspan="4">Сумма, тысяч тенге</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="4">Функциональная подгруппа</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="3">Администратор бюджетных программ</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Программа</td>
+</tr>
+<tr>
 <td></td>
 <td></td>
 <td></td>
@@ -2989,6 +3015,25 @@ source: https://zan.gov.kz/client/#!/doc/62410/rus/27.08.2012
 <td>009</td>
 <td>Бюджетные кредиты для реализации мер социальной поддержки специалистов социальной сферы сельских населенных пунктов</td>
 <td>0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Наименование</td>
+<td rowspan="4">Сумма, тысяч тенге</td>
+</tr>
+<tr>
+<td colspan="5">Категория</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="4">Класс</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3">Подкласс</td>
 </tr>
 <tr>
 <td>5</td>
@@ -3031,6 +3076,26 @@ source: https://zan.gov.kz/client/#!/doc/62410/rus/27.08.2012
 <td>0</td>
 </tr>
 <tr>
+<td colspan="4">Функциональная группа</td>
+<td>Наименование</td>
+<td rowspan="4">Сумма, тысяч тенге</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="4">Функциональная подгруппа</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="3">Администратор бюджетных программ</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Программа</td>
+</tr>
+<tr>
 <td></td>
 <td></td>
 <td></td>
@@ -3045,6 +3110,32 @@ source: https://zan.gov.kz/client/#!/doc/62410/rus/27.08.2012
 <td></td>
 <td>VI Финансирование дефицита (использование профицита) бюджета</td>
 <td>831</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Наименование</td>
+<td rowspan="5">Сумма, тысяч тенге</td>
+</tr>
+<tr>
+<td colspan="5">Функциональная группа</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="4">Функциональная подгруппа</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="3">Администратор бюджетных программ</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Программа</td>
 </tr>
 <tr>
 <td>16</td>
@@ -3078,14 +3169,6 @@ source: https://zan.gov.kz/client/#!/doc/62410/rus/27.08.2012
 <td>Погашение долга местного исполнительного органа перед вышестоящим бюджетом</td>
 <td>831</td>
 </tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Погашение основного долга перед вышестоящим бюджетом</td>
-<td>831</td>
-</tr>
 </table>
 
 > *Приложение № 3*  
@@ -3094,12 +3177,18 @@ source: https://zan.gov.kz/client/#!/doc/62410/rus/27.08.2012
 
 ## Районный бюджет на 2014 год
 
-> *Сноска. Приложение 3 в редакции решения Толебийского районного маслихата Южно-Казахстанской области от 27.08.2012 № 8/44-V (вводится в действие с 01.01.2012).*
+> *Сноска. Приложение 3 в редакции решения Толебийского районного маслихата Южно-Казахстанской области от 07.11.2012 № 10/53-V (вводится в действие с 01.01.2012).*
 
 <table>
 <tr>
+<td></td>
+<td></td>
+<td></td>
+<td>Наименование</td>
+<td rowspan="4">Сумма, тысяч тенге</td>
+</tr>
+<tr>
 <td colspan="4">Категория</td>
-<td rowspan="3">Сумма в тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
@@ -3109,13 +3198,6 @@ source: https://zan.gov.kz/client/#!/doc/62410/rus/27.08.2012
 <td></td>
 <td></td>
 <td colspan="2">Подкласс</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>Наименование</td>
-<td></td>
 </tr>
 <tr>
 <td></td>
@@ -3220,7 +3302,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/rus/27.08.2012
 <table>
 <tr>
 <td colspan="5">Функциональная группа</td>
-<td rowspan="4">Сумма в тысяч тенге</td>
+<td rowspan="4">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
@@ -4234,6 +4316,32 @@ source: https://zan.gov.kz/client/#!/doc/62410/rus/27.08.2012
 <td></td>
 <td></td>
 <td></td>
+<td>Наименование</td>
+<td rowspan="5">Сумма, тысяч тенге</td>
+</tr>
+<tr>
+<td colspan="5">Функциональная группа</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="4">Функциональная подгруппа</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="3">Администратор бюджетных программ</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Программа</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td>Бюджетные кредиты</td>
 <td></td>
 </tr>
@@ -4270,6 +4378,28 @@ source: https://zan.gov.kz/client/#!/doc/62410/rus/27.08.2012
 <td>0</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Наименование</td>
+<td>Сумма, тысяч тенге</td>
+</tr>
+<tr>
+<td colspan="5">Категория</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="4">Класс</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3">Подкласс</td>
+<td></td>
+</tr>
+<tr>
 <td>5</td>
 <td></td>
 <td></td>
@@ -4300,6 +4430,32 @@ source: https://zan.gov.kz/client/#!/doc/62410/rus/27.08.2012
 <td></td>
 <td>IV Сальдо по операциям с финансовыми активами</td>
 <td>0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Наименование</td>
+<td rowspan="5">Сумма, тысяч тенге</td>
+</tr>
+<tr>
+<td colspan="5">Функциональная группа</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="4">Функциональная подгруппа</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="3">Администратор бюджетных программ</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Программа</td>
 </tr>
 <tr>
 <td></td>
@@ -4358,6 +4514,25 @@ source: https://zan.gov.kz/client/#!/doc/62410/rus/27.08.2012
 <td>0</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Наименование</td>
+<td rowspan="4">Сумма, тысяч тенге</td>
+</tr>
+<tr>
+<td colspan="5">Категория</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="4">Класс</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3">Подкласс</td>
+</tr>
+<tr>
 <td>7</td>
 <td></td>
 <td></td>
@@ -4390,6 +4565,32 @@ source: https://zan.gov.kz/client/#!/doc/62410/rus/27.08.2012
 <td>0</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Наименование</td>
+<td rowspan="5">Сумма, тысяч тенге</td>
+</tr>
+<tr>
+<td colspan="5">Функциональная группа</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="4">Функциональная подгруппа</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="3">Администратор бюджетных программ</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Программа</td>
+</tr>
+<tr>
 <td>16</td>
 <td></td>
 <td></td>
@@ -4420,6 +4621,25 @@ source: https://zan.gov.kz/client/#!/doc/62410/rus/27.08.2012
 <td>005</td>
 <td>Погашение долга местного исполнительного органа перед вышестоящим бюджетом</td>
 <td>0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Наименование</td>
+<td rowspan="4">Сумма, тысяч тенге</td>
+</tr>
+<tr>
+<td colspan="5">Категория</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="4">Класс</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3">Подкласс</td>
 </tr>
 <tr>
 <td>8</td>
@@ -4525,1243 +4745,5 @@ source: https://zan.gov.kz/client/#!/doc/62410/rus/27.08.2012
 </table>
 
 > *Приложение № 5*  
-> *к решению районного маслихата*  
-> *от 21 декабря 2011 года № 44/294-ІV*
-
-## Перечень бюджета сельских округов на 2012 год
-
-> *Сноска. Приложение 5 в редакции решения Толебийского районного маслихата Южно-Казахстанской области от 27.08.2012 № 8/44-V (вводится в действие с 01.01.2012).*
-
-<table>
-<tr>
-<td colspan="5">Функциональная группа</td>
-<td rowspan="4">Сумма, тысяч тенге</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="4">Функциональная подгруппа</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td colspan="3">Администратор бюджетных программ</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2">Программа</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Наименование</td>
-<td></td>
-</tr>
-<tr>
-<td>01</td>
-<td></td>
-<td></td>
-<td></td>
-<td>Государственные услуги общего характера</td>
-<td>267136</td>
-</tr>
-<tr>
-<td></td>
-<td>1</td>
-<td></td>
-<td></td>
-<td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>267136</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>123</td>
-<td></td>
-<td>Аппарат акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
-<td>267136</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>001</td>
-<td>Услуги по обеспечению деятельности акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
-<td>255831</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>в том числе:</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Ленгер</td>
-<td>29846</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Акжар</td>
-<td>9405</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Аккум</td>
-<td>12020</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Алатау</td>
-<td>11557</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Зертас</td>
-<td>9167</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Верхне-Аксу</td>
-<td>10404</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Коксайек</td>
-<td>13575</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Казыгурт</td>
-<td>16028</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Каскасу</td>
-<td>38391</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Когалы</td>
-<td>39908</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Каратобе</td>
-<td>9358</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Первомаевка</td>
-<td>15395</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Тасарык</td>
-<td>9293</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Киелитас</td>
-<td>19830</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Кемекалган</td>
-<td>11654</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>022</td>
-<td>Капитальные расходы государственных органов</td>
-<td>11305</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>в том числе:</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Ленгер</td>
-<td>11305</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Акжар</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Аккум</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Алатау</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Зертас</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Верхне-Аксу</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Коксайек</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Казыгурт</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Каскасу</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Когалы</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Каратобе</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Первомаевка</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Тасарык</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Киелитас</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Кемекалган</td>
-<td></td>
-</tr>
-<tr>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td>Образование</td>
-<td>399992</td>
-</tr>
-<tr>
-<td></td>
-<td>1</td>
-<td></td>
-<td></td>
-<td>Дошкольное воспитание и обучение</td>
-<td>389225</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>123</td>
-<td></td>
-<td>Аппарат акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
-<td>389225</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>004</td>
-<td>Поддержка организаций дошкольного воспитания и обучения</td>
-<td>389225</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>в том числе:</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Ленгер</td>
-<td>144139</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Акжар</td>
-<td>14375</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Аккум</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Алатау</td>
-<td>17962</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Зертас</td>
-<td>25283</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Верхне-Аксу</td>
-<td>21351</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Коксайек</td>
-<td>68973</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Казыгурт</td>
-<td>31485</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Каскасу</td>
-<td>7733</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Когалы</td>
-<td>3086</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Каратобе</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Первомаевка</td>
-<td>19746</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Тасарык</td>
-<td>14917</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Киелитас</td>
-<td>17165</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Кемекалган</td>
-<td>3010</td>
-</tr>
-<tr>
-<td></td>
-<td>2</td>
-<td></td>
-<td></td>
-<td>Начальное, основное среднее и общее среднее образование</td>
-<td>10767</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>123</td>
-<td></td>
-<td>Аппарат акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
-<td>10767</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>005</td>
-<td>Организация бесплатного подвоза учащихся до школы и обратно в аульной (сельской) местности</td>
-<td>8339</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>в том числе:</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Ленгер</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Акжар</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Аккум</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Алатау</td>
-<td>1000</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Зертас</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Верхне-Аксу</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Коксайек</td>
-<td>1969</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Казыгурт</td>
-<td>5370</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Каскасу</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Когалы</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Каратобе</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Первомаевка</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Тасарык</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Киелитас</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Кемекалган</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>025</td>
-<td>Увеличение размера доплаты за квалификационную категорию учителям школ и воспитателям дошкольных организаций образования за счет трансфертов из республиканского бюджета</td>
-<td>2428</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>в том числе:</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Ленгер</td>
-<td>616</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Акжар</td>
-<td>216</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Аккум</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Алатау</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Зертас</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Верхне-Аксу</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Коксайек</td>
-<td>792</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Казыгурт</td>
-<td>600</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Каскасу</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Когалы</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Каратобе</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Первомаевка</td>
-<td>108</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Тасарык</td>
-<td>96</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Киелитас</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Кемекалган</td>
-<td></td>
-</tr>
-<tr>
-<td>07</td>
-<td></td>
-<td></td>
-<td></td>
-<td>Жилищно-коммунальное хозяйство</td>
-<td>64324</td>
-</tr>
-<tr>
-<td></td>
-<td>3</td>
-<td></td>
-<td></td>
-<td>Благоустройство населенных пунктов</td>
-<td>64324</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>123</td>
-<td></td>
-<td>Аппарат акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
-<td>8877</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>009</td>
-<td>Обеспечение санитарии населенных пунктов</td>
-<td>8877</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>в том числе:</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Ленгер</td>
-<td>6182</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Акжар</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Аккум</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Алатау</td>
-<td>260</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Зертас</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Верхне-Аксу</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Коксайек</td>
-<td>720</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Казыгурт</td>
-<td>720</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Каскасу</td>
-<td>195</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Когалы</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Каратобе</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Первомаевка</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Тасарык</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Киелитас</td>
-<td>800</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Кемекалган</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>123</td>
-<td></td>
-<td>Аппарат акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
-<td>180</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>010</td>
-<td>Содержание мест захоронений и погребение безродных</td>
-<td>180</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>в том числе:</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Ленгер</td>
-<td>180</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Акжар</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Аккум</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Алатау</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Зертас</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Верхне-Аксу</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Коксайек</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Казыгурт</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Каскасу</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Когалы</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Каратобе</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Первомаевка</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Тасарык</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Киелитас</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Кемекалган</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>123</td>
-<td></td>
-<td>Аппарат акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
-<td>55267</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>011</td>
-<td>Благоустройство и озеленение населенных пунктов</td>
-<td>55267</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>в том числе:</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Ленгер</td>
-<td>53717</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Акжар</td>
-<td>100</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Аккум</td>
-<td>100</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Алатау</td>
-<td>100</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Зертас</td>
-<td>100</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Верхне-Аксу</td>
-<td>100</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Коксайек</td>
-<td>100</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Казыгурт</td>
-<td>100</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Каскасу</td>
-<td>100</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Когалы</td>
-<td>250</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Каратобе</td>
-<td>100</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Первомаевка</td>
-<td>100</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Тасарык</td>
-<td>100</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Киелитас</td>
-<td>100</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Кемекалган</td>
-<td>100</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Всего:</td>
-<td>731452</td>
-</tr>
-</table>
-
-> *Приложение № 6*  
 > *к решению районного маслихата*  
 > *от 21 декабря 2011 года № 44/294-ІV*

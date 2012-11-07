@@ -1,15 +1,16 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/62410/kaz/27.08.2012
+source: https://zan.gov.kz/client/#!/doc/62410/kaz/07.11.2012
 ---
 
 ## 2012 жылға арналған аудан бюджеті
 
-> *Ескерту. 1-Қосымша жаңа редакцияда - Оңтүстік Қазақстан облысы Төлеби аудандық мәслихатының 2012.08.27 № 8/44-V (2012 жылдың 1 қаңтарынан бастап қолданысқа енгізілсін) Шешімімен.*
+> *Ескерту. 1-Қосымша жаңа редакцияда - Оңтүстік Қазақстан облысы Төлеби аудандық мәслихатының 2012.11.07 № 10/53-V (2012 жылдың 1 қаңтарынан бастап қолданысқа енгізілсін) Шешімімен.*
 
 <table>
 <tr>
-<td colspan="3">Санаты</td>
+<td colspan="2">Санаты</td>
+<td>Атауы</td>
 <td rowspan="2">Сомасы, мың теңге</td>
 </tr>
 <tr>
@@ -19,14 +20,8 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/27.08.2012
 <tr>
 <td></td>
 <td></td>
-<td>Атауы</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
 <td>I. Кірістер</td>
-<td>10024020</td>
+<td>10022050</td>
 </tr>
 <tr>
 <td>1</td>
@@ -98,20 +93,20 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/27.08.2012
 <td>4</td>
 <td></td>
 <td>Трансферттер түсімі</td>
-<td>8955346</td>
+<td>8953376</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td>Мемлекеттік басқарудың жоғары тұрған органдарынан түсетін трансферттер</td>
-<td>8955346</td>
+<td>8953376</td>
 </tr>
 </table>
 
 <table>
 <tr>
 <td colspan="5">Функционалдық топ</td>
-<td rowspan="4">Сомасы, мың теңге</td>
+<td rowspan="5">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
@@ -134,15 +129,14 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/27.08.2012
 <td></td>
 <td></td>
 <td>Атауы</td>
-<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>ІІ Шығындар</td>
-<td>10065776</td>
+<td>ІІ. Шығындар</td>
+<td>10063806</td>
 </tr>
 <tr>
 <td>1</td>
@@ -350,7 +344,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/27.08.2012
 <td></td>
 <td></td>
 <td>Бiлiм беру</td>
-<td>5038552</td>
+<td>5043513</td>
 </tr>
 <tr>
 <td></td>
@@ -390,7 +384,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/27.08.2012
 <td></td>
 <td></td>
 <td>Бастауыш, негізгі орта және жалпы орта білім беру</td>
-<td>4234086</td>
+<td>4237047</td>
 </tr>
 <tr>
 <td></td>
@@ -414,7 +408,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/27.08.2012
 <td>464</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) білім бөлімі</td>
-<td>4225747</td>
+<td>4228708</td>
 </tr>
 <tr>
 <td></td>
@@ -436,6 +430,14 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/27.08.2012
 <td></td>
 <td></td>
 <td></td>
+<td>063</td>
+<td>Республикалық бюджеттен берілетін нысаналы трансферттер есебінен «Назарбаев зияткерлік мектептері» ДБҰ-ның оқу бағдарламалары бойынша біліктілікті арттырудан өткен мұғалімдерге еңбекақыны арттыру</td>
+<td>2961</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
 <td>064</td>
 <td>Республикалық бюджеттен берілетін трансферттер есебінен мектеп мұғалімдеріне біліктілік санаты үшін қосымша ақының мөлшерін ұлғайту</td>
 <td>85716</td>
@@ -446,7 +448,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/27.08.2012
 <td></td>
 <td></td>
 <td>Бiлiм беру саласындағы өзге де қызметтер</td>
-<td>412813</td>
+<td>414813</td>
 </tr>
 <tr>
 <td></td>
@@ -502,7 +504,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/27.08.2012
 <td>467</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) құрылыс бөлімі</td>
-<td>326985</td>
+<td>328985</td>
 </tr>
 <tr>
 <td></td>
@@ -510,7 +512,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/27.08.2012
 <td></td>
 <td>037</td>
 <td>Білім беру объектілерін салу және реконструкциялау</td>
-<td>326985</td>
+<td>328985</td>
 </tr>
 <tr>
 <td>6</td>
@@ -518,7 +520,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/27.08.2012
 <td></td>
 <td></td>
 <td>Әлеуметтiк көмек және әлеуметтiк қамсыздандыру</td>
-<td>334727</td>
+<td>334621</td>
 </tr>
 <tr>
 <td></td>
@@ -526,7 +528,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/27.08.2012
 <td></td>
 <td></td>
 <td>Әлеуметтiк көмек</td>
-<td>285800</td>
+<td>285694</td>
 </tr>
 <tr>
 <td></td>
@@ -534,7 +536,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/27.08.2012
 <td>451</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) жұмыспен қамту және әлеуметтік бағдарламалар бөлімі</td>
-<td>279223</td>
+<td>279117</td>
 </tr>
 <tr>
 <td></td>
@@ -582,7 +584,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/27.08.2012
 <td></td>
 <td>007</td>
 <td>Жергілікті өкілетті органдардың шешімі бойынша мұқтаж азаматтардың жекелеген топтарына әлеуметтік көмек</td>
-<td>21274</td>
+<td>21168</td>
 </tr>
 <tr>
 <td></td>
@@ -678,7 +680,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/27.08.2012
 <td></td>
 <td></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>2087505</td>
+<td>2078298</td>
 </tr>
 <tr>
 <td></td>
@@ -741,7 +743,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/27.08.2012
 <td></td>
 <td></td>
 <td>031</td>
-<td>Кондоминимум объектілеріне техникалық паспорттар дайындау</td>
+<td>Кондоминиум объектілеріне техникалық паспорттар дайындау</td>
 <td>2000</td>
 </tr>
 <tr>
@@ -774,7 +776,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/27.08.2012
 <td></td>
 <td></td>
 <td>Коммуналдық шаруашылық</td>
-<td>1381865</td>
+<td>1372658</td>
 </tr>
 <tr>
 <td></td>
@@ -782,7 +784,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/27.08.2012
 <td>458</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) тұрғын үй-коммуналдық шаруашылығы, жолаушылар көлігі және автомобиль жолдары бөлімі</td>
-<td>85523</td>
+<td>92105</td>
 </tr>
 <tr>
 <td></td>
@@ -790,7 +792,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/27.08.2012
 <td></td>
 <td>012</td>
 <td>Сумен жабдықтау және су бөлу жүйесінің қызмет етуі</td>
-<td>85523</td>
+<td>92105</td>
 </tr>
 <tr>
 <td></td>
@@ -798,7 +800,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/27.08.2012
 <td>467</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) құрылыс бөлімі</td>
-<td>1296342</td>
+<td>1280553</td>
 </tr>
 <tr>
 <td></td>
@@ -806,7 +808,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/27.08.2012
 <td></td>
 <td>006</td>
 <td>Сумен жабдықтау жүйесін дамыту</td>
-<td>1296342</td>
+<td>1280553</td>
 </tr>
 <tr>
 <td></td>
@@ -987,14 +989,6 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/27.08.2012
 <tr>
 <td></td>
 <td></td>
-<td></td>
-<td>007</td>
-<td>Мемлекеттік тілді және Қазақстан халықтарының басқа да тілдерін дамыту</td>
-<td>0</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
 <td>456</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) ішкі саясат бөлімі</td>
@@ -1102,7 +1096,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/27.08.2012
 <td></td>
 <td></td>
 <td>Отын-энергетика кешенi және жер қойнауын пайдалану</td>
-<td>1196511</td>
+<td>1198893</td>
 </tr>
 <tr>
 <td></td>
@@ -1110,7 +1104,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/27.08.2012
 <td></td>
 <td></td>
 <td>Отын-энергетика кешені және жер қойнауын пайдалану саласындағы өзге де қызметтер</td>
-<td>1196511</td>
+<td>1198893</td>
 </tr>
 <tr>
 <td></td>
@@ -1134,7 +1128,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/27.08.2012
 <td>467</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) құрылыс бөлімі</td>
-<td>1195311</td>
+<td>1197693</td>
 </tr>
 <tr>
 <td></td>
@@ -1142,7 +1136,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/27.08.2012
 <td></td>
 <td>009</td>
 <td>Жылу-энергетикалық жүйені дамыту</td>
-<td>1195311</td>
+<td>1197693</td>
 </tr>
 <tr>
 <td>10</td>
@@ -1269,7 +1263,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/27.08.2012
 <td></td>
 <td></td>
 <td>007</td>
-<td>Мемлекеттік органдардың күрделі шығыстары</td>
+<td>Мемлекеттік органдарды материалдық-техникалық жарақтандыру</td>
 <td>220</td>
 </tr>
 <tr>
@@ -1517,8 +1511,34 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/27.08.2012
 <td></td>
 <td></td>
 <td></td>
-<td>ІІІ Таза бюджеттік кредиттеу</td>
-<td>1802</td>
+<td>ІІІ. Таза бюджеттік кредиттеу</td>
+<td>1801</td>
+</tr>
+<tr>
+<td colspan="5">Функционалдық топ</td>
+<td rowspan="5">Сомасы, мың теңге</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="4">Кіші функция</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="3">Бюджеттік бағдарламалардың әкiмшiсi</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Бағдарлама</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Атауы</td>
 </tr>
 <tr>
 <td></td>
@@ -1561,12 +1581,26 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/27.08.2012
 <td>7281</td>
 </tr>
 <tr>
+<td colspan="3">Санаты</td>
+<td></td>
+<td>Атауы</td>
+<td rowspan="3">Сомасы, мың теңге</td>
+</tr>
+<tr>
+<td colspan="4">Сыныбы</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">Ішкі сыныбы</td>
+<td></td>
+</tr>
+<tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td>Бюджеттік кредиттерді өтеу</td>
-<td>5479</td>
+<td>5480</td>
 </tr>
 <tr>
 <td>5</td>
@@ -1574,23 +1608,41 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/27.08.2012
 <td></td>
 <td></td>
 <td>Бюджеттік кредиттерді өтеу</td>
-<td>5479</td>
-</tr>
-<tr>
-<td></td>
-<td>1</td>
-<td></td>
-<td></td>
-<td>Бюджеттік кредиттерді өтеу</td>
-<td>5479</td>
+<td>5480</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>ІV Қаржы активтерімен жасалатын операциялар бойынша сальдо</td>
+<td>ІV. Қаржы активтерімен жасалатын операциялар бойынша сальдо</td>
 <td>0</td>
+</tr>
+<tr>
+<td colspan="5">Функционалдық топ</td>
+<td rowspan="5">Сомасы, мың теңге</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="4">Кіші функция</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="3">Бюджеттік бағдарламалардың әкiмшiсi</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Бағдарлама</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Атауы</td>
 </tr>
 <tr>
 <td></td>
@@ -1601,52 +1653,38 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/27.08.2012
 <td>0</td>
 </tr>
 <tr>
-<td>13</td>
 <td></td>
 <td></td>
 <td></td>
-<td>Басқалар</td>
-<td>0</td>
-</tr>
-<tr>
 <td></td>
-<td>9</td>
-<td></td>
-<td></td>
-<td>Басқалар</td>
-<td>0</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>459</td>
-<td></td>
-<td>Ауданның (облыстық маңызы бар қаланың) экономика және қаржы бөлімі</td>
-<td>0</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>014</td>
-<td>Заңды тұлғалардың жарғылық капиталын қалыптастыру немесе ұлғайту</td>
-<td>0</td>
+<td>V. Бюджет тапшылығы (профициті)</td>
+<td>-43557</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>V Бюджет тапшылығы (профициті)</td>
-<td>-43558</td>
+<td>VI. Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
+<td>43557</td>
 </tr>
 <tr>
+<td colspan="3">Санаты</td>
 <td></td>
+<td>Атауы</td>
+<td rowspan="4">Сомасы, мың теңге</td>
+</tr>
+<tr>
+<td colspan="4">Сыныбы</td>
 <td></td>
+</tr>
+<tr>
+<td colspan="4">Ішкі сыныбы</td>
 <td></td>
+</tr>
+<tr>
+<td colspan="4">Ерекшелігі</td>
 <td></td>
-<td>VI Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
-<td>43558</td>
 </tr>
 <tr>
 <td></td>
@@ -1654,7 +1692,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/27.08.2012
 <td></td>
 <td></td>
 <td>Қарыздар түсімі</td>
-<td>7281</td>
+<td></td>
 </tr>
 <tr>
 <td>7</td>
@@ -1689,12 +1727,30 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/27.08.2012
 <td>7281</td>
 </tr>
 <tr>
+<td colspan="3">Санаты</td>
+<td></td>
+<td>Атауы</td>
+<td rowspan="4">Сомасы, мың теңге</td>
+</tr>
+<tr>
+<td colspan="4">Сыныбы</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">Ішкі сыныбы</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">Ерекшелігі</td>
+<td></td>
+</tr>
+<tr>
 <td>16</td>
 <td></td>
 <td></td>
 <td></td>
 <td>Қарыздарды өтеу</td>
-<td>831</td>
+<td>832</td>
 </tr>
 <tr>
 <td></td>
@@ -1702,7 +1758,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/27.08.2012
 <td></td>
 <td></td>
 <td>Қарыздарды өтеу</td>
-<td>831</td>
+<td>832</td>
 </tr>
 <tr>
 <td></td>
@@ -1710,7 +1766,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/27.08.2012
 <td>459</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) экономика және қаржы бөлімі</td>
-<td>831</td>
+<td>832</td>
 </tr>
 <tr>
 <td></td>
@@ -1721,30 +1777,29 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/27.08.2012
 <td>831</td>
 </tr>
 <tr>
-<td colspan="5">Санаты</td>
+<td></td>
+<td></td>
+<td></td>
+<td>021</td>
+<td>Жергілікті бюджеттен берілген пайдаланылмаған бюджеттік кредиттерді қайтару</td>
+<td>1</td>
+</tr>
+<tr>
+<td colspan="3">Санаты</td>
+<td></td>
+<td>Атауы</td>
 <td rowspan="4">Сомасы, мың теңге</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="4">Сыныбы</td>
+<td></td>
 </tr>
 <tr>
+<td colspan="4">Ішкі сыныбы</td>
 <td></td>
-<td></td>
-<td colspan="3">Ішкі сыныбы</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2">Ерекшелігі</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Атауы</td>
+<td colspan="4">Ерекшелігі</td>
 <td></td>
 </tr>
 <tr>
@@ -1779,14 +1834,6 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/27.08.2012
 <td>Бюджет қаражатының пайдаланылатын қалдықтары</td>
 <td>37108</td>
 </tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>01</td>
-<td>Бюджет қаражатының пайдаланылатын қалдықтары</td>
-<td>37108</td>
-</tr>
 </table>
 
 > *Төлеби аудандық мәслихатының*  
@@ -1796,12 +1843,13 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/27.08.2012
 
 ## 2013 жылға арналған аудан бюджеті
 
-> *Ескерту. 2-Қосымша жаңа редакцияда - Оңтүстік Қазақстан облысы Төлеби аудандық мәслихатының 2012.08.27 № 8/44-V (2012 жылдың 1 қаңтарынан бастап қолданысқа енгізілсін) Шешімімен.*
+> *Ескерту. 2-Қосымша жаңа редакцияда - Оңтүстік Қазақстан облысы Төлеби аудандық мәслихатының 2012.11.07 № 10/53-V (2012 жылдың 1 қаңтарынан бастап қолданысқа енгізілсін) Шешімімен.*
 
 <table>
 <tr>
-<td colspan="3">Санаты</td>
-<td rowspan="2">сомасы, мың теңге</td>
+<td colspan="2">Санаты</td>
+<td>Атауы</td>
+<td rowspan="3">сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
@@ -1810,7 +1858,6 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/27.08.2012
 <tr>
 <td></td>
 <td></td>
-<td>Атауы</td>
 <td></td>
 </tr>
 <tr>
@@ -1902,7 +1949,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/27.08.2012
 <table>
 <tr>
 <td colspan="5">Функционалдық топ</td>
-<td rowspan="4">сомасы, мың теңге</td>
+<td rowspan="5">сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
@@ -1925,14 +1972,13 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/27.08.2012
 <td></td>
 <td></td>
 <td>Атауы</td>
-<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>ІІ Шығындар</td>
+<td>ІІ. Шығындар</td>
 <td>10933942</td>
 </tr>
 <tr>
@@ -2916,8 +2962,34 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/27.08.2012
 <td></td>
 <td></td>
 <td></td>
-<td>ІІІ Таза бюджеттік кредиттеу</td>
+<td>ІІІ. Таза бюджеттік кредиттеу</td>
 <td>-831</td>
+</tr>
+<tr>
+<td colspan="5">Функционалдық топ</td>
+<td rowspan="5">Сомасы, мың теңге</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="4">Кіші функция</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="3">Бюджеттік бағдарламалардың әкiмшiсi</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Бағдарлама</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Атауы</td>
 </tr>
 <tr>
 <td></td>
@@ -2960,6 +3032,20 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/27.08.2012
 <td>0</td>
 </tr>
 <tr>
+<td colspan="3">Санаты</td>
+<td></td>
+<td>Атауы</td>
+<td rowspan="3">Сомасы, мың теңге</td>
+</tr>
+<tr>
+<td colspan="4">Сыныбы</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">Ішкі сыныбы</td>
+<td></td>
+</tr>
+<tr>
 <td>5</td>
 <td></td>
 <td></td>
@@ -2996,37 +3082,27 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/27.08.2012
 <td></td>
 <td></td>
 <td></td>
-<td>ІV Қаржы активтерімен операциялар бойынша сальдо</td>
+<td>ІV. Қаржы активтерімен операциялар бойынша сальдо</td>
 <td>0</td>
 </tr>
 <tr>
+<td colspan="5">Функционалдық топ</td>
+<td rowspan="5">Сомасы, мың теңге</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="4">Кіші функция</td>
+</tr>
+<tr>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td>V Бюджет тапшылығы (профициті)</td>
-<td>-831</td>
+<td colspan="3">Бюджеттік бағдарламалардың әкiмшiсi</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td>VI Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
-<td>831</td>
-</tr>
-<tr>
-<td colspan="5">Санаты</td>
-<td rowspan="3">Сомасы, мың теңге</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="4">Сыныбы</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td colspan="3">Ішкі сыныбы</td>
+<td colspan="2">Бағдарлама</td>
 </tr>
 <tr>
 <td></td>
@@ -3034,6 +3110,35 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/27.08.2012
 <td></td>
 <td></td>
 <td>Атауы</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>V. Бюджет тапшылығы (профициті)</td>
+<td>-831</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>VI. Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
+<td>831</td>
+</tr>
+<tr>
+<td colspan="3">Санаты</td>
+<td></td>
+<td>Атауы</td>
+<td rowspan="3">Сомасы, мың теңге</td>
+</tr>
+<tr>
+<td colspan="4">Сыныбы</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">Ішкі сыныбы</td>
 <td></td>
 </tr>
 <tr>
@@ -3085,12 +3190,13 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/27.08.2012
 
 ## 2014 жылға арналған аудан бюджеті
 
-> *Ескерту. 3-Қосымша жаңа редакцияда - Оңтүстік Қазақстан облысы Төлеби аудандық мәслихатының 2012.08.27 № 8/44-V (2012 жылдың 1 қаңтарынан бастап қолданысқа енгізілсін) Шешімімен.*
+> *Ескерту. 3-Қосымша жаңа редакцияда - Оңтүстік Қазақстан облысы Төлеби аудандық мәслихатының 2012.11.07 № 10/53-V (2012 жылдың 1 қаңтарынан бастап қолданысқа енгізілсін) Шешімімен.*
 
 <table>
 <tr>
-<td colspan="3">Санаты</td>
-<td rowspan="2">сомасы, мың теңге</td>
+<td colspan="2">Санаты</td>
+<td>Атауы</td>
+<td rowspan="3">сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
@@ -3099,7 +3205,6 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/27.08.2012
 <tr>
 <td></td>
 <td></td>
-<td>Атауы</td>
 <td></td>
 </tr>
 <tr>
@@ -3191,7 +3296,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/27.08.2012
 <table>
 <tr>
 <td colspan="5">Функционалдық топ</td>
-<td rowspan="4">сомасы, мың теңге</td>
+<td rowspan="5">сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
@@ -3214,14 +3319,13 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/27.08.2012
 <td></td>
 <td></td>
 <td>Атауы</td>
-<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>ІІ Шығындар</td>
+<td>ІІ. Шығындар</td>
 <td>7757902</td>
 </tr>
 <tr>
@@ -4205,8 +4309,27 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/27.08.2012
 <td></td>
 <td></td>
 <td></td>
-<td>ІІІ Таза бюджеттік кредиттеу</td>
+<td>ІІІ. Таза бюджеттік кредиттеу</td>
 <td></td>
+</tr>
+<tr>
+<td colspan="5">Функционалдық топ</td>
+<td rowspan="6">Сомасы, мың теңге</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="4">Кіші функция</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="3">Бюджеттік бағдарламалардың әкiмшiсi</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Бағдарлама</td>
 </tr>
 <tr>
 <td></td>
@@ -4214,7 +4337,13 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/27.08.2012
 <td></td>
 <td></td>
 <td>Бюджеттік кредиттер</td>
+</tr>
+<tr>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Атауы</td>
 </tr>
 <tr>
 <td>10</td>
@@ -4249,6 +4378,20 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/27.08.2012
 <td>0</td>
 </tr>
 <tr>
+<td colspan="3">Санаты</td>
+<td></td>
+<td>Атауы</td>
+<td rowspan="3">Сомасы, мың теңге</td>
+</tr>
+<tr>
+<td colspan="4">Сыныбы</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">Ішкі сыныбы</td>
+<td></td>
+</tr>
+<tr>
 <td></td>
 <td></td>
 <td></td>
@@ -4273,12 +4416,46 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/27.08.2012
 <td>0</td>
 </tr>
 <tr>
+<td>22</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>ІV Қаржы активтерімен операциялар бойынша сальдо</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>ІV. Қаржы активтерімен операциялар бойынша сальдо</td>
 <td>0</td>
+</tr>
+<tr>
+<td colspan="5">Функционалдық топ</td>
+<td rowspan="5">Сомасы, мың теңге</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="4">Кіші функция</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="3">Бюджеттік бағдарламалардың әкiмшiсi</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Бағдарлама</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Атауы</td>
 </tr>
 <tr>
 <td></td>
@@ -4325,7 +4502,7 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/27.08.2012
 <td></td>
 <td></td>
 <td></td>
-<td>V Бюджет тапшылығы (профициті)</td>
+<td>V. Бюджет тапшылығы (профициті)</td>
 <td>0</td>
 </tr>
 <tr>
@@ -4333,8 +4510,22 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/27.08.2012
 <td></td>
 <td></td>
 <td></td>
-<td>VI Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
+<td>VI. Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
 <td>0</td>
+</tr>
+<tr>
+<td colspan="3">Санаты</td>
+<td></td>
+<td>Атауы</td>
+<td rowspan="3">Сомасы, мың теңге</td>
+</tr>
+<tr>
+<td colspan="4">Сыныбы</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">Ішкі сыныбы</td>
+<td></td>
 </tr>
 <tr>
 <td>7</td>
@@ -4369,6 +4560,20 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/27.08.2012
 <td>0</td>
 </tr>
 <tr>
+<td colspan="3">Санаты</td>
+<td></td>
+<td>Атауы</td>
+<td rowspan="3">Сомасы, мың теңге</td>
+</tr>
+<tr>
+<td colspan="4">Сыныбы</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">Ішкі сыныбы</td>
+<td></td>
+</tr>
+<tr>
 <td>16</td>
 <td></td>
 <td></td>
@@ -4401,24 +4606,17 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/27.08.2012
 <td>0</td>
 </tr>
 <tr>
-<td colspan="5">Санаты</td>
+<td colspan="3">Санаты</td>
+<td></td>
+<td>Атауы</td>
 <td rowspan="3">Сомасы, мың теңге</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="4">Сыныбы</td>
+<td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td colspan="3">Ішкі сыныбы</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Атауы</td>
+<td colspan="4">Ішкі сыныбы</td>
 <td></td>
 </tr>
 <tr>
@@ -4520,1242 +4718,3 @@ source: https://zan.gov.kz/client/#!/doc/62410/kaz/27.08.2012
 > *2011 жылғы 21 желтоқсандағы*  
 > *№ 44/294-IV шешімімен*  
 > *бекітілген № 5 қосымша*
-
-## 2012 жылға арналған ауылдық округтің бюджеттік бағдарламаларының тізбесі
-
-> *Ескерту. 5-Қосымша жаңа редакцияда - Оңтүстік Қазақстан облысы Төлеби аудандық мәслихатының 2012.08.27 № 8/44-V (2012 жылдың 1 қаңтарынан бастап қолданысқа енгізілсін) Шешімімен.*
-
-<table>
-<tr>
-<td colspan="5">Функционалдық топ</td>
-<td rowspan="4">Жалпы сомасы, мың теңге</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="4">Кіші функция</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td colspan="3">Бюджеттік бағдарламалардың әкiмшiсi</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2">Бағдарлама</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Атауы</td>
-<td></td>
-</tr>
-<tr>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td>Жалпы сипаттағы мемлекеттiк қызметтер көрсету</td>
-<td>267136</td>
-</tr>
-<tr>
-<td></td>
-<td>1</td>
-<td></td>
-<td></td>
-<td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>267136</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>123</td>
-<td></td>
-<td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл (село), ауылдық (селолық) округ әкімінің аппараты</td>
-<td>267136</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>001</td>
-<td>Қаладағы аудан, аудандық маңызы бар қаланың, кент, ауыл (село), ауылдық (селолық) округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>255831</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Оның ішінде:</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Ленгір</td>
-<td>29846</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Ақжар</td>
-<td>9405</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Аққұм</td>
-<td>12020</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Алатау</td>
-<td>11557</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Зертас</td>
-<td>9167</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Жоғарғы - Ақсу</td>
-<td>10404</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Көксәйек</td>
-<td>13575</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Қазығұрт</td>
-<td>16028</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Қасқасу</td>
-<td>38391</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Қоғалы</td>
-<td>39908</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Қаратөбе</td>
-<td>9358</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Бірінші мамыр</td>
-<td>15395</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Тасарық</td>
-<td>9293</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Киелітас</td>
-<td>19830</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Кемеқалған</td>
-<td>11654</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>022</td>
-<td>Мемлекеттік органның күрделі шығыстары</td>
-<td>11305</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Оның ішінде:</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Ленгір</td>
-<td>11305</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Ақжар</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Аққұм</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Алатау</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Зертас</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Жоғарғы - Ақсу</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Көксәйек</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Қазығұрт</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Қасқасу</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Қоғалы</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Қаратөбе</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Бірінші мамыр</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Тасарық</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Киелітас</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Кемеқалған</td>
-<td></td>
-</tr>
-<tr>
-<td>4</td>
-<td></td>
-<td></td>
-<td></td>
-<td>Бiлiм беру</td>
-<td>399992</td>
-</tr>
-<tr>
-<td></td>
-<td>1</td>
-<td></td>
-<td></td>
-<td>Мектепке дейiнгi тәрбие және оқыту</td>
-<td>389225</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>123</td>
-<td></td>
-<td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл (село), ауылдық (селолық) округ әкімінің аппараты</td>
-<td>389225</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>004</td>
-<td>Мектепке дейінгі тәрбие ұйымдарының қызметін қамтамасыз ету</td>
-<td>389225</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Оның ішінде:</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Ленгір</td>
-<td>144139</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Ақжар</td>
-<td>14375</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Аққұм</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Алатау</td>
-<td>17962</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Зертас</td>
-<td>25283</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Жоғарғы - Ақсу</td>
-<td>21351</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Көксәйек</td>
-<td>68973</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Қазығұрт</td>
-<td>31485</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Қасқасу</td>
-<td>7733</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Қоғалы</td>
-<td>3086</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Қаратөбе</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Бірінші мамыр</td>
-<td>19746</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Тасарық</td>
-<td>14917</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Киелітас</td>
-<td>17165</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Кемеқалған</td>
-<td>3010</td>
-</tr>
-<tr>
-<td></td>
-<td>2</td>
-<td></td>
-<td></td>
-<td>Жалпы бастауыш, жалпы негізгі, жалпы орта бiлiм беру</td>
-<td>10767</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>123</td>
-<td></td>
-<td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл (село), ауылдық (селолық) округ әкімінің аппараты</td>
-<td>10767</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>005</td>
-<td>Аудандық (селолық) жерлерде балаларды мектепке дейін тегін алып баруды және кері алып келуді ұйымдастыру</td>
-<td>8339</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Оның ішінде:</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Ленгір</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Ақжар</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Аққұм</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Алатау</td>
-<td>1000</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Зертас</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Жоғарғы - Ақсу</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Көксәйек</td>
-<td>1969</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Қазығұрт</td>
-<td>5370</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Қасқасу</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Қоғалы</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Қаратөбе</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Бірінші мамыр</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Тасарық</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Киелітас</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Кемеқалған</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>025</td>
-<td>Республикалық бюджеттен берілетін трансферттер есебінен мектеп мұғалімдеріне және мектепке дейінгі ұйымдардың тәрбиешілеріне біліктілік санаты үшін қосымша ақының мөлшерін ұлғайту</td>
-<td>2428</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Оның ішінде:</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Ленгір</td>
-<td>616</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Ақжар</td>
-<td>216</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Аққұм</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Алатау</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Зертас</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Жоғарғы - Ақсу</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Көксәйек</td>
-<td>792</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Қазығұрт</td>
-<td>600</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Қасқасу</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Қоғалы</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Қаратөбе</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Бірінші мамыр</td>
-<td>108</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Тасарық</td>
-<td>96</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Киелітас</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Кемеқалған</td>
-<td></td>
-</tr>
-<tr>
-<td>7</td>
-<td></td>
-<td></td>
-<td></td>
-<td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>64324</td>
-</tr>
-<tr>
-<td></td>
-<td>3</td>
-<td></td>
-<td></td>
-<td>Елді-мекендерді көркейту</td>
-<td>64324</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>123</td>
-<td></td>
-<td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл (село), ауылдық (селолық) округ әкімінің аппараты</td>
-<td>8877</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>009</td>
-<td>Елдi мекендердің санитариясын қамтамасыз ету</td>
-<td>8877</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Оның ішінде:</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Ленгір</td>
-<td>6182</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Ақжар</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Аққұм</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Алатау</td>
-<td>260</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Зертас</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Жоғарғы - Ақсу</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Көксәйек</td>
-<td>720</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Қазығұрт</td>
-<td>720</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Қасқасу</td>
-<td>195</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Қоғалы</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Қаратөбе</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Бірінші мамыр</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Тасарық</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Киелітас</td>
-<td>800</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Кемеқалған</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>123</td>
-<td></td>
-<td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл (село), ауылдық (селолық) округ әкімінің аппараты</td>
-<td>180</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>010</td>
-<td>Жерлеу орындарын күтіп-ұстау және туысы жоқ адамдарды жерлеу</td>
-<td>180</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Оның ішінде:</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Ленгір</td>
-<td>180</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Ақжар</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Аққұм</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Алатау</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Зертас</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Жоғарғы - Ақсу</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Көксәйек</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Қазығұрт</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Қасқасу</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Қоғалы</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Қаратөбе</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Бірінші мамыр</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Тасарық</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Киелітас</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Кемеқалған</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>123</td>
-<td></td>
-<td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл (село), ауылдық (селолық) округ әкімінің аппараты</td>
-<td>55267</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>011</td>
-<td>Елдi мекендерді абаттандыру және көгалдандыру</td>
-<td>55 267</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Оның ішінде:</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Ленгір</td>
-<td>53 717</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Ақжар</td>
-<td>100</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Аққұм</td>
-<td>100</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Алатау</td>
-<td>100</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Зертас</td>
-<td>100</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Жоғарғы - Ақсу</td>
-<td>100</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Көксәйек</td>
-<td>100</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Қазығұрт</td>
-<td>100</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Қасқасу</td>
-<td>100</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Қоғалы</td>
-<td>250</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Қаратөбе</td>
-<td>100</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Бірінші мамыр</td>
-<td>100</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Тасарық</td>
-<td>100</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Киелітас</td>
-<td>100</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Кемеқалған</td>
-<td>100</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Барлығы</td>
-<td>731452</td>
-</tr>
-</table>
-
-> *Төлеби аудандық мәслихатының*  
-> *2011 жылғы 21 желтоқсандағы*  
-> *№ 44/294-IV шешімімен*  
-> *бекітілген № 6 қосымша*
