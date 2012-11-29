@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/61956/rus/23.10.2012
+source: https://zan.gov.kz/client/#!/doc/61956/rus/29.11.2012
 ---
 
 ## Областной бюджет на 2013 год
@@ -2533,14 +2533,6 @@ source: https://zan.gov.kz/client/#!/doc/61956/rus/23.10.2012
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Подпрограмма</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td>Наименование</td>
 <td></td>
@@ -2785,12 +2777,9 @@ source: https://zan.gov.kz/client/#!/doc/61956/rus/23.10.2012
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>1</td>
-<td>2</td>
-<td>5</td>
+<th colspan="4">1</th>
+<th>2</th>
+<th>3</th>
 </tr>
 <tr>
 <td></td>
@@ -3004,12 +2993,9 @@ source: https://zan.gov.kz/client/#!/doc/61956/rus/23.10.2012
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>1</td>
-<td></td>
-<td>2</td>
-<td>5</td>
+<th colspan="4">1</th>
+<th>2</th>
+<th>3</th>
 </tr>
 <tr>
 <td></td>
@@ -5175,8 +5161,5 @@ source: https://zan.gov.kz/client/#!/doc/61956/rus/23.10.2012
 </tr>
 <tr>
 <td>Обеспечение лекарственными средствами и специализированными продуктами детского и лечебного питания отдельных категорий населения на амбулаторном уровне</td>
-</tr>
-<tr>
-<td>__________________________</td>
 </tr>
 </table>
