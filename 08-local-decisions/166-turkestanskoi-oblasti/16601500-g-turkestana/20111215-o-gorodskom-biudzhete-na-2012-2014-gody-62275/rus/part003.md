@@ -1,11 +1,11 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/62275/rus/07.11.2012
+source: https://zan.gov.kz/client/#!/doc/62275/rus/06.12.2012
 ---
 
 ## Городской бюджет на 2014 год
 
-> *Сноска. Приложение 3 в редакции решения Туркестанского городского маслихата Южно-Казахстанской области от 07.11.2012 № 8/50-V (вводится в действие с 01.01.2012).*
+> *Сноска. Приложение 3 в редакции решения Туркестанского городского маслихата Южно-Казахстанской области от 06.12.2012 № 9/54-V (вводится в действие с 01.01.2012).*
 
 <table>
 <tr>
@@ -28,7 +28,7 @@ source: https://zan.gov.kz/client/#!/doc/62275/rus/07.11.2012
 <td></td>
 <td></td>
 <td>Доходы</td>
-<td>11 989 576</td>
+<td>11 979 576</td>
 </tr>
 <tr>
 <td>1</td>
@@ -217,32 +217,34 @@ source: https://zan.gov.kz/client/#!/doc/62275/rus/07.11.2012
 <td></td>
 <td></td>
 <td>Поступления трансфертов</td>
-<td>10 514 126</td>
+<td>10 504 126</td>
 </tr>
 <tr>
 <td></td>
 <td>2</td>
 <td></td>
 <td>Трансферты из вышестоящих органов государственного управления</td>
-<td>10 514 126</td>
+<td>10 504 126</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>2</td>
 <td>Трансферты из областного бюджета</td>
-<td>10 514 126</td>
+<td>10 504 126</td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td colspan="5">Функциональная группа</td>
-<td rowspan="5">тысяч тенге</td>
+<td colspan="4">Функциональная группа</td>
+<td></td>
+<td rowspan="4">тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="4">Функциональная подгруппа</td>
+<td colspan="3">Функциональная подгруппа</td>
+<td>Наименование</td>
 </tr>
 <tr>
 <td></td>
@@ -260,15 +262,8 @@ source: https://zan.gov.kz/client/#!/doc/62275/rus/07.11.2012
 <td></td>
 <td></td>
 <td></td>
-<td>Наименование</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td>II. Расходы</td>
-<td>11 989 576</td>
+<td>11 979 576</td>
 </tr>
 <tr>
 <td>01</td>
@@ -492,7 +487,7 @@ source: https://zan.gov.kz/client/#!/doc/62275/rus/07.11.2012
 <td></td>
 <td></td>
 <td>Образование</td>
-<td>8 455 189</td>
+<td>8 445 189</td>
 </tr>
 <tr>
 <td></td>
@@ -588,7 +583,7 @@ source: https://zan.gov.kz/client/#!/doc/62275/rus/07.11.2012
 <td></td>
 <td></td>
 <td>Прочие услуги в области образования</td>
-<td>823 022</td>
+<td>813 022</td>
 </tr>
 <tr>
 <td></td>
@@ -620,7 +615,7 @@ source: https://zan.gov.kz/client/#!/doc/62275/rus/07.11.2012
 <td>467</td>
 <td></td>
 <td>Отдел строительства района (города областного значения)</td>
-<td>723 874</td>
+<td>713 874</td>
 </tr>
 <tr>
 <td></td>
@@ -628,7 +623,7 @@ source: https://zan.gov.kz/client/#!/doc/62275/rus/07.11.2012
 <td></td>
 <td>037</td>
 <td>Строительство и реконструкция объектов образования</td>
-<td>723 874</td>
+<td>713 874</td>
 </tr>
 <tr>
 <td>06</td>
@@ -1431,21 +1426,17 @@ source: https://zan.gov.kz/client/#!/doc/62275/rus/07.11.2012
 <td>0</td>
 </tr>
 <tr>
-<td colspan="4">Категория</td>
-<td></td>
-<td></td>
+<td colspan="5">Категория</td>
+<td rowspan="3">тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2">Класс</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="4">Класс</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="3">Подкласс</td>
+<td colspan="2">Подкласс</td>
 <td></td>
 </tr>
 <tr>
@@ -1522,25 +1513,22 @@ source: https://zan.gov.kz/client/#!/doc/62275/rus/07.11.2012
 </tr>
 <tr>
 <td colspan="5">Функциональная группа</td>
-<td></td>
+<td rowspan="4">тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="4">Функциональная подгруппа</td>
-<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="3">Администратор бюджетных программ</td>
-<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">Программа</td>
-<td></td>
 </tr>
 <tr>
 <td></td>
