@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/62276/kaz/12.11.2012
+source: https://zan.gov.kz/client/#!/doc/62276/kaz/10.12.2012
 ---
 
 ## 2014 жылға арналған аудандық бюджет
@@ -1848,7 +1848,7 @@ source: https://zan.gov.kz/client/#!/doc/62276/kaz/12.11.2012
 
 ## 2012 жылға арналған аудандық бюджеттен қаржыландырылатын әрбір ауылдық округтің бюджеттік бағдарламалардың тізбесі
 
-> *Ескерту. 5-қосымша жаңа редакцияда - Оңтүстік Қазақстан облысы Ордабасы аудандық мәслихатының 2012.11.12 № 9/1 (2012 жылдың 1 қаңтарынан бастап қолданысқа енгізіледі) Шешімімен.*
+> *Ескерту. 5-қосымша жаңа редакцияда - Оңтүстік Қазақстан облысы Ордабасы аудандық мәслихатының 2012.12.10 № 10/1 (2012 жылдың 1 қаңтарынан бастап қолданысқа енгізіледі) Шешімімен.*
 
 <table>
 <tr>
@@ -1881,7 +1881,7 @@ source: https://zan.gov.kz/client/#!/doc/62276/kaz/12.11.2012
 <td colspan="2">Кіші бағдарлама</td>
 </tr>
 <tr>
-<td>№ р/с</td>
+<td>р/с</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1895,7 +1895,7 @@ source: https://zan.gov.kz/client/#!/doc/62276/kaz/12.11.2012
 <td></td>
 <td></td>
 <td>ІІ. ШЫҒЫНДАР</td>
-<td>374331</td>
+<td>461834</td>
 </tr>
 <tr>
 <td>2</td>
@@ -1949,7 +1949,7 @@ source: https://zan.gov.kz/client/#!/doc/62276/kaz/12.11.2012
 <td></td>
 <td></td>
 <td>Бiлiм беру</td>
-<td>246997</td>
+<td>334500</td>
 </tr>
 <tr>
 <td>8</td>
@@ -1958,7 +1958,7 @@ source: https://zan.gov.kz/client/#!/doc/62276/kaz/12.11.2012
 <td></td>
 <td></td>
 <td>Мектепке дейiнгi тәрбие және оқыту</td>
-<td>241683</td>
+<td>329186</td>
 </tr>
 <tr>
 <td>9</td>
@@ -1967,7 +1967,7 @@ source: https://zan.gov.kz/client/#!/doc/62276/kaz/12.11.2012
 <td>123</td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл (село), ауылдық (селолық) округ әкімінің аппараты</td>
-<td>241683</td>
+<td>329186</td>
 </tr>
 <tr>
 <td>10</td>
@@ -1990,6 +1990,15 @@ source: https://zan.gov.kz/client/#!/doc/62276/kaz/12.11.2012
 <tr>
 <td>12</td>
 <td></td>
+<td></td>
+<td></td>
+<td>041</td>
+<td>Мектепке дейінгі білім беру ұйымдарында мемлекеттік білім беру тапсырысын іске асыруға</td>
+<td>87503</td>
+</tr>
+<tr>
+<td>13</td>
+<td></td>
 <td>2</td>
 <td></td>
 <td></td>
@@ -1997,7 +2006,7 @@ source: https://zan.gov.kz/client/#!/doc/62276/kaz/12.11.2012
 <td>5314</td>
 </tr>
 <tr>
-<td>13</td>
+<td>14</td>
 <td></td>
 <td></td>
 <td>123</td>
@@ -2006,7 +2015,7 @@ source: https://zan.gov.kz/client/#!/doc/62276/kaz/12.11.2012
 <td>5314</td>
 </tr>
 <tr>
-<td>14</td>
+<td>15</td>
 <td></td>
 <td></td>
 <td></td>
@@ -2015,7 +2024,7 @@ source: https://zan.gov.kz/client/#!/doc/62276/kaz/12.11.2012
 <td>5314</td>
 </tr>
 <tr>
-<td>15</td>
+<td>16</td>
 <td>05</td>
 <td></td>
 <td></td>
@@ -2024,7 +2033,7 @@ source: https://zan.gov.kz/client/#!/doc/62276/kaz/12.11.2012
 <td>47</td>
 </tr>
 <tr>
-<td>16</td>
+<td>17</td>
 <td></td>
 <td>9</td>
 <td></td>
@@ -2033,7 +2042,7 @@ source: https://zan.gov.kz/client/#!/doc/62276/kaz/12.11.2012
 <td>47</td>
 </tr>
 <tr>
-<td>17</td>
+<td>18</td>
 <td></td>
 <td></td>
 <td>123</td>
@@ -2042,7 +2051,7 @@ source: https://zan.gov.kz/client/#!/doc/62276/kaz/12.11.2012
 <td>47</td>
 </tr>
 <tr>
-<td>18</td>
+<td>19</td>
 <td></td>
 <td></td>
 <td></td>
@@ -2051,7 +2060,7 @@ source: https://zan.gov.kz/client/#!/doc/62276/kaz/12.11.2012
 <td>47</td>
 </tr>
 <tr>
-<td>19</td>
+<td>20</td>
 <td>07</td>
 <td></td>
 <td></td>
@@ -2060,7 +2069,7 @@ source: https://zan.gov.kz/client/#!/doc/62276/kaz/12.11.2012
 <td>5871</td>
 </tr>
 <tr>
-<td>20</td>
+<td>21</td>
 <td></td>
 <td>3</td>
 <td></td>
@@ -2069,7 +2078,7 @@ source: https://zan.gov.kz/client/#!/doc/62276/kaz/12.11.2012
 <td>5871</td>
 </tr>
 <tr>
-<td>21</td>
+<td>22</td>
 <td></td>
 <td></td>
 <td>123</td>
@@ -2078,7 +2087,7 @@ source: https://zan.gov.kz/client/#!/doc/62276/kaz/12.11.2012
 <td>5871</td>
 </tr>
 <tr>
-<td>22</td>
+<td>23</td>
 <td></td>
 <td></td>
 <td></td>
@@ -2087,7 +2096,7 @@ source: https://zan.gov.kz/client/#!/doc/62276/kaz/12.11.2012
 <td>2550</td>
 </tr>
 <tr>
-<td>23</td>
+<td>24</td>
 <td></td>
 <td></td>
 <td></td>
@@ -2096,7 +2105,7 @@ source: https://zan.gov.kz/client/#!/doc/62276/kaz/12.11.2012
 <td>1446</td>
 </tr>
 <tr>
-<td>24</td>
+<td>25</td>
 <td></td>
 <td></td>
 <td></td>
@@ -2110,11 +2119,10 @@ source: https://zan.gov.kz/client/#!/doc/62276/kaz/12.11.2012
 
 <table>
 <tr>
-<td></td>
-<td colspan="10">ауылдық округтердің тізбесі</td>
+<td colspan="11">ауылдық округтердің тізбесі</td>
 </tr>
 <tr>
-<td>№ р/с</td>
+<td>р/с</td>
 <td>Бадам</td>
 <td>Бөген</td>
 <td>Бөржар</td>
@@ -2128,16 +2136,16 @@ source: https://zan.gov.kz/client/#!/doc/62276/kaz/12.11.2012
 </tr>
 <tr>
 <td>1</td>
-<td>42185</td>
-<td>28995</td>
-<td>26475</td>
-<td>21532</td>
-<td>28577</td>
-<td>35773</td>
-<td>99861</td>
-<td>46564</td>
-<td>29268</td>
-<td>15101</td>
+<td>56592</td>
+<td>35853</td>
+<td>30193</td>
+<td>25185</td>
+<td>32332</td>
+<td>39597</td>
+<td>116572</td>
+<td>51621</td>
+<td>38866</td>
+<td>35023</td>
 </tr>
 <tr>
 <td>2</td>
@@ -2206,42 +2214,42 @@ source: https://zan.gov.kz/client/#!/doc/62276/kaz/12.11.2012
 </tr>
 <tr>
 <td>7</td>
-<td>28656</td>
-<td>17677</td>
-<td>14348</td>
-<td>11165</td>
-<td>17725</td>
-<td>20458</td>
-<td>84075</td>
-<td>32005</td>
-<td>17497</td>
-<td>3391</td>
+<td>43063</td>
+<td>24535</td>
+<td>18066</td>
+<td>14818</td>
+<td>21480</td>
+<td>24282</td>
+<td>100786</td>
+<td>37062</td>
+<td>27095</td>
+<td>23313</td>
 </tr>
 <tr>
 <td>8</td>
-<td>28656</td>
-<td>17677</td>
-<td>14348</td>
-<td>11165</td>
-<td>17725</td>
-<td>19302</td>
-<td>84075</td>
-<td>31238</td>
-<td>17497</td>
-<td>0</td>
+<td>43063</td>
+<td>24535</td>
+<td>18066</td>
+<td>14818</td>
+<td>21480</td>
+<td>23126</td>
+<td>100786</td>
+<td>36295</td>
+<td>27095</td>
+<td>19922</td>
 </tr>
 <tr>
 <td>9</td>
-<td>28656</td>
-<td>17677</td>
-<td>14348</td>
-<td>11165</td>
-<td>17725</td>
-<td>19302</td>
-<td>84075</td>
-<td>31238</td>
-<td>17497</td>
-<td>0</td>
+<td>43063</td>
+<td>24535</td>
+<td>18066</td>
+<td>14818</td>
+<td>21480</td>
+<td>23126</td>
+<td>100786</td>
+<td>36295</td>
+<td>27095</td>
+<td>19922</td>
 </tr>
 <tr>
 <td>10</td>
@@ -2271,16 +2279,16 @@ source: https://zan.gov.kz/client/#!/doc/62276/kaz/12.11.2012
 </tr>
 <tr>
 <td>12</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>1156</td>
-<td>0</td>
-<td>767</td>
-<td>0</td>
-<td>3391</td>
+<td>14407</td>
+<td>6858</td>
+<td>3718</td>
+<td>3653</td>
+<td>3755</td>
+<td>3824</td>
+<td>16711</td>
+<td>5057</td>
+<td>9598</td>
+<td>19922</td>
 </tr>
 <tr>
 <td>13</td>
@@ -2297,6 +2305,19 @@ source: https://zan.gov.kz/client/#!/doc/62276/kaz/12.11.2012
 </tr>
 <tr>
 <td>14</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>1156</td>
+<td>0</td>
+<td>767</td>
+<td>0</td>
+<td>3391</td>
+</tr>
+<tr>
+<td>15</td>
 <td></td>
 <td></td>
 <td></td>
@@ -2307,19 +2328,6 @@ source: https://zan.gov.kz/client/#!/doc/62276/kaz/12.11.2012
 <td>767</td>
 <td></td>
 <td>3391</td>
-</tr>
-<tr>
-<td>15</td>
-<td>15</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>17</td>
-<td>15</td>
-<td>0</td>
-<td>0</td>
 </tr>
 <tr>
 <td>16</td>
@@ -2350,6 +2358,19 @@ source: https://zan.gov.kz/client/#!/doc/62276/kaz/12.11.2012
 <tr>
 <td>18</td>
 <td>15</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>17</td>
+<td>15</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>19</td>
+<td>15</td>
 <td></td>
 <td></td>
 <td></td>
@@ -2359,19 +2380,6 @@ source: https://zan.gov.kz/client/#!/doc/62276/kaz/12.11.2012
 <td>15</td>
 <td></td>
 <td></td>
-</tr>
-<tr>
-<td>19</td>
-<td>716</td>
-<td>458</td>
-<td>700</td>
-<td>458</td>
-<td>608</td>
-<td>816</td>
-<td>300</td>
-<td>616</td>
-<td>637</td>
-<td>562</td>
 </tr>
 <tr>
 <td>20</td>
@@ -2401,6 +2409,19 @@ source: https://zan.gov.kz/client/#!/doc/62276/kaz/12.11.2012
 </tr>
 <tr>
 <td>22</td>
+<td>716</td>
+<td>458</td>
+<td>700</td>
+<td>458</td>
+<td>608</td>
+<td>816</td>
+<td>300</td>
+<td>616</td>
+<td>637</td>
+<td>562</td>
+</tr>
+<tr>
+<td>23</td>
 <td>300</td>
 <td>200</td>
 <td>400</td>
@@ -2413,7 +2434,7 @@ source: https://zan.gov.kz/client/#!/doc/62276/kaz/12.11.2012
 <td>250</td>
 </tr>
 <tr>
-<td>23</td>
+<td>24</td>
 <td>216</td>
 <td>108</td>
 <td>150</td>
@@ -2426,7 +2447,7 @@ source: https://zan.gov.kz/client/#!/doc/62276/kaz/12.11.2012
 <td>162</td>
 </tr>
 <tr>
-<td>24</td>
+<td>25</td>
 <td>200</td>
 <td>150</td>
 <td>150</td>
