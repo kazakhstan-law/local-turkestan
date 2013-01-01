@@ -1,7 +1,11 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/62191/rus/11.12.2012
+source: https://zan.gov.kz/client/#!/doc/62191/rus/01.01.2013
 ---
+
+> *Приложение 3*  
+> *к решению Созакского районного*  
+> *маслихата от 21 декабря 2011 года № 301*
 
 ## Районный бюджет на 2014 год
 
@@ -2369,7 +2373,9 @@ source: https://zan.gov.kz/client/#!/doc/62191/rus/11.12.2012
 <td>0</td>
 <td>0</td>
 <td>0</td>
-<td>0</td>
+<td>
+<strong>0</strong>
+</td>
 </tr>
 <tr>
 <td>7</td>
@@ -2384,7 +2390,9 @@ source: https://zan.gov.kz/client/#!/doc/62191/rus/11.12.2012
 <td>0</td>
 <td>0</td>
 <td>0</td>
-<td>0</td>
+<td>
+<strong>0</strong>
+</td>
 </tr>
 <tr>
 <td>8</td>
@@ -2399,7 +2407,9 @@ source: https://zan.gov.kz/client/#!/doc/62191/rus/11.12.2012
 <td>0</td>
 <td>0</td>
 <td>0</td>
-<td>0</td>
+<td>
+<strong>0</strong>
+</td>
 </tr>
 <tr>
 <td>9</td>
@@ -2414,7 +2424,9 @@ source: https://zan.gov.kz/client/#!/doc/62191/rus/11.12.2012
 <td>0</td>
 <td>0</td>
 <td>0</td>
-<td>0</td>
+<td>
+<strong>0</strong>
+</td>
 </tr>
 <tr>
 <td>10</td>

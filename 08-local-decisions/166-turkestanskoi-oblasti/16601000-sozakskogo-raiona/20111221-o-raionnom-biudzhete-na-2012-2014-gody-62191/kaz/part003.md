@@ -1,7 +1,11 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/62191/kaz/11.12.2012
+source: https://zan.gov.kz/client/#!/doc/62191/kaz/01.01.2013
 ---
+
+> *Созақ аудандық мәслихатының*  
+> *2011 жылғы 21 желтоқсандағы*  
+> *№ 301 шешіміне 3 қосымша*
 
 ## 2014 жылға арналған аудандық бюджет
 
@@ -2394,7 +2398,9 @@ source: https://zan.gov.kz/client/#!/doc/62191/kaz/11.12.2012
 <td>0</td>
 <td>0</td>
 <td>0</td>
-<td>0</td>
+<td>
+<strong>0</strong>
+</td>
 </tr>
 <tr>
 <td>7</td>
@@ -2409,7 +2415,9 @@ source: https://zan.gov.kz/client/#!/doc/62191/kaz/11.12.2012
 <td>0</td>
 <td>0</td>
 <td>0</td>
-<td>0</td>
+<td>
+<strong>0</strong>
+</td>
 </tr>
 <tr>
 <td>8</td>
@@ -2424,7 +2432,9 @@ source: https://zan.gov.kz/client/#!/doc/62191/kaz/11.12.2012
 <td>0</td>
 <td>0</td>
 <td>0</td>
-<td>0</td>
+<td>
+<strong>0</strong>
+</td>
 </tr>
 <tr>
 <td>9</td>
@@ -2439,7 +2449,9 @@ source: https://zan.gov.kz/client/#!/doc/62191/kaz/11.12.2012
 <td>0</td>
 <td>0</td>
 <td>0</td>
-<td>0</td>
+<td>
+<strong>0</strong>
+</td>
 </tr>
 <tr>
 <td>10</td>
