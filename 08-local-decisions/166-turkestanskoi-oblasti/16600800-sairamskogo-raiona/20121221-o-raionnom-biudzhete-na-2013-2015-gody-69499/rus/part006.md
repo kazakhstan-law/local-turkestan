@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/69499/rus/21.12.2012
+source: https://zan.gov.kz/client/#!/doc/69499/rus/04.01.2013
 ---
 
 ## Перечень бюджетных программ каждого сельского округа районного бюджета на 2013-2015 года
