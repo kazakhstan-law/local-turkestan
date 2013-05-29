@@ -1,17 +1,16 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/69846/rus/31.01.2013
+source: https://zan.gov.kz/client/#!/doc/69846/rus/29.05.2013
 ---
 
 ## Перечень программ бюджета сельских округов района на 2013 год
 
-> *Сноска. Приложение 5 в редакции решения Толебийского районного маслихата Южно-Казахстанской области от 31.01.2013 14/72-V (вводится в действие с 01.01.2013).*
+> *Сноска. Приложение 5 в редакции решения Толебийского районного маслихата Южно-Казахстанской области от 29.05.2013 № 16/83-V (вводится в действие с 01.01.2013).*
 
 <table>
 <tr>
-<td colspan="4">Функциональная группа</td>
-<td></td>
-<td rowspan="5">Сумма, тысяч тенге</td>
+<td colspan="5">Функциональная группа</td>
+<td rowspan="4">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
@@ -34,6 +33,7 @@ source: https://zan.gov.kz/client/#!/doc/69846/rus/31.01.2013
 <td></td>
 <td></td>
 <td>Наименование</td>
+<td></td>
 </tr>
 <tr>
 <td>01</td>
@@ -41,7 +41,7 @@ source: https://zan.gov.kz/client/#!/doc/69846/rus/31.01.2013
 <td></td>
 <td></td>
 <td>Государственные услуги общего характера</td>
-<td>275443</td>
+<td>266555</td>
 </tr>
 <tr>
 <td></td>
@@ -49,7 +49,7 @@ source: https://zan.gov.kz/client/#!/doc/69846/rus/31.01.2013
 <td></td>
 <td></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>275443</td>
+<td>266555</td>
 </tr>
 <tr>
 <td></td>
@@ -57,7 +57,7 @@ source: https://zan.gov.kz/client/#!/doc/69846/rus/31.01.2013
 <td>123</td>
 <td></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
-<td>275443</td>
+<td>266555</td>
 </tr>
 <tr>
 <td></td>
@@ -65,7 +65,7 @@ source: https://zan.gov.kz/client/#!/doc/69846/rus/31.01.2013
 <td></td>
 <td>001</td>
 <td>Услуги по обеспечению деятельности акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
-<td>264653</td>
+<td>263030</td>
 </tr>
 <tr>
 <td></td>
@@ -89,7 +89,7 @@ source: https://zan.gov.kz/client/#!/doc/69846/rus/31.01.2013
 <td></td>
 <td></td>
 <td>Акжар</td>
-<td>8902</td>
+<td>8866</td>
 </tr>
 <tr>
 <td></td>
@@ -97,7 +97,7 @@ source: https://zan.gov.kz/client/#!/doc/69846/rus/31.01.2013
 <td></td>
 <td></td>
 <td>Аккум</td>
-<td>9551</td>
+<td>9515</td>
 </tr>
 <tr>
 <td></td>
@@ -105,7 +105,7 @@ source: https://zan.gov.kz/client/#!/doc/69846/rus/31.01.2013
 <td></td>
 <td></td>
 <td>Алатау</td>
-<td>43359</td>
+<td>43129</td>
 </tr>
 <tr>
 <td></td>
@@ -121,7 +121,7 @@ source: https://zan.gov.kz/client/#!/doc/69846/rus/31.01.2013
 <td></td>
 <td></td>
 <td>Верхний-Аксу</td>
-<td>9587</td>
+<td>9851</td>
 </tr>
 <tr>
 <td></td>
@@ -129,7 +129,7 @@ source: https://zan.gov.kz/client/#!/doc/69846/rus/31.01.2013
 <td></td>
 <td></td>
 <td>Коксайек</td>
-<td>52284</td>
+<td>52244</td>
 </tr>
 <tr>
 <td></td>
@@ -137,7 +137,7 @@ source: https://zan.gov.kz/client/#!/doc/69846/rus/31.01.2013
 <td></td>
 <td></td>
 <td>Казыгурт</td>
-<td>13454</td>
+<td>13264</td>
 </tr>
 <tr>
 <td></td>
@@ -145,7 +145,7 @@ source: https://zan.gov.kz/client/#!/doc/69846/rus/31.01.2013
 <td></td>
 <td></td>
 <td>Каскасу</td>
-<td>10869</td>
+<td>9801</td>
 </tr>
 <tr>
 <td></td>
@@ -153,7 +153,7 @@ source: https://zan.gov.kz/client/#!/doc/69846/rus/31.01.2013
 <td></td>
 <td></td>
 <td>Когалы</td>
-<td>32690</td>
+<td>32624</td>
 </tr>
 <tr>
 <td></td>
@@ -161,7 +161,7 @@ source: https://zan.gov.kz/client/#!/doc/69846/rus/31.01.2013
 <td></td>
 <td></td>
 <td>Каратобе</td>
-<td>9572</td>
+<td>9382</td>
 </tr>
 <tr>
 <td></td>
@@ -169,7 +169,7 @@ source: https://zan.gov.kz/client/#!/doc/69846/rus/31.01.2013
 <td></td>
 <td></td>
 <td>Первомаевка</td>
-<td>14448</td>
+<td>14808</td>
 </tr>
 <tr>
 <td></td>
@@ -177,7 +177,7 @@ source: https://zan.gov.kz/client/#!/doc/69846/rus/31.01.2013
 <td></td>
 <td></td>
 <td>Тасарык</td>
-<td>9148</td>
+<td>8958</td>
 </tr>
 <tr>
 <td></td>
@@ -185,7 +185,7 @@ source: https://zan.gov.kz/client/#!/doc/69846/rus/31.01.2013
 <td></td>
 <td></td>
 <td>Киелитас</td>
-<td>12910</td>
+<td>12829</td>
 </tr>
 <tr>
 <td></td>
@@ -193,7 +193,7 @@ source: https://zan.gov.kz/client/#!/doc/69846/rus/31.01.2013
 <td></td>
 <td></td>
 <td>Кемекалган</td>
-<td>9822</td>
+<td>9702</td>
 </tr>
 <tr>
 <td></td>
@@ -201,7 +201,7 @@ source: https://zan.gov.kz/client/#!/doc/69846/rus/31.01.2013
 <td></td>
 <td>022</td>
 <td>Капитальные расходы государственных органов</td>
-<td>10790</td>
+<td>3525</td>
 </tr>
 <tr>
 <td></td>
@@ -225,7 +225,7 @@ source: https://zan.gov.kz/client/#!/doc/69846/rus/31.01.2013
 <td></td>
 <td></td>
 <td>Акжар</td>
-<td>100</td>
+<td>136</td>
 </tr>
 <tr>
 <td></td>
@@ -233,7 +233,7 @@ source: https://zan.gov.kz/client/#!/doc/69846/rus/31.01.2013
 <td></td>
 <td></td>
 <td>Аккум</td>
-<td>100</td>
+<td>136</td>
 </tr>
 <tr>
 <td></td>
@@ -241,7 +241,7 @@ source: https://zan.gov.kz/client/#!/doc/69846/rus/31.01.2013
 <td></td>
 <td></td>
 <td>Алатау</td>
-<td>260</td>
+<td>490</td>
 </tr>
 <tr>
 <td></td>
@@ -257,7 +257,7 @@ source: https://zan.gov.kz/client/#!/doc/69846/rus/31.01.2013
 <td></td>
 <td></td>
 <td>Верхний-Аксу</td>
-<td>100</td>
+<td>136</td>
 </tr>
 <tr>
 <td></td>
@@ -265,7 +265,7 @@ source: https://zan.gov.kz/client/#!/doc/69846/rus/31.01.2013
 <td></td>
 <td></td>
 <td>Коксайек</td>
-<td>410</td>
+<td>450</td>
 </tr>
 <tr>
 <td></td>
@@ -273,7 +273,7 @@ source: https://zan.gov.kz/client/#!/doc/69846/rus/31.01.2013
 <td></td>
 <td></td>
 <td>Казыгурт</td>
-<td>100</td>
+<td>290</td>
 </tr>
 <tr>
 <td></td>
@@ -281,7 +281,7 @@ source: https://zan.gov.kz/client/#!/doc/69846/rus/31.01.2013
 <td></td>
 <td></td>
 <td>Каскасу</td>
-<td>8660</td>
+<td>140</td>
 </tr>
 <tr>
 <td></td>
@@ -289,7 +289,7 @@ source: https://zan.gov.kz/client/#!/doc/69846/rus/31.01.2013
 <td></td>
 <td></td>
 <td>Когалы</td>
-<td>100</td>
+<td>166</td>
 </tr>
 <tr>
 <td></td>
@@ -297,7 +297,7 @@ source: https://zan.gov.kz/client/#!/doc/69846/rus/31.01.2013
 <td></td>
 <td></td>
 <td>Каратобе</td>
-<td>100</td>
+<td>290</td>
 </tr>
 <tr>
 <td></td>
@@ -305,7 +305,7 @@ source: https://zan.gov.kz/client/#!/doc/69846/rus/31.01.2013
 <td></td>
 <td></td>
 <td>Первомаевка</td>
-<td>260</td>
+<td>300</td>
 </tr>
 <tr>
 <td></td>
@@ -313,7 +313,7 @@ source: https://zan.gov.kz/client/#!/doc/69846/rus/31.01.2013
 <td></td>
 <td></td>
 <td>Тасарык</td>
-<td>100</td>
+<td>290</td>
 </tr>
 <tr>
 <td></td>
@@ -321,7 +321,7 @@ source: https://zan.gov.kz/client/#!/doc/69846/rus/31.01.2013
 <td></td>
 <td></td>
 <td>Киелитас</td>
-<td>140</td>
+<td>221</td>
 </tr>
 <tr>
 <td></td>
@@ -329,7 +329,7 @@ source: https://zan.gov.kz/client/#!/doc/69846/rus/31.01.2013
 <td></td>
 <td></td>
 <td>Кемекалган</td>
-<td>140</td>
+<td>260</td>
 </tr>
 <tr>
 <td>04</td>
@@ -361,7 +361,7 @@ source: https://zan.gov.kz/client/#!/doc/69846/rus/31.01.2013
 <td></td>
 <td>004</td>
 <td>Поддержка организаций дошкольного воспитания и обучения</td>
-<td>269511</td>
+<td>274320</td>
 </tr>
 <tr>
 <td></td>
@@ -377,7 +377,7 @@ source: https://zan.gov.kz/client/#!/doc/69846/rus/31.01.2013
 <td></td>
 <td></td>
 <td>Ленгер</td>
-<td>132689</td>
+<td>137153</td>
 </tr>
 <tr>
 <td></td>
@@ -433,7 +433,7 @@ source: https://zan.gov.kz/client/#!/doc/69846/rus/31.01.2013
 <td></td>
 <td></td>
 <td>Казыгурт</td>
-<td>40214</td>
+<td>40559</td>
 </tr>
 <tr>
 <td></td>
@@ -496,8 +496,8 @@ source: https://zan.gov.kz/client/#!/doc/69846/rus/31.01.2013
 <td></td>
 <td></td>
 <td>041</td>
-<td>Увеличение размера доплаты за квалификационную категорию учителям школ и воспитателям дошкольных организаций образования</td>
-<td>218703</td>
+<td>Реализация государственного образовательного заказа в дошкольных организациях образования</td>
+<td>213894</td>
 </tr>
 <tr>
 <td></td>
@@ -513,7 +513,7 @@ source: https://zan.gov.kz/client/#!/doc/69846/rus/31.01.2013
 <td></td>
 <td></td>
 <td>Ленгер</td>
-<td>4464</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -552,7 +552,7 @@ source: https://zan.gov.kz/client/#!/doc/69846/rus/31.01.2013
 <td></td>
 <td></td>
 <td></td>
-<td>Верхний-Аксу</td>
+<td>Верхне-Аксу</td>
 <td>22050</td>
 </tr>
 <tr>
@@ -569,7 +569,7 @@ source: https://zan.gov.kz/client/#!/doc/69846/rus/31.01.2013
 <td></td>
 <td></td>
 <td>Казыгурт</td>
-<td>345</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -1233,7 +1233,7 @@ source: https://zan.gov.kz/client/#!/doc/69846/rus/31.01.2013
 <td></td>
 <td></td>
 <td>Всего:</td>
-<td>798094</td>
+<td>789206</td>
 </tr>
 </table>
 
@@ -1243,7 +1243,7 @@ source: https://zan.gov.kz/client/#!/doc/69846/rus/31.01.2013
 
 ## Перечень бюджетных программ развития районного бюджета на 2013 год
 
-> *Сноска. Приложение 6 в редакции решения Толебийского районного маслихата Южно-Казахстанской области от 31.01.2013 14/72-V (вводится в действие с 01.01.2013).*
+> *Сноска. Приложение 6 в редакции решения Толебийского районного маслихата Южно-Казахстанской области от 29.05.2013 № 16/83-V (вводится в действие с 01.01.2013).*
 
 <table>
 <tr>
@@ -1265,14 +1265,6 @@ source: https://zan.gov.kz/client/#!/doc/69846/rus/31.01.2013
 <td></td>
 <td></td>
 <td colspan="2">Программа</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>6 313 696</td>
 </tr>
 <tr>
 <td></td>
@@ -1320,7 +1312,7 @@ source: https://zan.gov.kz/client/#!/doc/69846/rus/31.01.2013
 <td>458</td>
 <td></td>
 <td>Отдел жилищно-коммунального хозяйства, пассажирского транспорта и автомобильных дорог района (города областного значения)</td>
-<td>3 525 147</td>
+<td>3 173 282</td>
 </tr>
 <tr>
 <td></td>
@@ -1334,9 +1326,9 @@ source: https://zan.gov.kz/client/#!/doc/69846/rus/31.01.2013
 <td></td>
 <td></td>
 <td></td>
-<td>029</td>
-<td>Развитие системы водоснабжения</td>
-<td>3486052</td>
+<td>058</td>
+<td>Развитие системы водоснабжения и водоотведения в сельских населенных пунктах</td>
+<td>3134187</td>
 </tr>
 <tr>
 <td></td>
@@ -1344,14 +1336,14 @@ source: https://zan.gov.kz/client/#!/doc/69846/rus/31.01.2013
 <td>458</td>
 <td></td>
 <td>Отдел жилищно-коммунального хозяйства, пассажирского транспорта и автомобильных дорог района (города областного значения)</td>
-<td>1 297 504</td>
+<td>1 285 640</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td>019</td>
-<td>Развитие теплоэнергетической системы</td>
-<td>1297504</td>
+<td>036</td>
+<td>Развитие газотранспортной системы</td>
+<td>1285640</td>
 </tr>
 </table>
