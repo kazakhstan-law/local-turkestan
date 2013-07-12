@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/69327/kaz/31.05.2013
+source: https://zan.gov.kz/client/#!/doc/69327/kaz/12.07.2013
 ---
 
 ## 2015 жылға арналған Шымкент қаласының бюджеті
