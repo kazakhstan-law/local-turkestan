@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/69796/kaz/05.06.2013
+source: https://zan.gov.kz/client/#!/doc/69796/kaz/15.07.2013
 ---
 
 ## Бюджеттік инвестициялық жобаларды (бағдарламаларды) іске асыруға және заңды тұлғалардың жарғылық қорын қалыптастыруға бағытталған бюджеттік бағдарламалар бөлінісінде 2013 жылға арналған аудандық бюджеттік даму бағдарламаларының тізбесі
@@ -185,7 +185,7 @@ source: https://zan.gov.kz/client/#!/doc/69796/kaz/05.06.2013
 
 ## 2013-2015 жылдарға арналған аудандық бюджетте әрбір ауылдық округтің бюджеттік бағдарламалардың тізбесі
 
-> *Ескерту. 5-қосымша жаңа редакцияда - Оңтүстік Қазақстан облысы Ордабасы аудандық мәслихатының 05.06.2013 № 15/1 шешімімен (2013 жылғы 1 қаңтарынан бастап қолданысқа енгізіледі).*
+> *Ескерту. 5-қосымша жаңа редакцияда - Оңтүстік Қазақстан облысы Ордабасы аудандық мәслихатының 15.07.2013 № 18/1 шешімімен (2013 жылғы 1 қаңтарынан бастап қолданысқа енгізіледі).*
 
 <table>
 <tr>
@@ -213,7 +213,7 @@ source: https://zan.gov.kz/client/#!/doc/69796/kaz/05.06.2013
 <td colspan="2">Бағдарлама</td>
 </tr>
 <tr>
-<td>№ р/с</td>
+<td>р/с №</td>
 <td></td>
 <td></td>
 <td></td>
@@ -227,7 +227,7 @@ source: https://zan.gov.kz/client/#!/doc/69796/kaz/05.06.2013
 <td></td>
 <td></td>
 <td>2. ШЫҒЫНДАР</td>
-<td>448221</td>
+<td>476068</td>
 </tr>
 <tr>
 <td>2</td>
@@ -236,7 +236,7 @@ source: https://zan.gov.kz/client/#!/doc/69796/kaz/05.06.2013
 <td></td>
 <td></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>206682</td>
+<td>234529</td>
 </tr>
 <tr>
 <td>3</td>
@@ -245,7 +245,7 @@ source: https://zan.gov.kz/client/#!/doc/69796/kaz/05.06.2013
 <td></td>
 <td></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>206682</td>
+<td>234529</td>
 </tr>
 <tr>
 <td>4</td>
@@ -254,7 +254,7 @@ source: https://zan.gov.kz/client/#!/doc/69796/kaz/05.06.2013
 <td>123</td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл (село), ауылдық (селолық) округ әкімінің аппараты</td>
-<td>206682</td>
+<td>234529</td>
 </tr>
 <tr>
 <td>5</td>
@@ -263,7 +263,7 @@ source: https://zan.gov.kz/client/#!/doc/69796/kaz/05.06.2013
 <td></td>
 <td>001</td>
 <td>Қаладағы аудан, аудандық маңызы бар қаланың, кент, ауыл (село), ауылдық (селолық) округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>131042</td>
+<td>158889</td>
 </tr>
 <tr>
 <td>6</td>
@@ -443,12 +443,13 @@ source: https://zan.gov.kz/client/#!/doc/69796/kaz/05.06.2013
 <table>
 <tr>
 <td></td>
-<td colspan="9">ауылдық округтердің тізбесі</td>
+<td colspan="10">ауылдық округтердің тізбесі</td>
 </tr>
 <tr>
-<td>№ р/с</td>
+<td>р/с №</td>
 <td>Бадам</td>
 <td>Бөген</td>
+<td>Бөржар</td>
 <td>Жеңіс</td>
 <td>Қарақұм</td>
 <td>Қараспан</td>
@@ -461,10 +462,11 @@ source: https://zan.gov.kz/client/#!/doc/69796/kaz/05.06.2013
 <td>1</td>
 <td>49790</td>
 <td>25720</td>
+<td>26856</td>
 <td>21633</td>
 <td>29039</td>
 <td>35682</td>
-<td>95982</td>
+<td>123829</td>
 <td>118283</td>
 <td>29968</td>
 <td>15268</td>
@@ -473,10 +475,11 @@ source: https://zan.gov.kz/client/#!/doc/69796/kaz/05.06.2013
 <td>2</td>
 <td>22309</td>
 <td>10755</td>
+<td>11485</td>
 <td>9604</td>
 <td>10181</td>
 <td>14035</td>
-<td>15989</td>
+<td>43836</td>
 <td>89259</td>
 <td>12039</td>
 <td>11026</td>
@@ -485,10 +488,11 @@ source: https://zan.gov.kz/client/#!/doc/69796/kaz/05.06.2013
 <td>3</td>
 <td>22309</td>
 <td>10755</td>
+<td>11485</td>
 <td>9604</td>
 <td>10181</td>
 <td>14035</td>
-<td>15989</td>
+<td>43836</td>
 <td>89259</td>
 <td>12039</td>
 <td>11026</td>
@@ -497,10 +501,11 @@ source: https://zan.gov.kz/client/#!/doc/69796/kaz/05.06.2013
 <td>4</td>
 <td>22309</td>
 <td>10755</td>
+<td>11485</td>
 <td>9604</td>
 <td>10181</td>
 <td>14035</td>
-<td>15989</td>
+<td>43836</td>
 <td>89259</td>
 <td>12039</td>
 <td>11026</td>
@@ -509,16 +514,18 @@ source: https://zan.gov.kz/client/#!/doc/69796/kaz/05.06.2013
 <td>5</td>
 <td>22309</td>
 <td>10755</td>
+<td>11485</td>
 <td>9604</td>
 <td>10181</td>
 <td>14035</td>
-<td>15349</td>
+<td>43196</td>
 <td>14259</td>
 <td>12039</td>
 <td>11026</td>
 </tr>
 <tr>
 <td>6</td>
+<td>0</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
@@ -533,6 +540,7 @@ source: https://zan.gov.kz/client/#!/doc/69796/kaz/05.06.2013
 <td>7</td>
 <td>26683</td>
 <td>14462</td>
+<td>14603</td>
 <td>11526</td>
 <td>18194</td>
 <td>20741</td>
@@ -545,6 +553,7 @@ source: https://zan.gov.kz/client/#!/doc/69796/kaz/05.06.2013
 <td>8</td>
 <td>26683</td>
 <td>14462</td>
+<td>14603</td>
 <td>11526</td>
 <td>18194</td>
 <td>19504</td>
@@ -557,6 +566,7 @@ source: https://zan.gov.kz/client/#!/doc/69796/kaz/05.06.2013
 <td>9</td>
 <td>26683</td>
 <td>14462</td>
+<td>14603</td>
 <td>11526</td>
 <td>18194</td>
 <td>19504</td>
@@ -569,6 +579,7 @@ source: https://zan.gov.kz/client/#!/doc/69796/kaz/05.06.2013
 <td>10</td>
 <td>341</td>
 <td>164</td>
+<td>120</td>
 <td>80</td>
 <td>195</td>
 <td>84</td>
@@ -581,6 +592,7 @@ source: https://zan.gov.kz/client/#!/doc/69796/kaz/05.06.2013
 <td>11</td>
 <td>26342</td>
 <td>14298</td>
+<td>14483</td>
 <td>11446</td>
 <td>17999</td>
 <td>19420</td>
@@ -595,6 +607,7 @@ source: https://zan.gov.kz/client/#!/doc/69796/kaz/05.06.2013
 <td>0</td>
 <td>0</td>
 <td>0</td>
+<td>0</td>
 <td>1237</td>
 <td>0</td>
 <td>821</td>
@@ -603,6 +616,7 @@ source: https://zan.gov.kz/client/#!/doc/69796/kaz/05.06.2013
 </tr>
 <tr>
 <td>13</td>
+<td>0</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
@@ -619,6 +633,7 @@ source: https://zan.gov.kz/client/#!/doc/69796/kaz/05.06.2013
 <td>0</td>
 <td>0</td>
 <td>0</td>
+<td>0</td>
 <td>1237</td>
 <td>0</td>
 <td>821</td>
@@ -629,6 +644,7 @@ source: https://zan.gov.kz/client/#!/doc/69796/kaz/05.06.2013
 <td>15</td>
 <td>32</td>
 <td>13</td>
+<td>18</td>
 <td>13</td>
 <td>13</td>
 <td>33</td>
@@ -641,6 +657,7 @@ source: https://zan.gov.kz/client/#!/doc/69796/kaz/05.06.2013
 <td>16</td>
 <td>32</td>
 <td>13</td>
+<td>18</td>
 <td>13</td>
 <td>13</td>
 <td>33</td>
@@ -653,6 +670,7 @@ source: https://zan.gov.kz/client/#!/doc/69796/kaz/05.06.2013
 <td>17</td>
 <td>32</td>
 <td>13</td>
+<td>18</td>
 <td>13</td>
 <td>13</td>
 <td>33</td>
@@ -665,6 +683,7 @@ source: https://zan.gov.kz/client/#!/doc/69796/kaz/05.06.2013
 <td>18</td>
 <td>32</td>
 <td>13</td>
+<td>18</td>
 <td>13</td>
 <td>13</td>
 <td>33</td>
@@ -677,6 +696,7 @@ source: https://zan.gov.kz/client/#!/doc/69796/kaz/05.06.2013
 <td>19</td>
 <td>766</td>
 <td>490</td>
+<td>750</td>
 <td>490</td>
 <td>651</td>
 <td>873</td>
@@ -689,6 +709,7 @@ source: https://zan.gov.kz/client/#!/doc/69796/kaz/05.06.2013
 <td>20</td>
 <td>766</td>
 <td>490</td>
+<td>750</td>
 <td>490</td>
 <td>651</td>
 <td>873</td>
@@ -701,6 +722,7 @@ source: https://zan.gov.kz/client/#!/doc/69796/kaz/05.06.2013
 <td>21</td>
 <td>766</td>
 <td>490</td>
+<td>750</td>
 <td>490</td>
 <td>651</td>
 <td>873</td>
@@ -713,6 +735,7 @@ source: https://zan.gov.kz/client/#!/doc/69796/kaz/05.06.2013
 <td>22</td>
 <td>321</td>
 <td>214</td>
+<td>428</td>
 <td>214</td>
 <td>321</td>
 <td>428</td>
@@ -725,6 +748,7 @@ source: https://zan.gov.kz/client/#!/doc/69796/kaz/05.06.2013
 <td>23</td>
 <td>231</td>
 <td>116</td>
+<td>161</td>
 <td>115</td>
 <td>116</td>
 <td>231</td>
@@ -737,6 +761,7 @@ source: https://zan.gov.kz/client/#!/doc/69796/kaz/05.06.2013
 <td>24</td>
 <td>214</td>
 <td>160</td>
+<td>161</td>
 <td>161</td>
 <td>214</td>
 <td>214</td>
