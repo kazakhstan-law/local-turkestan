@@ -1,11 +1,11 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/69846/kaz/17.07.2013
+source: https://zan.gov.kz/client/#!/doc/69846/kaz/20.08.2013
 ---
 
 ## 2013 жылға арналған аудандық бюджетте әрбір ауылдық округтің бюджеттік бағдарламаларының тізбесі
 
-> *Ескерту. 5-қосымша жаңа редакцияда - Оңтүстік Қазақстан облысы Төлеби аудандық мәслихатының 17.07.2013 № 19/95-V шешімімен (2013 жылғы 1 қаңтарынан бастап қолданысқа енгізіледі).*
+> *Ескерту. 5-қосымша жаңа редакцияда - Оңтүстік Қазақстан облысы Төлеби аудандық мәслихатының 20.08.2013 № 20/97-V шешімімен (2013 жылғы 1 қаңтарынан бастап қолданысқа енгізіледі).*
 
 <table>
 <tr>
@@ -40,7 +40,7 @@ source: https://zan.gov.kz/client/#!/doc/69846/kaz/17.07.2013
 <td></td>
 <td></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер көрсету</td>
-<td>298889</td>
+<td>301452</td>
 </tr>
 <tr>
 <td></td>
@@ -48,7 +48,7 @@ source: https://zan.gov.kz/client/#!/doc/69846/kaz/17.07.2013
 <td></td>
 <td></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>298889</td>
+<td>301452</td>
 </tr>
 <tr>
 <td></td>
@@ -56,7 +56,7 @@ source: https://zan.gov.kz/client/#!/doc/69846/kaz/17.07.2013
 <td>123</td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл (село), ауылдық (селолық) округ әкімінің аппараты</td>
-<td>298889</td>
+<td>301452</td>
 </tr>
 <tr>
 <td></td>
@@ -64,7 +64,7 @@ source: https://zan.gov.kz/client/#!/doc/69846/kaz/17.07.2013
 <td></td>
 <td>001</td>
 <td>Қаладағы аудан, аудандық маңызы бар қаланың, кент, ауыл (село), ауылдық (селолық) округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>289879</td>
+<td>292197</td>
 </tr>
 <tr>
 <td></td>
@@ -80,7 +80,7 @@ source: https://zan.gov.kz/client/#!/doc/69846/kaz/17.07.2013
 <td></td>
 <td></td>
 <td>Ленгір</td>
-<td>18464</td>
+<td>20823</td>
 </tr>
 <tr>
 <td></td>
@@ -88,7 +88,7 @@ source: https://zan.gov.kz/client/#!/doc/69846/kaz/17.07.2013
 <td></td>
 <td></td>
 <td>Ақжар</td>
-<td>8866</td>
+<td>9379</td>
 </tr>
 <tr>
 <td></td>
@@ -96,7 +96,7 @@ source: https://zan.gov.kz/client/#!/doc/69846/kaz/17.07.2013
 <td></td>
 <td></td>
 <td>Аққұм</td>
-<td>9515</td>
+<td>10364</td>
 </tr>
 <tr>
 <td></td>
@@ -104,7 +104,7 @@ source: https://zan.gov.kz/client/#!/doc/69846/kaz/17.07.2013
 <td></td>
 <td></td>
 <td>Алатау</td>
-<td>43129</td>
+<td>44093</td>
 </tr>
 <tr>
 <td></td>
@@ -112,7 +112,7 @@ source: https://zan.gov.kz/client/#!/doc/69846/kaz/17.07.2013
 <td></td>
 <td></td>
 <td>Зертас</td>
-<td>9593</td>
+<td>10805</td>
 </tr>
 <tr>
 <td></td>
@@ -120,7 +120,7 @@ source: https://zan.gov.kz/client/#!/doc/69846/kaz/17.07.2013
 <td></td>
 <td></td>
 <td>Жоғарғы - Ақсу</td>
-<td>9851</td>
+<td>10089</td>
 </tr>
 <tr>
 <td></td>
@@ -128,7 +128,7 @@ source: https://zan.gov.kz/client/#!/doc/69846/kaz/17.07.2013
 <td></td>
 <td></td>
 <td>Көксәйек</td>
-<td>52244</td>
+<td>57129</td>
 </tr>
 <tr>
 <td></td>
@@ -136,7 +136,7 @@ source: https://zan.gov.kz/client/#!/doc/69846/kaz/17.07.2013
 <td></td>
 <td></td>
 <td>Қазығұрт</td>
-<td>13264</td>
+<td>14599</td>
 </tr>
 <tr>
 <td></td>
@@ -144,7 +144,7 @@ source: https://zan.gov.kz/client/#!/doc/69846/kaz/17.07.2013
 <td></td>
 <td></td>
 <td>Қасқасу</td>
-<td>9801</td>
+<td>11064</td>
 </tr>
 <tr>
 <td></td>
@@ -152,7 +152,7 @@ source: https://zan.gov.kz/client/#!/doc/69846/kaz/17.07.2013
 <td></td>
 <td></td>
 <td>Қоғалы</td>
-<td>32624</td>
+<td>38132</td>
 </tr>
 <tr>
 <td></td>
@@ -160,7 +160,7 @@ source: https://zan.gov.kz/client/#!/doc/69846/kaz/17.07.2013
 <td></td>
 <td></td>
 <td>Қаратөбе</td>
-<td>36231</td>
+<td>14718</td>
 </tr>
 <tr>
 <td></td>
@@ -168,7 +168,7 @@ source: https://zan.gov.kz/client/#!/doc/69846/kaz/17.07.2013
 <td></td>
 <td></td>
 <td>Бірінші мамыр</td>
-<td>14808</td>
+<td>16143</td>
 </tr>
 <tr>
 <td></td>
@@ -176,7 +176,7 @@ source: https://zan.gov.kz/client/#!/doc/69846/kaz/17.07.2013
 <td></td>
 <td></td>
 <td>Тасарық</td>
-<td>8958</td>
+<td>9472</td>
 </tr>
 <tr>
 <td></td>
@@ -184,7 +184,7 @@ source: https://zan.gov.kz/client/#!/doc/69846/kaz/17.07.2013
 <td></td>
 <td></td>
 <td>Киелітас</td>
-<td>12829</td>
+<td>14523</td>
 </tr>
 <tr>
 <td></td>
@@ -192,7 +192,7 @@ source: https://zan.gov.kz/client/#!/doc/69846/kaz/17.07.2013
 <td></td>
 <td></td>
 <td>Кемеқалған</td>
-<td>9702</td>
+<td>10864</td>
 </tr>
 <tr>
 <td></td>
@@ -200,7 +200,7 @@ source: https://zan.gov.kz/client/#!/doc/69846/kaz/17.07.2013
 <td></td>
 <td>022</td>
 <td>Мемлекеттік органның күрделі шығыстары</td>
-<td>9010</td>
+<td>9255</td>
 </tr>
 <tr>
 <td></td>
@@ -216,7 +216,7 @@ source: https://zan.gov.kz/client/#!/doc/69846/kaz/17.07.2013
 <td></td>
 <td></td>
 <td>Ленгір</td>
-<td>120</td>
+<td>920</td>
 </tr>
 <tr>
 <td></td>
@@ -224,7 +224,7 @@ source: https://zan.gov.kz/client/#!/doc/69846/kaz/17.07.2013
 <td></td>
 <td></td>
 <td>Ақжар</td>
-<td>136</td>
+<td>336</td>
 </tr>
 <tr>
 <td></td>
@@ -232,7 +232,7 @@ source: https://zan.gov.kz/client/#!/doc/69846/kaz/17.07.2013
 <td></td>
 <td></td>
 <td>Аққұм</td>
-<td>136</td>
+<td>366</td>
 </tr>
 <tr>
 <td></td>
@@ -240,7 +240,7 @@ source: https://zan.gov.kz/client/#!/doc/69846/kaz/17.07.2013
 <td></td>
 <td></td>
 <td>Алатау</td>
-<td>490</td>
+<td>790</td>
 </tr>
 <tr>
 <td></td>
@@ -248,7 +248,7 @@ source: https://zan.gov.kz/client/#!/doc/69846/kaz/17.07.2013
 <td></td>
 <td></td>
 <td>Зертас</td>
-<td>100</td>
+<td>500</td>
 </tr>
 <tr>
 <td></td>
@@ -256,7 +256,7 @@ source: https://zan.gov.kz/client/#!/doc/69846/kaz/17.07.2013
 <td></td>
 <td></td>
 <td>Жоғарғы - Ақсу</td>
-<td>136</td>
+<td>236</td>
 </tr>
 <tr>
 <td></td>
@@ -264,7 +264,7 @@ source: https://zan.gov.kz/client/#!/doc/69846/kaz/17.07.2013
 <td></td>
 <td></td>
 <td>Көксәйек</td>
-<td>450</td>
+<td>950</td>
 </tr>
 <tr>
 <td></td>
@@ -272,7 +272,7 @@ source: https://zan.gov.kz/client/#!/doc/69846/kaz/17.07.2013
 <td></td>
 <td></td>
 <td>Қазығұрт</td>
-<td>290</td>
+<td>790</td>
 </tr>
 <tr>
 <td></td>
@@ -280,7 +280,7 @@ source: https://zan.gov.kz/client/#!/doc/69846/kaz/17.07.2013
 <td></td>
 <td></td>
 <td>Қасқасу</td>
-<td>140</td>
+<td>540</td>
 </tr>
 <tr>
 <td></td>
@@ -288,7 +288,7 @@ source: https://zan.gov.kz/client/#!/doc/69846/kaz/17.07.2013
 <td></td>
 <td></td>
 <td>Қоғалы</td>
-<td>166</td>
+<td>366</td>
 </tr>
 <tr>
 <td></td>
@@ -296,7 +296,7 @@ source: https://zan.gov.kz/client/#!/doc/69846/kaz/17.07.2013
 <td></td>
 <td></td>
 <td>Қаратөбе</td>
-<td>5775</td>
+<td>690</td>
 </tr>
 <tr>
 <td></td>
@@ -304,7 +304,7 @@ source: https://zan.gov.kz/client/#!/doc/69846/kaz/17.07.2013
 <td></td>
 <td></td>
 <td>Бірінші мамыр</td>
-<td>300</td>
+<td>800</td>
 </tr>
 <tr>
 <td></td>
@@ -312,7 +312,7 @@ source: https://zan.gov.kz/client/#!/doc/69846/kaz/17.07.2013
 <td></td>
 <td></td>
 <td>Тасарық</td>
-<td>290</td>
+<td>490</td>
 </tr>
 <tr>
 <td></td>
@@ -320,7 +320,7 @@ source: https://zan.gov.kz/client/#!/doc/69846/kaz/17.07.2013
 <td></td>
 <td></td>
 <td>Киелітас</td>
-<td>221</td>
+<td>821</td>
 </tr>
 <tr>
 <td></td>
@@ -328,7 +328,7 @@ source: https://zan.gov.kz/client/#!/doc/69846/kaz/17.07.2013
 <td></td>
 <td></td>
 <td>Кемеқалған</td>
-<td>260</td>
+<td>660</td>
 </tr>
 <tr>
 <td>4</td>
@@ -336,7 +336,7 @@ source: https://zan.gov.kz/client/#!/doc/69846/kaz/17.07.2013
 <td></td>
 <td></td>
 <td>Бiлiм беру</td>
-<td>545236</td>
+<td>492129</td>
 </tr>
 <tr>
 <td></td>
@@ -344,7 +344,7 @@ source: https://zan.gov.kz/client/#!/doc/69846/kaz/17.07.2013
 <td></td>
 <td></td>
 <td>Мектепке дейiнгi тәрбие және оқыту</td>
-<td>537617</td>
+<td>484510</td>
 </tr>
 <tr>
 <td></td>
@@ -352,7 +352,7 @@ source: https://zan.gov.kz/client/#!/doc/69846/kaz/17.07.2013
 <td>123</td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл (село), ауылдық (селолық) округ әкімінің аппараты</td>
-<td>537617</td>
+<td>484510</td>
 </tr>
 <tr>
 <td></td>
@@ -360,7 +360,7 @@ source: https://zan.gov.kz/client/#!/doc/69846/kaz/17.07.2013
 <td></td>
 <td>004</td>
 <td>Мектепке дейінгі тәрбие ұйымдарының қызметін қамтамасыз ету</td>
-<td>274320</td>
+<td>262347</td>
 </tr>
 <tr>
 <td></td>
@@ -376,7 +376,7 @@ source: https://zan.gov.kz/client/#!/doc/69846/kaz/17.07.2013
 <td></td>
 <td></td>
 <td>Ленгір</td>
-<td>137153</td>
+<td>148294</td>
 </tr>
 <tr>
 <td></td>
@@ -400,7 +400,7 @@ source: https://zan.gov.kz/client/#!/doc/69846/kaz/17.07.2013
 <td></td>
 <td></td>
 <td>Алатау</td>
-<td></td>
+<td>3400</td>
 </tr>
 <tr>
 <td></td>
@@ -424,7 +424,7 @@ source: https://zan.gov.kz/client/#!/doc/69846/kaz/17.07.2013
 <td></td>
 <td></td>
 <td>Көксәйек</td>
-<td>64534</td>
+<td>34620</td>
 </tr>
 <tr>
 <td></td>
@@ -448,7 +448,7 @@ source: https://zan.gov.kz/client/#!/doc/69846/kaz/17.07.2013
 <td></td>
 <td></td>
 <td>Қоғалы</td>
-<td></td>
+<td>3400</td>
 </tr>
 <tr>
 <td></td>
@@ -496,7 +496,7 @@ source: https://zan.gov.kz/client/#!/doc/69846/kaz/17.07.2013
 <td></td>
 <td>041</td>
 <td>Мектепке дейінгі білім беру ұйымдарында мемлекеттік білім беру тапсырысын іске асыруға</td>
-<td>263297</td>
+<td>222163</td>
 </tr>
 <tr>
 <td></td>
@@ -536,7 +536,7 @@ source: https://zan.gov.kz/client/#!/doc/69846/kaz/17.07.2013
 <td></td>
 <td></td>
 <td>Алатау</td>
-<td>24697</td>
+<td>27453</td>
 </tr>
 <tr>
 <td></td>
@@ -560,7 +560,7 @@ source: https://zan.gov.kz/client/#!/doc/69846/kaz/17.07.2013
 <td></td>
 <td></td>
 <td>Көксәйек</td>
-<td>64839</td>
+<td>19111</td>
 </tr>
 <tr>
 <td></td>
@@ -576,7 +576,7 @@ source: https://zan.gov.kz/client/#!/doc/69846/kaz/17.07.2013
 <td></td>
 <td></td>
 <td>Қасқасу</td>
-<td>35943</td>
+<td>34106</td>
 </tr>
 <tr>
 <td></td>
@@ -584,7 +584,7 @@ source: https://zan.gov.kz/client/#!/doc/69846/kaz/17.07.2013
 <td></td>
 <td></td>
 <td>Қоғалы</td>
-<td>11025</td>
+<td>14700</td>
 </tr>
 <tr>
 <td></td>
@@ -784,7 +784,7 @@ source: https://zan.gov.kz/client/#!/doc/69846/kaz/17.07.2013
 <td></td>
 <td></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>26818</td>
+<td>24477</td>
 </tr>
 <tr>
 <td></td>
@@ -792,7 +792,7 @@ source: https://zan.gov.kz/client/#!/doc/69846/kaz/17.07.2013
 <td></td>
 <td></td>
 <td>Елді-мекендерді көркейту</td>
-<td>26818</td>
+<td>24477</td>
 </tr>
 <tr>
 <td></td>
@@ -800,7 +800,7 @@ source: https://zan.gov.kz/client/#!/doc/69846/kaz/17.07.2013
 <td>123</td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл (село), ауылдық (селолық) округ әкімінің аппараты</td>
-<td>13873</td>
+<td>13163</td>
 </tr>
 <tr>
 <td></td>
@@ -808,7 +808,7 @@ source: https://zan.gov.kz/client/#!/doc/69846/kaz/17.07.2013
 <td></td>
 <td>009</td>
 <td>Елдi мекендердің санитариясын қамтамасыз ету</td>
-<td>13873</td>
+<td>13163</td>
 </tr>
 <tr>
 <td></td>
@@ -824,7 +824,7 @@ source: https://zan.gov.kz/client/#!/doc/69846/kaz/17.07.2013
 <td></td>
 <td></td>
 <td>Ленгір</td>
-<td>7053</td>
+<td>6343</td>
 </tr>
 <tr>
 <td></td>
@@ -1088,7 +1088,7 @@ source: https://zan.gov.kz/client/#!/doc/69846/kaz/17.07.2013
 <td>123</td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл (село), ауылдық (селолық) округ әкімінің аппараты</td>
-<td>12765</td>
+<td>11134</td>
 </tr>
 <tr>
 <td></td>
@@ -1096,7 +1096,7 @@ source: https://zan.gov.kz/client/#!/doc/69846/kaz/17.07.2013
 <td></td>
 <td>011</td>
 <td>Елдi мекендерді абаттандыру және көгалдандыру</td>
-<td>12 765</td>
+<td>11 134</td>
 </tr>
 <tr>
 <td></td>
@@ -1112,7 +1112,7 @@ source: https://zan.gov.kz/client/#!/doc/69846/kaz/17.07.2013
 <td></td>
 <td></td>
 <td>Ленгір</td>
-<td>11 365</td>
+<td>9 734</td>
 </tr>
 <tr>
 <td></td>
@@ -1232,7 +1232,7 @@ source: https://zan.gov.kz/client/#!/doc/69846/kaz/17.07.2013
 <td></td>
 <td></td>
 <td>Барлығы</td>
-<td>870943</td>
+<td>818058</td>
 </tr>
 </table>
 
@@ -1243,7 +1243,7 @@ source: https://zan.gov.kz/client/#!/doc/69846/kaz/17.07.2013
 
 ## 2013 жылға арналған ауданның даму бағдарламаларының тізбесі
 
-> *Ескерту. 6-қосымша жаңа редакцияда - Оңтүстік Қазақстан облысы Төлеби аудандық мәслихатының 17.07.2013 № 19/95-V шешімімен (2013 жылғы 1 қаңтарынан бастап қолданысқа енгізіледі).*
+> *Ескерту. 6-қосымша жаңа редакцияда - Оңтүстік Қазақстан облысы Төлеби аудандық мәслихатының 20.08.2013 № 20/97-V шешімімен (2013 жылғы 1 қаңтарынан бастап қолданысқа енгізіледі).*
 
 <table>
 <tr>
@@ -1278,7 +1278,7 @@ source: https://zan.gov.kz/client/#!/doc/69846/kaz/17.07.2013
 <td>467</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) құрылыс бөлімі</td>
-<td>1514661</td>
+<td>1489397</td>
 </tr>
 <tr>
 <td></td>
@@ -1294,7 +1294,7 @@ source: https://zan.gov.kz/client/#!/doc/69846/kaz/17.07.2013
 <td></td>
 <td>037</td>
 <td>Білім беру объектілерін салу және реконструкциялау</td>
-<td>1051265</td>
+<td>999713</td>
 </tr>
 <tr>
 <td></td>
@@ -1311,6 +1311,14 @@ source: https://zan.gov.kz/client/#!/doc/69846/kaz/17.07.2013
 <td>004</td>
 <td>Инженерлік коммуникациялық инфрақұрылымды дамыту, жайластыру және (немесе) сатып алу</td>
 <td>427808</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>010</td>
+<td>Ауыл шаруашылығы объектілерін дамыту</td>
+<td>26288</td>
 </tr>
 <tr>
 <td></td>
