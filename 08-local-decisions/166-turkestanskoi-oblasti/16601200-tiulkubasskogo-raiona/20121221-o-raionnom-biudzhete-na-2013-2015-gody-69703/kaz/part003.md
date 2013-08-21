@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/69703/kaz/17.07.2013
+source: https://zan.gov.kz/client/#!/doc/69703/kaz/21.08.2013
 ---
 
 ## Түлкібас ауданының 2015 жылға арналған аудандық бюджет
@@ -2239,7 +2239,7 @@ source: https://zan.gov.kz/client/#!/doc/69703/kaz/17.07.2013
 
 ## 2013-2015 жылдарға арналған аудандық бюджетте әрбір ауылдық, поселкелік округтердің бюджеттік бағдарламаларының тізбесі
 
-> *Ескерту. 6-қосымша жаңа редакцияда - Оңтүстік Қазақстан облысы Түлкібас аудандық мәслихатының 17.07.2013 № 16/1-05 шешімімен (2013 жылғы 1 қаңтарынан бастап қолданысқа енгізіледі).*
+> *Ескерту. 6-қосымша жаңа редакцияда - Оңтүстік Қазақстан облысы Түлкібас аудандық мәслихатының 21.08.2013 № 18/1-05 шешімімен (2013 жылғы 1 қаңтарынан бастап қолданысқа енгізіледі).*
 
 <table>
 <tr>
@@ -2257,9 +2257,9 @@ source: https://zan.gov.kz/client/#!/doc/69703/kaz/17.07.2013
 <td></td>
 <td></td>
 <td colspan="3">Бюджеттік бағдарламалардың әкiмшiсi</td>
-<td rowspan="2">2013 жыл</td>
-<td rowspan="2">2014 жыл</td>
-<td rowspan="2">2015 жыл</td>
+<td rowspan="3">2013 жыл</td>
+<td rowspan="3">2014 жыл</td>
+<td rowspan="3">2015 жыл</td>
 </tr>
 <tr>
 <td></td>
@@ -2273,9 +2273,6 @@ source: https://zan.gov.kz/client/#!/doc/69703/kaz/17.07.2013
 <td></td>
 <td></td>
 <td>Атауы</td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <th colspan="4">1</th>
@@ -2290,7 +2287,7 @@ source: https://zan.gov.kz/client/#!/doc/69703/kaz/17.07.2013
 <td></td>
 <td></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>244 999</td>
+<td>232 605</td>
 <td>198 334</td>
 <td>202 015</td>
 </tr>
@@ -2300,7 +2297,7 @@ source: https://zan.gov.kz/client/#!/doc/69703/kaz/17.07.2013
 <td></td>
 <td></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>244 999</td>
+<td>232 605</td>
 <td>198 334</td>
 <td>202 015</td>
 </tr>
@@ -2309,8 +2306,8 @@ source: https://zan.gov.kz/client/#!/doc/69703/kaz/17.07.2013
 <td></td>
 <td>123</td>
 <td></td>
-<td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл (село), ауылдық (селолық) округ әкімінің аппараты</td>
-<td>244 999</td>
+<td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
+<td>232 605</td>
 <td>198 334</td>
 <td>202 015</td>
 </tr>
@@ -2319,8 +2316,8 @@ source: https://zan.gov.kz/client/#!/doc/69703/kaz/17.07.2013
 <td></td>
 <td></td>
 <td>001</td>
-<td>Қаладағы аудан, аудандық маңызы бар қаланың, кент, ауыл (село), ауылдық (селолық) округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>233 749</td>
+<td>Қаладағы аудан, аудандық маңызы бар қаланың, кент, ауыл, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
+<td>216 995</td>
 <td>195 926</td>
 <td>199 439</td>
 </tr>
@@ -2330,7 +2327,7 @@ source: https://zan.gov.kz/client/#!/doc/69703/kaz/17.07.2013
 <td></td>
 <td></td>
 <td>Балықты ауыл округі</td>
-<td>12 657</td>
+<td>13 228</td>
 <td>12 700</td>
 <td>12 928</td>
 </tr>
@@ -2340,7 +2337,7 @@ source: https://zan.gov.kz/client/#!/doc/69703/kaz/17.07.2013
 <td></td>
 <td></td>
 <td>Майлыкент ауыл округі</td>
-<td>46 914</td>
+<td>20 468</td>
 <td>16 178</td>
 <td>16 469</td>
 </tr>
@@ -2350,7 +2347,7 @@ source: https://zan.gov.kz/client/#!/doc/69703/kaz/17.07.2013
 <td></td>
 <td></td>
 <td>Түлкібас поселкелік округ</td>
-<td>20 398</td>
+<td>21 852</td>
 <td>19 868</td>
 <td>20 225</td>
 </tr>
@@ -2360,7 +2357,7 @@ source: https://zan.gov.kz/client/#!/doc/69703/kaz/17.07.2013
 <td></td>
 <td></td>
 <td>Шақпақ ауыл округі</td>
-<td>10 707</td>
+<td>11 278</td>
 <td>13 893</td>
 <td>14 143</td>
 </tr>
@@ -2370,7 +2367,7 @@ source: https://zan.gov.kz/client/#!/doc/69703/kaz/17.07.2013
 <td></td>
 <td></td>
 <td>Машат ауыл округі</td>
-<td>11 334</td>
+<td>12 676</td>
 <td>10 899</td>
 <td>11 095</td>
 </tr>
@@ -2380,7 +2377,7 @@ source: https://zan.gov.kz/client/#!/doc/69703/kaz/17.07.2013
 <td></td>
 <td></td>
 <td>Жабағылы ауыл округі</td>
-<td>9 392</td>
+<td>9 963</td>
 <td>9 380</td>
 <td>9 549</td>
 </tr>
@@ -2390,7 +2387,7 @@ source: https://zan.gov.kz/client/#!/doc/69703/kaz/17.07.2013
 <td></td>
 <td></td>
 <td>Тастұмсық ауыл округі</td>
-<td>10 835</td>
+<td>11 406</td>
 <td>10 709</td>
 <td>10 901</td>
 </tr>
@@ -2400,7 +2397,7 @@ source: https://zan.gov.kz/client/#!/doc/69703/kaz/17.07.2013
 <td></td>
 <td></td>
 <td>Рысқұлов ауыл округі</td>
-<td>13 064</td>
+<td>13 762</td>
 <td>13 038</td>
 <td>13 271</td>
 </tr>
@@ -2410,7 +2407,7 @@ source: https://zan.gov.kz/client/#!/doc/69703/kaz/17.07.2013
 <td></td>
 <td></td>
 <td>Мичурин ауыл округі</td>
-<td>12 149</td>
+<td>12 673</td>
 <td>12 247</td>
 <td>12 466</td>
 </tr>
@@ -2420,7 +2417,7 @@ source: https://zan.gov.kz/client/#!/doc/69703/kaz/17.07.2013
 <td></td>
 <td></td>
 <td>Кемербастау ауыл округі</td>
-<td>17 174</td>
+<td>17 745</td>
 <td>13 379</td>
 <td>13 618</td>
 </tr>
@@ -2430,7 +2427,7 @@ source: https://zan.gov.kz/client/#!/doc/69703/kaz/17.07.2013
 <td></td>
 <td></td>
 <td>Арыс ауыл округі</td>
-<td>10 347</td>
+<td>10 918</td>
 <td>9 887</td>
 <td>10 064</td>
 </tr>
@@ -2440,7 +2437,7 @@ source: https://zan.gov.kz/client/#!/doc/69703/kaz/17.07.2013
 <td></td>
 <td></td>
 <td>Ақбиік ауыл округі</td>
-<td>17 251</td>
+<td>17 827</td>
 <td>14 625</td>
 <td>14 887</td>
 </tr>
@@ -2450,7 +2447,7 @@ source: https://zan.gov.kz/client/#!/doc/69703/kaz/17.07.2013
 <td></td>
 <td></td>
 <td>Жаскешу ауыл округі</td>
-<td>16 496</td>
+<td>17 073</td>
 <td>14 807</td>
 <td>15 072</td>
 </tr>
@@ -2460,7 +2457,7 @@ source: https://zan.gov.kz/client/#!/doc/69703/kaz/17.07.2013
 <td></td>
 <td></td>
 <td>Келтемашат ауыл округі</td>
-<td>10 537</td>
+<td>11 061</td>
 <td>10 348</td>
 <td>10 533</td>
 </tr>
@@ -2470,7 +2467,7 @@ source: https://zan.gov.kz/client/#!/doc/69703/kaz/17.07.2013
 <td></td>
 <td></td>
 <td>Састөбе поселкелік округ</td>
-<td>14 494</td>
+<td>15 065</td>
 <td>13 968</td>
 <td>14 218</td>
 </tr>
@@ -2480,7 +2477,7 @@ source: https://zan.gov.kz/client/#!/doc/69703/kaz/17.07.2013
 <td></td>
 <td>023</td>
 <td>Мемлекеттік органдардың күрделі шығыстары</td>
-<td>11 250</td>
+<td>15 610</td>
 <td>2 408</td>
 <td>2 576</td>
 </tr>
@@ -2490,7 +2487,7 @@ source: https://zan.gov.kz/client/#!/doc/69703/kaz/17.07.2013
 <td></td>
 <td></td>
 <td>Балықты ауыл округі</td>
-<td>750</td>
+<td>950</td>
 <td>161</td>
 <td>172</td>
 </tr>
@@ -2500,7 +2497,7 @@ source: https://zan.gov.kz/client/#!/doc/69703/kaz/17.07.2013
 <td></td>
 <td></td>
 <td>Майлыкент ауыл округі</td>
-<td>750</td>
+<td>1 810</td>
 <td>161</td>
 <td>172</td>
 </tr>
@@ -2510,7 +2507,7 @@ source: https://zan.gov.kz/client/#!/doc/69703/kaz/17.07.2013
 <td></td>
 <td></td>
 <td>Түлкібас поселкелік округ</td>
-<td>750</td>
+<td>1 250</td>
 <td>161</td>
 <td>172</td>
 </tr>
@@ -2520,7 +2517,7 @@ source: https://zan.gov.kz/client/#!/doc/69703/kaz/17.07.2013
 <td></td>
 <td></td>
 <td>Шақпақ ауыл округі</td>
-<td>750</td>
+<td>950</td>
 <td>161</td>
 <td>172</td>
 </tr>
@@ -2530,7 +2527,7 @@ source: https://zan.gov.kz/client/#!/doc/69703/kaz/17.07.2013
 <td></td>
 <td></td>
 <td>Машат ауыл округі</td>
-<td>750</td>
+<td>1 150</td>
 <td>161</td>
 <td>172</td>
 </tr>
@@ -2540,7 +2537,7 @@ source: https://zan.gov.kz/client/#!/doc/69703/kaz/17.07.2013
 <td></td>
 <td></td>
 <td>Жабағылы ауыл округі</td>
-<td>750</td>
+<td>950</td>
 <td>161</td>
 <td>172</td>
 </tr>
@@ -2550,7 +2547,7 @@ source: https://zan.gov.kz/client/#!/doc/69703/kaz/17.07.2013
 <td></td>
 <td></td>
 <td>Тастұмсық ауыл округі</td>
-<td>750</td>
+<td>950</td>
 <td>161</td>
 <td>172</td>
 </tr>
@@ -2560,7 +2557,7 @@ source: https://zan.gov.kz/client/#!/doc/69703/kaz/17.07.2013
 <td></td>
 <td></td>
 <td>Рысқұлов ауыл округі</td>
-<td>750</td>
+<td>950</td>
 <td>161</td>
 <td>172</td>
 </tr>
@@ -2570,7 +2567,7 @@ source: https://zan.gov.kz/client/#!/doc/69703/kaz/17.07.2013
 <td></td>
 <td></td>
 <td>Мичурин ауыл округі</td>
-<td>750</td>
+<td>950</td>
 <td>161</td>
 <td>172</td>
 </tr>
@@ -2580,7 +2577,7 @@ source: https://zan.gov.kz/client/#!/doc/69703/kaz/17.07.2013
 <td></td>
 <td></td>
 <td>Кемербастау ауыл округі</td>
-<td>750</td>
+<td>950</td>
 <td>161</td>
 <td>172</td>
 </tr>
@@ -2590,7 +2587,7 @@ source: https://zan.gov.kz/client/#!/doc/69703/kaz/17.07.2013
 <td></td>
 <td></td>
 <td>Арыс ауыл округі</td>
-<td>750</td>
+<td>950</td>
 <td>161</td>
 <td>172</td>
 </tr>
@@ -2600,7 +2597,7 @@ source: https://zan.gov.kz/client/#!/doc/69703/kaz/17.07.2013
 <td></td>
 <td></td>
 <td>Ақбиік ауыл округі</td>
-<td>750</td>
+<td>950</td>
 <td>161</td>
 <td>172</td>
 </tr>
@@ -2610,7 +2607,7 @@ source: https://zan.gov.kz/client/#!/doc/69703/kaz/17.07.2013
 <td></td>
 <td></td>
 <td>Жаскешу ауыл округі</td>
-<td>750</td>
+<td>950</td>
 <td>161</td>
 <td>172</td>
 </tr>
@@ -2620,7 +2617,7 @@ source: https://zan.gov.kz/client/#!/doc/69703/kaz/17.07.2013
 <td></td>
 <td></td>
 <td>Келтемашат ауыл округі</td>
-<td>750</td>
+<td>950</td>
 <td>161</td>
 <td>172</td>
 </tr>
@@ -2630,7 +2627,7 @@ source: https://zan.gov.kz/client/#!/doc/69703/kaz/17.07.2013
 <td></td>
 <td></td>
 <td>Састөбе поселкелік округ</td>
-<td>750</td>
+<td>950</td>
 <td>161</td>
 <td>172</td>
 </tr>
@@ -2640,7 +2637,7 @@ source: https://zan.gov.kz/client/#!/doc/69703/kaz/17.07.2013
 <td></td>
 <td></td>
 <td>Бiлiм беру</td>
-<td>166 970</td>
+<td>174 970</td>
 <td>156 859</td>
 <td>159 530</td>
 </tr>
@@ -2650,7 +2647,7 @@ source: https://zan.gov.kz/client/#!/doc/69703/kaz/17.07.2013
 <td></td>
 <td></td>
 <td>Мектепке дейiнгi тәрбие және оқыту</td>
-<td>155 374</td>
+<td>163 374</td>
 <td>144 451</td>
 <td>146 253</td>
 </tr>
@@ -2660,7 +2657,7 @@ source: https://zan.gov.kz/client/#!/doc/69703/kaz/17.07.2013
 <td>123</td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл (село), ауылдық (селолық) округ әкімінің аппараты</td>
-<td>155 374</td>
+<td>163 374</td>
 <td>144 451</td>
 <td>146 253</td>
 </tr>
@@ -2670,7 +2667,7 @@ source: https://zan.gov.kz/client/#!/doc/69703/kaz/17.07.2013
 <td>123</td>
 <td>041</td>
 <td>Мектепке дейінгі білім беру ұйымдарында мемлекеттік білім беру тапсырысын іске асыруға</td>
-<td>155 374</td>
+<td>163 374</td>
 <td>144 451</td>
 <td>146 253</td>
 </tr>
@@ -2710,7 +2707,7 @@ source: https://zan.gov.kz/client/#!/doc/69703/kaz/17.07.2013
 <td></td>
 <td></td>
 <td>Састөбе поселкелік округі</td>
-<td>60 038</td>
+<td>68 038</td>
 <td>60766</td>
 <td>61525</td>
 </tr>
@@ -2860,9 +2857,9 @@ source: https://zan.gov.kz/client/#!/doc/69703/kaz/17.07.2013
 <td></td>
 <td></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>41 537</td>
-<td>44 445</td>
-<td>47 555</td>
+<td>34 644</td>
+<td>37 069</td>
+<td>40 081</td>
 </tr>
 <tr>
 <td></td>
@@ -2870,9 +2867,9 @@ source: https://zan.gov.kz/client/#!/doc/69703/kaz/17.07.2013
 <td></td>
 <td></td>
 <td>Елді-мекендерді көркейту</td>
-<td>41 537</td>
-<td>44 445</td>
-<td>47 555</td>
+<td>34 644</td>
+<td>37 069</td>
+<td>40 081</td>
 </tr>
 <tr>
 <td></td>
@@ -2880,9 +2877,9 @@ source: https://zan.gov.kz/client/#!/doc/69703/kaz/17.07.2013
 <td>123</td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл (село), ауылдық (селолық) округ әкімінің аппараты</td>
-<td>41 537</td>
-<td>44 445</td>
-<td>47 555</td>
+<td>34 644</td>
+<td>37 069</td>
+<td>40 081</td>
 </tr>
 <tr>
 <td></td>
@@ -2890,9 +2887,9 @@ source: https://zan.gov.kz/client/#!/doc/69703/kaz/17.07.2013
 <td>123</td>
 <td>008</td>
 <td>Елді мекендерде көшелерді жарықтандыру</td>
-<td>14 211</td>
-<td>15 206</td>
-<td>16 270</td>
+<td>14 576</td>
+<td>15 596</td>
+<td>16 688</td>
 </tr>
 <tr>
 <td></td>
@@ -2910,9 +2907,9 @@ source: https://zan.gov.kz/client/#!/doc/69703/kaz/17.07.2013
 <td></td>
 <td></td>
 <td>Майлыкент ауыл округі</td>
-<td>5 764</td>
-<td>6 167</td>
-<td>6 599</td>
+<td>6 129</td>
+<td>6 558</td>
+<td>7 017</td>
 </tr>
 <tr>
 <td></td>
@@ -3050,9 +3047,9 @@ source: https://zan.gov.kz/client/#!/doc/69703/kaz/17.07.2013
 <td></td>
 <td>009</td>
 <td>Елді мекендердің санитариясын қамтамасыз ету</td>
-<td>17 798</td>
-<td>19 044</td>
-<td>20 377</td>
+<td>10 943</td>
+<td>11 709</td>
+<td>12 529</td>
 </tr>
 <tr>
 <td></td>
@@ -3070,9 +3067,9 @@ source: https://zan.gov.kz/client/#!/doc/69703/kaz/17.07.2013
 <td></td>
 <td></td>
 <td>Майлыкент ауыл округі</td>
-<td>9 634</td>
-<td>10 308</td>
-<td>11 030</td>
+<td>2 779</td>
+<td>2 974</td>
+<td>3 182</td>
 </tr>
 <tr>
 <td></td>
@@ -3210,9 +3207,9 @@ source: https://zan.gov.kz/client/#!/doc/69703/kaz/17.07.2013
 <td></td>
 <td>011</td>
 <td>Елді мекендерді абаттандыру мен көгалдандыру</td>
-<td>9 528</td>
-<td>10 195</td>
-<td>10 908</td>
+<td>9 125</td>
+<td>9 764</td>
+<td>10 864</td>
 </tr>
 <tr>
 <td></td>
@@ -3220,9 +3217,9 @@ source: https://zan.gov.kz/client/#!/doc/69703/kaz/17.07.2013
 <td></td>
 <td></td>
 <td>Балықты ауыл округі</td>
+<td>539</td>
 <td>577</td>
 <td>617</td>
-<td>661</td>
 </tr>
 <tr>
 <td></td>
@@ -3230,8 +3227,8 @@ source: https://zan.gov.kz/client/#!/doc/69703/kaz/17.07.2013
 <td></td>
 <td></td>
 <td>Майлыкент ауыл округі</td>
-<td>1 070</td>
-<td>1 145</td>
+<td>705</td>
+<td>754</td>
 <td>1 224</td>
 </tr>
 <tr>
