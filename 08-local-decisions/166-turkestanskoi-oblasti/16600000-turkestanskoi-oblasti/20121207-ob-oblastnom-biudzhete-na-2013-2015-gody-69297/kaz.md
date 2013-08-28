@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/69297/kaz/07.08.2013
+source: https://zan.gov.kz/client/#!/doc/69297/kaz/28.08.2013
 ---
 
 # 2013-2015 жылдарға арналған облыстық бюджет туралы
