@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/69327/rus/01.11.2013
+source: https://zan.gov.kz/client/#!/doc/69327/rus/29.11.2013
 ---
 
 ## Бюджет города Шымкент на 2015 год
@@ -303,13 +303,12 @@ source: https://zan.gov.kz/client/#!/doc/69327/rus/01.11.2013
 
 <table>
 <tr>
-<td colspan="5">Функциональная группа</td>
+<td colspan="5">Функциональная группа Наименование</td>
 <td rowspan="4">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">Функциональная подгруппа</td>
-<td>Наименование</td>
+<td colspan="4">Функциональная подгруппа</td>
 </tr>
 <tr>
 <td></td>
@@ -1626,12 +1625,11 @@ source: https://zan.gov.kz/client/#!/doc/69327/rus/01.11.2013
 
 <table>
 <tr>
-<td colspan="5">Функциональная группа</td>
+<td colspan="5">Функциональная группа Наименование</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">Функциональная подгруппа</td>
-<td>Наименование</td>
+<td colspan="4">Функциональная подгруппа</td>
 </tr>
 <tr>
 <td></td>
@@ -1927,12 +1925,11 @@ source: https://zan.gov.kz/client/#!/doc/69327/rus/01.11.2013
 
 <table>
 <tr>
-<td colspan="5">Функциональная группа</td>
+<td colspan="5">Функциональная группа Наименование</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">Функциональная подгруппа</td>
-<td>Наименование</td>
+<td colspan="4">Функциональная подгруппа</td>
 </tr>
 <tr>
 <td></td>
@@ -1985,13 +1982,12 @@ source: https://zan.gov.kz/client/#!/doc/69327/rus/01.11.2013
 
 <table>
 <tr>
-<td colspan="5">Функциональная группа</td>
+<td colspan="5">Функциональная группа Наименование</td>
 <td colspan="3">в том числе по годам (тысяч тенге)</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">Функциональная подгруппа</td>
-<td>Наименование</td>
+<td colspan="4">Функциональная подгруппа</td>
 <td rowspan="3">2013 год</td>
 <td rowspan="3">2014 год</td>
 <td rowspan="3">2015 год</td>

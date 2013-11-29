@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/69327/kaz/01.11.2013
+source: https://zan.gov.kz/client/#!/doc/69327/kaz/29.11.2013
 ---
 
 ## 2015 жылға арналған Шымкент қаласының бюджеті
@@ -215,14 +215,14 @@ source: https://zan.gov.kz/client/#!/doc/69327/kaz/01.11.2013
 <td></td>
 <td>06</td>
 <td></td>
-<td>Басқа да салықтық емес түсiмдер</td>
+<td>Басқада салықтық емес түсiмдер</td>
 <td>10 078</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>1</td>
-<td>Басқа да салықтық емес түсiмдер</td>
+<td>Басқада салықтық емес түсiмдер</td>
 <td>10 078</td>
 </tr>
 <tr>
