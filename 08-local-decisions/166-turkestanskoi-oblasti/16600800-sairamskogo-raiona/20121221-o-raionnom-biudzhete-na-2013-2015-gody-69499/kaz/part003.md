@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/69499/kaz/21.11.2013
+source: https://zan.gov.kz/client/#!/doc/69499/kaz/13.12.2013
 ---
 
 ## Сайрам ауданының 2015 жылға арналған бюджеті
@@ -186,14 +186,14 @@ source: https://zan.gov.kz/client/#!/doc/69499/kaz/21.11.2013
 <td></td>
 <td>06</td>
 <td></td>
-<td>Басқа да салықтық емес түсімдер</td>
+<td>Басқада салықтық емес түсімдер</td>
 <td>6533</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>1</td>
-<td>Басқа да салықтық емес түсімдер</td>
+<td>Басқада салықтық емес түсімдер</td>
 <td>6533</td>
 </tr>
 <tr>
