@@ -1,13 +1,16 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/76622/rus/23.12.2013
+source: https://zan.gov.kz/client/#!/doc/76622/rus/22.01.2014
 ---
 
 ## Районный бюджет на 2014 год
 
+> *Сноска. Приложение 1 в редакции решения Созакского районного маслихата Южно-Казахстанской области от 22.01.2014 № 153 (вводится в действие с 01.01.2014).*
+
 <table>
 <tr>
-<td colspan="4">Категория Наименование</td>
+<td colspan="3">Категория</td>
+<td>Наименование</td>
 <td rowspan="3">Сумма, тысяч тенге</td>
 </tr>
 <tr>
@@ -24,7 +27,7 @@ source: https://zan.gov.kz/client/#!/doc/76622/rus/23.12.2013
 <td></td>
 <td></td>
 <td>1. Доходы</td>
-<td>7759408</td>
+<td>8211108</td>
 </tr>
 <tr>
 <td>1</td>
@@ -37,7 +40,7 @@ source: https://zan.gov.kz/client/#!/doc/76622/rus/23.12.2013
 <td></td>
 <td>01</td>
 <td></td>
-<td></td>
+<td>Подоходный налог</td>
 <td>2523164</td>
 </tr>
 <tr>
@@ -220,32 +223,32 @@ source: https://zan.gov.kz/client/#!/doc/76622/rus/23.12.2013
 <td></td>
 <td></td>
 <td>Поступления трансфертов</td>
-<td>1551014</td>
+<td>2002714</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td>Трансферты из вышестоящих органов государственного управления</td>
-<td>1551014</td>
+<td>2002714</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>2</td>
 <td>Трансферты из областного бюджета</td>
-<td>1551014</td>
+<td>2002714</td>
 </tr>
 </table>
 
 <table>
 <tr>
 <td colspan="5">Функциональная группа</td>
-<td rowspan="4">сумма, тысяч тенге</td>
+<td rowspan="5">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="4">Функциональная подгруппа Наименование</td>
+<td colspan="4">Функциональная подгруппа</td>
 </tr>
 <tr>
 <td></td>
@@ -259,6 +262,13 @@ source: https://zan.gov.kz/client/#!/doc/76622/rus/23.12.2013
 <td colspan="2">Программа</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Наименование</td>
+</tr>
+<tr>
 <th colspan="4">1</th>
 <th>2</th>
 <th>3</th>
@@ -269,7 +279,7 @@ source: https://zan.gov.kz/client/#!/doc/76622/rus/23.12.2013
 <td></td>
 <td></td>
 <td>2. Затраты</td>
-<td>7759408</td>
+<td>8211108</td>
 </tr>
 <tr>
 <td>01</td>
@@ -525,7 +535,7 @@ source: https://zan.gov.kz/client/#!/doc/76622/rus/23.12.2013
 <td></td>
 <td></td>
 <td>Образование</td>
-<td>5810625</td>
+<td>6302115</td>
 </tr>
 <tr>
 <td></td>
@@ -533,7 +543,7 @@ source: https://zan.gov.kz/client/#!/doc/76622/rus/23.12.2013
 <td></td>
 <td></td>
 <td>Дошкольное воспитание и обучение</td>
-<td>396491</td>
+<td>545666</td>
 </tr>
 <tr>
 <td></td>
@@ -541,7 +551,7 @@ source: https://zan.gov.kz/client/#!/doc/76622/rus/23.12.2013
 <td>464</td>
 <td></td>
 <td>Отдел образования района (города областного значения)</td>
-<td>396491</td>
+<td>545666</td>
 </tr>
 <tr>
 <td></td>
@@ -557,7 +567,7 @@ source: https://zan.gov.kz/client/#!/doc/76622/rus/23.12.2013
 <td></td>
 <td>040</td>
 <td>Реализация государственного образовательного заказа в дошкольных организациях образования</td>
-<td>0</td>
+<td>149175</td>
 </tr>
 <tr>
 <td></td>
@@ -565,7 +575,7 @@ source: https://zan.gov.kz/client/#!/doc/76622/rus/23.12.2013
 <td></td>
 <td></td>
 <td>Начальное, основное среднее и общее среднее образование</td>
-<td>3718932</td>
+<td>3734166</td>
 </tr>
 <tr>
 <td></td>
@@ -573,7 +583,7 @@ source: https://zan.gov.kz/client/#!/doc/76622/rus/23.12.2013
 <td>464</td>
 <td></td>
 <td>Отдел образования района (города областного значения)</td>
-<td>3718932</td>
+<td>3734166</td>
 </tr>
 <tr>
 <td></td>
@@ -581,7 +591,7 @@ source: https://zan.gov.kz/client/#!/doc/76622/rus/23.12.2013
 <td></td>
 <td>003</td>
 <td>Общеобразовательное обучение</td>
-<td>3638932</td>
+<td>3654166</td>
 </tr>
 <tr>
 <td></td>
@@ -597,7 +607,7 @@ source: https://zan.gov.kz/client/#!/doc/76622/rus/23.12.2013
 <td></td>
 <td></td>
 <td>Прочие услуги в области образования</td>
-<td>1695202</td>
+<td>2022283</td>
 </tr>
 <tr>
 <td></td>
@@ -605,7 +615,7 @@ source: https://zan.gov.kz/client/#!/doc/76622/rus/23.12.2013
 <td>464</td>
 <td></td>
 <td>Отдел образования района (города областного значения)</td>
-<td>325066</td>
+<td>337357</td>
 </tr>
 <tr>
 <td></td>
@@ -661,7 +671,7 @@ source: https://zan.gov.kz/client/#!/doc/76622/rus/23.12.2013
 <td></td>
 <td>067</td>
 <td>Капитальные расходы подведомственных государственных учреждений и организаций</td>
-<td>271650</td>
+<td>283941</td>
 </tr>
 <tr>
 <td></td>
@@ -669,7 +679,7 @@ source: https://zan.gov.kz/client/#!/doc/76622/rus/23.12.2013
 <td>472</td>
 <td></td>
 <td>Отдел строительства, архитектуры и градостроительства района (города областного значения)</td>
-<td>1370136</td>
+<td>1684926</td>
 </tr>
 <tr>
 <td></td>
@@ -677,7 +687,7 @@ source: https://zan.gov.kz/client/#!/doc/76622/rus/23.12.2013
 <td></td>
 <td>037</td>
 <td>Строительство и реконструкция объектов образования</td>
-<td>1409926</td>
+<td>1684926</td>
 </tr>
 <tr>
 <td>05</td>
@@ -1277,7 +1287,7 @@ source: https://zan.gov.kz/client/#!/doc/76622/rus/23.12.2013
 <td></td>
 <td></td>
 <td>Сельское, водное, лесное, рыбное хозяйство, особо охраняемые природные территории, охрана окружающей среды и животного мира, земельные отношения</td>
-<td>250491</td>
+<td>210701</td>
 </tr>
 <tr>
 <td></td>
@@ -1285,7 +1295,7 @@ source: https://zan.gov.kz/client/#!/doc/76622/rus/23.12.2013
 <td></td>
 <td></td>
 <td>Сельское хозяйство</td>
-<td>129428</td>
+<td>89638</td>
 </tr>
 <tr>
 <td></td>
@@ -1293,7 +1303,7 @@ source: https://zan.gov.kz/client/#!/doc/76622/rus/23.12.2013
 <td>472</td>
 <td></td>
 <td>Отдел строительства, архитектуры и градостроительства района (города областного значения)</td>
-<td>45693</td>
+<td>5903</td>
 </tr>
 <tr>
 <td></td>
@@ -1301,7 +1311,7 @@ source: https://zan.gov.kz/client/#!/doc/76622/rus/23.12.2013
 <td></td>
 <td>010</td>
 <td>Развитие объектов сельского хозяйства</td>
-<td>45693</td>
+<td>5903</td>
 </tr>
 <tr>
 <td></td>
@@ -1412,7 +1422,7 @@ source: https://zan.gov.kz/client/#!/doc/76622/rus/23.12.2013
 <td>6</td>
 <td></td>
 <td></td>
-<td>Отдел земельных отношений района (города областного значения)</td>
+<td>Отдел земельных отношений района ( города областного значения)</td>
 <td>4650</td>
 </tr>
 <tr>
@@ -1717,7 +1727,7 @@ source: https://zan.gov.kz/client/#!/doc/76622/rus/23.12.2013
 <td></td>
 <td></td>
 <td>3. Чистое бюджетное кредитование</td>
-<td>5680</td>
+<td>21696</td>
 </tr>
 <tr>
 <td></td>
@@ -1725,15 +1735,15 @@ source: https://zan.gov.kz/client/#!/doc/76622/rus/23.12.2013
 <td></td>
 <td></td>
 <td>Бюджетные кредиты</td>
-<td>-3306</td>
+<td>25002</td>
 </tr>
 <tr>
 <td colspan="5">Функциональная группа</td>
-<td rowspan="4">сумма, тысяч тенге</td>
+<td rowspan="5">сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="4">Функциональная подгруппа Наименование</td>
+<td colspan="4">Функциональная подгруппа</td>
 </tr>
 <tr>
 <td></td>
@@ -1747,12 +1757,19 @@ source: https://zan.gov.kz/client/#!/doc/76622/rus/23.12.2013
 <td colspan="2">Программа</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Наименование</td>
+</tr>
+<tr>
 <td>10</td>
 <td></td>
 <td></td>
 <td></td>
 <td>Сельское, водное, лесное, рыбное хозяйство, особо охраняемые природные территории, охрана окружающей среды и животного мира, земельные отношения</td>
-<td>0</td>
+<td>25002</td>
 </tr>
 <tr>
 <td></td>
@@ -1760,15 +1777,7 @@ source: https://zan.gov.kz/client/#!/doc/76622/rus/23.12.2013
 <td></td>
 <td></td>
 <td>Сельское хозяйство</td>
-<td>0</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>009</td>
-<td>Бюджетные кредиты для реализации мер социальной поддержки специалистов социальной сферы сельских населенных пунктов</td>
-<td>0</td>
+<td>25002</td>
 </tr>
 <tr>
 <td></td>
@@ -1776,27 +1785,37 @@ source: https://zan.gov.kz/client/#!/doc/76622/rus/23.12.2013
 <td>477</td>
 <td></td>
 <td>Отдел сельского хозяйства и земельных отношений района (города областного значения)</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="5">Категория</td>
-<td rowspan="4">сумма, тысяч тенге</td>
+<td>25002</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">Класс</td>
+<td></td>
+<td></td>
+<td>004</td>
+<td>Бюджетные кредиты для реализации мер социальной поддержки специалистов социальной сферы сельских населенных пунктов</td>
+<td>25002</td>
+</tr>
+<tr>
+<td colspan="4">Категория</td>
 <td>Наименование</td>
+<td rowspan="2">сумма, тысяч тенге</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">Класс</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="3">Подкласс</td>
+<td colspan="4">Подкласс</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Специфика</td>
+<td colspan="3">Специфика</td>
 </tr>
 <tr>
 <td>5</td>
@@ -1834,7 +1853,7 @@ source: https://zan.gov.kz/client/#!/doc/76622/rus/23.12.2013
 <td></td>
 <td></td>
 <td></td>
-<td>03</td>
+<td>13</td>
 <td>Погашение бюджетных кредитов, выданных из областного бюджета местным исполнительным органам районов (городов областного значения)</td>
 <td>3306</td>
 </tr>
@@ -1868,7 +1887,7 @@ source: https://zan.gov.kz/client/#!/doc/76622/rus/23.12.2013
 <td></td>
 <td></td>
 <td>5. Дефицит (профицит) бюджета</td>
-<td>3 306</td>
+<td>-21 696</td>
 </tr>
 <tr>
 <td></td>
@@ -1876,27 +1895,29 @@ source: https://zan.gov.kz/client/#!/doc/76622/rus/23.12.2013
 <td></td>
 <td></td>
 <td>6. Финансирование дефицита (использование профицита) бюджета</td>
-<td>-3 306</td>
+<td>21 696</td>
 </tr>
 <tr>
-<td colspan="5">Категория</td>
-<td rowspan="4">сумма, тысяч тенге</td>
+<td colspan="4">Категория</td>
+<td></td>
+<td rowspan="2">сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">Класс</td>
+<td colspan="2">Класс</td>
+<td></td>
 <td>Наименование</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="3">Подкласс</td>
+<td colspan="4">Подкласс</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Специфика</td>
+<td colspan="3">Специфика</td>
 </tr>
 <tr>
 <td></td>
@@ -1904,7 +1925,7 @@ source: https://zan.gov.kz/client/#!/doc/76622/rus/23.12.2013
 <td></td>
 <td></td>
 <td>Поступления займов</td>
-<td>0</td>
+<td>25 002</td>
 </tr>
 <tr>
 <td>7</td>
@@ -1912,7 +1933,7 @@ source: https://zan.gov.kz/client/#!/doc/76622/rus/23.12.2013
 <td></td>
 <td></td>
 <td>Поступления займов</td>
-<td>0</td>
+<td>25 002</td>
 </tr>
 <tr>
 <td></td>
@@ -1920,7 +1941,7 @@ source: https://zan.gov.kz/client/#!/doc/76622/rus/23.12.2013
 <td></td>
 <td></td>
 <td>Внутренние государственные займы</td>
-<td>0</td>
+<td>25 002</td>
 </tr>
 <tr>
 <td></td>
@@ -1928,7 +1949,7 @@ source: https://zan.gov.kz/client/#!/doc/76622/rus/23.12.2013
 <td>2</td>
 <td></td>
 <td>Договоры займа</td>
-<td>0</td>
+<td>25 002</td>
 </tr>
 <tr>
 <td></td>
@@ -1936,26 +1957,37 @@ source: https://zan.gov.kz/client/#!/doc/76622/rus/23.12.2013
 <td></td>
 <td>03</td>
 <td>Займы, получаемые местным исполнительным органом района (города областного значения)</td>
-<td>0</td>
+<td>25 002</td>
 </tr>
 <tr>
 <td colspan="5">Функциональная группа</td>
-<td rowspan="4">сумма, тысяч тенге</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
-<td colspan="4">Функциональная подгруппа Наименование</td>
+<td colspan="4">Функциональная подгруппа</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="3">Администратор бюджетных программ</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">Программа</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Наименование</td>
+<td></td>
 </tr>
 <tr>
 <td>16</td>
@@ -1998,24 +2030,26 @@ source: https://zan.gov.kz/client/#!/doc/76622/rus/23.12.2013
 <td>0</td>
 </tr>
 <tr>
-<td colspan="5">Категория</td>
-<td rowspan="4">сумма, тысяч тенге</td>
+<td colspan="4">Категория</td>
+<td></td>
+<td rowspan="2">сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">Класс</td>
+<td colspan="2">Класс</td>
+<td></td>
 <td>Наименование</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="3">Подкласс</td>
+<td colspan="4">Подкласс</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Специфика</td>
+<td colspan="3">Специфика</td>
 </tr>
 <tr>
 <td>8</td>

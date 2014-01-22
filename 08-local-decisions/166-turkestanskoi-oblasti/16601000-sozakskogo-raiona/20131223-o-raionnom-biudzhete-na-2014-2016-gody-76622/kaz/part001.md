@@ -1,37 +1,33 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/76622/kaz/23.12.2013
+source: https://zan.gov.kz/client/#!/doc/76622/kaz/22.01.2014
 ---
 
 ## 2014 жылға арналған аудандық бюджет
 
+> *Ескерту. 1-қосымша жаңа редакцияда - Оңтүстік Қазақстан облысы Созақ аудандық мәслихатының 22.01.2014 № 153 шешімімен (2014 жылғы 1 қаңтарынан бастап қолданысқа енгізіледі).*
+
 <table>
 <tr>
-<td colspan="4">Санаты</td>
-<td>Сомасы, мың теңге</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="4">Сыныбы</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td colspan="3">Iшкi сыныбы</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3">Санаты</td>
 <td>Атауы</td>
+<td rowspan="3">Сомасы, мың теңге</td>
+</tr>
+<tr>
 <td></td>
+<td colspan="3">Сыныбы</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2">Iшкi сыныбы</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>1. Кірістер</td>
-<td>7759408</td>
+<td>8211108</td>
 </tr>
 <tr>
 <td>1</td>
@@ -227,42 +223,43 @@ source: https://zan.gov.kz/client/#!/doc/76622/kaz/23.12.2013
 <td></td>
 <td></td>
 <td>Трансферттер түсімі</td>
-<td>1551014</td>
+<td>2002714</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td>Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td>1551014</td>
+<td>2002714</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>2</td>
 <td>Облыстық бюджеттен түсетiн трансферттер</td>
-<td>1551014</td>
+<td>2002714</td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td colspan="6">Функционалдық топ</td>
+<td colspan="5">Функционалдық топ</td>
+<td rowspan="5">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="5">Кіші функция</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td colspan="4">Бюджеттік бағдарламалардың әкiмшiсi</td>
+<td colspan="4">Кіші функция</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
+<td colspan="3">Бюджеттік бағдарламалардың әкiмшiсi</td>
+</tr>
+<tr>
 <td></td>
-<td colspan="3">Бағдарлама</td>
+<td></td>
+<td></td>
+<td colspan="2">Бағдарлама</td>
 </tr>
 <tr>
 <td></td>
@@ -270,7 +267,6 @@ source: https://zan.gov.kz/client/#!/doc/76622/kaz/23.12.2013
 <td></td>
 <td></td>
 <td>Атауы</td>
-<td></td>
 </tr>
 <tr>
 <th></th>
@@ -286,7 +282,7 @@ source: https://zan.gov.kz/client/#!/doc/76622/kaz/23.12.2013
 <td></td>
 <td></td>
 <td>2. Шығындар</td>
-<td>7759408</td>
+<td>8211108</td>
 </tr>
 <tr>
 <td>01</td>
@@ -550,7 +546,7 @@ source: https://zan.gov.kz/client/#!/doc/76622/kaz/23.12.2013
 <td></td>
 <td></td>
 <td>Бiлiм беру</td>
-<td>5810625</td>
+<td>6302115</td>
 </tr>
 <tr>
 <td></td>
@@ -558,7 +554,7 @@ source: https://zan.gov.kz/client/#!/doc/76622/kaz/23.12.2013
 <td></td>
 <td></td>
 <td>Мектепке дейiнгi тәрбие және оқыту</td>
-<td>396491</td>
+<td>545666</td>
 </tr>
 <tr>
 <td></td>
@@ -566,7 +562,7 @@ source: https://zan.gov.kz/client/#!/doc/76622/kaz/23.12.2013
 <td>464</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) білім бөлімі</td>
-<td>396491</td>
+<td>545666</td>
 </tr>
 <tr>
 <td></td>
@@ -582,7 +578,7 @@ source: https://zan.gov.kz/client/#!/doc/76622/kaz/23.12.2013
 <td></td>
 <td>040</td>
 <td>Мектепке дейінгі білім беру ұйымдарында мемлекеттік білім беру тапсырысын іске асыруға</td>
-<td>0</td>
+<td>149175</td>
 </tr>
 <tr>
 <td></td>
@@ -590,7 +586,7 @@ source: https://zan.gov.kz/client/#!/doc/76622/kaz/23.12.2013
 <td></td>
 <td></td>
 <td>Бастауыш, негізгі орта және жалпы орта білім беру</td>
-<td>3718932</td>
+<td>3734166</td>
 </tr>
 <tr>
 <td></td>
@@ -598,7 +594,7 @@ source: https://zan.gov.kz/client/#!/doc/76622/kaz/23.12.2013
 <td>464</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) білім бөлімі</td>
-<td>3718932</td>
+<td>3734166</td>
 </tr>
 <tr>
 <td></td>
@@ -606,7 +602,7 @@ source: https://zan.gov.kz/client/#!/doc/76622/kaz/23.12.2013
 <td></td>
 <td>003</td>
 <td>Жалпы білім беру</td>
-<td>3638932</td>
+<td>3654166</td>
 </tr>
 <tr>
 <td></td>
@@ -622,7 +618,7 @@ source: https://zan.gov.kz/client/#!/doc/76622/kaz/23.12.2013
 <td></td>
 <td></td>
 <td>Білім беру саласындағы өзге де қызметтер</td>
-<td>1695202</td>
+<td>2022283</td>
 </tr>
 <tr>
 <td></td>
@@ -630,7 +626,7 @@ source: https://zan.gov.kz/client/#!/doc/76622/kaz/23.12.2013
 <td>464</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) білім бөлімі</td>
-<td>325066</td>
+<td>337357</td>
 </tr>
 <tr>
 <td></td>
@@ -686,7 +682,7 @@ source: https://zan.gov.kz/client/#!/doc/76622/kaz/23.12.2013
 <td></td>
 <td>067</td>
 <td>Ведомстволық бағыныстағы мемлекеттік мекемелерінің және ұйымдарының күрделі шығыстары</td>
-<td>271650</td>
+<td>283941</td>
 </tr>
 <tr>
 <td></td>
@@ -694,7 +690,7 @@ source: https://zan.gov.kz/client/#!/doc/76622/kaz/23.12.2013
 <td>472</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) құрылыс, сәулет және қала құрылысы бөлімі</td>
-<td>1370136</td>
+<td>1684926</td>
 </tr>
 <tr>
 <td></td>
@@ -702,7 +698,7 @@ source: https://zan.gov.kz/client/#!/doc/76622/kaz/23.12.2013
 <td></td>
 <td>037</td>
 <td>Білім беру объектілерін салу және реконструкциялау</td>
-<td>1409926</td>
+<td>1684926</td>
 </tr>
 <tr>
 <td>05</td>
@@ -1302,7 +1298,7 @@ source: https://zan.gov.kz/client/#!/doc/76622/kaz/23.12.2013
 <td></td>
 <td></td>
 <td>Ауыл, су, орман, балық шаруашылығы, ерекше қорғалатын табиғи аумақтар, қоршаған ортаны және жануарлар дүниесін қорғау, жер қатынастары</td>
-<td>250491</td>
+<td>210701</td>
 </tr>
 <tr>
 <td></td>
@@ -1310,7 +1306,7 @@ source: https://zan.gov.kz/client/#!/doc/76622/kaz/23.12.2013
 <td></td>
 <td></td>
 <td>Ауыл шаруашылығы</td>
-<td>129428</td>
+<td>89638</td>
 </tr>
 <tr>
 <td></td>
@@ -1318,7 +1314,7 @@ source: https://zan.gov.kz/client/#!/doc/76622/kaz/23.12.2013
 <td>472</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) құрылыс, сәулет және қала құрылысы бөлімі</td>
-<td>45693</td>
+<td>5903</td>
 </tr>
 <tr>
 <td></td>
@@ -1326,7 +1322,7 @@ source: https://zan.gov.kz/client/#!/doc/76622/kaz/23.12.2013
 <td></td>
 <td>010</td>
 <td>Ауыл шаруашылығы объектілерін дамыту</td>
-<td>45693</td>
+<td>5903</td>
 </tr>
 <tr>
 <td></td>
@@ -1742,7 +1738,7 @@ source: https://zan.gov.kz/client/#!/doc/76622/kaz/23.12.2013
 <td></td>
 <td></td>
 <td>3. Таза бюджеттік кредиттеу</td>
-<td>-3306</td>
+<td>21696</td>
 </tr>
 <tr>
 <td></td>
@@ -1750,25 +1746,26 @@ source: https://zan.gov.kz/client/#!/doc/76622/kaz/23.12.2013
 <td></td>
 <td></td>
 <td>Бюджеттік кредиттер</td>
-<td>0</td>
+<td>25002</td>
 </tr>
 <tr>
-<td colspan="6">Функционалдық топ</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="5">Кіші функция</td>
+<td colspan="5">Функционалдық топ</td>
+<td rowspan="5">сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td colspan="4">Бюджеттік бағдарламалардың әкімшісі</td>
+<td colspan="4">Кіші функция</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
+<td colspan="3">Бюджеттік бағдарламалардың әкімшісі</td>
+</tr>
+<tr>
 <td></td>
-<td colspan="3">Бағдарлама</td>
+<td></td>
+<td></td>
+<td colspan="2">Бағдарлама</td>
 </tr>
 <tr>
 <td></td>
@@ -1776,7 +1773,6 @@ source: https://zan.gov.kz/client/#!/doc/76622/kaz/23.12.2013
 <td></td>
 <td></td>
 <td>Атауы</td>
-<td></td>
 </tr>
 <tr>
 <td>10</td>
@@ -1784,7 +1780,7 @@ source: https://zan.gov.kz/client/#!/doc/76622/kaz/23.12.2013
 <td></td>
 <td></td>
 <td>Ауыл, су, орман, балық шаруашылығы, ерекше қорғалатын табиғи аумақтар, қоршаған ортаны және жануарлар дүниесін қорғау, жер қатынастары</td>
-<td>0</td>
+<td>25002</td>
 </tr>
 <tr>
 <td></td>
@@ -1792,15 +1788,7 @@ source: https://zan.gov.kz/client/#!/doc/76622/kaz/23.12.2013
 <td></td>
 <td></td>
 <td>Ауыл шаруашылығы</td>
-<td>0</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>009</td>
-<td>Ауылдық елді мекендердің әлеуметтік саласының мамандарын әлеуметтік қолдау шараларын іске асыру үшін бюджеттік кредиттер</td>
-<td>0</td>
+<td>25002</td>
 </tr>
 <tr>
 <td></td>
@@ -1808,7 +1796,7 @@ source: https://zan.gov.kz/client/#!/doc/76622/kaz/23.12.2013
 <td>477</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) ауыл шаруашылығы мен жер қатынастары бөлімі</td>
-<td>0</td>
+<td>25002</td>
 </tr>
 <tr>
 <td></td>
@@ -1816,7 +1804,7 @@ source: https://zan.gov.kz/client/#!/doc/76622/kaz/23.12.2013
 <td></td>
 <td>004</td>
 <td>Ауылдық елді мекендердің әлеуметтік саласының мамандарын әлеуметтік қолдау шараларын іске асыру үшін бюджеттік кредиттер</td>
-<td>0</td>
+<td>25002</td>
 </tr>
 <tr>
 <td colspan="3">Санаты</td>
@@ -1910,7 +1898,7 @@ source: https://zan.gov.kz/client/#!/doc/76622/kaz/23.12.2013
 <td></td>
 <td></td>
 <td>5. Бюджет тапшылығы (профициті)</td>
-<td>3 306</td>
+<td>-21 696</td>
 </tr>
 <tr>
 <td></td>
@@ -1918,7 +1906,7 @@ source: https://zan.gov.kz/client/#!/doc/76622/kaz/23.12.2013
 <td></td>
 <td></td>
 <td>6. Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
-<td>-3 306</td>
+<td>21 696</td>
 </tr>
 <tr>
 <td colspan="3">Санаты</td>
@@ -1948,7 +1936,7 @@ source: https://zan.gov.kz/client/#!/doc/76622/kaz/23.12.2013
 <td></td>
 <td></td>
 <td>Қарыздар түсімі</td>
-<td>0</td>
+<td>25 002</td>
 </tr>
 <tr>
 <td>7</td>
@@ -1956,7 +1944,7 @@ source: https://zan.gov.kz/client/#!/doc/76622/kaz/23.12.2013
 <td></td>
 <td></td>
 <td>Қарыздар түсімі</td>
-<td>0</td>
+<td>25 002</td>
 </tr>
 <tr>
 <td></td>
@@ -1964,7 +1952,7 @@ source: https://zan.gov.kz/client/#!/doc/76622/kaz/23.12.2013
 <td></td>
 <td></td>
 <td>Мемлекеттік ішкі қарыздар</td>
-<td>0</td>
+<td>25 002</td>
 </tr>
 <tr>
 <td></td>
@@ -1972,7 +1960,7 @@ source: https://zan.gov.kz/client/#!/doc/76622/kaz/23.12.2013
 <td>2</td>
 <td></td>
 <td>Қарыз алу келісім-шарттары</td>
-<td>0</td>
+<td>25 002</td>
 </tr>
 <tr>
 <td></td>
@@ -1980,7 +1968,7 @@ source: https://zan.gov.kz/client/#!/doc/76622/kaz/23.12.2013
 <td></td>
 <td>03</td>
 <td>Аудан (облыстық маңызы бар қаланың) жергілікті атқарушы органы алатын қарыздар</td>
-<td>0</td>
+<td>25 002</td>
 </tr>
 <tr>
 <td colspan="3">Санаты</td>
@@ -2003,6 +1991,14 @@ source: https://zan.gov.kz/client/#!/doc/76622/kaz/23.12.2013
 <td></td>
 <td></td>
 <td colspan="3">Ерекшелiгi</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>16</td>
