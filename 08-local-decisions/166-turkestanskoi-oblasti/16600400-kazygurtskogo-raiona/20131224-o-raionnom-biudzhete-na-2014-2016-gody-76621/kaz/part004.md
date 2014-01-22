@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/76621/kaz/24.12.2013
+source: https://zan.gov.kz/client/#!/doc/76621/kaz/22.01.2014
 ---
 
 ## 2014 жылға арналған аудандық инвестициялық жобалар (бағдарламалар) тізбесі
