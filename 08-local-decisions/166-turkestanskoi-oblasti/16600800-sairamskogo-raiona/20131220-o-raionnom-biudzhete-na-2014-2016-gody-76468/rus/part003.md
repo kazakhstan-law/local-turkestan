@@ -1,18 +1,22 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/76468/rus/20.12.2013
+source: https://zan.gov.kz/client/#!/doc/76468/rus/23.01.2014
 ---
 
 ## Районный бюджет Сайрамского района на 2016 год
 
+> *Сноска. Приложение 3 в редакции решения Сайрамского районного маслихата Южно-Казахстанской области от 23.01.2014 № 27-173/V (вводится в действие с 01.01.2014).*
+
 <table>
 <tr>
-<td colspan="5">Категория</td>
+<td colspan="4">Категория</td>
+<td></td>
 <td rowspan="3">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">Класс</td>
+<td colspan="2">Класс</td>
+<td></td>
 <td>Наименование</td>
 </tr>
 <tr>
@@ -21,7 +25,10 @@ source: https://zan.gov.kz/client/#!/doc/76468/rus/20.12.2013
 <td colspan="3">Подкласс</td>
 </tr>
 <tr>
-<th colspan="4">1</th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
 <th>2</th>
 <th>3</th>
 </tr>
@@ -31,7 +38,7 @@ source: https://zan.gov.kz/client/#!/doc/76468/rus/20.12.2013
 <td></td>
 <td></td>
 <td>1. Доходы</td>
-<td>12964091</td>
+<td>13464091</td>
 </tr>
 <tr>
 <td>1</td>
@@ -255,7 +262,7 @@ source: https://zan.gov.kz/client/#!/doc/76468/rus/20.12.2013
 <td></td>
 <td></td>
 <td>Поступления трансфертов</td>
-<td>10223891</td>
+<td>10723891</td>
 </tr>
 <tr>
 <td></td>
@@ -263,7 +270,7 @@ source: https://zan.gov.kz/client/#!/doc/76468/rus/20.12.2013
 <td></td>
 <td></td>
 <td>Трансферты из вышестоящих органов государственного управления</td>
-<td>10223891</td>
+<td>10723891</td>
 </tr>
 <tr>
 <td></td>
@@ -271,16 +278,15 @@ source: https://zan.gov.kz/client/#!/doc/76468/rus/20.12.2013
 <td>2</td>
 <td></td>
 <td>Трансферты из областного бюджета</td>
-<td>10223891</td>
+<td>10723891</td>
 </tr>
 <tr>
 <td colspan="5">Функциональная группа</td>
-<td rowspan="4">Сумма, тысяч тенге</td>
+<td rowspan="5">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">Подфункция</td>
-<td>Наименование</td>
+<td colspan="4">Подфункция</td>
 </tr>
 <tr>
 <td></td>
@@ -294,7 +300,17 @@ source: https://zan.gov.kz/client/#!/doc/76468/rus/20.12.2013
 <td colspan="2">Программа</td>
 </tr>
 <tr>
-<th colspan="4">1</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Наименование</td>
+</tr>
+<tr>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
 <th>2</th>
 <th>3</th>
 </tr>
@@ -304,7 +320,7 @@ source: https://zan.gov.kz/client/#!/doc/76468/rus/20.12.2013
 <td></td>
 <td></td>
 <td>2. Затраты</td>
-<td>12964091</td>
+<td>13464091</td>
 </tr>
 <tr>
 <td>01</td>
@@ -312,7 +328,7 @@ source: https://zan.gov.kz/client/#!/doc/76468/rus/20.12.2013
 <td></td>
 <td></td>
 <td>Государственные услуги общего характера</td>
-<td>441775</td>
+<td>591775</td>
 </tr>
 <tr>
 <td>01</td>
@@ -400,7 +416,7 @@ source: https://zan.gov.kz/client/#!/doc/76468/rus/20.12.2013
 <td></td>
 <td></td>
 <td>Прочие государственные услуги общего характера</td>
-<td>38804</td>
+<td>188804</td>
 </tr>
 <tr>
 <td>01</td>
@@ -417,6 +433,22 @@ source: https://zan.gov.kz/client/#!/doc/76468/rus/20.12.2013
 <td>001</td>
 <td>Услуги по реализации государственной политики в области формирования и развития экономической политики, государственного планирования, исполнения бюджета и управления коммунальной собственностью района (города областного значения)</td>
 <td>38804</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>467</td>
+<td></td>
+<td>Отдел строительства района (города областного значения)</td>
+<td>150000</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>040</td>
+<td>Развитие объектов государственных органов</td>
+<td>150000</td>
 </tr>
 <tr>
 <td>02</td>
@@ -520,7 +552,7 @@ source: https://zan.gov.kz/client/#!/doc/76468/rus/20.12.2013
 <td></td>
 <td></td>
 <td>Образование</td>
-<td>8 883 454</td>
+<td>9 233 454</td>
 </tr>
 <tr>
 <td></td>
@@ -624,7 +656,7 @@ source: https://zan.gov.kz/client/#!/doc/76468/rus/20.12.2013
 <td></td>
 <td></td>
 <td>Прочие услуги в области образования</td>
-<td>1311955</td>
+<td>1661955</td>
 </tr>
 <tr>
 <td></td>
@@ -672,7 +704,7 @@ source: https://zan.gov.kz/client/#!/doc/76468/rus/20.12.2013
 <td>467</td>
 <td></td>
 <td>Отдел строительства района (города областного значения)</td>
-<td>881414</td>
+<td>1231414</td>
 </tr>
 <tr>
 <td></td>
@@ -680,7 +712,7 @@ source: https://zan.gov.kz/client/#!/doc/76468/rus/20.12.2013
 <td></td>
 <td>037</td>
 <td>Строительство и реконструкция объектов образования</td>
-<td>881414</td>
+<td>1231414</td>
 </tr>
 <tr>
 <td>06</td>
@@ -984,7 +1016,7 @@ source: https://zan.gov.kz/client/#!/doc/76468/rus/20.12.2013
 <td></td>
 <td></td>
 <td>Спорт</td>
-<td>115625</td>
+<td>122186</td>
 </tr>
 <tr>
 <td></td>
@@ -992,7 +1024,15 @@ source: https://zan.gov.kz/client/#!/doc/76468/rus/20.12.2013
 <td>465</td>
 <td></td>
 <td>Отдел физической культуры и спорта района (города областного значения)</td>
-<td>115625</td>
+<td>122186</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>001</td>
+<td>Услуги по реализации государственной политики на местном уровне в сфере физической культуры и спорта</td>
+<td>6561</td>
 </tr>
 <tr>
 <td></td>
@@ -1080,7 +1120,7 @@ source: https://zan.gov.kz/client/#!/doc/76468/rus/20.12.2013
 <td></td>
 <td></td>
 <td>Прочие услуги по организации культуры, спорта, туризма и информационного пространства</td>
-<td>46711</td>
+<td>40150</td>
 </tr>
 <tr>
 <td></td>
@@ -1121,22 +1161,6 @@ source: https://zan.gov.kz/client/#!/doc/76468/rus/20.12.2013
 <td>003</td>
 <td>Реализация мероприятий в сфере молодежной политики</td>
 <td>11094</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>465</td>
-<td></td>
-<td>Отдел физической культуры и спорта района (города областного значения)</td>
-<td>6561</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>001</td>
-<td>Услуги по реализации государственной политики на местном уровне в сфере физической культуры и спорта</td>
-<td>6561</td>
 </tr>
 <tr>
 <td>09</td>
@@ -1484,12 +1508,11 @@ source: https://zan.gov.kz/client/#!/doc/76468/rus/20.12.2013
 </tr>
 <tr>
 <td colspan="5">Функциональная группа</td>
-<td rowspan="4">Сумма, тысяч тенге</td>
+<td rowspan="5">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">Подфункция</td>
-<td>Наименование</td>
+<td colspan="4">Подфункция</td>
 </tr>
 <tr>
 <td></td>
@@ -1501,6 +1524,13 @@ source: https://zan.gov.kz/client/#!/doc/76468/rus/20.12.2013
 <td></td>
 <td></td>
 <td colspan="2">Программа</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Наименование</td>
 </tr>
 <tr>
 <td></td>
@@ -1549,7 +1579,9 @@ source: https://zan.gov.kz/client/#!/doc/76468/rus/20.12.2013
 </tr>
 <tr>
 <td></td>
-<td colspan="4">Класс</td>
+<td colspan="2">Класс</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -1602,8 +1634,7 @@ source: https://zan.gov.kz/client/#!/doc/76468/rus/20.12.2013
 </tr>
 <tr>
 <td></td>
-<td colspan="3">Подфункция</td>
-<td>Наименование</td>
+<td colspan="4">Подфункция</td>
 </tr>
 <tr>
 <td></td>
@@ -1625,13 +1656,23 @@ source: https://zan.gov.kz/client/#!/doc/76468/rus/20.12.2013
 <td>0</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Наименование</td>
+<td></td>
+</tr>
+<tr>
 <td colspan="4">Категория</td>
 <td>Наименование</td>
 <td rowspan="3">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="4">Класс</td>
+<td colspan="2">Класс</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -1685,7 +1726,9 @@ source: https://zan.gov.kz/client/#!/doc/76468/rus/20.12.2013
 </tr>
 <tr>
 <td></td>
-<td colspan="4">Класс</td>
+<td colspan="2">Класс</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -1717,13 +1760,20 @@ source: https://zan.gov.kz/client/#!/doc/76468/rus/20.12.2013
 <td>0</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Наименование</td>
+<td></td>
+</tr>
+<tr>
 <td colspan="5">Функциональная группа</td>
 <td rowspan="4">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">Подфункция</td>
-<td>Наименование</td>
+<td colspan="4">Подфункция</td>
 </tr>
 <tr>
 <td></td>
@@ -1775,7 +1825,9 @@ source: https://zan.gov.kz/client/#!/doc/76468/rus/20.12.2013
 </tr>
 <tr>
 <td></td>
-<td colspan="4">Класс</td>
+<td colspan="2">Класс</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -2032,15 +2084,15 @@ source: https://zan.gov.kz/client/#!/doc/76468/rus/20.12.2013
 
 ## Перечень бюджетных программ каждого сельского округа районного бюджета на 2014-2016 года
 
+> *Сноска. Приложение 6 в редакции решения Сайрамского районного маслихата Южно-Казахстанской области от 23.01.2014 № 27-173/V (вводится в действие с 01.01.2014).*
+
 <table>
 <tr>
-<td colspan="4">Функциональная группа</td>
-<td>Наименование</td>
+<td colspan="5">Функциональная группа</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">Подфункция</td>
-<td></td>
+<td colspan="4">Подфункция</td>
 </tr>
 <tr>
 <td></td>
@@ -2052,6 +2104,13 @@ source: https://zan.gov.kz/client/#!/doc/76468/rus/20.12.2013
 <td></td>
 <td></td>
 <td colspan="2">Программа</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Наименование</td>
 </tr>
 <tr>
 <td colspan="4">1</td>
@@ -2111,6 +2170,27 @@ source: https://zan.gov.kz/client/#!/doc/76468/rus/20.12.2013
 <td></td>
 <td></td>
 <td></td>
+<td>Аппарат акима Бадамского сельского округа</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Аппарат акима Жанаталапского сельского округа</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Аппарат акима Жулдузского сельского округа</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td>Аппарат акима Жибек-Жолынского сельского округа</td>
 </tr>
 <tr>
@@ -2146,6 +2226,13 @@ source: https://zan.gov.kz/client/#!/doc/76468/rus/20.12.2013
 <td></td>
 <td></td>
 <td></td>
+<td>Аппарат акима Каратюбинского сельского округа</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td>Аппарат акима Кутарысского сельского округа</td>
 </tr>
 <tr>
@@ -2161,6 +2248,20 @@ source: https://zan.gov.kz/client/#!/doc/76468/rus/20.12.2013
 <td></td>
 <td></td>
 <td>Аппарат акима Манкентского сельского округа</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Аппарат акима Сайрамского сельского округа</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Аппарат акима Тассайского сельского округа</td>
 </tr>
 <tr>
 <td></td>

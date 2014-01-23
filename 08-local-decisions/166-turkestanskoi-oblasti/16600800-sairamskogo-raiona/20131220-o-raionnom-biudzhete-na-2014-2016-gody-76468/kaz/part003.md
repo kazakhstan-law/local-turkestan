@@ -1,16 +1,18 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/76468/kaz/20.12.2013
+source: https://zan.gov.kz/client/#!/doc/76468/kaz/23.01.2014
 ---
 
 ## Сайрам ауданының 2016 жылға арналған бюджеті
+
+> *Ескерту. 3-қосымша жаңа редакцияда - Оңтүстік Қазақстан облысы Сайрам аудандық мәслихатының 23.01.2014 № 27-173/V шешімімен (2014 жылғы 1 қаңтарынан бастап қолданысқа енгізіледі).*
 
 <table>
 <tr>
 <td colspan="3">Санаты</td>
 <td></td>
 <td></td>
-<td rowspan="3">Сомасы, мың теңге</td>
+<td rowspan="2">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
@@ -20,13 +22,10 @@ source: https://zan.gov.kz/client/#!/doc/76468/kaz/20.12.2013
 <tr>
 <td></td>
 <td></td>
-<td colspan="3">Iшкi сыныбы</td>
+<td colspan="4">Iшкi сыныбы</td>
 </tr>
 <tr>
-<th>1</th>
-<th></th>
-<th></th>
-<th></th>
+<th colspan="4">1</th>
 <th>2</th>
 <th>3</th>
 </tr>
@@ -36,7 +35,7 @@ source: https://zan.gov.kz/client/#!/doc/76468/kaz/20.12.2013
 <td></td>
 <td></td>
 <td>І. Кірістер</td>
-<td>12964091</td>
+<td>13464091</td>
 </tr>
 <tr>
 <td>1</td>
@@ -260,7 +259,7 @@ source: https://zan.gov.kz/client/#!/doc/76468/kaz/20.12.2013
 <td></td>
 <td></td>
 <td>Трансферттер түсімі</td>
-<td>10223891</td>
+<td>10723891</td>
 </tr>
 <tr>
 <td></td>
@@ -268,7 +267,7 @@ source: https://zan.gov.kz/client/#!/doc/76468/kaz/20.12.2013
 <td></td>
 <td></td>
 <td>Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td>10223891</td>
+<td>10723891</td>
 </tr>
 <tr>
 <td></td>
@@ -276,11 +275,11 @@ source: https://zan.gov.kz/client/#!/doc/76468/kaz/20.12.2013
 <td>2</td>
 <td></td>
 <td>Облыстық бюджеттен түсетiн трансферттер</td>
-<td>10223891</td>
+<td>10723891</td>
 </tr>
 <tr>
 <td colspan="5">Функционалдық топ</td>
-<td rowspan="5">Сомасы, мың теңге</td>
+<td rowspan="2">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
@@ -289,13 +288,13 @@ source: https://zan.gov.kz/client/#!/doc/76468/kaz/20.12.2013
 <tr>
 <td></td>
 <td></td>
-<td colspan="3">Бюджеттік бағдарламалардың әкiмшiсi</td>
+<td colspan="4">Бюджеттік бағдарламалардың әкiмшiсi</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Бағдарлама</td>
+<td colspan="3">Бағдарлама</td>
 </tr>
 <tr>
 <td></td>
@@ -303,12 +302,10 @@ source: https://zan.gov.kz/client/#!/doc/76468/kaz/20.12.2013
 <td></td>
 <td></td>
 <td>Атауы</td>
+<td></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th>1</th>
-<th></th>
+<th colspan="4">1</th>
 <th>2</th>
 <th>3</th>
 </tr>
@@ -318,7 +315,7 @@ source: https://zan.gov.kz/client/#!/doc/76468/kaz/20.12.2013
 <td></td>
 <td></td>
 <td>2. Шығындар</td>
-<td>12964091</td>
+<td>13464091</td>
 </tr>
 <tr>
 <td>01</td>
@@ -326,7 +323,7 @@ source: https://zan.gov.kz/client/#!/doc/76468/kaz/20.12.2013
 <td></td>
 <td></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>441775</td>
+<td>591775</td>
 </tr>
 <tr>
 <td>01</td>
@@ -414,7 +411,7 @@ source: https://zan.gov.kz/client/#!/doc/76468/kaz/20.12.2013
 <td></td>
 <td></td>
 <td>Жалпы сипаттағы өзге де мемлекеттiк қызметтер</td>
-<td>38804</td>
+<td>188804</td>
 </tr>
 <tr>
 <td>01</td>
@@ -431,6 +428,22 @@ source: https://zan.gov.kz/client/#!/doc/76468/kaz/20.12.2013
 <td>001</td>
 <td>Ауданның (областық маңызы бар қаланың) экономикалық саясатты, қалыптастыру мен дамыту, мемлекеттік жоспарлау бюджеттік атқару және коммуналдық меншігін басқару саласындағы мемлекеттік саясатты іске асыру жөніндегі қызметтер</td>
 <td>38804</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>467</td>
+<td></td>
+<td>Ауданның (облыстық маңызы бар қаланың) құрылыс бөлімі</td>
+<td>150000</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>040</td>
+<td>Мемлекеттік органдардың объектілерін дамыту</td>
+<td>150000</td>
 </tr>
 <tr>
 <td>02</td>
@@ -534,7 +547,7 @@ source: https://zan.gov.kz/client/#!/doc/76468/kaz/20.12.2013
 <td></td>
 <td></td>
 <td>Бiлiм беру</td>
-<td>8883454</td>
+<td>9233454</td>
 </tr>
 <tr>
 <td></td>
@@ -638,7 +651,7 @@ source: https://zan.gov.kz/client/#!/doc/76468/kaz/20.12.2013
 <td></td>
 <td></td>
 <td>Бiлiм беру саласындағы өзге де қызметтер</td>
-<td>1311955</td>
+<td>1661955</td>
 </tr>
 <tr>
 <td></td>
@@ -686,7 +699,7 @@ source: https://zan.gov.kz/client/#!/doc/76468/kaz/20.12.2013
 <td>467</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) құрылыс бөлімі</td>
-<td>881414</td>
+<td>1231414</td>
 </tr>
 <tr>
 <td></td>
@@ -694,7 +707,7 @@ source: https://zan.gov.kz/client/#!/doc/76468/kaz/20.12.2013
 <td></td>
 <td>037</td>
 <td>Білім беру объектілерін салу және реконструкциялау</td>
-<td>881414</td>
+<td>1231414</td>
 </tr>
 <tr>
 <td>06</td>
@@ -998,7 +1011,7 @@ source: https://zan.gov.kz/client/#!/doc/76468/kaz/20.12.2013
 <td></td>
 <td></td>
 <td>Спорт</td>
-<td>115625</td>
+<td>122186</td>
 </tr>
 <tr>
 <td></td>
@@ -1006,7 +1019,15 @@ source: https://zan.gov.kz/client/#!/doc/76468/kaz/20.12.2013
 <td>465</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) дене шынықтыру және спорт бөлімі</td>
-<td>115625</td>
+<td>122186</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>001</td>
+<td>Жергілікті деңгейде дене шынықтыру және спорт саласындағы мемлекеттік саясатты іске асыру жөніндегі қызметтер</td>
+<td>6561</td>
 </tr>
 <tr>
 <td></td>
@@ -1094,7 +1115,7 @@ source: https://zan.gov.kz/client/#!/doc/76468/kaz/20.12.2013
 <td></td>
 <td></td>
 <td>Мәдениет, спорт, туризм және ақпараттық кеңiстiктi ұйымдастыру жөнiндегi өзге де қызметтер</td>
-<td>46711</td>
+<td>40150</td>
 </tr>
 <tr>
 <td></td>
@@ -1137,22 +1158,6 @@ source: https://zan.gov.kz/client/#!/doc/76468/kaz/20.12.2013
 <td>11094</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>465</td>
-<td></td>
-<td>Ауданның (облыстық маңызы бар қаланың) дене шынықтыру және спорт бөлімі</td>
-<td>6561</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>001</td>
-<td>Жергілікті деңгейде дене шынықтыру және спорт саласындағы мемлекеттік саясатты іске асыру жөніндегі қызметтер</td>
-<td>6561</td>
-</tr>
-<tr>
 <td>09</td>
 <td></td>
 <td></td>
@@ -1182,6 +1187,14 @@ source: https://zan.gov.kz/client/#!/doc/76468/kaz/20.12.2013
 <td></td>
 <td>009</td>
 <td>Жылу-энергетикалық жүйені дамыту</td>
+<td>736091</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Жергілікті бюджет қаражаты есебінен</td>
 <td>736091</td>
 </tr>
 <tr>
@@ -1457,6 +1470,14 @@ source: https://zan.gov.kz/client/#!/doc/76468/kaz/20.12.2013
 <td>214170</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Жергілікті бюджет қаражаты есебінен</td>
+<td>214170</td>
+</tr>
+<tr>
 <td>14</td>
 <td></td>
 <td></td>
@@ -1498,7 +1519,7 @@ source: https://zan.gov.kz/client/#!/doc/76468/kaz/20.12.2013
 </tr>
 <tr>
 <td colspan="5">Функционалдық топ</td>
-<td rowspan="5">Сомасы, мың теңге</td>
+<td rowspan="2">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
@@ -1507,13 +1528,13 @@ source: https://zan.gov.kz/client/#!/doc/76468/kaz/20.12.2013
 <tr>
 <td></td>
 <td></td>
-<td colspan="3">Бюджеттік бағдарламалардың әкiмшiсi</td>
+<td colspan="4">Бюджеттік бағдарламалардың әкiмшiсi</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Бағдарлама</td>
+<td colspan="3">Бағдарлама</td>
 </tr>
 <tr>
 <td></td>
@@ -1521,6 +1542,7 @@ source: https://zan.gov.kz/client/#!/doc/76468/kaz/20.12.2013
 <td></td>
 <td></td>
 <td>Атауы</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -1566,7 +1588,7 @@ source: https://zan.gov.kz/client/#!/doc/76468/kaz/20.12.2013
 <td colspan="3">Санаты</td>
 <td></td>
 <td>Атауы</td>
-<td rowspan="4">Сомасы, мың теңге</td>
+<td rowspan="2">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
@@ -1576,13 +1598,13 @@ source: https://zan.gov.kz/client/#!/doc/76468/kaz/20.12.2013
 <tr>
 <td></td>
 <td></td>
-<td colspan="3">Iшкi сыныбы</td>
+<td colspan="4">Iшкi сыныбы</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Ерекшелiгi</td>
+<td colspan="3">Ерекшелiгi</td>
 </tr>
 <tr>
 <td></td>
@@ -1626,7 +1648,7 @@ source: https://zan.gov.kz/client/#!/doc/76468/kaz/20.12.2013
 </tr>
 <tr>
 <td colspan="5">Функционалдық топ</td>
-<td rowspan="4">Сомасы, мың теңге</td>
+<td rowspan="2">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
@@ -1635,13 +1657,13 @@ source: https://zan.gov.kz/client/#!/doc/76468/kaz/20.12.2013
 <tr>
 <td></td>
 <td></td>
-<td colspan="3">Бюджеттік бағдарламалардың әкiмшiсi</td>
+<td colspan="4">Бюджеттік бағдарламалардың әкiмшiсi</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Бағдарлама</td>
+<td colspan="3">Бағдарлама</td>
 </tr>
 <tr>
 <td></td>
@@ -1663,7 +1685,7 @@ source: https://zan.gov.kz/client/#!/doc/76468/kaz/20.12.2013
 <td colspan="3">Санаты</td>
 <td></td>
 <td>Атауы</td>
-<td rowspan="4">Сомасы, мың теңге</td>
+<td rowspan="2">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
@@ -1673,13 +1695,13 @@ source: https://zan.gov.kz/client/#!/doc/76468/kaz/20.12.2013
 <tr>
 <td></td>
 <td></td>
-<td colspan="3">Iшкi сыныбы</td>
+<td colspan="4">Iшкi сыныбы</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Ерекшелiгi</td>
+<td colspan="3">Ерекшелiгi</td>
 </tr>
 <tr>
 <td>6</td>
@@ -1725,7 +1747,7 @@ source: https://zan.gov.kz/client/#!/doc/76468/kaz/20.12.2013
 <td colspan="3">Санаты</td>
 <td></td>
 <td>Атауы</td>
-<td rowspan="4">Сомасы, мың теңге</td>
+<td rowspan="2">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
@@ -1735,13 +1757,13 @@ source: https://zan.gov.kz/client/#!/doc/76468/kaz/20.12.2013
 <tr>
 <td></td>
 <td></td>
-<td colspan="3">Iшкi сыныбы</td>
+<td colspan="4">Iшкi сыныбы</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Ерекшелiгi</td>
+<td colspan="3">Ерекшелiгi</td>
 </tr>
 <tr>
 <td>7</td>
@@ -1769,24 +1791,22 @@ source: https://zan.gov.kz/client/#!/doc/76468/kaz/20.12.2013
 </tr>
 <tr>
 <td colspan="5">Функционалдық топ</td>
-<td></td>
+<td rowspan="2">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="4">Кіші функция</td>
-<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="3">Бюджеттік бағдарламалардың әкiмшiсi</td>
-<td rowspan="3">Сомасы, мың теңге</td>
+<td colspan="4">Бюджеттік бағдарламалардың әкiмшiсi</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Бағдарлама</td>
+<td colspan="3">Бағдарлама</td>
 </tr>
 <tr>
 <td></td>
@@ -1794,6 +1814,7 @@ source: https://zan.gov.kz/client/#!/doc/76468/kaz/20.12.2013
 <td></td>
 <td></td>
 <td>Атауы</td>
+<td></td>
 </tr>
 <tr>
 <td>16</td>
@@ -1831,7 +1852,7 @@ source: https://zan.gov.kz/client/#!/doc/76468/kaz/20.12.2013
 <td colspan="3">Санаты</td>
 <td></td>
 <td>Атауы</td>
-<td rowspan="4">Сомасы, мың теңге</td>
+<td rowspan="2">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
@@ -1841,13 +1862,13 @@ source: https://zan.gov.kz/client/#!/doc/76468/kaz/20.12.2013
 <tr>
 <td></td>
 <td></td>
-<td colspan="3">Iшкi сыныбы</td>
+<td colspan="4">Iшкi сыныбы</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Ерекшелiгi</td>
+<td colspan="3">Ерекшелiгi</td>
 </tr>
 <tr>
 <td>8</td>
@@ -2117,43 +2138,39 @@ source: https://zan.gov.kz/client/#!/doc/76468/kaz/20.12.2013
 
 ## 2014-2016 жылдарға арналған аудандық бюджетте әрбір ауылдық округтің бюджеттік бағдардарламарының тізбесі
 
+> *Ескерту. 6-қосымша жаңа редакцияда - Оңтүстік Қазақстан облысы Сайрам аудандық мәслихатының 23.01.2014 № 27-173/V шешімімен (2014 жылғы 1 қаңтарынан бастап қолданысқа енгізіледі).*
+
 <table>
 <tr>
-<td colspan="6">Функционалдық топ</td>
+<td colspan="5">Функционалдық топ</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="5">Кіші функция</td>
+<td colspan="4">Кіші функция</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="4">Бюджеттік бағдарламалардың әкiмшiсi</td>
+<td colspan="3">Бюджеттік бағдарламалардың әкiмшiсi</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">Бағдарлама</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td>Атауы</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2">Кіші бағдарлама</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>1</td>
-<td></td>
-<td></td>
+<td colspan="4">1</td>
 <td>2</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2165,13 +2182,11 @@ source: https://zan.gov.kz/client/#!/doc/76468/kaz/20.12.2013
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
 </tr>
 <tr>
 <td>01</td>
 <td>1</td>
-<td></td>
 <td></td>
 <td></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
@@ -2181,7 +2196,6 @@ source: https://zan.gov.kz/client/#!/doc/76468/kaz/20.12.2013
 <td>1</td>
 <td>123</td>
 <td></td>
-<td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
 </tr>
 <tr>
@@ -2189,11 +2203,9 @@ source: https://zan.gov.kz/client/#!/doc/76468/kaz/20.12.2013
 <td>1</td>
 <td>123</td>
 <td>001</td>
-<td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қаланың, кент, ауыл, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2205,11 +2217,9 @@ source: https://zan.gov.kz/client/#!/doc/76468/kaz/20.12.2013
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Арыс ауылдық округі әкімінің аппараты</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2221,11 +2231,30 @@ source: https://zan.gov.kz/client/#!/doc/76468/kaz/20.12.2013
 <td></td>
 <td></td>
 <td></td>
+<td>Бадам ауылдық округі әкімінің аппараты</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Жаңаталап ауылдық округі әкімінің аппараты</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Жұлдыз ауылдық округі әкімінің аппараты</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td>Жібек-Жолы ауылдық округі әкімінің аппараты</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2237,11 +2266,9 @@ source: https://zan.gov.kz/client/#!/doc/76468/kaz/20.12.2013
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Қарабұлақ ауылдық округі әкімінің аппараты</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2253,11 +2280,16 @@ source: https://zan.gov.kz/client/#!/doc/76468/kaz/20.12.2013
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Қарасу ауылдық округі әкімінің аппараты</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Қаратөбе ауылдық округі әкімінің аппараты</td>
+</tr>
+<tr>
 <td></td>
 <td></td>
 <td></td>
@@ -2269,11 +2301,9 @@ source: https://zan.gov.kz/client/#!/doc/76468/kaz/20.12.2013
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Көлкент ауылдық округі әкімінің аппараты</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2284,12 +2314,31 @@ source: https://zan.gov.kz/client/#!/doc/76468/kaz/20.12.2013
 <td></td>
 <td></td>
 <td></td>
-<td>022</td>
 <td></td>
+<td>Сайрам ауылдық округі әкімінің аппараты</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Тассай ауылдық округі әкімінің аппараты</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>022</td>
 <td>Мемлекеттік органдарды материалдық-техникалық жарақтандыру</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Жергілікті бюджет қаражаты есебінен</td>
+</tr>
+<tr>
 <td></td>
 <td></td>
 <td></td>
@@ -2301,11 +2350,9 @@ source: https://zan.gov.kz/client/#!/doc/76468/kaz/20.12.2013
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Арыс ауылдық округі әкімінің аппараты</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2317,11 +2364,9 @@ source: https://zan.gov.kz/client/#!/doc/76468/kaz/20.12.2013
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Жібек-Жолы ауылдық округі әкімінің аппараты</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2333,11 +2378,9 @@ source: https://zan.gov.kz/client/#!/doc/76468/kaz/20.12.2013
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Қарабұлақ ауылдық округі әкімінің аппараты</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2349,11 +2392,9 @@ source: https://zan.gov.kz/client/#!/doc/76468/kaz/20.12.2013
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Қарасу ауылдық округі әкімінің аппараты</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2365,11 +2406,9 @@ source: https://zan.gov.kz/client/#!/doc/76468/kaz/20.12.2013
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Көлкент ауылдық округі әкімінің аппараты</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2381,13 +2420,11 @@ source: https://zan.gov.kz/client/#!/doc/76468/kaz/20.12.2013
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Бiлiм беру</td>
 </tr>
 <tr>
 <td></td>
 <td>2</td>
-<td></td>
 <td></td>
 <td></td>
 <td>Бастауыш, негізгі орта және жалпы орта білім беру</td>
@@ -2397,7 +2434,6 @@ source: https://zan.gov.kz/client/#!/doc/76468/kaz/20.12.2013
 <td></td>
 <td>123</td>
 <td></td>
-<td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
 </tr>
 <tr>
@@ -2405,11 +2441,9 @@ source: https://zan.gov.kz/client/#!/doc/76468/kaz/20.12.2013
 <td></td>
 <td></td>
 <td>005</td>
-<td></td>
 <td>Ауылдық жерлерде балаларды мектепке дейін тегін алып баруды және кері алып келуді ұйымдастыру</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2421,11 +2455,9 @@ source: https://zan.gov.kz/client/#!/doc/76468/kaz/20.12.2013
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Арыс ауылдық округі әкімінің аппараты</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2437,11 +2469,9 @@ source: https://zan.gov.kz/client/#!/doc/76468/kaz/20.12.2013
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Қарабұлақ ауылдық округі әкімінің аппараты</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2453,7 +2483,6 @@ source: https://zan.gov.kz/client/#!/doc/76468/kaz/20.12.2013
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Құтарыс ауылдық округі әкімінің аппараты</td>
 </tr>
 <tr>
@@ -2461,11 +2490,9 @@ source: https://zan.gov.kz/client/#!/doc/76468/kaz/20.12.2013
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Көлкент ауылдық округі әкімінің аппараты</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2477,13 +2504,11 @@ source: https://zan.gov.kz/client/#!/doc/76468/kaz/20.12.2013
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
 </tr>
 <tr>
 <td></td>
 <td>3</td>
-<td></td>
 <td></td>
 <td></td>
 <td>Елді-мекендерді көркейту</td>
@@ -2493,7 +2518,6 @@ source: https://zan.gov.kz/client/#!/doc/76468/kaz/20.12.2013
 <td></td>
 <td>123</td>
 <td></td>
-<td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
 </tr>
 <tr>
@@ -2501,11 +2525,9 @@ source: https://zan.gov.kz/client/#!/doc/76468/kaz/20.12.2013
 <td></td>
 <td></td>
 <td>008</td>
-<td></td>
 <td>Елдi мекендердің көшелерін жарықтандыру</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2517,11 +2539,9 @@ source: https://zan.gov.kz/client/#!/doc/76468/kaz/20.12.2013
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Арыс ауылдық округі әкімінің аппараты</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2533,11 +2553,9 @@ source: https://zan.gov.kz/client/#!/doc/76468/kaz/20.12.2013
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Қайнарбұлақ ауылдық округі әкімінің аппараты</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2549,11 +2567,9 @@ source: https://zan.gov.kz/client/#!/doc/76468/kaz/20.12.2013
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Қарамұрт ауылдық округі әкімінің аппараты</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2565,7 +2581,6 @@ source: https://zan.gov.kz/client/#!/doc/76468/kaz/20.12.2013
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Құтарыс ауылдық округі әкімінің аппараты</td>
 </tr>
 <tr>
@@ -2573,11 +2588,9 @@ source: https://zan.gov.kz/client/#!/doc/76468/kaz/20.12.2013
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Көлкент ауылдық округі әкімінің аппараты</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2589,11 +2602,9 @@ source: https://zan.gov.kz/client/#!/doc/76468/kaz/20.12.2013
 <td></td>
 <td></td>
 <td>009</td>
-<td></td>
 <td>Елдi мекендердiң санитариясын қамтамасыз ету</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2605,11 +2616,9 @@ source: https://zan.gov.kz/client/#!/doc/76468/kaz/20.12.2013
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Арыс ауылдық округі әкімінің аппараты</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2621,11 +2630,9 @@ source: https://zan.gov.kz/client/#!/doc/76468/kaz/20.12.2013
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Жібек-Жолы ауылдық округі әкімінің аппараты</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2637,11 +2644,9 @@ source: https://zan.gov.kz/client/#!/doc/76468/kaz/20.12.2013
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Қарабұлақ ауылдық округі әкімінің аппараты</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2653,11 +2658,9 @@ source: https://zan.gov.kz/client/#!/doc/76468/kaz/20.12.2013
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Қарасу ауылдық округі әкімінің аппараты</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2669,11 +2672,9 @@ source: https://zan.gov.kz/client/#!/doc/76468/kaz/20.12.2013
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Көлкент ауылдық округі әкімінің аппараты</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2685,11 +2686,9 @@ source: https://zan.gov.kz/client/#!/doc/76468/kaz/20.12.2013
 <td></td>
 <td></td>
 <td>011</td>
-<td></td>
 <td>Елдi мекендердi абаттандыру және көгалдандыру</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2701,11 +2700,9 @@ source: https://zan.gov.kz/client/#!/doc/76468/kaz/20.12.2013
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Арыс ауылдық округі әкімінің аппараты</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2717,11 +2714,9 @@ source: https://zan.gov.kz/client/#!/doc/76468/kaz/20.12.2013
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Жібек-Жолы ауылдық округі әкімінің аппараты</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2733,11 +2728,9 @@ source: https://zan.gov.kz/client/#!/doc/76468/kaz/20.12.2013
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Қарабұлақ ауылдық округі әкімінің аппараты</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2749,11 +2742,9 @@ source: https://zan.gov.kz/client/#!/doc/76468/kaz/20.12.2013
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Қарасу ауылдық округі әкімінің аппараты</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2765,11 +2756,9 @@ source: https://zan.gov.kz/client/#!/doc/76468/kaz/20.12.2013
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Көлкент ауылдық округі әкімінің аппараты</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
