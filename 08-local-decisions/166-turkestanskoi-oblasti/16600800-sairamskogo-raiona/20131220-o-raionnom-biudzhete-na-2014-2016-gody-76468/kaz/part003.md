@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/76468/kaz/23.01.2014
+source: https://zan.gov.kz/client/#!/doc/76468/kaz/20.02.2014
 ---
 
 ## Сайрам ауданының 2016 жылға арналған бюджеті
