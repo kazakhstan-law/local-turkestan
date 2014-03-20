@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/76620/rus/21.02.2014
+source: https://zan.gov.kz/client/#!/doc/76620/rus/20.03.2014
 ---
 
 ## Районный бюджет на 2016 год
@@ -1878,11 +1878,11 @@ source: https://zan.gov.kz/client/#!/doc/76620/rus/21.02.2014
 
 ## Перечень бюджетных программ каждого сельского округа бюджета на 2014 год
 
-> *Сноска. Приложение 5 в редакции решения Толебийского районного маслихата Южно-Казахстанской области от 21.02.2014 № 28/131-V (вводится в действие с 01.01.2014).*
+> *Сноска. Приложение 5 в редакции решения Толебийского районного маслихата Южно-Казахстанской области от 20.03.2014 № 29/138-V (вводится в действие с 01.01.2014).*
 
 <table>
 <tr>
-<td colspan="5">Функциональная группа Наименование</td>
+<td colspan="5">Функциональная группа</td>
 <td rowspan="4">Сумма в тысяч тенге</td>
 </tr>
 <tr>
@@ -1901,12 +1901,20 @@ source: https://zan.gov.kz/client/#!/doc/76620/rus/21.02.2014
 <td colspan="2">Программа</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Наименование</td>
+<td></td>
+</tr>
+<tr>
 <td>01</td>
 <td></td>
 <td></td>
 <td></td>
 <td>Государственные услуги общего характера</td>
-<td>325436</td>
+<td>374766</td>
 </tr>
 <tr>
 <td></td>
@@ -1914,7 +1922,7 @@ source: https://zan.gov.kz/client/#!/doc/76620/rus/21.02.2014
 <td></td>
 <td></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>325436</td>
+<td>374766</td>
 </tr>
 <tr>
 <td></td>
@@ -1922,7 +1930,7 @@ source: https://zan.gov.kz/client/#!/doc/76620/rus/21.02.2014
 <td>123</td>
 <td></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td>325436</td>
+<td>374766</td>
 </tr>
 <tr>
 <td></td>
@@ -1930,7 +1938,7 @@ source: https://zan.gov.kz/client/#!/doc/76620/rus/21.02.2014
 <td></td>
 <td>001</td>
 <td>Услуги по обеспечению деятельности акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td>318436</td>
+<td>354766</td>
 </tr>
 <tr>
 <td></td>
@@ -1946,7 +1954,7 @@ source: https://zan.gov.kz/client/#!/doc/76620/rus/21.02.2014
 <td></td>
 <td></td>
 <td>Ленгер</td>
-<td>44734</td>
+<td>44976</td>
 </tr>
 <tr>
 <td></td>
@@ -1954,7 +1962,7 @@ source: https://zan.gov.kz/client/#!/doc/76620/rus/21.02.2014
 <td></td>
 <td></td>
 <td>Акжар</td>
-<td>2994</td>
+<td>4950</td>
 </tr>
 <tr>
 <td></td>
@@ -1962,7 +1970,7 @@ source: https://zan.gov.kz/client/#!/doc/76620/rus/21.02.2014
 <td></td>
 <td></td>
 <td>Аккум</td>
-<td>45125</td>
+<td>45236</td>
 </tr>
 <tr>
 <td></td>
@@ -1970,7 +1978,7 @@ source: https://zan.gov.kz/client/#!/doc/76620/rus/21.02.2014
 <td></td>
 <td></td>
 <td>Алатау</td>
-<td>14114</td>
+<td>45528</td>
 </tr>
 <tr>
 <td></td>
@@ -1978,7 +1986,7 @@ source: https://zan.gov.kz/client/#!/doc/76620/rus/21.02.2014
 <td></td>
 <td></td>
 <td>Зертас</td>
-<td>14043</td>
+<td>14154</td>
 </tr>
 <tr>
 <td></td>
@@ -1986,7 +1994,7 @@ source: https://zan.gov.kz/client/#!/doc/76620/rus/21.02.2014
 <td></td>
 <td></td>
 <td>Верхний-Аксу</td>
-<td>12274</td>
+<td>12581</td>
 </tr>
 <tr>
 <td></td>
@@ -1994,7 +2002,7 @@ source: https://zan.gov.kz/client/#!/doc/76620/rus/21.02.2014
 <td></td>
 <td></td>
 <td>Коксайек</td>
-<td>60907</td>
+<td>59130</td>
 </tr>
 <tr>
 <td></td>
@@ -2002,7 +2010,7 @@ source: https://zan.gov.kz/client/#!/doc/76620/rus/21.02.2014
 <td></td>
 <td></td>
 <td>Казыгурт</td>
-<td>5114</td>
+<td>8254</td>
 </tr>
 <tr>
 <td></td>
@@ -2010,7 +2018,7 @@ source: https://zan.gov.kz/client/#!/doc/76620/rus/21.02.2014
 <td></td>
 <td></td>
 <td>Каскасу</td>
-<td>13873</td>
+<td>13997</td>
 </tr>
 <tr>
 <td></td>
@@ -2018,7 +2026,7 @@ source: https://zan.gov.kz/client/#!/doc/76620/rus/21.02.2014
 <td></td>
 <td></td>
 <td>Когалы</td>
-<td>15885</td>
+<td>16108</td>
 </tr>
 <tr>
 <td></td>
@@ -2026,7 +2034,7 @@ source: https://zan.gov.kz/client/#!/doc/76620/rus/21.02.2014
 <td></td>
 <td></td>
 <td>Каратобе</td>
-<td>19169</td>
+<td>19280</td>
 </tr>
 <tr>
 <td></td>
@@ -2034,7 +2042,7 @@ source: https://zan.gov.kz/client/#!/doc/76620/rus/21.02.2014
 <td></td>
 <td></td>
 <td>Первомаевка</td>
-<td>19058</td>
+<td>19160</td>
 </tr>
 <tr>
 <td></td>
@@ -2042,7 +2050,7 @@ source: https://zan.gov.kz/client/#!/doc/76620/rus/21.02.2014
 <td></td>
 <td></td>
 <td>Тасарык</td>
-<td>15869</td>
+<td>15995</td>
 </tr>
 <tr>
 <td></td>
@@ -2050,7 +2058,7 @@ source: https://zan.gov.kz/client/#!/doc/76620/rus/21.02.2014
 <td></td>
 <td></td>
 <td>Киелитас</td>
-<td>18718</td>
+<td>18747</td>
 </tr>
 <tr>
 <td></td>
@@ -2058,7 +2066,7 @@ source: https://zan.gov.kz/client/#!/doc/76620/rus/21.02.2014
 <td></td>
 <td></td>
 <td>Кемекалган</td>
-<td>16559</td>
+<td>16670</td>
 </tr>
 <tr>
 <td></td>
@@ -2066,7 +2074,7 @@ source: https://zan.gov.kz/client/#!/doc/76620/rus/21.02.2014
 <td></td>
 <td>022</td>
 <td>Капитальные расходы государственных органов</td>
-<td>7000</td>
+<td>9000</td>
 </tr>
 <tr>
 <td></td>
@@ -2122,7 +2130,127 @@ source: https://zan.gov.kz/client/#!/doc/76620/rus/21.02.2014
 <td></td>
 <td></td>
 <td>Коксайек</td>
-<td>7000</td>
+<td>9000</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Каскасу</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Когалы</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Каратобе</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Первомаевка</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Тасарык</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Киелитас</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Кемекалган</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>032</td>
+<td>Капитальные расходы подведомственных государственных учреждений и организаций</td>
+<td>11000</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>в том числе:</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Ленгер</td>
+<td>7500</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Аккум</td>
+<td>3500</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Алатау</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Зертас</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Верхний-Аксу</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Коксайек</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -2186,7 +2314,7 @@ source: https://zan.gov.kz/client/#!/doc/76620/rus/21.02.2014
 <td></td>
 <td></td>
 <td>Образование</td>
-<td>506017</td>
+<td>485149</td>
 </tr>
 <tr>
 <td></td>
@@ -2194,7 +2322,7 @@ source: https://zan.gov.kz/client/#!/doc/76620/rus/21.02.2014
 <td></td>
 <td></td>
 <td>Дошкольное воспитание и обучение</td>
-<td>502297</td>
+<td>481429</td>
 </tr>
 <tr>
 <td></td>
@@ -2202,7 +2330,7 @@ source: https://zan.gov.kz/client/#!/doc/76620/rus/21.02.2014
 <td>123</td>
 <td></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td>502297</td>
+<td>481429</td>
 </tr>
 <tr>
 <td></td>
@@ -2210,7 +2338,7 @@ source: https://zan.gov.kz/client/#!/doc/76620/rus/21.02.2014
 <td></td>
 <td>004</td>
 <td>Поддержка организаций дошкольного воспитания и обучения</td>
-<td>279332</td>
+<td>233026</td>
 </tr>
 <tr>
 <td></td>
@@ -2226,7 +2354,7 @@ source: https://zan.gov.kz/client/#!/doc/76620/rus/21.02.2014
 <td></td>
 <td></td>
 <td>Ленгер</td>
-<td>139561</td>
+<td>144540</td>
 </tr>
 <tr>
 <td></td>
@@ -2242,7 +2370,7 @@ source: https://zan.gov.kz/client/#!/doc/76620/rus/21.02.2014
 <td></td>
 <td></td>
 <td>Алатау</td>
-<td>35475</td>
+<td>5587</td>
 </tr>
 <tr>
 <td></td>
@@ -2250,7 +2378,7 @@ source: https://zan.gov.kz/client/#!/doc/76620/rus/21.02.2014
 <td></td>
 <td></td>
 <td>Зертас</td>
-<td>6480</td>
+<td>133</td>
 </tr>
 <tr>
 <td></td>
@@ -2258,7 +2386,7 @@ source: https://zan.gov.kz/client/#!/doc/76620/rus/21.02.2014
 <td></td>
 <td></td>
 <td>Верхний-Аксу</td>
-<td>324</td>
+<td>208</td>
 </tr>
 <tr>
 <td></td>
@@ -2266,7 +2394,7 @@ source: https://zan.gov.kz/client/#!/doc/76620/rus/21.02.2014
 <td></td>
 <td></td>
 <td>Коксайек</td>
-<td>57457</td>
+<td>52442</td>
 </tr>
 <tr>
 <td></td>
@@ -2274,7 +2402,7 @@ source: https://zan.gov.kz/client/#!/doc/76620/rus/21.02.2014
 <td></td>
 <td></td>
 <td>Каскасу</td>
-<td>3078</td>
+<td>210</td>
 </tr>
 <tr>
 <td></td>
@@ -2282,7 +2410,7 @@ source: https://zan.gov.kz/client/#!/doc/76620/rus/21.02.2014
 <td></td>
 <td></td>
 <td>Когалы</td>
-<td></td>
+<td>104</td>
 </tr>
 <tr>
 <td></td>
@@ -2298,7 +2426,7 @@ source: https://zan.gov.kz/client/#!/doc/76620/rus/21.02.2014
 <td></td>
 <td></td>
 <td>Первомаевка</td>
-<td>5022</td>
+<td>112</td>
 </tr>
 <tr>
 <td></td>
@@ -2306,7 +2434,7 @@ source: https://zan.gov.kz/client/#!/doc/76620/rus/21.02.2014
 <td></td>
 <td></td>
 <td>Тасарык</td>
-<td>12474</td>
+<td>14692</td>
 </tr>
 <tr>
 <td></td>
@@ -2314,7 +2442,7 @@ source: https://zan.gov.kz/client/#!/doc/76620/rus/21.02.2014
 <td></td>
 <td></td>
 <td>Киелитас</td>
-<td>6220</td>
+<td>1659</td>
 </tr>
 <tr>
 <td></td>
@@ -2322,7 +2450,7 @@ source: https://zan.gov.kz/client/#!/doc/76620/rus/21.02.2014
 <td></td>
 <td></td>
 <td>Кемекалган</td>
-<td></td>
+<td>98</td>
 </tr>
 <tr>
 <td></td>
@@ -2330,7 +2458,7 @@ source: https://zan.gov.kz/client/#!/doc/76620/rus/21.02.2014
 <td></td>
 <td>041</td>
 <td>Реализация государственного образовательного заказа в дошкольных организациях образования</td>
-<td>222965</td>
+<td>248403</td>
 </tr>
 <tr>
 <td></td>
@@ -2362,7 +2490,7 @@ source: https://zan.gov.kz/client/#!/doc/76620/rus/21.02.2014
 <td></td>
 <td></td>
 <td>Алатау</td>
-<td>33290</td>
+<td>34255</td>
 </tr>
 <tr>
 <td></td>
@@ -2370,7 +2498,7 @@ source: https://zan.gov.kz/client/#!/doc/76620/rus/21.02.2014
 <td></td>
 <td></td>
 <td>Зертас</td>
-<td>20549</td>
+<td>27405</td>
 </tr>
 <tr>
 <td></td>
@@ -2378,7 +2506,7 @@ source: https://zan.gov.kz/client/#!/doc/76620/rus/21.02.2014
 <td></td>
 <td></td>
 <td>Верхне-Аксу</td>
-<td>20550</td>
+<td>19574</td>
 </tr>
 <tr>
 <td></td>
@@ -2386,7 +2514,7 @@ source: https://zan.gov.kz/client/#!/doc/76620/rus/21.02.2014
 <td></td>
 <td></td>
 <td>Коксайек</td>
-<td>29797</td>
+<td>40128</td>
 </tr>
 <tr>
 <td></td>
@@ -2394,7 +2522,7 @@ source: https://zan.gov.kz/client/#!/doc/76620/rus/21.02.2014
 <td></td>
 <td></td>
 <td>Каскасу</td>
-<td>28360</td>
+<td>29362</td>
 </tr>
 <tr>
 <td></td>
@@ -2402,7 +2530,7 @@ source: https://zan.gov.kz/client/#!/doc/76620/rus/21.02.2014
 <td></td>
 <td></td>
 <td>Когалы</td>
-<td>20550</td>
+<td>19574</td>
 </tr>
 <tr>
 <td></td>
@@ -2418,7 +2546,7 @@ source: https://zan.gov.kz/client/#!/doc/76620/rus/21.02.2014
 <td></td>
 <td></td>
 <td>Первомаевка</td>
-<td>28770</td>
+<td>34061</td>
 </tr>
 <tr>
 <td></td>
@@ -2434,7 +2562,7 @@ source: https://zan.gov.kz/client/#!/doc/76620/rus/21.02.2014
 <td></td>
 <td></td>
 <td>Киелитас</td>
-<td>30824</td>
+<td>34257</td>
 </tr>
 <tr>
 <td></td>
@@ -2442,7 +2570,7 @@ source: https://zan.gov.kz/client/#!/doc/76620/rus/21.02.2014
 <td></td>
 <td></td>
 <td>Кемекалган</td>
-<td>10275</td>
+<td>9787</td>
 </tr>
 <tr>
 <td></td>
@@ -2586,7 +2714,7 @@ source: https://zan.gov.kz/client/#!/doc/76620/rus/21.02.2014
 <td></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>14283</td>
+<td>13483</td>
 </tr>
 <tr>
 <td></td>
@@ -2594,7 +2722,7 @@ source: https://zan.gov.kz/client/#!/doc/76620/rus/21.02.2014
 <td></td>
 <td></td>
 <td>Благоустройство населенных пунктов</td>
-<td>14283</td>
+<td>13483</td>
 </tr>
 <tr>
 <td></td>
@@ -2858,7 +2986,7 @@ source: https://zan.gov.kz/client/#!/doc/76620/rus/21.02.2014
 <td>123</td>
 <td></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td>2000</td>
+<td>1200</td>
 </tr>
 <tr>
 <td></td>
@@ -2866,7 +2994,7 @@ source: https://zan.gov.kz/client/#!/doc/76620/rus/21.02.2014
 <td></td>
 <td>011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td>2000</td>
+<td>1200</td>
 </tr>
 <tr>
 <td></td>
@@ -2882,7 +3010,7 @@ source: https://zan.gov.kz/client/#!/doc/76620/rus/21.02.2014
 <td></td>
 <td></td>
 <td>Ленгер</td>
-<td>800</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -2986,7 +3114,7 @@ source: https://zan.gov.kz/client/#!/doc/76620/rus/21.02.2014
 <td></td>
 <td></td>
 <td>Всего:</td>
-<td>845736</td>
+<td>873398</td>
 </tr>
 </table>
 
@@ -2996,13 +3124,12 @@ source: https://zan.gov.kz/client/#!/doc/76620/rus/21.02.2014
 
 ## Перечень бюджетных программ развития районного бюджета на 2014 год с разделением на бюджетные программы, направленные на реализацию бюджетных инвестиционных проектов (программ)
 
-> *Сноска. Приложение 6 в редакции решения Толебийского районного маслихата Южно-Казахстанской области от 21.02.2014 № 28/131-V (вводится в действие с 01.01.2014).*
+> *Сноска. Приложение 6 в редакции решения Толебийского районного маслихата Южно-Казахстанской области от 20.03.2014 № 29/138-V (вводится в действие с 01.01.2014).*
 
 <table>
 <tr>
-<td colspan="4">Функциональная группа</td>
-<td>Наименование</td>
-<td rowspan="4">Сумма в тысяч тенге</td>
+<td colspan="5">Функциональная группа</td>
+<td rowspan="5">Сумма в тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
@@ -3024,8 +3151,15 @@ source: https://zan.gov.kz/client/#!/doc/76620/rus/21.02.2014
 <td></td>
 <td></td>
 <td></td>
+<td>Наименование</td>
+</tr>
+<tr>
 <td></td>
-<td>6 915 141</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>6 892 160</td>
 </tr>
 <tr>
 <td></td>
@@ -3033,7 +3167,15 @@ source: https://zan.gov.kz/client/#!/doc/76620/rus/21.02.2014
 <td>467</td>
 <td></td>
 <td>Отдел строительства района (города областного значения)</td>
-<td>2 729 612</td>
+<td>2 707 242</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>040</td>
+<td>Развитие объектов государственных органов</td>
+<td>5 000</td>
 </tr>
 <tr>
 <td></td>
@@ -3041,7 +3183,7 @@ source: https://zan.gov.kz/client/#!/doc/76620/rus/21.02.2014
 <td></td>
 <td>037</td>
 <td>Строительство и реконструкция объектов образования</td>
-<td>1674847</td>
+<td>1641989</td>
 </tr>
 <tr>
 <td></td>
@@ -3049,7 +3191,7 @@ source: https://zan.gov.kz/client/#!/doc/76620/rus/21.02.2014
 <td></td>
 <td>003</td>
 <td>Строительство и (или) приобретение жилья государственного коммунального жилищного фонда</td>
-<td>354985</td>
+<td>355473</td>
 </tr>
 <tr>
 <td></td>
@@ -3057,7 +3199,7 @@ source: https://zan.gov.kz/client/#!/doc/76620/rus/21.02.2014
 <td></td>
 <td>004</td>
 <td>Развитие, обустройство и (или) приобретение инженерно-коммуникационной инфраструктуры</td>
-<td>645673</td>
+<td>650673</td>
 </tr>
 <tr>
 <td></td>
@@ -3081,7 +3223,7 @@ source: https://zan.gov.kz/client/#!/doc/76620/rus/21.02.2014
 <td>458</td>
 <td></td>
 <td>Отдел жилищно-коммунального хозяйства, пассажирского транспорта и автомобильных дорог района (города областного значения)</td>
-<td>1 794 525</td>
+<td>1 793 445</td>
 </tr>
 <tr>
 <td></td>
@@ -3089,7 +3231,7 @@ source: https://zan.gov.kz/client/#!/doc/76620/rus/21.02.2014
 <td></td>
 <td>058</td>
 <td>Развитие системы водоснабжения и водоотведения в сельских населенных пунктах</td>
-<td>1794525</td>
+<td>1793445</td>
 </tr>
 <tr>
 <td></td>
@@ -3097,7 +3239,7 @@ source: https://zan.gov.kz/client/#!/doc/76620/rus/21.02.2014
 <td>458</td>
 <td></td>
 <td>Отдел жилищно-коммунального хозяйства, пассажирского транспорта и автомобильных дорог района (города областного значения)</td>
-<td>2 391 004</td>
+<td>2 391 473</td>
 </tr>
 <tr>
 <td></td>
@@ -3105,6 +3247,6 @@ source: https://zan.gov.kz/client/#!/doc/76620/rus/21.02.2014
 <td></td>
 <td>036</td>
 <td>Развитие газотранспортной системы</td>
-<td>2391004</td>
+<td>2391473</td>
 </tr>
 </table>
