@@ -1,31 +1,31 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/76623/kaz/22.04.2014
+source: https://zan.gov.kz/client/#!/doc/76623/kaz/30.05.2014
 ---
 
 ## 2016 жылға арналған аудан бюджеті
 
-> *Ескерту. 3-қосымша жаңа редакцияда - Оңтүстік Қазақстан облысы Бәйдібек аудандық мәслихатының 24.01.2014 № 21/112 шешімімен (2014 жылғы 1 қаңтарынан бастап қолданысқа енгізіледі).*
+> *Ескерту. 3-қосымша жаңа редакцияда - Оңтүстік Қазақстан облысы Бәйдібек аудандық мәслихатының 30.05.2014 № 25/134 шешімімен (01.01.2014 бастап қолданысқа енгізіледі).*
 
 <table>
 <tr>
-<td colspan="3">Санаты</td>
+<td colspan="2">Санаты</td>
+<td></td>
+<td></td>
+<td rowspan="3">Сомасы, мың теңге</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">Сыныбы</td>
 <td>Атауы</td>
-<td rowspan="2">Сомасы, мың теңге</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3">Сыныбы</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="3">Ішкі сыныбы</td>
+<td colspan="2">Ішкі сыныбы</td>
 </tr>
 <tr>
-<th>1</th>
-<th></th>
-<th></th>
+<th colspan="3">1</th>
 <th>2</th>
 <th>3</th>
 </tr>
@@ -229,7 +229,7 @@ source: https://zan.gov.kz/client/#!/doc/76623/kaz/22.04.2014
 <td>4</td>
 <td></td>
 <td></td>
-<td>Трансферттердің түсімі</td>
+<td>Трансферттер түсімдері</td>
 <td>5589497</td>
 </tr>
 <tr>
@@ -251,7 +251,7 @@ source: https://zan.gov.kz/client/#!/doc/76623/kaz/22.04.2014
 <table>
 <tr>
 <td colspan="5">Функционалдық топ</td>
-<td rowspan="2">Сомасы мың теңге</td>
+<td rowspan="5">Сомасы мың теңге</td>
 </tr>
 <tr>
 <td></td>
@@ -260,13 +260,13 @@ source: https://zan.gov.kz/client/#!/doc/76623/kaz/22.04.2014
 <tr>
 <td></td>
 <td></td>
-<td colspan="4">Бюджеттік бағдарламалардың әкiмшiсi</td>
+<td colspan="3">Бюджеттік бағдарламалардың әкiмшiсi</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td colspan="3">Бағдарлама</td>
+<td colspan="2">Бағдарлама</td>
 </tr>
 <tr>
 <td></td>
@@ -274,7 +274,6 @@ source: https://zan.gov.kz/client/#!/doc/76623/kaz/22.04.2014
 <td></td>
 <td></td>
 <td>Атауы</td>
-<td></td>
 </tr>
 <tr>
 <td></td>
@@ -474,7 +473,7 @@ source: https://zan.gov.kz/client/#!/doc/76623/kaz/22.04.2014
 <td></td>
 <td></td>
 <td>Бiлiм беру</td>
-<td>3623243</td>
+<td>3610693</td>
 </tr>
 <tr>
 <td></td>
@@ -554,7 +553,7 @@ source: https://zan.gov.kz/client/#!/doc/76623/kaz/22.04.2014
 <td></td>
 <td></td>
 <td>Білім беру саласындағы өзге де қызметтер</td>
-<td>416843</td>
+<td>404293</td>
 </tr>
 <tr>
 <td></td>
@@ -602,7 +601,7 @@ source: https://zan.gov.kz/client/#!/doc/76623/kaz/22.04.2014
 <td>472</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) құрылыс, сәулет және қала құрылысы бөлімі</td>
-<td>255671</td>
+<td>243121</td>
 </tr>
 <tr>
 <td></td>
@@ -610,7 +609,7 @@ source: https://zan.gov.kz/client/#!/doc/76623/kaz/22.04.2014
 <td></td>
 <td>037</td>
 <td>Білім беру объектілерін салу және реконструкциялау</td>
-<td>255671</td>
+<td>243121</td>
 </tr>
 <tr>
 <td>05</td>
@@ -1082,7 +1081,7 @@ source: https://zan.gov.kz/client/#!/doc/76623/kaz/22.04.2014
 <td></td>
 <td></td>
 <td>Ауыл, су, орман, балық шаруашылығы, ерекше қорғалатын табиғи аумақтар, қоршаған ортаны және жануарлар дүниесін қорғау, жер қатынастары</td>
-<td>97603</td>
+<td>110153</td>
 </tr>
 <tr>
 <td></td>
@@ -1090,7 +1089,7 @@ source: https://zan.gov.kz/client/#!/doc/76623/kaz/22.04.2014
 <td></td>
 <td></td>
 <td>Ауыл шаруашылығы</td>
-<td>88868</td>
+<td>101418</td>
 </tr>
 <tr>
 <td></td>
@@ -1107,6 +1106,22 @@ source: https://zan.gov.kz/client/#!/doc/76623/kaz/22.04.2014
 <td>099</td>
 <td>Мамандардың әлеуметтік көмек көрсетуі жөніндегі шараларды іске асыру</td>
 <td>27719</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>472</td>
+<td></td>
+<td>Ауданның (облыстық маңызы бар қаланың) құрылыс, сәулет және қала құрылысы бөлімі</td>
+<td>12550</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>010</td>
+<td>Ауыл шаруашылығы объектілерін дамыту</td>
+<td>12550</td>
 </tr>
 <tr>
 <td></td>
@@ -1390,7 +1405,7 @@ source: https://zan.gov.kz/client/#!/doc/76623/kaz/22.04.2014
 </tr>
 <tr>
 <td colspan="5">Функционалдық топ</td>
-<td rowspan="2">Сомасы, мың теңге</td>
+<td rowspan="5">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
@@ -1399,13 +1414,13 @@ source: https://zan.gov.kz/client/#!/doc/76623/kaz/22.04.2014
 <tr>
 <td></td>
 <td></td>
-<td colspan="4">Бюджеттік бағдарламалардың әкiмшiсi</td>
+<td colspan="3">Бюджеттік бағдарламалардың әкiмшiсi</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td colspan="3">Бағдарлама</td>
+<td colspan="2">Бағдарлама</td>
 </tr>
 <tr>
 <td></td>
@@ -1413,7 +1428,6 @@ source: https://zan.gov.kz/client/#!/doc/76623/kaz/22.04.2014
 <td></td>
 <td></td>
 <td>Атауы</td>
-<td></td>
 </tr>
 <tr>
 <td></td>
@@ -1427,7 +1441,7 @@ source: https://zan.gov.kz/client/#!/doc/76623/kaz/22.04.2014
 <td colspan="3">Санаты</td>
 <td></td>
 <td>Атауы</td>
-<td rowspan="3">Сомасы, мың теңге</td>
+<td rowspan="4">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
@@ -1443,7 +1457,7 @@ source: https://zan.gov.kz/client/#!/doc/76623/kaz/22.04.2014
 <td></td>
 <td></td>
 <td></td>
-<td colspan="3">Ерекшелігі</td>
+<td colspan="2">Ерекшелігі</td>
 </tr>
 <tr>
 <td></td>
@@ -1495,7 +1509,7 @@ source: https://zan.gov.kz/client/#!/doc/76623/kaz/22.04.2014
 </tr>
 <tr>
 <td colspan="5">Функционалдық топ</td>
-<td rowspan="2">Сомасы, мың теңге</td>
+<td rowspan="5">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
@@ -1504,13 +1518,13 @@ source: https://zan.gov.kz/client/#!/doc/76623/kaz/22.04.2014
 <tr>
 <td></td>
 <td></td>
-<td colspan="4">Бюджеттік бағдарламалардың әкiмшiсi</td>
+<td colspan="3">Бюджеттік бағдарламалардың әкiмшiсi</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td colspan="3">Бағдарлама</td>
+<td colspan="2">Бағдарлама</td>
 </tr>
 <tr>
 <td></td>
@@ -1518,7 +1532,6 @@ source: https://zan.gov.kz/client/#!/doc/76623/kaz/22.04.2014
 <td></td>
 <td></td>
 <td>Атауы</td>
-<td></td>
 </tr>
 <tr>
 <td></td>
@@ -1532,7 +1545,7 @@ source: https://zan.gov.kz/client/#!/doc/76623/kaz/22.04.2014
 <td colspan="3">Санаты</td>
 <td></td>
 <td>Атауы</td>
-<td rowspan="3">Сомасы, мың теңге</td>
+<td rowspan="4">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
@@ -1548,7 +1561,7 @@ source: https://zan.gov.kz/client/#!/doc/76623/kaz/22.04.2014
 <td></td>
 <td></td>
 <td></td>
-<td colspan="3">Ерекшелігі</td>
+<td colspan="2">Ерекшелігі</td>
 </tr>
 <tr>
 <td></td>
@@ -1578,7 +1591,7 @@ source: https://zan.gov.kz/client/#!/doc/76623/kaz/22.04.2014
 <td colspan="3">Санаты</td>
 <td></td>
 <td>Атауы</td>
-<td rowspan="3">Сомасы мың теңге</td>
+<td rowspan="4">Сомасы мың теңге</td>
 </tr>
 <tr>
 <td></td>
@@ -1594,7 +1607,7 @@ source: https://zan.gov.kz/client/#!/doc/76623/kaz/22.04.2014
 <td></td>
 <td></td>
 <td></td>
-<td colspan="3">Ерекшелігі</td>
+<td colspan="2">Ерекшелігі</td>
 </tr>
 <tr>
 <td></td>
@@ -1606,7 +1619,7 @@ source: https://zan.gov.kz/client/#!/doc/76623/kaz/22.04.2014
 </tr>
 <tr>
 <td colspan="5">Функционалдық топ</td>
-<td rowspan="2">Сомасы мың теңге</td>
+<td rowspan="5">Сомасы мың теңге</td>
 </tr>
 <tr>
 <td></td>
@@ -1615,13 +1628,13 @@ source: https://zan.gov.kz/client/#!/doc/76623/kaz/22.04.2014
 <tr>
 <td></td>
 <td></td>
-<td colspan="4">Бюджеттік бағдарламалардың әкiмшiсi</td>
+<td colspan="3">Бюджеттік бағдарламалардың әкiмшiсi</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td colspan="3">Бағдарлама</td>
+<td colspan="2">Бағдарлама</td>
 </tr>
 <tr>
 <td></td>
@@ -1629,7 +1642,6 @@ source: https://zan.gov.kz/client/#!/doc/76623/kaz/22.04.2014
 <td></td>
 <td></td>
 <td>Атауы</td>
-<td></td>
 </tr>
 <tr>
 <td>16</td>
@@ -1667,7 +1679,7 @@ source: https://zan.gov.kz/client/#!/doc/76623/kaz/22.04.2014
 <td colspan="3">Санаты</td>
 <td></td>
 <td>Атауы</td>
-<td rowspan="3">Сомасы мың теңге</td>
+<td rowspan="4">Сомасы мың теңге</td>
 </tr>
 <tr>
 <td></td>
@@ -1683,7 +1695,7 @@ source: https://zan.gov.kz/client/#!/doc/76623/kaz/22.04.2014
 <td></td>
 <td></td>
 <td></td>
-<td colspan="3">Ерекшелігі</td>
+<td colspan="2">Ерекшелігі</td>
 </tr>
 <tr>
 <td>8</td>
@@ -1700,6 +1712,8 @@ source: https://zan.gov.kz/client/#!/doc/76623/kaz/22.04.2014
 > *№ 20/99 шешіміне 4-қосымша*
 
 ## Бюджеттік инвестициялық жобаларды (бағдарламаларды) іске асыруға бағытталған, бюджеттік бағдарламалар бөлінісінде 2014-2016 жылдарға арналған аудандық бюджеттік даму бағдарламаларының тізбесі
+
+> *Ескерту. 4-қосымша жаңа редакцияда - Оңтүстік Қазақстан облысы Бәйдібек аудандық мәслихатының 30.05.2014 № 25/134 шешімімен (01.01.2014 бастап қолданысқа енгізіледі).*
 
 <table>
 <tr>
@@ -1798,6 +1812,34 @@ source: https://zan.gov.kz/client/#!/doc/76623/kaz/22.04.2014
 <td>Мемлекеттік коммуналдық тұрғын үй қорының тұрғын үйін жобалау, салу және (немесе) сатып алу</td>
 </tr>
 <tr>
+<td>8</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Мәдениет, спорт, туризм және ақпараттық кеңістiк</td>
+</tr>
+<tr>
+<td></td>
+<td>02</td>
+<td></td>
+<td></td>
+<td>Спорт</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>472</td>
+<td></td>
+<td>Ауданның (облыстық маңызы бар қаланың) құрылыс, сәулет және қала құрылысы бөлімі</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>008</td>
+<td>Cпорт және туризм объектілерін дамыту</td>
+</tr>
+<tr>
 <td>10</td>
 <td></td>
 <td></td>
@@ -1806,7 +1848,7 @@ source: https://zan.gov.kz/client/#!/doc/76623/kaz/22.04.2014
 </tr>
 <tr>
 <td></td>
-<td>1</td>
+<td>01</td>
 <td></td>
 <td></td>
 <td>Ауыл шаруашылығы</td>
