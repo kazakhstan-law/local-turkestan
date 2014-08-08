@@ -1,17 +1,17 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/76379/kaz/02.06.2014
+source: https://zan.gov.kz/client/#!/doc/76379/kaz/08.08.2014
 ---
 
 ## 2016 жылға арналған қалалық бюджет
 
-> *Ескерту. 3-қосымша жаңа редакцияда - Оңтүстік Қазақстан облысы Түркістан қалалық мәслихатының 23.01.2014 № 23/135-V шешімімен (01.01.2014 бастап қолданысқа енгізіледі)*
+> *Ескерту. 3-қосымша жаңа редакцияда - Оңтүстік Қазақстан облысы Түркістан қалалық мәслихатының 08.08.2014 № 32/177-V шешімімен (01.01.2014 бастап қолданысқа енгізіледі)*
 
 <table>
 <tr>
 <td colspan="3">Санаты</td>
 <td>Атауы</td>
-<td rowspan="2">мың теңге</td>
+<td rowspan="3">мың теңге</td>
 </tr>
 <tr>
 <td></td>
@@ -21,7 +21,7 @@ source: https://zan.gov.kz/client/#!/doc/76379/kaz/02.06.2014
 <tr>
 <td></td>
 <td></td>
-<td colspan="3">Ішкі сыныбы</td>
+<td colspan="2">Ішкі сыныбы</td>
 </tr>
 <tr>
 <td></td>
@@ -1694,22 +1694,21 @@ source: https://zan.gov.kz/client/#!/doc/76379/kaz/02.06.2014
 </tr>
 <tr>
 <td></td>
-<td colspan="3">Санаты</td>
-<td>Атауы</td>
+<td colspan="2">Санаты</td>
 <td></td>
+<td>Атауы</td>
+<td rowspan="3"></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="3">Сыныбы</td>
-<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">Ішкі сыныбы</td>
-<td></td>
 </tr>
 <tr>
 <td></td>
@@ -1793,25 +1792,22 @@ source: https://zan.gov.kz/client/#!/doc/76379/kaz/02.06.2014
 </tr>
 <tr>
 <td colspan="5">Функционалдық топ</td>
-<td></td>
+<td rowspan="5"></td>
 </tr>
 <tr>
 <td></td>
 <td colspan="4">Кіші функция</td>
-<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="3">Бюджеттік бағдарламалардың әкімшісі</td>
-<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">Бағдарлама</td>
-<td></td>
 </tr>
 <tr>
 <td></td>
@@ -1819,7 +1815,6 @@ source: https://zan.gov.kz/client/#!/doc/76379/kaz/02.06.2014
 <td></td>
 <td></td>
 <td>Атауы</td>
-<td></td>
 </tr>
 <tr>
 <td></td>
@@ -1863,22 +1858,21 @@ source: https://zan.gov.kz/client/#!/doc/76379/kaz/02.06.2014
 </tr>
 <tr>
 <td></td>
-<td colspan="3">Санаты</td>
-<td>Атауы</td>
+<td colspan="2">Санаты</td>
 <td></td>
+<td>Атауы</td>
+<td rowspan="3"></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="3">Сыныбы</td>
-<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">Ішкі сыныбы</td>
-<td></td>
 </tr>
 <tr>
 <td></td>

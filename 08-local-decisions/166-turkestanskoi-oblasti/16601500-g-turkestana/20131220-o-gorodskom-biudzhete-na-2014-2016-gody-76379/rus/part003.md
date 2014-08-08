@@ -1,11 +1,11 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/76379/rus/02.06.2014
+source: https://zan.gov.kz/client/#!/doc/76379/rus/08.08.2014
 ---
 
 ## Городской бюджет на 2016 год
 
-> *Сноска. Приложение 3 в редакции решения Туркестанского городского маслихата Южно-Казахстанской области от 23.01.2014 № 23/135-V (вводится в действие с 01.01.2014).*
+> *Сноска. Приложение 3 - в редакции решения Туркестанского городского маслихата Южно-Казахстанской области от 08.08.2014 № 32/177-V (вводится в действие с 01.01.2014).*
 
 <table>
 <tr>
@@ -15,7 +15,8 @@ source: https://zan.gov.kz/client/#!/doc/76379/rus/02.06.2014
 </tr>
 <tr>
 <td></td>
-<td colspan="3">Класс</td>
+<td colspan="2">Класс</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -26,7 +27,7 @@ source: https://zan.gov.kz/client/#!/doc/76379/rus/02.06.2014
 <td></td>
 <td></td>
 <td></td>
-<td>1.Доходы</td>
+<td>1. Доходы</td>
 <td>14 581 859</td>
 </tr>
 <tr>
@@ -251,11 +252,11 @@ source: https://zan.gov.kz/client/#!/doc/76379/rus/02.06.2014
 <table>
 <tr>
 <td colspan="5">Функциональная группа</td>
-<td rowspan="4">тысяч тенге</td>
+<td rowspan="5">тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="4">Функциональная подгруппа Наименование</td>
+<td colspan="4">Функциональная подгруппа</td>
 </tr>
 <tr>
 <td></td>
@@ -267,6 +268,13 @@ source: https://zan.gov.kz/client/#!/doc/76379/rus/02.06.2014
 <td></td>
 <td></td>
 <td colspan="2">Программа</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Наименование</td>
 </tr>
 <tr>
 <td></td>
@@ -1790,7 +1798,7 @@ source: https://zan.gov.kz/client/#!/doc/76379/rus/02.06.2014
 </tr>
 <tr>
 <td></td>
-<td colspan="4">Функциональная подгруппа Наименование</td>
+<td colspan="4">Функциональная подгруппа</td>
 <td></td>
 </tr>
 <tr>
@@ -1804,6 +1812,14 @@ source: https://zan.gov.kz/client/#!/doc/76379/rus/02.06.2014
 <td></td>
 <td></td>
 <td colspan="2">Программа</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Наименование</td>
 <td></td>
 </tr>
 <tr>
