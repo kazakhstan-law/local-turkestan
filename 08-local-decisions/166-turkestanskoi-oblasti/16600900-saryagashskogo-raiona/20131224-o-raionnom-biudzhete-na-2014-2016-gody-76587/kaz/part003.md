@@ -1,41 +1,39 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/76587/kaz/27.05.2014
+source: https://zan.gov.kz/client/#!/doc/76587/kaz/11.08.2014
 ---
 
 ## 2016 жылға арналған аудандық бюджет
 
-> *Ескерту. 3-қосымша жаңа редакцияда - Оңтүстік Қазақстан облысы Сарыағаш аудандық мәслихатының 23.01.2014 № 26-204-V шешімімен (01.01.2014 бастап қолданысқа енгізіледі).*
+> *Ескерту. 3-қосымша жаңа редакцияда - Оңтүстік Қазақстан облысы Сарыағаш аудандық мәслихатының 11.08.2014 № 34-278-V шешімімен (01.01.2014 бастап қолданысқа енгізіледі).*
 
 <table>
 <tr>
 <td colspan="3">Санаты</td>
 <td></td>
-<td rowspan="2">сомасы мың теңге</td>
+<td rowspan="4">сомасы мың теңге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2">Сыныбы</td>
-<td></td>
+<td colspan="3">Сыныбы</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="3">Ішкі сыныбы</td>
+<td colspan="2">Ішкі сыныбы</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>Атауы</td>
-<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>1. Кірістер</td>
-<td>25 014 499</td>
+<td>25 455 317</td>
 </tr>
 <tr>
 <td>1</td>
@@ -224,21 +222,21 @@ source: https://zan.gov.kz/client/#!/doc/76587/kaz/27.05.2014
 <td></td>
 <td></td>
 <td>Трансферттердің түсімдері</td>
-<td>22 013 419</td>
+<td>22 454 237</td>
 </tr>
 <tr>
 <td>4</td>
 <td>02</td>
 <td></td>
 <td>Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td>22 013 419</td>
+<td>22 454 237</td>
 </tr>
 <tr>
 <td>4</td>
 <td>2</td>
 <td>2</td>
 <td>Облыстық бюджеттен түсетiн трансферттер</td>
-<td>22 013 419</td>
+<td>22 454 237</td>
 </tr>
 </table>
 
@@ -275,7 +273,7 @@ source: https://zan.gov.kz/client/#!/doc/76587/kaz/27.05.2014
 <td></td>
 <td></td>
 <td>2. Шығындар</td>
-<td>25 014 499</td>
+<td>25 455 317</td>
 </tr>
 <tr>
 <td>01</td>
@@ -523,7 +521,7 @@ source: https://zan.gov.kz/client/#!/doc/76587/kaz/27.05.2014
 <td></td>
 <td></td>
 <td>Бiлiм беру</td>
-<td>17 651 001</td>
+<td>18 091 819</td>
 </tr>
 <tr>
 <td>4</td>
@@ -611,7 +609,7 @@ source: https://zan.gov.kz/client/#!/doc/76587/kaz/27.05.2014
 <td></td>
 <td></td>
 <td>Бiлiм беру саласындағы өзге де қызметтер</td>
-<td>6 674 108</td>
+<td>7 114 926</td>
 </tr>
 <tr>
 <td>4</td>
@@ -659,7 +657,7 @@ source: https://zan.gov.kz/client/#!/doc/76587/kaz/27.05.2014
 <td>467</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) құрылыс бөлімі</td>
-<td>6 041 436</td>
+<td>6 482 254</td>
 </tr>
 <tr>
 <td>4</td>
@@ -667,7 +665,7 @@ source: https://zan.gov.kz/client/#!/doc/76587/kaz/27.05.2014
 <td>467</td>
 <td>037</td>
 <td>Білім беру объектілерін салу және реконструкциялау</td>
-<td>6 041 436</td>
+<td>6 482 254</td>
 </tr>
 <tr>
 <td>06</td>
@@ -1553,12 +1551,11 @@ source: https://zan.gov.kz/client/#!/doc/76587/kaz/27.05.2014
 <td colspan="3">Санаты</td>
 <td></td>
 <td></td>
-<td rowspan="3">сомасы мың теңге</td>
+<td rowspan="5">сомасы мың теңге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2">Сыныбы</td>
-<td></td>
+<td colspan="3">Сыныбы</td>
 <td></td>
 </tr>
 <tr>
@@ -1570,7 +1567,7 @@ source: https://zan.gov.kz/client/#!/doc/76587/kaz/27.05.2014
 <td></td>
 <td></td>
 <td></td>
-<td colspan="3">Ерекшелігі</td>
+<td colspan="2">Ерекшелігі</td>
 </tr>
 <tr>
 <td></td>
@@ -1578,7 +1575,6 @@ source: https://zan.gov.kz/client/#!/doc/76587/kaz/27.05.2014
 <td></td>
 <td></td>
 <td>Атауы</td>
-<td></td>
 </tr>
 <tr>
 <td>5</td>
