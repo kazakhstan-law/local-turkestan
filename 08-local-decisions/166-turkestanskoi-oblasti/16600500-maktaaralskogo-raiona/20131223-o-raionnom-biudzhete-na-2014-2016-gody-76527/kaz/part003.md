@@ -1,11 +1,11 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/76527/kaz/26.05.2014
+source: https://zan.gov.kz/client/#!/doc/76527/kaz/12.08.2014
 ---
 
 ## 2016 жылға арналған аудандық бюджет
 
-> *Ескерту. 3-қосымша жаңа редакцияда - Оңтүстік Қазақстан облысы Мақтаарал аудандық мәслихатының 24.02.2014 № 28-149-V шешімімен (01.01.2014 бастап қолданысқа енгізіледі).*
+> *Ескерту. 3-қосымша жаңа редакцияда - Оңтүстік Қазақстан облысы Мақтаарал аудандық мәслихатының 12.08.2014 № 34-194-V шешімімен (01.01.2014 бастап қолданысқа енгізіледі).*
 
 <table>
 <tr>
@@ -27,7 +27,10 @@ source: https://zan.gov.kz/client/#!/doc/76527/kaz/26.05.2014
 <td colspan="3">Iшкi сыныбы</td>
 </tr>
 <tr>
-<th colspan="4">1</th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
 <th>2</th>
 <th>3</th>
 </tr>
@@ -37,7 +40,7 @@ source: https://zan.gov.kz/client/#!/doc/76527/kaz/26.05.2014
 <td></td>
 <td></td>
 <td>1. Кірістер</td>
-<td>22 312 589</td>
+<td>22 538 081</td>
 </tr>
 <tr>
 <td>1</td>
@@ -204,7 +207,7 @@ source: https://zan.gov.kz/client/#!/doc/76527/kaz/26.05.2014
 <td>06</td>
 <td></td>
 <td></td>
-<td>Басқа да салықтық емес түсiмдер</td>
+<td>Өзге де салықтық емес түсiмдер</td>
 <td>5 457</td>
 </tr>
 <tr>
@@ -212,7 +215,7 @@ source: https://zan.gov.kz/client/#!/doc/76527/kaz/26.05.2014
 <td></td>
 <td>1</td>
 <td></td>
-<td>Басқа да салықтық емес түсiмдер</td>
+<td>Өзге де салықтық емес түсiмдер</td>
 <td>5 457</td>
 </tr>
 <tr>
@@ -245,7 +248,7 @@ source: https://zan.gov.kz/client/#!/doc/76527/kaz/26.05.2014
 <td></td>
 <td></td>
 <td>Трансферттер түсімі</td>
-<td>20 790 917</td>
+<td>21 016 409</td>
 </tr>
 <tr>
 <td></td>
@@ -253,7 +256,7 @@ source: https://zan.gov.kz/client/#!/doc/76527/kaz/26.05.2014
 <td></td>
 <td></td>
 <td>Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td>20 790 917</td>
+<td>21 016 409</td>
 </tr>
 <tr>
 <td></td>
@@ -261,7 +264,7 @@ source: https://zan.gov.kz/client/#!/doc/76527/kaz/26.05.2014
 <td>2</td>
 <td></td>
 <td>Облыстық бюджеттен түсетiн трансферттер</td>
-<td>20 790 917</td>
+<td>21 016 409</td>
 </tr>
 <tr>
 <td colspan="5">Функционалдық топ</td>
@@ -290,7 +293,10 @@ source: https://zan.gov.kz/client/#!/doc/76527/kaz/26.05.2014
 <td>Атауы</td>
 </tr>
 <tr>
-<th colspan="4">1</th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
 <th>2</th>
 <th>3</th>
 </tr>
@@ -300,7 +306,7 @@ source: https://zan.gov.kz/client/#!/doc/76527/kaz/26.05.2014
 <td></td>
 <td></td>
 <td>2. Шығындар</td>
-<td>22 312 589</td>
+<td>22 538 081</td>
 </tr>
 <tr>
 <td>01</td>
@@ -836,7 +842,7 @@ source: https://zan.gov.kz/client/#!/doc/76527/kaz/26.05.2014
 <td></td>
 <td></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>695 866</td>
+<td>921 358</td>
 </tr>
 <tr>
 <td></td>
@@ -916,7 +922,7 @@ source: https://zan.gov.kz/client/#!/doc/76527/kaz/26.05.2014
 <td></td>
 <td></td>
 <td>Коммуналдық шаруашылық</td>
-<td>574 394</td>
+<td>799 886</td>
 </tr>
 <tr>
 <td></td>
@@ -940,7 +946,7 @@ source: https://zan.gov.kz/client/#!/doc/76527/kaz/26.05.2014
 <td>497</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) тұрғын үй- коммуналдық шаруашылық бөлімі</td>
-<td>574 394</td>
+<td>799 886</td>
 </tr>
 <tr>
 <td></td>
@@ -964,7 +970,7 @@ source: https://zan.gov.kz/client/#!/doc/76527/kaz/26.05.2014
 <td></td>
 <td>058</td>
 <td>Ауылдық елді мекендердегі сумен жабдықтау және су бұру жүйелерін дамыту</td>
-<td>427 500</td>
+<td>652 992</td>
 </tr>
 <tr>
 <td></td>
@@ -1825,7 +1831,10 @@ source: https://zan.gov.kz/client/#!/doc/76527/kaz/26.05.2014
 <td>Атауы</td>
 </tr>
 <tr>
-<th colspan="4">1</th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
 <th>2</th>
 <th>3</th>
 </tr>
@@ -1888,7 +1897,10 @@ source: https://zan.gov.kz/client/#!/doc/76527/kaz/26.05.2014
 <td colspan="3">Iшкi сыныбы</td>
 </tr>
 <tr>
-<th colspan="4">1</th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
 <th>2</th>
 <th>3</th>
 </tr>
@@ -1983,7 +1995,10 @@ source: https://zan.gov.kz/client/#!/doc/76527/kaz/26.05.2014
 <td colspan="3">Iшкi сыныбы</td>
 </tr>
 <tr>
-<th colspan="4">1</th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
 <th>2</th>
 <th>3</th>
 </tr>
@@ -2039,11 +2054,17 @@ source: https://zan.gov.kz/client/#!/doc/76527/kaz/26.05.2014
 <td colspan="2">Бағдарлама</td>
 </tr>
 <tr>
-<td colspan="4"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td>Атауы</td>
 </tr>
 <tr>
-<th colspan="4">1</th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
 <th>2</th>
 <th>3</th>
 </tr>
@@ -2106,7 +2127,10 @@ source: https://zan.gov.kz/client/#!/doc/76527/kaz/26.05.2014
 <td colspan="3">Iшкi сыныбы</td>
 </tr>
 <tr>
-<th colspan="4">1</th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
 <th>2</th>
 <th>3</th>
 </tr>

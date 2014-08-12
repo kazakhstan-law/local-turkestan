@@ -1,21 +1,24 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/76527/rus/26.05.2014
+source: https://zan.gov.kz/client/#!/doc/76527/rus/12.08.2014
 ---
 
 ## Районный бюджет на 2016 год
 
-> *Сноска. Приложение 3 в редакции решения Мактааральского районного маслихата Южно-Казахстанской области от 24.02.2014 № 28-149-V (вводится в действие с 01.01.2014).*
+> *Сноска. Приложение 3 - в редакции решения Мактааральского районного маслихата Южно-Казахстанской области от 12.08.2014 № 34-194-V (вводится в действие с 01.01.2014).*
 
 <table>
 <tr>
-<td colspan="4">Категория</td>
+<td colspan="3">Категория</td>
+<td></td>
 <td>Наименование</td>
 <td rowspan="3">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="4">Класс</td>
+<td colspan="2">Класс</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -23,7 +26,10 @@ source: https://zan.gov.kz/client/#!/doc/76527/rus/26.05.2014
 <td colspan="3">Подкласс</td>
 </tr>
 <tr>
-<th colspan="4">1</th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
 <th>2</th>
 <th>3</th>
 </tr>
@@ -32,8 +38,8 @@ source: https://zan.gov.kz/client/#!/doc/76527/rus/26.05.2014
 <td></td>
 <td></td>
 <td></td>
-<td>1.Доходы</td>
-<td>22 312 589</td>
+<td>1. Доходы</td>
+<td>22 538 081</td>
 </tr>
 <tr>
 <td>1</td>
@@ -241,7 +247,7 @@ source: https://zan.gov.kz/client/#!/doc/76527/rus/26.05.2014
 <td></td>
 <td></td>
 <td>Поступления трансфертов</td>
-<td>20 790 917</td>
+<td>21 016 409</td>
 </tr>
 <tr>
 <td></td>
@@ -249,7 +255,7 @@ source: https://zan.gov.kz/client/#!/doc/76527/rus/26.05.2014
 <td></td>
 <td></td>
 <td>Трансферты из вышестоящих органов государственного управления</td>
-<td>20 790 917</td>
+<td>21 016 409</td>
 </tr>
 <tr>
 <td></td>
@@ -257,15 +263,15 @@ source: https://zan.gov.kz/client/#!/doc/76527/rus/26.05.2014
 <td>2</td>
 <td></td>
 <td>Трансферты из областного бюджета</td>
-<td>20 790 917</td>
+<td>21 016 409</td>
 </tr>
 <tr>
 <td colspan="5">Функциональная группа</td>
-<td rowspan="4">Сумма, тысяч тенге</td>
+<td rowspan="5">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="4">Функциональная подгруппа Наименование</td>
+<td colspan="4">Функциональная подгруппа</td>
 </tr>
 <tr>
 <td></td>
@@ -279,7 +285,17 @@ source: https://zan.gov.kz/client/#!/doc/76527/rus/26.05.2014
 <td colspan="2">Программа</td>
 </tr>
 <tr>
-<th colspan="4">1</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Наименование</td>
+</tr>
+<tr>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
 <th>2</th>
 <th>3</th>
 </tr>
@@ -288,8 +304,8 @@ source: https://zan.gov.kz/client/#!/doc/76527/rus/26.05.2014
 <td></td>
 <td></td>
 <td></td>
-<td>2.Затраты</td>
-<td>22 312 589</td>
+<td>2. Затраты</td>
+<td>22 538 081</td>
 </tr>
 <tr>
 <td>01</td>
@@ -825,7 +841,7 @@ source: https://zan.gov.kz/client/#!/doc/76527/rus/26.05.2014
 <td></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>695 866</td>
+<td>921 358</td>
 </tr>
 <tr>
 <td></td>
@@ -905,7 +921,7 @@ source: https://zan.gov.kz/client/#!/doc/76527/rus/26.05.2014
 <td></td>
 <td></td>
 <td>Коммунальное хозяйство</td>
-<td>574 394</td>
+<td>799 886</td>
 </tr>
 <tr>
 <td></td>
@@ -929,7 +945,7 @@ source: https://zan.gov.kz/client/#!/doc/76527/rus/26.05.2014
 <td>497</td>
 <td></td>
 <td>Отдел жилищно-коммунального хозяйства района (города областного значения)</td>
-<td>574 394</td>
+<td>799 886</td>
 </tr>
 <tr>
 <td></td>
@@ -953,7 +969,7 @@ source: https://zan.gov.kz/client/#!/doc/76527/rus/26.05.2014
 <td></td>
 <td>058</td>
 <td>Развитие системы водоснабжения и водоотведения в сельских населенных пунктах</td>
-<td>427 500</td>
+<td>652 992</td>
 </tr>
 <tr>
 <td></td>
@@ -1789,11 +1805,11 @@ source: https://zan.gov.kz/client/#!/doc/76527/rus/26.05.2014
 </tr>
 <tr>
 <td colspan="5">Функциональная группа</td>
-<td rowspan="4">Сумма, тысяч тенге</td>
+<td rowspan="5">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="4">Функциональная подгруппа Наименование</td>
+<td colspan="4">Функциональная подгруппа</td>
 </tr>
 <tr>
 <td></td>
@@ -1807,7 +1823,17 @@ source: https://zan.gov.kz/client/#!/doc/76527/rus/26.05.2014
 <td colspan="2">Программа</td>
 </tr>
 <tr>
-<th colspan="4">1</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Наименование</td>
+</tr>
+<tr>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
 <th>2</th>
 <th>3</th>
 </tr>
@@ -1852,13 +1878,16 @@ source: https://zan.gov.kz/client/#!/doc/76527/rus/26.05.2014
 <td>0</td>
 </tr>
 <tr>
-<td colspan="4">Категория</td>
+<td colspan="3">Категория</td>
+<td></td>
 <td>Наименование</td>
 <td rowspan="3">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="4">Класс</td>
+<td colspan="2">Класс</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -1866,7 +1895,10 @@ source: https://zan.gov.kz/client/#!/doc/76527/rus/26.05.2014
 <td colspan="3">Подкласс</td>
 </tr>
 <tr>
-<th colspan="4">1</th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
 <th>2</th>
 <th>3</th>
 </tr>
@@ -1943,13 +1975,16 @@ source: https://zan.gov.kz/client/#!/doc/76527/rus/26.05.2014
 <td>0</td>
 </tr>
 <tr>
-<td colspan="4">Категория</td>
+<td colspan="3">Категория</td>
+<td></td>
 <td>Наименование</td>
 <td rowspan="3">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="4">Класс</td>
+<td colspan="2">Класс</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -1957,7 +1992,10 @@ source: https://zan.gov.kz/client/#!/doc/76527/rus/26.05.2014
 <td colspan="3">Подкласс</td>
 </tr>
 <tr>
-<th colspan="4">1</th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
 <th>2</th>
 <th>3</th>
 </tr>
@@ -1995,11 +2033,11 @@ source: https://zan.gov.kz/client/#!/doc/76527/rus/26.05.2014
 </tr>
 <tr>
 <td colspan="5">Функциональная группа</td>
-<td rowspan="4">Сумма, тысяч тенге</td>
+<td rowspan="5">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="4">Функциональная подгруппа Наименование</td>
+<td colspan="4">Функциональная подгруппа</td>
 </tr>
 <tr>
 <td></td>
@@ -2013,7 +2051,17 @@ source: https://zan.gov.kz/client/#!/doc/76527/rus/26.05.2014
 <td colspan="2">Программа</td>
 </tr>
 <tr>
-<th colspan="4">1</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Наименование</td>
+</tr>
+<tr>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
 <th>2</th>
 <th>3</th>
 </tr>
@@ -2058,13 +2106,16 @@ source: https://zan.gov.kz/client/#!/doc/76527/rus/26.05.2014
 <td>0</td>
 </tr>
 <tr>
-<td colspan="4">Категория</td>
+<td colspan="3">Категория</td>
+<td></td>
 <td>Наименование</td>
 <td rowspan="3">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="4">Класс</td>
+<td colspan="2">Класс</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -2072,7 +2123,10 @@ source: https://zan.gov.kz/client/#!/doc/76527/rus/26.05.2014
 <td colspan="3">Подкласс</td>
 </tr>
 <tr>
-<th colspan="4">1</th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
 <th>2</th>
 <th>3</th>
 </tr>
