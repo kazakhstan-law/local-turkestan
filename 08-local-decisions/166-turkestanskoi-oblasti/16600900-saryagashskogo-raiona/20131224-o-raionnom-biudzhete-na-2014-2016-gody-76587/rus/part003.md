@@ -1,11 +1,11 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/76587/rus/11.08.2014
+source: https://zan.gov.kz/client/#!/doc/76587/rus/03.11.2014
 ---
 
 ## Районный бюджет на 2016 год
 
-> *Сноска. Приложение 3 - в редакции решения Сарыагашского районного маслихата Южно-Казахстанской области от 11.08.2014 № 34-278-V (вводится в действие с 01.01.2014).*
+> *Сноска. Приложение 3 - в редакции решения Сарыагашского районного маслихата Южно-Казахстанской области от 03.11.2014 № 36-300-V (вводится в действие с 01.01.2014).*
 
 <table>
 <tr>
@@ -15,7 +15,8 @@ source: https://zan.gov.kz/client/#!/doc/76587/rus/11.08.2014
 </tr>
 <tr>
 <td></td>
-<td colspan="3">Класс</td>
+<td colspan="2">Класс</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -243,7 +244,7 @@ source: https://zan.gov.kz/client/#!/doc/76587/rus/11.08.2014
 <table>
 <tr>
 <td colspan="5">Функциональная группа</td>
-<td rowspan="5">сумма, тысяч тенге</td>
+<td rowspan="6">сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
@@ -265,6 +266,13 @@ source: https://zan.gov.kz/client/#!/doc/76587/rus/11.08.2014
 <td></td>
 <td></td>
 <td></td>
+<td>Подпрограмма</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td>Наименование</td>
 </tr>
 <tr>
@@ -273,7 +281,7 @@ source: https://zan.gov.kz/client/#!/doc/76587/rus/11.08.2014
 <td></td>
 <td></td>
 <td>2. Затраты</td>
-<td>25 014 499</td>
+<td>25 455 317</td>
 </tr>
 <tr>
 <td>01</td>
@@ -521,7 +529,7 @@ source: https://zan.gov.kz/client/#!/doc/76587/rus/11.08.2014
 <td></td>
 <td></td>
 <td>Образование</td>
-<td>17 651 001</td>
+<td>18 091 819</td>
 </tr>
 <tr>
 <td>4</td>
@@ -609,7 +617,7 @@ source: https://zan.gov.kz/client/#!/doc/76587/rus/11.08.2014
 <td></td>
 <td></td>
 <td>Прочие услуги в области образования</td>
-<td>6 674 108</td>
+<td>7 114 926</td>
 </tr>
 <tr>
 <td>4</td>
@@ -657,7 +665,7 @@ source: https://zan.gov.kz/client/#!/doc/76587/rus/11.08.2014
 <td>467</td>
 <td></td>
 <td>Отдел строительства района (города областного значения)</td>
-<td>6 041 436</td>
+<td>6 482 254</td>
 </tr>
 <tr>
 <td>4</td>
@@ -665,7 +673,7 @@ source: https://zan.gov.kz/client/#!/doc/76587/rus/11.08.2014
 <td>467</td>
 <td>037</td>
 <td>Строительство и реконструкция объектов образования</td>
-<td>6 041 436</td>
+<td>6 482 254</td>
 </tr>
 <tr>
 <td>06</td>
@@ -1562,7 +1570,8 @@ source: https://zan.gov.kz/client/#!/doc/76587/rus/11.08.2014
 <tr>
 <td></td>
 <td></td>
-<td colspan="3">Подкласс</td>
+<td colspan="2">Подкласс</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -1639,7 +1648,7 @@ source: https://zan.gov.kz/client/#!/doc/76587/rus/11.08.2014
 <td></td>
 <td></td>
 <td>5. Дефицит (профицит) бюджета</td>
-<td>5 315</td>
+<td>-435 503</td>
 </tr>
 <tr>
 <td></td>
