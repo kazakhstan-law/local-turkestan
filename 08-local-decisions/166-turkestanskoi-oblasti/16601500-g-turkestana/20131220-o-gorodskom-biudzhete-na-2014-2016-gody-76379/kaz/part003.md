@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/76379/kaz/31.10.2014
+source: https://zan.gov.kz/client/#!/doc/76379/kaz/03.12.2014
 ---
 
 ## 2016 жылға арналған қалалық бюджет

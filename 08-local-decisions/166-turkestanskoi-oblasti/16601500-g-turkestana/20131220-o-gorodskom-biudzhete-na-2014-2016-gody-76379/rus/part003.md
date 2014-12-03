@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/76379/rus/31.10.2014
+source: https://zan.gov.kz/client/#!/doc/76379/rus/03.12.2014
 ---
 
 ## Городской бюджет на 2016 год
