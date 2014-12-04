@@ -1,21 +1,25 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/76623/rus/30.10.2014
+source: https://zan.gov.kz/client/#!/doc/76623/rus/04.12.2014
 ---
 
 ## Районный бюджет на 2016 год
 
-> *Сноска. Приложение 3 - в редакции решения Байдибекского районного маслихата Южно-Казахстанской области от 08.08.2014 № 30/155 (вводится в действие с 01.01.2014).*
+> *Сноска. Приложение 3 - в редакции решения Байдибекского районного маслихата Южно-Казахстанской области от 04.12.2014 № 32/159 (вводится в действие с 01.01.2014).*
 
 <table>
 <tr>
-<td colspan="3">Категория</td>
-<td></td>
-<td rowspan="3">Сумма, тысяч тенге</td>
+<td colspan="4">Категория</td>
+<td rowspan="4">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2">Класс</td>
+<td colspan="3">Класс</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
 <td>Наименование</td>
 </tr>
 <tr>
@@ -24,9 +28,7 @@ source: https://zan.gov.kz/client/#!/doc/76623/rus/30.10.2014
 <td colspan="2">Подкласс</td>
 </tr>
 <tr>
-<th>1</th>
-<th></th>
-<th></th>
+<th colspan="3">1</th>
 <th>2</th>
 <th>3</th>
 </tr>
@@ -35,7 +37,7 @@ source: https://zan.gov.kz/client/#!/doc/76623/rus/30.10.2014
 <td></td>
 <td></td>
 <td>1. Доходы</td>
-<td>7689088</td>
+<td>8389088</td>
 </tr>
 <tr>
 <td>1</td>
@@ -231,28 +233,28 @@ source: https://zan.gov.kz/client/#!/doc/76623/rus/30.10.2014
 <td></td>
 <td></td>
 <td>Поступления трансфертов</td>
-<td>7289497</td>
+<td>7989497</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td>Трансферты из вышестоящих органов государственного управления</td>
-<td>7289497</td>
+<td>7989497</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>2</td>
 <td>Трансферты из областного бюджета</td>
-<td>7289497</td>
+<td>7989497</td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td colspan="5">Функциональная группа</td>
-<td rowspan="5">Сумма, тысяч тенге</td>
+<td colspan="5">Функциональная группа Наименование</td>
+<td rowspan="4">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
@@ -274,15 +276,8 @@ source: https://zan.gov.kz/client/#!/doc/76623/rus/30.10.2014
 <td></td>
 <td></td>
 <td></td>
-<td>Наименование</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td>2. Затраты</td>
-<td>7689088</td>
+<td>8389088</td>
 </tr>
 <tr>
 <td>01</td>
@@ -778,7 +773,7 @@ source: https://zan.gov.kz/client/#!/doc/76623/rus/30.10.2014
 <td></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>1262518</td>
+<td>1962518</td>
 </tr>
 <tr>
 <td></td>
@@ -786,7 +781,7 @@ source: https://zan.gov.kz/client/#!/doc/76623/rus/30.10.2014
 <td></td>
 <td></td>
 <td>Коммунальное хозяйство</td>
-<td>1223646</td>
+<td>1923646</td>
 </tr>
 <tr>
 <td></td>
@@ -794,7 +789,7 @@ source: https://zan.gov.kz/client/#!/doc/76623/rus/30.10.2014
 <td>458</td>
 <td></td>
 <td>Отдел жилищно-коммунального хозяйства, пассажирского транспорта и автомобильных дорог района (города областного значения)</td>
-<td>1223646</td>
+<td>1923646</td>
 </tr>
 <tr>
 <td></td>
@@ -810,7 +805,7 @@ source: https://zan.gov.kz/client/#!/doc/76623/rus/30.10.2014
 <td></td>
 <td>058</td>
 <td>Развитие системы водоснабжения и водоотведения в сельских населенных пунктах</td>
-<td>1183916</td>
+<td>1883916</td>
 </tr>
 <tr>
 <td></td>
@@ -921,7 +916,7 @@ source: https://zan.gov.kz/client/#!/doc/76623/rus/30.10.2014
 <td></td>
 <td></td>
 <td>009</td>
-<td>Обеспечение сохранности историко - культурного наследия и доступа к ним</td>
+<td>Обеспечение сохранности историко-культурного наследия и доступа к ним</td>
 <td>2400</td>
 </tr>
 <tr>
@@ -1095,9 +1090,9 @@ source: https://zan.gov.kz/client/#!/doc/76623/rus/30.10.2014
 <tr>
 <td></td>
 <td></td>
-<td>458</td>
+<td>472</td>
 <td></td>
-<td>Отдел жилищно-коммунального хозяйства, пассажирского транспорта и автомобильных дорог района (города областного значения)</td>
+<td>Отдел строительства, архитектуры и градостроительства района (города областного значения)</td>
 <td>1000000</td>
 </tr>
 <tr>
@@ -1434,10 +1429,10 @@ source: https://zan.gov.kz/client/#!/doc/76623/rus/30.10.2014
 <td></td>
 <td></td>
 <td>3. Чистое бюджетное кредитование</td>
-<td>-10974</td>
+<td>-14457</td>
 </tr>
 <tr>
-<td colspan="5">Функциональная группа</td>
+<td colspan="5">Функциональная группа Наименование</td>
 <td rowspan="4">Сумма, тысяч тенге</td>
 </tr>
 <tr>
@@ -1464,21 +1459,20 @@ source: https://zan.gov.kz/client/#!/doc/76623/rus/30.10.2014
 <td>0</td>
 </tr>
 <tr>
-<td colspan="3">Категория</td>
-<td></td>
+<td colspan="4">Категория</td>
 <td>Наименование</td>
 <td rowspan="4">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2">Класс</td>
-<td></td>
+<td colspan="3">Класс</td>
 <td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="3">Подкласс</td>
+<td colspan="2">Подкласс</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -1492,7 +1486,7 @@ source: https://zan.gov.kz/client/#!/doc/76623/rus/30.10.2014
 <td></td>
 <td></td>
 <td>Погашение бюджетных кредитов</td>
-<td>10974</td>
+<td>14457</td>
 </tr>
 <tr>
 <td>5</td>
@@ -1500,7 +1494,7 @@ source: https://zan.gov.kz/client/#!/doc/76623/rus/30.10.2014
 <td></td>
 <td></td>
 <td>Погашение бюджетных кредитов</td>
-<td>10974</td>
+<td>14457</td>
 </tr>
 <tr>
 <td></td>
@@ -1508,7 +1502,7 @@ source: https://zan.gov.kz/client/#!/doc/76623/rus/30.10.2014
 <td></td>
 <td></td>
 <td>Погашение бюджетных кредитов</td>
-<td>10974</td>
+<td>14457</td>
 </tr>
 <tr>
 <td></td>
@@ -1516,7 +1510,7 @@ source: https://zan.gov.kz/client/#!/doc/76623/rus/30.10.2014
 <td>1</td>
 <td></td>
 <td>Погашение бюджетных кредитов, выданных из государственного бюджета</td>
-<td>10974</td>
+<td>14457</td>
 </tr>
 <tr>
 <td></td>
@@ -1524,7 +1518,7 @@ source: https://zan.gov.kz/client/#!/doc/76623/rus/30.10.2014
 <td></td>
 <td>13</td>
 <td>Погашение бюджетных кредитов, выданных из местного бюджета физическим лицам</td>
-<td>10974</td>
+<td>14457</td>
 </tr>
 <tr>
 <td></td>
@@ -1535,8 +1529,8 @@ source: https://zan.gov.kz/client/#!/doc/76623/rus/30.10.2014
 <td>0</td>
 </tr>
 <tr>
-<td colspan="5">Функциональная группа</td>
-<td rowspan="5">Сумма, тысяч тенге</td>
+<td colspan="5">Функциональная группа Наименование</td>
+<td rowspan="4">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
@@ -1558,32 +1552,24 @@ source: https://zan.gov.kz/client/#!/doc/76623/rus/30.10.2014
 <td></td>
 <td></td>
 <td></td>
-<td>Наименование</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td>Приобретение финансовых активов</td>
 <td>0</td>
 </tr>
 <tr>
-<td colspan="3">Категория</td>
-<td></td>
+<td colspan="4">Категория</td>
 <td>Наименование</td>
 <td rowspan="4">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2">Класс</td>
-<td></td>
+<td colspan="3">Класс</td>
 <td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="3">Подкласс</td>
+<td colspan="2">Подкласс</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -1605,7 +1591,7 @@ source: https://zan.gov.kz/client/#!/doc/76623/rus/30.10.2014
 <td></td>
 <td></td>
 <td>5. Дефицит (профицит) бюджета</td>
-<td>10974</td>
+<td>14457</td>
 </tr>
 <tr>
 <td></td>
@@ -1613,24 +1599,23 @@ source: https://zan.gov.kz/client/#!/doc/76623/rus/30.10.2014
 <td></td>
 <td></td>
 <td>6. Финансирование дефицита (использование профицита) бюджета</td>
-<td>-10974</td>
+<td>-14457</td>
 </tr>
 <tr>
-<td colspan="3">Категория</td>
-<td></td>
+<td colspan="4">Категория</td>
 <td>Наименование</td>
 <td rowspan="4">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2">Класс</td>
-<td></td>
+<td colspan="3">Класс</td>
 <td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="3">Подкласс</td>
+<td colspan="2">Подкласс</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -1671,7 +1656,7 @@ source: https://zan.gov.kz/client/#!/doc/76623/rus/30.10.2014
 <td></td>
 <td></td>
 <td>Погашение займов</td>
-<td>10974</td>
+<td>14457</td>
 </tr>
 <tr>
 <td></td>
@@ -1679,7 +1664,7 @@ source: https://zan.gov.kz/client/#!/doc/76623/rus/30.10.2014
 <td></td>
 <td></td>
 <td>Погашение займов</td>
-<td>10974</td>
+<td>14457</td>
 </tr>
 <tr>
 <td></td>
@@ -1687,7 +1672,7 @@ source: https://zan.gov.kz/client/#!/doc/76623/rus/30.10.2014
 <td>459</td>
 <td></td>
 <td>Отдел экономики и финансов района (города областного значения)</td>
-<td>10974</td>
+<td>14457</td>
 </tr>
 <tr>
 <td></td>
@@ -1695,24 +1680,23 @@ source: https://zan.gov.kz/client/#!/doc/76623/rus/30.10.2014
 <td></td>
 <td>005</td>
 <td>Погашение долга местного исполнительного органа перед вышестоящим бюджетом</td>
-<td>10974</td>
+<td>14457</td>
 </tr>
 <tr>
-<td colspan="3">Категория</td>
-<td></td>
+<td colspan="4">Категория</td>
 <td>Наименование</td>
 <td rowspan="4">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2">Класс</td>
-<td></td>
+<td colspan="3">Класс</td>
 <td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="3">Подкласс</td>
+<td colspan="2">Подкласс</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
