@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/76689/kaz/30.10.2014
+source: https://zan.gov.kz/client/#!/doc/76689/kaz/05.12.2014
 ---
 
 ## Түлкібас ауданының 2016 жылға арналған аудандық бюджет

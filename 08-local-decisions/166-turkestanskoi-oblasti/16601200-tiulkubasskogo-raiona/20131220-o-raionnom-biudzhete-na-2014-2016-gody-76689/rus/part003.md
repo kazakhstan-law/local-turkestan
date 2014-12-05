@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/76689/rus/30.10.2014
+source: https://zan.gov.kz/client/#!/doc/76689/rus/05.12.2014
 ---
 
 ## Тюлькубасский районный бюджет на 2016 год
