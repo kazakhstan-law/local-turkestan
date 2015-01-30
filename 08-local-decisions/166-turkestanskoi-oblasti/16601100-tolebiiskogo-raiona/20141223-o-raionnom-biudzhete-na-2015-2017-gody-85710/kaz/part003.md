@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/85710/kaz/23.12.2014
+source: https://zan.gov.kz/client/#!/doc/85710/kaz/30.01.2015
 ---
 
 > *Төлеби аудандық мәслихатының*  
@@ -1919,10 +1919,12 @@ source: https://zan.gov.kz/client/#!/doc/85710/kaz/23.12.2014
 
 > *Төлеби аудандық мәслихатының*  
 > *2014 жылғы 23 желтоқсанындағы*  
-> *№ 38/176-V шешіміне*  
+> *№38/176-V шешіміне*  
 > *5 қосымша*
 
 # 2015 жылға арналған аудандық бюджетте әрбір ауылдық округтің бюджеттік бағдарламаларының тізбесі
+
+> *Ескерту. 5-қосымша жаңа редакцияда - Оңтүстік Қазақстан облысы Төлеби аудандық мәслихатының 30.01.2015 № 39/185-Vшешімімен (01.01.2015 бастап қолданысқа енгізіледі).*
 
 <table>
 <tr>
@@ -1957,7 +1959,7 @@ source: https://zan.gov.kz/client/#!/doc/85710/kaz/23.12.2014
 <td></td>
 <td></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер көрсету</td>
-<td>263569</td>
+<td>279466</td>
 </tr>
 <tr>
 <td></td>
@@ -1965,7 +1967,7 @@ source: https://zan.gov.kz/client/#!/doc/85710/kaz/23.12.2014
 <td></td>
 <td></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>263569</td>
+<td>279466</td>
 </tr>
 <tr>
 <td></td>
@@ -1973,7 +1975,7 @@ source: https://zan.gov.kz/client/#!/doc/85710/kaz/23.12.2014
 <td>123</td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td>263569</td>
+<td>279466</td>
 </tr>
 <tr>
 <td></td>
@@ -1981,7 +1983,7 @@ source: https://zan.gov.kz/client/#!/doc/85710/kaz/23.12.2014
 <td></td>
 <td>001</td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>210798</td>
+<td>226695</td>
 </tr>
 <tr>
 <td></td>
@@ -1997,7 +1999,7 @@ source: https://zan.gov.kz/client/#!/doc/85710/kaz/23.12.2014
 <td></td>
 <td></td>
 <td>Ленгір</td>
-<td>27887</td>
+<td>29313</td>
 </tr>
 <tr>
 <td></td>
@@ -2005,7 +2007,7 @@ source: https://zan.gov.kz/client/#!/doc/85710/kaz/23.12.2014
 <td></td>
 <td></td>
 <td>Аққұм</td>
-<td>13311</td>
+<td>14356</td>
 </tr>
 <tr>
 <td></td>
@@ -2013,7 +2015,7 @@ source: https://zan.gov.kz/client/#!/doc/85710/kaz/23.12.2014
 <td></td>
 <td></td>
 <td>Алатау</td>
-<td>14038</td>
+<td>15214</td>
 </tr>
 <tr>
 <td></td>
@@ -2021,7 +2023,7 @@ source: https://zan.gov.kz/client/#!/doc/85710/kaz/23.12.2014
 <td></td>
 <td></td>
 <td>Зертас</td>
-<td>14731</td>
+<td>15892</td>
 </tr>
 <tr>
 <td></td>
@@ -2029,7 +2031,7 @@ source: https://zan.gov.kz/client/#!/doc/85710/kaz/23.12.2014
 <td></td>
 <td></td>
 <td>Жоғарғы Ақсу</td>
-<td>13215</td>
+<td>14260</td>
 </tr>
 <tr>
 <td></td>
@@ -2037,7 +2039,7 @@ source: https://zan.gov.kz/client/#!/doc/85710/kaz/23.12.2014
 <td></td>
 <td></td>
 <td>Көксәйек</td>
-<td>18713</td>
+<td>20170</td>
 </tr>
 <tr>
 <td></td>
@@ -2045,7 +2047,7 @@ source: https://zan.gov.kz/client/#!/doc/85710/kaz/23.12.2014
 <td></td>
 <td></td>
 <td>Қасқасу</td>
-<td>14059</td>
+<td>15181</td>
 </tr>
 <tr>
 <td></td>
@@ -2053,7 +2055,7 @@ source: https://zan.gov.kz/client/#!/doc/85710/kaz/23.12.2014
 <td></td>
 <td></td>
 <td>Қоғалы</td>
-<td>12331</td>
+<td>13479</td>
 </tr>
 <tr>
 <td></td>
@@ -2061,7 +2063,7 @@ source: https://zan.gov.kz/client/#!/doc/85710/kaz/23.12.2014
 <td></td>
 <td></td>
 <td>Қаратөбе</td>
-<td>14643</td>
+<td>15855</td>
 </tr>
 <tr>
 <td></td>
@@ -2069,7 +2071,7 @@ source: https://zan.gov.kz/client/#!/doc/85710/kaz/23.12.2014
 <td></td>
 <td></td>
 <td>Бірінші Мамыр</td>
-<td>22120</td>
+<td>23595</td>
 </tr>
 <tr>
 <td></td>
@@ -2077,7 +2079,7 @@ source: https://zan.gov.kz/client/#!/doc/85710/kaz/23.12.2014
 <td></td>
 <td></td>
 <td>Тасарық</td>
-<td>12150</td>
+<td>13131</td>
 </tr>
 <tr>
 <td></td>
@@ -2085,7 +2087,7 @@ source: https://zan.gov.kz/client/#!/doc/85710/kaz/23.12.2014
 <td></td>
 <td></td>
 <td>Киелітас</td>
-<td>18912</td>
+<td>20359</td>
 </tr>
 <tr>
 <td></td>
@@ -2093,7 +2095,7 @@ source: https://zan.gov.kz/client/#!/doc/85710/kaz/23.12.2014
 <td></td>
 <td></td>
 <td>Кемеқалған</td>
-<td>14688</td>
+<td>15890</td>
 </tr>
 <tr>
 <td></td>
@@ -2341,7 +2343,7 @@ source: https://zan.gov.kz/client/#!/doc/85710/kaz/23.12.2014
 <td></td>
 <td></td>
 <td>Бiлiм беру</td>
-<td>251589</td>
+<td>578458</td>
 </tr>
 <tr>
 <td></td>
@@ -2349,7 +2351,7 @@ source: https://zan.gov.kz/client/#!/doc/85710/kaz/23.12.2014
 <td></td>
 <td></td>
 <td>Мектепке дейiнгi тәрбие және оқыту</td>
-<td>245193</td>
+<td>572062</td>
 </tr>
 <tr>
 <td></td>
@@ -2357,7 +2359,7 @@ source: https://zan.gov.kz/client/#!/doc/85710/kaz/23.12.2014
 <td>123</td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td>245193</td>
+<td>572062</td>
 </tr>
 <tr>
 <td></td>
@@ -2365,7 +2367,7 @@ source: https://zan.gov.kz/client/#!/doc/85710/kaz/23.12.2014
 <td></td>
 <td>004</td>
 <td>Мектепке дейінгі тәрбие ұйымдарының қызметін қамтамасыз ету</td>
-<td>245193</td>
+<td>272417</td>
 </tr>
 <tr>
 <td></td>
@@ -2397,7 +2399,7 @@ source: https://zan.gov.kz/client/#!/doc/85710/kaz/23.12.2014
 <td></td>
 <td></td>
 <td>Алатау</td>
-<td>31777</td>
+<td>32740</td>
 </tr>
 <tr>
 <td></td>
@@ -2405,7 +2407,7 @@ source: https://zan.gov.kz/client/#!/doc/85710/kaz/23.12.2014
 <td></td>
 <td></td>
 <td>Зертас</td>
-<td>133</td>
+<td>18272</td>
 </tr>
 <tr>
 <td></td>
@@ -2413,7 +2415,7 @@ source: https://zan.gov.kz/client/#!/doc/85710/kaz/23.12.2014
 <td></td>
 <td></td>
 <td>Жоғарғы Ақсу</td>
-<td>1026</td>
+<td>2721</td>
 </tr>
 <tr>
 <td></td>
@@ -2429,7 +2431,7 @@ source: https://zan.gov.kz/client/#!/doc/85710/kaz/23.12.2014
 <td></td>
 <td></td>
 <td>Қасқасу</td>
-<td>839</td>
+<td>1674</td>
 </tr>
 <tr>
 <td></td>
@@ -2437,7 +2439,7 @@ source: https://zan.gov.kz/client/#!/doc/85710/kaz/23.12.2014
 <td></td>
 <td></td>
 <td>Қоғалы</td>
-<td>1988</td>
+<td>3716</td>
 </tr>
 <tr>
 <td></td>
@@ -2445,7 +2447,7 @@ source: https://zan.gov.kz/client/#!/doc/85710/kaz/23.12.2014
 <td></td>
 <td></td>
 <td>Қаратөбе</td>
-<td>14550</td>
+<td>15606</td>
 </tr>
 <tr>
 <td></td>
@@ -2453,7 +2455,7 @@ source: https://zan.gov.kz/client/#!/doc/85710/kaz/23.12.2014
 <td></td>
 <td></td>
 <td>Бірінші Мамыр</td>
-<td>1621</td>
+<td>2521</td>
 </tr>
 <tr>
 <td></td>
@@ -2469,7 +2471,7 @@ source: https://zan.gov.kz/client/#!/doc/85710/kaz/23.12.2014
 <td></td>
 <td></td>
 <td>Киелітас</td>
-<td>1659</td>
+<td>2739</td>
 </tr>
 <tr>
 <td></td>
@@ -2477,7 +2479,127 @@ source: https://zan.gov.kz/client/#!/doc/85710/kaz/23.12.2014
 <td></td>
 <td></td>
 <td>Кемеқалған</td>
-<td>498</td>
+<td>1326</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>041</td>
+<td>Мектепке дейінгі білім беру ұйымдарында мемлекеттік білім беру тапсырысын іске асыруға</td>
+<td>299645</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Оның ішінде:</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Ленгір</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Аққұм</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Алатау</td>
+<td>33614</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Зертас</td>
+<td>26891</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Жоғарғы Ақсу</td>
+<td>19208</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Көксәйек</td>
+<td>58585</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Қасқасу</td>
+<td>33614</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Қоғалы</td>
+<td>19208</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Қаратөбе</td>
+<td>17287</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Бірінші Мамыр</td>
+<td>46099</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Тасарық</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Киелітас</td>
+<td>33614</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Кемеқалған</td>
+<td>11525</td>
 </tr>
 <tr>
 <td></td>
@@ -2893,21 +3015,23 @@ source: https://zan.gov.kz/client/#!/doc/85710/kaz/23.12.2014
 <td></td>
 <td></td>
 <td>Барлығы</td>
-<td>529631</td>
+<td>872397</td>
 </tr>
 </table>
 
 > *Төлеби аудандық мәслихатының*  
 > *2014 жылғы 23 желтоқсанындағы*  
-> *№ 38/176-V шешіміне*  
+> *№38/176-V шешіміне*  
 > *6 қосымша*
 
 # Бюджеттік инвестициялық жобаларды (бағдарламаларды) іске асыруға бағытталған бюджеттік бағдарламалар бөлінісінде 2015 жылға арналған аудандық бюджеттік даму бағдарламаларының тізбесі
 
+> *Ескерту. 6-қосымша жаңа редакцияда - Оңтүстік Қазақстан облысы Төлеби аудандық мәслихатының 30.01.2015 № 39/185-Vшешімімен (01.01.2015 бастап қолданысқа енгізіледі).*
+
 <table>
 <tr>
 <td colspan="5">Функционалдық топ</td>
-<td rowspan="4">Сомасы, мың теңге</td>
+<td rowspan="5">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
@@ -2930,7 +3054,14 @@ source: https://zan.gov.kz/client/#!/doc/85710/kaz/23.12.2014
 <td></td>
 <td></td>
 <td>Атауы</td>
-<td>2635373</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>3648982</td>
 </tr>
 <tr>
 <td></td>
@@ -2938,7 +3069,7 @@ source: https://zan.gov.kz/client/#!/doc/85710/kaz/23.12.2014
 <td>467</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) құрылыс бөлімі</td>
-<td>862260</td>
+<td>1672315</td>
 </tr>
 <tr>
 <td></td>
@@ -2954,7 +3085,7 @@ source: https://zan.gov.kz/client/#!/doc/85710/kaz/23.12.2014
 <td></td>
 <td>037</td>
 <td>Білім беру объектілерін салу және реконструкциялау</td>
-<td>819073</td>
+<td>1182272</td>
 </tr>
 <tr>
 <td></td>
@@ -2962,7 +3093,7 @@ source: https://zan.gov.kz/client/#!/doc/85710/kaz/23.12.2014
 <td></td>
 <td>003</td>
 <td>Мемлекеттік коммуналдық тұрғын үй қорының тұрғын үй құрылысы және (немесе) сатып алу</td>
-<td>3740</td>
+<td>203740</td>
 </tr>
 <tr>
 <td></td>
@@ -2970,7 +3101,7 @@ source: https://zan.gov.kz/client/#!/doc/85710/kaz/23.12.2014
 <td></td>
 <td>004</td>
 <td>Инженерлік коммуникациялық инфрақұрылымды дамыту, жайластыру және (немесе) сатып алу</td>
-<td>24898</td>
+<td>271754</td>
 </tr>
 <tr>
 <td></td>
@@ -2994,7 +3125,7 @@ source: https://zan.gov.kz/client/#!/doc/85710/kaz/23.12.2014
 <td>458</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) тұрғын үй-коммуналдық шаруашылығы, жолаушылар көлігі және автомобиль жолдары бөлімі</td>
-<td>1133160</td>
+<td>1336714</td>
 </tr>
 <tr>
 <td></td>
@@ -3010,7 +3141,7 @@ source: https://zan.gov.kz/client/#!/doc/85710/kaz/23.12.2014
 <td></td>
 <td>058</td>
 <td>Елді мекендердегі сумен жабдықтау және су бұру жүйелерін дамыту</td>
-<td>1034057</td>
+<td>1237611</td>
 </tr>
 <tr>
 <td></td>
