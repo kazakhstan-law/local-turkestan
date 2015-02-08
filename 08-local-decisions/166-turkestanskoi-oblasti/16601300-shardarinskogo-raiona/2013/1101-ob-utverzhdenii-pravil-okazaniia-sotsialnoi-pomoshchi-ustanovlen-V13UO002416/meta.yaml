@@ -31,12 +31,20 @@ versions:
   cause:
     code: '85931'
     key: V14UO002965
+- date: 2015-02-08
+  portal_date: 2014-12-23
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '85931'
+    key: V14UO002965
 version_date:
-  kaz: 2014-04-23
-  rus: 2014-04-23
+  kaz: 2014-12-23
+  rus: 2014-12-23
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/75524/kaz/23.04.2014
-  rus: https://zan.gov.kz/client/#!/doc/75524/rus/23.04.2014
+  kaz: https://zan.gov.kz/client/#!/doc/75524/kaz/23.12.2014
+  rus: https://zan.gov.kz/client/#!/doc/75524/rus/23.12.2014
 caused_by:
   code: '85931'
   key: V14UO002965
