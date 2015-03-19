@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/80183/kaz/28.03.2014
+source: https://zan.gov.kz/client/#!/doc/80183/kaz/19.03.2015
 ---
 
 > *Туынды нормативтік құқықтық*  
