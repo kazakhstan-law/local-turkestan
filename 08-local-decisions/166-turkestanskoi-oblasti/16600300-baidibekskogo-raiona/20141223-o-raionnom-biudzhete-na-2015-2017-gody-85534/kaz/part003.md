@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/85534/kaz/28.01.2015
+source: https://zan.gov.kz/client/#!/doc/85534/kaz/26.03.2015
 ---
 
 > *Бәйдібек аудандық мәслихатының*  
