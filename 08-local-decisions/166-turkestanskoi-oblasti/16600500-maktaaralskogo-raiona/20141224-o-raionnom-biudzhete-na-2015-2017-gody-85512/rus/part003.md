@@ -1,46 +1,44 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/85512/rus/28.01.2015
+source: https://zan.gov.kz/client/#!/doc/85512/rus/26.03.2015
 ---
-
-> *Приложение 3 к решению*  
-> *Мактааральского районного*  
-> *маслихата от 24 декабря*  
-> *2014 года № 38-218-V*
 
 ## Районный бюджет на 2017 год
 
+> *Сноска. Приложение 3 - в редакции решения Мактааральского районного маслихата Южно-Казахстанской области от 26.03.2015 № 41-242-V (вводится в действие с 01.01.2015).*
+
 <table>
 <tr>
-<td colspan="4">Категория</td>
-<td></td>
-<td rowspan="4">Сумма, тысяч тенге</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="4">Класс</td>
-</tr>
-<tr>
+<td colspan="2">Категория</td>
 <td></td>
 <td></td>
-<td colspan="3">Подкласс</td>
-</tr>
-<tr>
-<td colspan="4"></td>
 <td>Наименование</td>
-</tr>
-<tr>
-<th colspan="4">1</th>
-<th>2</th>
-<th>3</th>
+<td rowspan="3">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
+<td colspan="2">Класс</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2">Подкласс</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">1</td>
+<td>2</td>
+<td>3</td>
+</tr>
+<tr>
 <td></td>
 <td></td>
 <td></td>
-<td>1. Доходы</td>
-<td>19 767 154</td>
+<td></td>
+<td>1.Доходы</td>
+<td>20 017 154</td>
 </tr>
 <tr>
 <td>1</td>
@@ -312,7 +310,7 @@ source: https://zan.gov.kz/client/#!/doc/85512/rus/28.01.2015
 <td></td>
 <td></td>
 <td>Поступления трансфертов</td>
-<td>18 001 273</td>
+<td>18 251 273</td>
 </tr>
 <tr>
 <td></td>
@@ -320,7 +318,7 @@ source: https://zan.gov.kz/client/#!/doc/85512/rus/28.01.2015
 <td></td>
 <td></td>
 <td>Трансферты из вышестоящих органов государственного управления</td>
-<td>18 001 273</td>
+<td>18 251 273</td>
 </tr>
 <tr>
 <td></td>
@@ -328,15 +326,15 @@ source: https://zan.gov.kz/client/#!/doc/85512/rus/28.01.2015
 <td>2</td>
 <td></td>
 <td>Трансферты из областного бюджета</td>
-<td>18 001 273</td>
+<td>18 251 273</td>
 </tr>
 <tr>
 <td colspan="5">Функциональная группа</td>
-<td rowspan="5">Сумма, тысяч тенге</td>
+<td rowspan="4">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="4">Функциональная подгруппа</td>
+<td colspan="4">Функциональная подгруппа Наименование</td>
 </tr>
 <tr>
 <td></td>
@@ -350,21 +348,17 @@ source: https://zan.gov.kz/client/#!/doc/85512/rus/28.01.2015
 <td colspan="2">Программа</td>
 </tr>
 <tr>
-<td colspan="4"></td>
-<td>Наименование</td>
-</tr>
-<tr>
-<th colspan="4">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="4">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>2. Затраты</td>
-<td>19 767 154</td>
+<td>2.Затраты</td>
+<td>20 017 154</td>
 </tr>
 <tr>
 <td>01</td>
@@ -596,7 +590,7 @@ source: https://zan.gov.kz/client/#!/doc/85512/rus/28.01.2015
 <td></td>
 <td></td>
 <td>Образование</td>
-<td>14 986 744</td>
+<td>15 236 744</td>
 </tr>
 <tr>
 <td></td>
@@ -724,7 +718,7 @@ source: https://zan.gov.kz/client/#!/doc/85512/rus/28.01.2015
 <td></td>
 <td></td>
 <td>Прочие услуги в области образования</td>
-<td>2 568 629</td>
+<td>2 818 629</td>
 </tr>
 <tr>
 <td></td>
@@ -780,7 +774,7 @@ source: https://zan.gov.kz/client/#!/doc/85512/rus/28.01.2015
 <td>467</td>
 <td></td>
 <td>Отдел строительства района (города областного значения)</td>
-<td>2 042 747</td>
+<td>2 292 747</td>
 </tr>
 <tr>
 <td></td>
@@ -788,7 +782,7 @@ source: https://zan.gov.kz/client/#!/doc/85512/rus/28.01.2015
 <td></td>
 <td>037</td>
 <td>Строительство и реконструкция объектов образования</td>
-<td>2 042 747</td>
+<td>2 292 747</td>
 </tr>
 <tr>
 <td>06</td>
@@ -1363,16 +1357,8 @@ source: https://zan.gov.kz/client/#!/doc/85512/rus/28.01.2015
 <td></td>
 <td></td>
 <td>002</td>
-<td>Услуги по проведению государственной информационной политики через газеты и журналы</td>
-<td>4 000</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>005</td>
-<td>Услуги по проведению государственной информационной политики через телерадиовещание</td>
-<td>2 700</td>
+<td>Услуги по проведению государственной информационной политики</td>
+<td>6 700</td>
 </tr>
 <tr>
 <td></td>
@@ -2000,11 +1986,11 @@ source: https://zan.gov.kz/client/#!/doc/85512/rus/28.01.2015
 </tr>
 <tr>
 <td colspan="5">Функциональная группа</td>
-<td rowspan="5">Сумма, тысяч тенге</td>
+<td rowspan="4">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="4">Функциональная подгруппа</td>
+<td colspan="4">Функциональная подгруппа Наименование</td>
 </tr>
 <tr>
 <td></td>
@@ -2018,13 +2004,9 @@ source: https://zan.gov.kz/client/#!/doc/85512/rus/28.01.2015
 <td colspan="2">Программа</td>
 </tr>
 <tr>
-<td colspan="4"></td>
-<td>Наименование</td>
-</tr>
-<tr>
-<th colspan="4">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="4">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
@@ -2067,75 +2049,71 @@ source: https://zan.gov.kz/client/#!/doc/85512/rus/28.01.2015
 <td>0</td>
 </tr>
 <tr>
-<td colspan="4">Категория</td>
-<td></td>
-<td rowspan="4">Сумма, тысяч тенге</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="4">Класс</td>
-</tr>
-<tr>
+<td colspan="2">Категория</td>
 <td></td>
 <td></td>
-<td colspan="3">Подкласс</td>
-</tr>
-<tr>
-<td colspan="4"></td>
 <td>Наименование</td>
-</tr>
-<tr>
-<th colspan="4">1</th>
-<th>2</th>
-<th>3</th>
+<td rowspan="3">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
+<td colspan="2">Класс</td>
 <td></td>
 <td></td>
+</tr>
+<tr>
 <td></td>
+<td></td>
+<td colspan="2">Подкласс</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">1</td>
+<td>2</td>
+<td>3</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
 <td>Погашение бюджетных кредитов</td>
 <td>0</td>
 </tr>
 <tr>
 <td>5</td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td>Погашение бюджетных кредитов</td>
 <td>0</td>
 </tr>
 <tr>
 <td></td>
 <td>01</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td>Погашение бюджетных кредитов</td>
 <td>0</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>1</td>
-<td></td>
+<td colspan="2">1</td>
 <td>Погашение бюджетных кредитов, выданных из государственного бюджета</td>
 <td>0</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td>4. Сальдо по операциям с финансовыми активами</td>
 <td>0</td>
 </tr>
 <tr>
 <td colspan="5">Функциональная группа</td>
-<td rowspan="5">Сумма, тысяч тенге</td>
+<td rowspan="4">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="4">Функциональная подгруппа</td>
+<td colspan="4">Функциональная подгруппа Наименование</td>
 </tr>
 <tr>
 <td></td>
@@ -2149,19 +2127,14 @@ source: https://zan.gov.kz/client/#!/doc/85512/rus/28.01.2015
 <td colspan="2">Программа</td>
 </tr>
 <tr>
-<td colspan="4"></td>
-<td>Наименование</td>
-</tr>
-<tr>
-<th colspan="4">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="4">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td>Приобретение финансовых активов</td>
 <td>0</td>
 </tr>
@@ -2200,89 +2173,84 @@ source: https://zan.gov.kz/client/#!/doc/85512/rus/28.01.2015
 <tr>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td>Поступления от продажи финансовых активов государства</td>
 <td>0</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td>5. Дефицит (профицит) бюджета</td>
 <td>0</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td>6. Финансирование дефицита (использования профицита) бюджета</td>
 <td>0</td>
 </tr>
 <tr>
-<td colspan="4">Категория</td>
-<td></td>
-<td rowspan="4">Сумма, тысяч тенге</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="4">Класс</td>
-</tr>
-<tr>
+<td colspan="2">Категория</td>
 <td></td>
 <td></td>
-<td colspan="3">Подкласс</td>
-</tr>
-<tr>
-<td colspan="4"></td>
 <td>Наименование</td>
-</tr>
-<tr>
-<th colspan="4">1</th>
-<th>2</th>
-<th>3</th>
+<td rowspan="3">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
+<td colspan="2">Класс</td>
 <td></td>
 <td></td>
+</tr>
+<tr>
 <td></td>
+<td></td>
+<td colspan="2">Подкласс</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">1</td>
+<td>2</td>
+<td>3</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
 <td>Поступление займов</td>
 <td>0</td>
 </tr>
 <tr>
 <td>7</td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td>Поступления займов</td>
 <td>0</td>
 </tr>
 <tr>
 <td></td>
 <td>1</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td>Внутренние государственные займы</td>
 <td>0</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>2</td>
-<td></td>
+<td colspan="2">2</td>
 <td>Договоры займа</td>
 <td>0</td>
 </tr>
 <tr>
 <td colspan="5">Функциональная группа</td>
-<td rowspan="5">Сумма, тысяч тенге</td>
+<td>Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="4">Функциональная подгруппа</td>
+<td colspan="4">Функциональная подгруппа Наименование</td>
+<td rowspan="3"></td>
 </tr>
 <tr>
 <td></td>
@@ -2296,16 +2264,9 @@ source: https://zan.gov.kz/client/#!/doc/85512/rus/28.01.2015
 <td colspan="2">Программа</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Наименование</td>
-</tr>
-<tr>
-<th colspan="4">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="4">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
@@ -2348,57 +2309,54 @@ source: https://zan.gov.kz/client/#!/doc/85512/rus/28.01.2015
 <td>0</td>
 </tr>
 <tr>
-<td colspan="4">Категория</td>
-<td></td>
-<td rowspan="4">Сумма, тысяч тенге</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="4">Класс</td>
-</tr>
-<tr>
+<td colspan="2">Категория</td>
 <td></td>
 <td></td>
-<td colspan="3">Подкласс</td>
-</tr>
-<tr>
-<td colspan="4"></td>
 <td>Наименование</td>
-</tr>
-<tr>
-<th colspan="4">1</th>
-<th>2</th>
-<th>3</th>
+<td rowspan="3">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
+<td colspan="2">Класс</td>
 <td></td>
 <td></td>
+</tr>
+<tr>
 <td></td>
+<td></td>
+<td colspan="2">Подкласс</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">1</td>
+<td>2</td>
+<td>3</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
 <td>Используемые остатки бюджетных средств</td>
 <td>0</td>
 </tr>
 <tr>
 <td>8</td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td>Используемые остатки бюджетных средств</td>
 <td>0</td>
 </tr>
 <tr>
 <td></td>
 <td>01</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td>Остатки бюджетных средств</td>
 <td>0</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>1</td>
-<td></td>
+<td colspan="2">1</td>
 <td>Свободные остатки бюджетных средств</td>
 <td>0</td>
 </tr>
@@ -2409,7 +2367,7 @@ source: https://zan.gov.kz/client/#!/doc/85512/rus/28.01.2015
 > *маслихата от 24 декабря*  
 > *2014 года № 38-218-V*
 
-## Перечень бюджетных программ развития на 2015 год, направленных на реализацию бюджетных инвестиционных проектов (программ)
+### Перечень бюджетных программ развития на 2015 год, направленных на реализацию бюджетных инвестиционных проектов (программ)
 
 <table>
 <tr>
@@ -2725,7 +2683,7 @@ source: https://zan.gov.kz/client/#!/doc/85512/rus/28.01.2015
 > *маслихата от 24 декабря*  
 > *2014 года № 38-218-V*
 
-## Перечень бюджетных программ, не подлежащих секвестру в процессе исполнения районного бюджета на 2015 год
+### Перечень бюджетных программ, не подлежащих секвестру в процессе исполнения районного бюджета на 2015 год
 
 <table>
 <tr>
@@ -2789,7 +2747,7 @@ source: https://zan.gov.kz/client/#!/doc/85512/rus/28.01.2015
 > *маслихата от 24 декабря*  
 > *2014 года № 38-218-V*
 
-## Перечень бюджетных программ аппаратов акимов города районного значения, поселков и сельских округов на 2015 год
+### Перечень бюджетных программ аппаратов акимов города районного значения, поселков и сельских округов на 2015 год
 
 <table>
 <tr>
