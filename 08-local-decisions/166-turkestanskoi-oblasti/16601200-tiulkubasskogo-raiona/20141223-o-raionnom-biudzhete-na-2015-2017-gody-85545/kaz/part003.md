@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/85545/kaz/27.03.2015
+source: https://zan.gov.kz/client/#!/doc/85545/kaz/21.07.2015
 ---
 
 > *Түлкібас аудандық мәслихатының*  
@@ -2386,1036 +2386,1467 @@ source: https://zan.gov.kz/client/#!/doc/85545/kaz/27.03.2015
 
 ## 2015-2017 жылдарға арналған аудандық бюджетте әрбір ауылдық, поселкелік округтердің бюджеттік бағдарламаларының тізбесі
 
-> *Ескерту. 6-қосымша жаңа редакцияда - Оңтүстік Қазақстан облысы Түлкібас аудандық мәслихатының 27.03.2015 № 39/1-05 шешімімен (01.01.2015 бастап қолданысқа енгізіледі).*
+> *Ескерту. 6-қосымша жаңа редакцияда - Оңтүстік Қазақстан облысы Түлкібас аудандық мәслихатының 21.07.2015 № 42/1-05 шешімімен (01.01.2015 бастап қолданысқа енгізіледі).*
 
 <table>
 <tr>
 <td colspan="4">Функционалдық топ</td>
-<td>Атауы</td>
-<td colspan="3" rowspan="2">Сомасы, мың теңге</td>
+<td colspan="2">Атауы</td>
+<td colspan="5" rowspan="2">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="4">Кіші функция</td>
+<td colspan="5">Кіші функция</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="3">Бюджеттік бағдарламалардың әкiмшiсi</td>
+<td colspan="4">Бюджеттік бағдарламалардың әкiмшiсi</td>
 <td rowspan="2">2015 жыл</td>
-<td rowspan="2">2016 жыл</td>
-<td rowspan="2">2017 жыл</td>
+<td colspan="2" rowspan="2">2016 жыл</td>
+<td colspan="2" rowspan="2">2017 жыл</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td colspan="3">Бағдарлама</td>
 </tr>
 <tr>
 <td colspan="4">1</td>
-<td>2</td>
+<td colspan="2">2</td>
 <td>3</td>
-<td>4</td>
-<td>5</td>
+<td colspan="2">4</td>
+<td colspan="2">5</td>
 </tr>
 <tr>
 <td>01</td>
 <td></td>
 <td></td>
 <td></td>
-<td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>259 356</td>
-<td>301 644</td>
-<td>309 355</td>
+<td colspan="2">Жалпы сипаттағы мемлекеттiк қызметтер</td>
+<td>292 118</td>
+<td colspan="2">301 644</td>
+<td colspan="2">309 355</td>
 </tr>
 <tr>
 <td></td>
 <td>1</td>
 <td></td>
 <td></td>
-<td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>259 356</td>
-<td>301 644</td>
-<td>309 355</td>
+<td colspan="2">Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
+<td>292 118</td>
+<td colspan="2">301 644</td>
+<td colspan="2">309 355</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>123</td>
 <td></td>
-<td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td>259 356</td>
-<td>301 644</td>
-<td>309 355</td>
+<td colspan="2">Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
+<td>292 118</td>
+<td colspan="2">301 644</td>
+<td colspan="2">309 355</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>001</td>
-<td>Қаладағы аудан, аудандық маңызы бар қаланың, кент, ауыл, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>233 972</td>
-<td>239 044</td>
-<td>242 373</td>
+<td colspan="2">Қаладағы аудан, аудандық маңызы бар қаланың, кент, ауыл, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
+<td>235 753</td>
+<td colspan="2">239 044</td>
+<td colspan="2">242 373</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>Балықты ауыл округі</td>
+<td colspan="2">Балықты ауыл округі</td>
 <td>14 543</td>
-<td>15 059</td>
-<td>15 292</td>
+<td colspan="2">15 059</td>
+<td colspan="2">15 292</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>Майлыкент ауыл округі</td>
+<td colspan="2">Майлыкент ауыл округі</td>
 <td>27 858</td>
-<td>27 900</td>
-<td>28 170</td>
+<td colspan="2">27 900</td>
+<td colspan="2">28 170</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>Түлкібас поселкелік округ</td>
-<td>22 018</td>
-<td>22 328</td>
-<td>22 600</td>
+<td colspan="2">Түлкібас поселкелік округ</td>
+<td>22 130</td>
+<td colspan="2">22 328</td>
+<td colspan="2">22 600</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>Шақпақ ауыл округі</td>
+<td colspan="2">Шақпақ ауыл округі</td>
 <td>13 509</td>
-<td>14 140</td>
-<td>14 403</td>
+<td colspan="2">14 140</td>
+<td colspan="2">14 403</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>Машат ауыл округі</td>
-<td>15 162</td>
-<td>15 015</td>
-<td>15 226</td>
+<td colspan="2">Машат ауыл округі</td>
+<td>15 607</td>
+<td colspan="2">15 015</td>
+<td colspan="2">15 226</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>Жабағылы ауыл округі</td>
+<td colspan="2">Жабағылы ауыл округі</td>
 <td>12 832</td>
-<td>12 852</td>
-<td>13 054</td>
+<td colspan="2">12 852</td>
+<td colspan="2">13 054</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>Тастұмсық ауыл округі</td>
-<td>12 995</td>
-<td>13 476</td>
-<td>13 671</td>
+<td colspan="2">Тастұмсық ауыл округі</td>
+<td>13 745</td>
+<td colspan="2">13 476</td>
+<td colspan="2">13 671</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>Рысқұлов ауыл округі</td>
-<td>15 253</td>
-<td>15 681</td>
-<td>15 906</td>
+<td colspan="2">Рысқұлов ауыл округі</td>
+<td>15 527</td>
+<td colspan="2">15 681</td>
+<td colspan="2">15 906</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>Мичурин ауыл округі</td>
+<td colspan="2">Мичурин ауыл округі</td>
 <td>14 695</td>
-<td>15 151</td>
-<td>15 328</td>
+<td colspan="2">15 151</td>
+<td colspan="2">15 328</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>Кемербастау ауыл округі</td>
+<td colspan="2">Кемербастау ауыл округі</td>
 <td>13 185</td>
-<td>13 902</td>
-<td>14 177</td>
+<td colspan="2">13 902</td>
+<td colspan="2">14 177</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>Арыс ауыл округі</td>
+<td colspan="2">Арыс ауыл округі</td>
 <td>12 831</td>
-<td>13 295</td>
-<td>13 484</td>
+<td colspan="2">13 295</td>
+<td colspan="2">13 484</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>Акбиік ауыл округі</td>
+<td colspan="2">Акбиік ауыл округі</td>
 <td>13 848</td>
-<td>14 250</td>
-<td>14 490</td>
+<td colspan="2">14 250</td>
+<td colspan="2">14 490</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>Жаскешу ауыл округі</td>
+<td colspan="2">Жаскешу ауыл округі</td>
 <td>15 390</td>
-<td>15 478</td>
-<td>15 669</td>
+<td colspan="2">15 478</td>
+<td colspan="2">15 669</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>Келтемашат ауыл округі</td>
+<td colspan="2">Келтемашат ауыл округі</td>
 <td>12 893</td>
-<td>13 173</td>
-<td>13 351</td>
+<td colspan="2">13 173</td>
+<td colspan="2">13 351</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>Састөбе поселкелік округ</td>
-<td>16 960</td>
-<td>17 344</td>
-<td>17 552</td>
+<td colspan="2">Састөбе поселкелік округ</td>
+<td>17 160</td>
+<td colspan="2">17 344</td>
+<td colspan="2">17 552</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>022</td>
-<td>Мемлекеттік органдардың күрделі шығыстары</td>
-<td>25 384</td>
-<td>62 600</td>
-<td>66 982</td>
+<td colspan="2">Мемлекеттік органдардың күрделі шығыстары</td>
+<td>51 365</td>
+<td colspan="2">62 600</td>
+<td colspan="2">66 982</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>Балықты ауыл округі</td>
-<td>11 628</td>
-<td>27 653</td>
-<td>29 589</td>
+<td colspan="2">Балықты ауыл округі</td>
+<td>20 393</td>
+<td colspan="2">27 653</td>
+<td colspan="2">29 589</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>Майлыкент ауыл округі</td>
+<td colspan="2">Майлыкент ауыл округі</td>
 <td>41</td>
-<td>161</td>
-<td>172</td>
+<td colspan="2">161</td>
+<td colspan="2">172</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>Түлкібас поселкелік округ</td>
-<td>13 715</td>
-<td>32 854</td>
-<td>35 157</td>
+<td colspan="2">Түлкібас поселкелік округ</td>
+<td>30 561</td>
+<td colspan="2">32 854</td>
+<td colspan="2">35 157</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>Шақпақ ауыл округі</td>
+<td colspan="2">Шақпақ ауыл округі</td>
 <td>0</td>
-<td>161</td>
-<td>172</td>
+<td colspan="2">161</td>
+<td colspan="2">172</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>Машат ауыл округі</td>
-<td>0</td>
-<td>161</td>
-<td>172</td>
+<td colspan="2">Машат ауыл округі</td>
+<td>370</td>
+<td colspan="2">161</td>
+<td colspan="2">172</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>Жабағылы ауыл округі</td>
+<td colspan="2">Жабағылы ауыл округі</td>
 <td>0</td>
-<td>161</td>
-<td>172</td>
+<td colspan="2">161</td>
+<td colspan="2">172</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>Тастұмсық ауыл округі</td>
+<td colspan="2">Тастұмсық ауыл округі</td>
 <td>0</td>
-<td>161</td>
-<td>172</td>
+<td colspan="2">161</td>
+<td colspan="2">172</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>Рысқұлов ауыл округі</td>
+<td colspan="2">Рысқұлов ауыл округі</td>
 <td>0</td>
-<td>161</td>
-<td>172</td>
+<td colspan="2">161</td>
+<td colspan="2">172</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>Мичурин ауыл округі</td>
+<td colspan="2">Мичурин ауыл округі</td>
 <td>0</td>
-<td>161</td>
-<td>172</td>
+<td colspan="2">161</td>
+<td colspan="2">172</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>Кемербастау ауыл округі</td>
+<td colspan="2">Кемербастау ауыл округі</td>
 <td>0</td>
-<td>161</td>
-<td>172</td>
+<td colspan="2">161</td>
+<td colspan="2">172</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>Арыс ауыл округі</td>
+<td colspan="2">Арыс ауыл округі</td>
 <td>0</td>
-<td>161</td>
-<td>172</td>
+<td colspan="2">161</td>
+<td colspan="2">172</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>Акбиік ауыл округі</td>
+<td colspan="2">Акбиік ауыл округі</td>
 <td>0</td>
-<td>161</td>
-<td>172</td>
+<td colspan="2">161</td>
+<td colspan="2">172</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>Жаскешу ауыл округі</td>
+<td colspan="2">Жаскешу ауыл округі</td>
 <td>0</td>
-<td>161</td>
-<td>172</td>
+<td colspan="2">161</td>
+<td colspan="2">172</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>Келтемашат ауыл округі</td>
+<td colspan="2">Келтемашат ауыл округі</td>
 <td>0</td>
-<td>161</td>
-<td>172</td>
+<td colspan="2">161</td>
+<td colspan="2">172</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>Састөбе поселкелік округ</td>
+<td colspan="2">Састөбе поселкелік округ</td>
 <td>0</td>
-<td>161</td>
-<td>172</td>
+<td colspan="2">161</td>
+<td colspan="2">172</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>032</td>
+<td colspan="2">Ведомстволық бағыныстағы мемлекеттік мекемелерінің және ұйымдарының күрделі шығыстары</td>
+<td>5 000</td>
+<td colspan="2">0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Майлыкент ауыл округі</td>
+<td>5 000</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td>04</td>
 <td></td>
 <td></td>
 <td></td>
-<td>Бiлiм беру</td>
-<td>14 129</td>
-<td>16 452</td>
-<td>17 604</td>
+<td colspan="2">Бiлiм беру</td>
+<td>87 719</td>
+<td colspan="2">16 452</td>
+<td colspan="2">17 604</td>
+</tr>
+<tr>
+<td></td>
+<td>1</td>
+<td></td>
+<td></td>
+<td colspan="2">Мектепке дейiнгi тәрбие және оқыту</td>
+<td>73 602</td>
+<td colspan="2">0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>123</td>
+<td></td>
+<td colspan="2">Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл (село), ауылдық (селолық) округ әкімінің аппараты</td>
+<td>73 602</td>
+<td colspan="2">0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>123</td>
+<td>041</td>
+<td colspan="2">Мектепке дейінгі білім беру ұйымдарында мемлекеттік білім беру тапсырысын іске асыруға</td>
+<td>73 602</td>
+<td colspan="2">0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Мичурин ауылдық округі</td>
+<td>8 844</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Майлыкент ауыл округі</td>
+<td>22 053</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Шақпақ ауыл округі</td>
+<td>6 414</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Жаскешу ауыл округі</td>
+<td>8 646</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Састобе поселкелік округі</td>
+<td>27 645</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
 <td>2</td>
 <td></td>
 <td></td>
-<td>Бастауыш, негізгі орта және жалпы орта білім беру</td>
-<td>14 129</td>
-<td>16 452</td>
-<td>17 604</td>
+<td colspan="2">Бастауыш, негізгі орта және жалпы орта білім беру</td>
+<td>14 117</td>
+<td colspan="2">16 452</td>
+<td colspan="2">17 604</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>123</td>
 <td></td>
-<td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td>14 129</td>
-<td>16 452</td>
-<td>17 604</td>
+<td colspan="2">Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
+<td>14 117</td>
+<td colspan="2">16 452</td>
+<td colspan="2">17 604</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>123</td>
 <td>005</td>
-<td>Ауылдық жерлерде балаларды мектепке дейін тегін алып баруды және кері алып келуді ұйымдастыру</td>
-<td>14 129</td>
-<td>16 452</td>
-<td>17 604</td>
+<td colspan="2">Ауылдық жерлерде балаларды мектепке дейін тегін алып баруды және кері алып келуді ұйымдастыру</td>
+<td>14 117</td>
+<td colspan="2">16 452</td>
+<td colspan="2">17 604</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>Балықты ауыл округі</td>
-<td>2 277</td>
-<td>2 437</td>
-<td>2607</td>
+<td colspan="2">Балықты ауыл округі</td>
+<td>2 265</td>
+<td colspan="2">2 437</td>
+<td colspan="2">2607</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>Шақпақ ауыл округі</td>
+<td colspan="2">Шақпақ ауыл округі</td>
 <td>624</td>
-<td>749</td>
-<td>802</td>
+<td colspan="2">749</td>
+<td colspan="2">802</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>Жабағылы ауыл округі</td>
+<td colspan="2">Жабағылы ауыл округі</td>
 <td>1 576</td>
-<td>1 686</td>
-<td>1804</td>
+<td colspan="2">1 686</td>
+<td colspan="2">1804</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>Мичурин ауыл округі</td>
+<td colspan="2">Мичурин ауыл округі</td>
 <td>471</td>
-<td>568</td>
-<td>608</td>
+<td colspan="2">568</td>
+<td colspan="2">608</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>Састөбе поселкелік округ</td>
+<td colspan="2">Састөбе поселкелік округ</td>
 <td>1 942</td>
-<td>2 272</td>
-<td>2431</td>
+<td colspan="2">2 272</td>
+<td colspan="2">2431</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>Машат ауыл округі</td>
+<td colspan="2">Машат ауыл округі</td>
 <td>505</td>
-<td>548</td>
-<td>586</td>
+<td colspan="2">548</td>
+<td colspan="2">586</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>Кемербастау ауыл округі</td>
+<td colspan="2">Кемербастау ауыл округі</td>
 <td>2 700</td>
-<td>3 240</td>
-<td>3466</td>
+<td colspan="2">3 240</td>
+<td colspan="2">3466</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>Түлкібас поселкелік округ</td>
+<td colspan="2">Түлкібас поселкелік округ</td>
 <td>1 771</td>
-<td>2 295</td>
-<td>2456</td>
+<td colspan="2">2 295</td>
+<td colspan="2">2456</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>Майлыкент ауыл округі</td>
+<td colspan="2">Майлыкент ауыл округі</td>
 <td>1 492</td>
-<td>1 833</td>
-<td>1962</td>
+<td colspan="2">1 833</td>
+<td colspan="2">1962</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>Келтемашат ауыл округі</td>
+<td colspan="2">Келтемашат ауыл округі</td>
 <td>771</td>
-<td>824</td>
-<td>882</td>
+<td colspan="2">824</td>
+<td colspan="2">882</td>
+</tr>
+<tr>
+<td>05</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Денсаулық сақтау</td>
+<td>75</td>
+<td colspan="2">0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td></td>
+<td>09</td>
+<td></td>
+<td></td>
+<td colspan="2">Денсаулық сақтау саласындағы өзге де қызметтер</td>
+<td>75</td>
+<td colspan="2">0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>123</td>
+<td></td>
+<td colspan="2">Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
+<td>75</td>
+<td colspan="2">0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>002</td>
+<td colspan="2">Шұғыл жағдайларда сырқаты ауыр адамдарды дәрігерлік көмек көрсететін ең жақын денсаулық сақтау ұйымына дейін жеткізуді ұйымдастыру</td>
+<td>75</td>
+<td colspan="2">0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Жабағылы ауыл округі</td>
+<td>25</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Келтемашат ауыл округі</td>
+<td>25</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Машат ауыл округі</td>
+<td>25</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>06</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Әлеуметтiк көмек және әлеуметтiк қамсыздандыру</td>
+<td>12 262</td>
+<td colspan="2">0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td></td>
+<td>02</td>
+<td></td>
+<td></td>
+<td colspan="2">Әлеуметтiк көмек</td>
+<td>12 262</td>
+<td colspan="2">0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>123</td>
+<td></td>
+<td colspan="2">Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл (село), ауылдық (селолық) округ әкімінің аппараты</td>
+<td>12 262</td>
+<td colspan="2">0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>003</td>
+<td colspan="2">Мұқтаж азаматтарға үйінде әлеуметтік көмек көрсету</td>
+<td>12 262</td>
+<td colspan="2">0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Балықты ауыл округі</td>
+<td>857</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Майлыкент ауыл округі</td>
+<td>3 396</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Түлкібас поселкелік округ</td>
+<td>1 392</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Шақпақ ауыл округі</td>
+<td>1 155</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Машат ауыл округі</td>
+<td>475</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Жабағылы ауыл округі</td>
+<td>251</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Тастұмсық ауыл округі</td>
+<td>241</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Рысқұлов ауыл округі</td>
+<td>583</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Мичурин ауыл округі</td>
+<td>1 025</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Кемербастау ауыл округі</td>
+<td>235</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Арыс ауыл округі</td>
+<td>251</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Акбиік ауыл округі</td>
+<td>267</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Жаскешу ауыл округі</td>
+<td>829</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Келтемашат ауыл округі</td>
+<td>225</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Састөбе ауыл округі</td>
+<td>1 080</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td>07</td>
 <td></td>
 <td></td>
 <td></td>
-<td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>55 450</td>
-<td>54 943</td>
-<td>58 789</td>
+<td colspan="2">Тұрғын үй-коммуналдық шаруашылық</td>
+<td>61 066</td>
+<td colspan="2">54 943</td>
+<td colspan="2">58 789</td>
 </tr>
 <tr>
 <td></td>
 <td>3</td>
 <td></td>
 <td></td>
-<td>Елді-мекендерді көркейту</td>
-<td>55 450</td>
-<td>54 943</td>
-<td>58 789</td>
+<td colspan="2">Елді-мекендерді көркейту</td>
+<td>61 066</td>
+<td colspan="2">54 943</td>
+<td colspan="2">58 789</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>123</td>
 <td></td>
-<td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td>55 450</td>
-<td>54 943</td>
-<td>58 789</td>
+<td colspan="2">Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
+<td>61 066</td>
+<td colspan="2">54 943</td>
+<td colspan="2">58 789</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>123</td>
 <td>008</td>
-<td>Елді мекендерде көшелерді жарықтандыру</td>
-<td>19 633</td>
-<td>19 033</td>
-<td>20 365</td>
+<td colspan="2">Елді мекендерде көшелерді жарықтандыру</td>
+<td>20 273</td>
+<td colspan="2">19 033</td>
+<td colspan="2">20 365</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>Балықты ауыл округі</td>
+<td colspan="2">Балықты ауыл округі</td>
 <td>1 328</td>
-<td>1 447</td>
-<td>1 547</td>
+<td colspan="2">1 447</td>
+<td colspan="2">1 547</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>Майлыкент ауыл округі</td>
-<td>6 558</td>
-<td>7 015</td>
-<td>7 506</td>
+<td colspan="2">Майлыкент ауыл округі</td>
+<td>7 058</td>
+<td colspan="2">7 015</td>
+<td colspan="2">7 506</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>Түлкібас поселкелік округ</td>
+<td colspan="2">Түлкібас поселкелік округ</td>
 <td>1 919</td>
-<td>2 103</td>
-<td>2 250</td>
+<td colspan="2">2 103</td>
+<td colspan="2">2 250</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>Шақпақ ауыл округі</td>
+<td colspan="2">Шақпақ ауыл округі</td>
 <td>870</td>
-<td>931</td>
-<td>996</td>
+<td colspan="2">931</td>
+<td colspan="2">996</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>Машат ауыл округі</td>
-<td>710</td>
-<td>803</td>
-<td>859</td>
+<td colspan="2">Машат ауыл округі</td>
+<td>900</td>
+<td colspan="2">803</td>
+<td colspan="2">859</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>Жабағылы ауыл округі</td>
+<td colspan="2">Жабағылы ауыл округі</td>
 <td>641</td>
-<td>686</td>
-<td>734</td>
+<td colspan="2">686</td>
+<td colspan="2">734</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>Тастұмсық ауыл округі</td>
-<td>443</td>
-<td>563</td>
-<td>603</td>
+<td colspan="2">Тастұмсық ауыл округі</td>
+<td>593</td>
+<td colspan="2">563</td>
+<td colspan="2">603</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>Рысқұлов ауыл округі</td>
+<td colspan="2">Рысқұлов ауыл округі</td>
 <td>1 030</td>
-<td>1 103</td>
-<td>1 180</td>
+<td colspan="2">1 103</td>
+<td colspan="2">1 180</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>Мичурин ауыл округі</td>
+<td colspan="2">Мичурин ауыл округі</td>
 <td>214</td>
-<td>229</td>
-<td>245</td>
+<td colspan="2">229</td>
+<td colspan="2">245</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>Кемербастау ауыл округі</td>
+<td colspan="2">Кемербастау ауыл округі</td>
 <td>3 050</td>
-<td>588</td>
-<td>630</td>
+<td colspan="2">588</td>
+<td colspan="2">630</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>Арыс ауыл округі</td>
+<td colspan="2">Арыс ауыл округі</td>
 <td>577</td>
-<td>617</td>
-<td>661</td>
+<td colspan="2">617</td>
+<td colspan="2">661</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>Акбиік ауыл округі</td>
+<td colspan="2">Акбиік ауыл округі</td>
 <td>1 002</td>
-<td>1 305</td>
-<td>1 397</td>
+<td colspan="2">1 305</td>
+<td colspan="2">1 397</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>Жаскешу ауыл округі</td>
+<td colspan="2">Жаскешу ауыл округі</td>
 <td>650</td>
-<td>728</td>
-<td>779</td>
+<td colspan="2">728</td>
+<td colspan="2">779</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>Келтемашат ауыл округі</td>
+<td colspan="2">Келтемашат ауыл округі</td>
 <td>101</td>
-<td>306</td>
-<td>327</td>
+<td colspan="2">306</td>
+<td colspan="2">327</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>Састөбе ауыл округі</td>
-<td>540</td>
-<td>609</td>
-<td>651</td>
+<td colspan="2">Састөбе ауыл округі</td>
+<td>340</td>
+<td colspan="2">609</td>
+<td colspan="2">651</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>009</td>
-<td>Елді мекендердің санитариясын қамтамасыз ету</td>
-<td>15 558</td>
-<td>13 739</td>
-<td>14 701</td>
+<td colspan="2">Елді мекендердің санитариясын қамтамасыз ету</td>
+<td>20 334</td>
+<td colspan="2">13 739</td>
+<td colspan="2">14 701</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>Балықты ауыл округі</td>
-<td>1 182</td>
-<td>1 265</td>
-<td>1 353</td>
+<td colspan="2">Балықты ауыл округі</td>
+<td>1 074</td>
+<td colspan="2">1 265</td>
+<td colspan="2">1 353</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>Майлыкент ауыл округі</td>
-<td>4 528</td>
-<td>2 512</td>
-<td>2 690</td>
+<td colspan="2">Майлыкент ауыл округі</td>
+<td>9 216</td>
+<td colspan="2">2 512</td>
+<td colspan="2">2 690</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>Түлкібас поселкелік округ</td>
+<td colspan="2">Түлкібас поселкелік округ</td>
 <td>1 572</td>
-<td>1 682</td>
-<td>1 800</td>
+<td colspan="2">1 682</td>
+<td colspan="2">1 800</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>Шақпақ ауыл округі</td>
+<td colspan="2">Шақпақ ауыл округі</td>
 <td>570</td>
-<td>636</td>
-<td>680</td>
+<td colspan="2">636</td>
+<td colspan="2">680</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>Машат ауыл округі</td>
+<td colspan="2">Машат ауыл округі</td>
 <td>712</td>
-<td>762</td>
-<td>815</td>
+<td colspan="2">762</td>
+<td colspan="2">815</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>Жабағылы ауыл округі</td>
+<td colspan="2">Жабағылы ауыл округі</td>
 <td>622</td>
-<td>578</td>
-<td>618</td>
+<td colspan="2">578</td>
+<td colspan="2">618</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>Тастұмсық ауыл округі</td>
+<td colspan="2">Тастұмсық ауыл округі</td>
 <td>520</td>
-<td>578</td>
-<td>618</td>
+<td colspan="2">578</td>
+<td colspan="2">618</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>Рысқұлов ауыл округі</td>
-<td>932</td>
-<td>997</td>
-<td>1 067</td>
+<td colspan="2">Рысқұлов ауыл округі</td>
+<td>1 128</td>
+<td colspan="2">997</td>
+<td colspan="2">1 067</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>Мичурин ауыл округі</td>
+<td colspan="2">Мичурин ауыл округі</td>
 <td>726</td>
-<td>777</td>
-<td>831</td>
+<td colspan="2">777</td>
+<td colspan="2">831</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>Кемербастау ауыл округі</td>
+<td colspan="2">Кемербастау ауыл округі</td>
 <td>690</td>
-<td>738</td>
-<td>790</td>
+<td colspan="2">738</td>
+<td colspan="2">790</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>Арыс ауыл округі</td>
+<td colspan="2">Арыс ауыл округі</td>
 <td>609</td>
-<td>459</td>
-<td>491</td>
+<td colspan="2">459</td>
+<td colspan="2">491</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>Акбиік ауыл округі</td>
+<td colspan="2">Акбиік ауыл округі</td>
 <td>555</td>
-<td>551</td>
-<td>590</td>
+<td colspan="2">551</td>
+<td colspan="2">590</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>Жаскешу ауыл округі</td>
+<td colspan="2">Жаскешу ауыл округі</td>
 <td>672</td>
-<td>719</td>
-<td>769</td>
+<td colspan="2">719</td>
+<td colspan="2">769</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>Келтемашат ауыл округі</td>
+<td colspan="2">Келтемашат ауыл округі</td>
 <td>692</td>
-<td>548</td>
-<td>586</td>
+<td colspan="2">548</td>
+<td colspan="2">586</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>Састөбе ауыл округі</td>
+<td colspan="2">Састөбе ауыл округі</td>
 <td>976</td>
-<td>937</td>
-<td>1 003</td>
+<td colspan="2">937</td>
+<td colspan="2">1 003</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>011</td>
-<td>Елді мекендерді абаттандыру мен көгалдандыру</td>
-<td>20 259</td>
-<td>22 171</td>
-<td>23 723</td>
+<td colspan="2">Елді мекендерді абаттандыру мен көгалдандыру</td>
+<td>20 459</td>
+<td colspan="2">22 171</td>
+<td colspan="2">23 723</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>Балықты ауыл округі</td>
-<td>920</td>
-<td>984</td>
-<td>1 053</td>
+<td colspan="2">Балықты ауыл округі</td>
+<td>1 040</td>
+<td colspan="2">984</td>
+<td colspan="2">1 053</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>Майлыкент ауыл округі</td>
-<td>2 798</td>
-<td>2 298</td>
-<td>2 459</td>
+<td colspan="2">Майлыкент ауыл округі</td>
+<td>2 878</td>
+<td colspan="2">2 298</td>
+<td colspan="2">2 459</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>Түлкібас поселкелік округ</td>
+<td colspan="2">Түлкібас поселкелік округ</td>
 <td>6 439</td>
-<td>6 894</td>
-<td>7 375</td>
+<td colspan="2">6 894</td>
+<td colspan="2">7 375</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>Шақпақ ауыл округі</td>
+<td colspan="2">Шақпақ ауыл округі</td>
 <td>920</td>
-<td>984</td>
-<td>1 053</td>
+<td colspan="2">984</td>
+<td colspan="2">1 053</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>Машат ауыл округі</td>
+<td colspan="2">Машат ауыл округі</td>
 <td>920</td>
-<td>984</td>
-<td>1 053</td>
+<td colspan="2">984</td>
+<td colspan="2">1 053</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>Жабағылы ауыл округі</td>
+<td colspan="2">Жабағылы ауыл округі</td>
 <td>838</td>
-<td>984</td>
-<td>1 053</td>
+<td colspan="2">984</td>
+<td colspan="2">1 053</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>Тастұмсық ауыл округі</td>
+<td colspan="2">Тастұмсық ауыл округі</td>
 <td>667</td>
-<td>984</td>
-<td>1 053</td>
+<td colspan="2">984</td>
+<td colspan="2">1 053</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>Рысқұлов ауыл округі</td>
+<td colspan="2">Рысқұлов ауыл округі</td>
 <td>920</td>
-<td>984</td>
-<td>1 053</td>
+<td colspan="2">984</td>
+<td colspan="2">1 053</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>Мичурин ауыл округі</td>
+<td colspan="2">Мичурин ауыл округі</td>
 <td>920</td>
-<td>984</td>
-<td>1 053</td>
+<td colspan="2">984</td>
+<td colspan="2">1 053</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>Кемербастау ауыл округі</td>
+<td colspan="2">Кемербастау ауыл округі</td>
 <td>920</td>
-<td>984</td>
-<td>1 053</td>
+<td colspan="2">984</td>
+<td colspan="2">1 053</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>Арыс ауыл округі</td>
+<td colspan="2">Арыс ауыл округі</td>
 <td>740</td>
-<td>984</td>
-<td>1 053</td>
+<td colspan="2">984</td>
+<td colspan="2">1 053</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>Акбиік ауыл округі</td>
+<td colspan="2">Акбиік ауыл округі</td>
 <td>603</td>
-<td>984</td>
-<td>1 053</td>
+<td colspan="2">984</td>
+<td colspan="2">1 053</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>Жаскешу ауыл округі</td>
+<td colspan="2">Жаскешу ауыл округі</td>
 <td>920</td>
-<td>984</td>
-<td>1 053</td>
+<td colspan="2">984</td>
+<td colspan="2">1 053</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>Келтемашат ауыл округі</td>
+<td colspan="2">Келтемашат ауыл округі</td>
 <td>740</td>
-<td>984</td>
-<td>1 053</td>
+<td colspan="2">984</td>
+<td colspan="2">1 053</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>Састөбе ауыл округі</td>
+<td colspan="2">Састөбе ауыл округі</td>
 <td>994</td>
-<td>1 171</td>
-<td>1 253</td>
+<td colspan="2">1 171</td>
+<td colspan="2">1 253</td>
+</tr>
+<tr>
+<td>08</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Мәдениет, спорт, туризм және ақпараттық кеңістiк</td>
+<td>125</td>
+<td colspan="2">0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td></td>
+<td>3</td>
+<td></td>
+<td></td>
+<td colspan="2">Спорт</td>
+<td>125</td>
+<td colspan="2">0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>123</td>
+<td></td>
+<td colspan="2">Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
+<td>125</td>
+<td colspan="2">0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>123</td>
+<td>008</td>
+<td colspan="2">Жергілікті деңгейде дене шынықтыру – сауықтыру және спорттық іс-шараларды іске асыру</td>
+<td>125</td>
+<td colspan="2">0</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Майлыкент ауыл округі</td>
+<td>50</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Шақпақ ауыл округі</td>
+<td>25</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Састөбе ауыл округі</td>
+<td>50</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 </tr>
 </table>
