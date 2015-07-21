@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/85512/rus/09.06.2015
+source: https://zan.gov.kz/client/#!/doc/85512/rus/21.07.2015
 ---
 
 ## Районный бюджет на 2016 год
