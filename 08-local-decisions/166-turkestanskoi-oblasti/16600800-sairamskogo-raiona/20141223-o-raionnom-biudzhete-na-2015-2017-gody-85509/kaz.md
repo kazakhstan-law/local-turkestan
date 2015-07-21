@@ -1,5 +1,5 @@
 ---
-version_id: '85509_272244'
+version_id: '85509_273175'
 act_code: '85509'
 language: kaz
 title: 2015-2017 жылдарға арналған аудандық бюджет туралы
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '166008000002'
 approval_date: 2014-12-23
-version_date: 2015-06-17
+version_date: 2015-07-21
 registry_number: '85509'
 caused_by:
-  code: '91620'
+  code: '92151'
   title: '"2015-2017 жылдарға арналған аудандық бюджет туралы" Сайрам аудандық мәслихатының 2014 жылғы 23 желтоқсандағы № 40-253/V шешіміне өзгерістер енгізу туралы'
-  link: https://zan.gov.kz/client/#!/doc/91620/kaz
-source: https://zan.gov.kz/client/#!/doc/85509/kaz/17.06.2015
+  link: https://zan.gov.kz/client/#!/doc/92151/kaz
+source: https://zan.gov.kz/client/#!/doc/85509/kaz/21.07.2015
 ---
 
 # 2015-2017 жылдарға арналған аудандық бюджет туралы
@@ -25,17 +25,17 @@ source: https://zan.gov.kz/client/#!/doc/85509/kaz/17.06.2015
 
 1. Сайрам ауданының 2015-2017 жылдарға арналған аудандық бюджеті тиісінше 1 қосымшаға сәйкес, оның ішінде 2015 жылға мынадай көлемде бекітілсін:
 
-   1) кiрiстер – 16 852 539 мың теңге, оның iшiнде:
+   1) кiрiстер – 17 116 941 мың теңге, оның iшiнде:
 
-      салықтық түсiмдер – 2 324 301 мың теңге;
+      салықтық түсiмдер – 2 425 080 мың теңге;
 
       салықтық емес түсiмдер – 20 095 мың теңге;
 
       негізгі капиталды сатудан түсетін түсімдер – 39 349 мың теңге;
 
-      трансферттер түсiмi – 14 468 794 мың теңге;
+      трансферттер түсiмi – 14 632 417 мың теңге;
 
-   2) шығындар – 17 033 129 мың теңге;
+   2) шығындар – 17 297 531 мың теңге;
 
    3) таза бюджеттiк кредиттеу – 26 565 мың теңге, оның ішінде:
 
@@ -59,7 +59,7 @@ source: https://zan.gov.kz/client/#!/doc/85509/kaz/17.06.2015
 
       бюджет қаражатының пайдаланылатын қалдықтары – 179 606 мың теңге.
 
-> *Ескерту. 1-тармақ жаңа редакцияда - Оңтүстік Қазақстан облысы Сайрам аудандық мәслихатының 26.03.2015 № 42-276/V шешімімен (01.01.2015 бастап қолданысқа енгізілсін).*
+> *Ескерту. 1-тармақ жаңа редакцияда - Оңтүстік Қазақстан облысы Сайрам аудандық мәслихатының 21.07.2015 № 44-309/V шешімімен (01.01.2015 бастап қолданысқа енгізілсін).*
 
 2. 2015 жылы облыстық бюджетке аудандық бюджеттен жеке табыс салығынан және әлеуметтік салықтан 41,6 пайыз мөлшерінде бөлу нормативтері белгіленсін.
 
@@ -91,43 +91,36 @@ source: https://zan.gov.kz/client/#!/doc/85509/kaz/17.06.2015
 
 # Сайрам ауданының 2015 жылға арналған бюджеті
 
-> *Ескерту. 1-қосымша жаңа редакцияда - Оңтүстік Қазақстан облысы Сайрам аудандық мәслихатының 17.06.2015 № 43-291/V шешімімен (01.01.2015 бастап қолданысқа енгізіледі).*
+> *Ескерту. 1-қосымша жаңа редакцияда - Оңтүстік Қазақстан облысы Сайрам аудандық мәслихатының 21.07.2015 № 44-309/V шешімімен (01.01.2015 бастап қолданысқа енгізілсін).*
 
 <table>
 <tr>
-<td colspan="4">Санаты</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3">Сомасы, мың теңге</td>
+<td colspan="10">Санаты</td>
+<td colspan="3" rowspan="4">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="5">Сыныбы</td>
-<td colspan="2"></td>
+<td colspan="7">Сыныбы</td>
 <td colspan="2">Атауы</td>
-<td colspan="3"></td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="7">Iшкi сыныбы</td>
-<td colspan="3"></td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="4">Ерекшелiгi</td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<th>1</th>
-<th colspan="2"></th>
-<th colspan="3"></th>
-<th colspan="2"></th>
-<th colspan="2">2</th>
-<th colspan="3">3</th>
+<td>1</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2">2</td>
+<td colspan="3">3</td>
 </tr>
 <tr>
 <td></td>
@@ -135,7 +128,7 @@ source: https://zan.gov.kz/client/#!/doc/85509/kaz/17.06.2015
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2">І. Кірістер</td>
-<td colspan="3">16 852 539</td>
+<td colspan="3">17 116 941</td>
 </tr>
 <tr>
 <td>1</td>
@@ -143,7 +136,7 @@ source: https://zan.gov.kz/client/#!/doc/85509/kaz/17.06.2015
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2">Салықтық түсімдер</td>
-<td colspan="3">2 324 301</td>
+<td colspan="3">2 425 080</td>
 </tr>
 <tr>
 <td></td>
@@ -151,7 +144,7 @@ source: https://zan.gov.kz/client/#!/doc/85509/kaz/17.06.2015
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2">Табыс салығы</td>
-<td colspan="3">794 102</td>
+<td colspan="3">812 266</td>
 </tr>
 <tr>
 <td></td>
@@ -159,7 +152,7 @@ source: https://zan.gov.kz/client/#!/doc/85509/kaz/17.06.2015
 <td colspan="3">2</td>
 <td colspan="2"></td>
 <td colspan="2">Жеке табыс салығы</td>
-<td colspan="3">794 102</td>
+<td colspan="3">812 266</td>
 </tr>
 <tr>
 <td></td>
@@ -183,7 +176,7 @@ source: https://zan.gov.kz/client/#!/doc/85509/kaz/17.06.2015
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2">Меншiкке салынатын салықтар</td>
-<td colspan="3">791 447</td>
+<td colspan="3">784 062</td>
 </tr>
 <tr>
 <td></td>
@@ -207,7 +200,7 @@ source: https://zan.gov.kz/client/#!/doc/85509/kaz/17.06.2015
 <td colspan="3">4</td>
 <td colspan="2"></td>
 <td colspan="2">Көлiк құралдарына салынатын салық</td>
-<td colspan="3">242 226</td>
+<td colspan="3">324 841</td>
 </tr>
 <tr>
 <td></td>
@@ -359,7 +352,7 @@ source: https://zan.gov.kz/client/#!/doc/85509/kaz/17.06.2015
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2">Трансферттердің түсімдері</td>
-<td colspan="3">14 468 794</td>
+<td colspan="3">14 632 417</td>
 </tr>
 <tr>
 <td></td>
@@ -367,7 +360,7 @@ source: https://zan.gov.kz/client/#!/doc/85509/kaz/17.06.2015
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2">Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td colspan="3">14 468 794</td>
+<td colspan="3">14 632 417</td>
 </tr>
 <tr>
 <td></td>
@@ -375,54 +368,32 @@ source: https://zan.gov.kz/client/#!/doc/85509/kaz/17.06.2015
 <td colspan="3">2</td>
 <td colspan="2"></td>
 <td colspan="2">Облыстық бюджеттен түсетiн трансферттер</td>
-<td colspan="3">14 468 794</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td colspan="3">14 632 417</td>
 </tr>
 <tr>
 <td colspan="10">Функционалдық топ</td>
-<td colspan="3">Сомасы, мың теңге</td>
+<td colspan="3" rowspan="4">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="7">Кіші функция</td>
 <td colspan="2">Атауы</td>
-<td colspan="3"></td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="7">Бюджеттік бағдарламалардың әкiмшiсi</td>
-<td colspan="3"></td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="4">Бағдарлама</td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<th></th>
-<th colspan="2"></th>
-<th colspan="3">1</th>
-<th colspan="2"></th>
-<th colspan="2">2</th>
-<th colspan="3">3</th>
+<td colspan="8">1</td>
+<td colspan="2">2</td>
+<td colspan="3">3</td>
 </tr>
 <tr>
 <td></td>
@@ -430,7 +401,7 @@ source: https://zan.gov.kz/client/#!/doc/85509/kaz/17.06.2015
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2">2. Шығындар</td>
-<td colspan="3">17033129</td>
+<td colspan="3">17297 531</td>
 </tr>
 <tr>
 <td>01</td>
@@ -462,15 +433,7 @@ source: https://zan.gov.kz/client/#!/doc/85509/kaz/17.06.2015
 <td colspan="3">112</td>
 <td colspan="2">001</td>
 <td colspan="2">Аудан (облыстық маңызы бар қала) мәслихатының қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td colspan="3">19116</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2">002</td>
-<td colspan="2">Ақпараттық жүйелер құру</td>
-<td colspan="3">782</td>
+<td colspan="3">19898</td>
 </tr>
 <tr>
 <td></td>
@@ -614,7 +577,7 @@ source: https://zan.gov.kz/client/#!/doc/85509/kaz/17.06.2015
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2">Қорғаныс</td>
-<td colspan="3">264459</td>
+<td colspan="3">260208</td>
 </tr>
 <tr>
 <td></td>
@@ -646,7 +609,7 @@ source: https://zan.gov.kz/client/#!/doc/85509/kaz/17.06.2015
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2">Төтенше жағдайлар жөнiндегi жұмыстарды ұйымдастыру</td>
-<td colspan="3">241991</td>
+<td colspan="3">237 740</td>
 </tr>
 <tr>
 <td>2</td>
@@ -654,7 +617,7 @@ source: https://zan.gov.kz/client/#!/doc/85509/kaz/17.06.2015
 <td colspan="3">122</td>
 <td colspan="2"></td>
 <td colspan="2">Аудан (облыстық маңызы бар қала) әкімінің аппараты</td>
-<td colspan="3">241991</td>
+<td colspan="3">237 740</td>
 </tr>
 <tr>
 <td></td>
@@ -670,7 +633,7 @@ source: https://zan.gov.kz/client/#!/doc/85509/kaz/17.06.2015
 <td colspan="3"></td>
 <td colspan="2">007</td>
 <td colspan="2">Аудандық (қалалық) ауқымдағы дала өрттерінің, сондай-ақ мемлекеттік өртке қарсы қызмет органдары құрылмаған елдi мекендерде өрттердің алдын алу және оларды сөндіру жөніндегі іс-шаралар</td>
-<td colspan="3">14376</td>
+<td colspan="3">10125</td>
 </tr>
 <tr>
 <td>03</td>
@@ -710,7 +673,7 @@ source: https://zan.gov.kz/client/#!/doc/85509/kaz/17.06.2015
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2">Бiлiм беру</td>
-<td colspan="3">12330730</td>
+<td colspan="3">12458491</td>
 </tr>
 <tr>
 <td></td>
@@ -838,7 +801,7 @@ source: https://zan.gov.kz/client/#!/doc/85509/kaz/17.06.2015
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2">Бiлiм беру саласындағы өзге де қызметтер</td>
-<td colspan="3">2253196</td>
+<td colspan="3">2380957</td>
 </tr>
 <tr>
 <td></td>
@@ -846,7 +809,7 @@ source: https://zan.gov.kz/client/#!/doc/85509/kaz/17.06.2015
 <td colspan="3">464</td>
 <td colspan="2"></td>
 <td colspan="2">Ауданның (облыстық маңызы бар қаланың) білім беру бөлімі</td>
-<td colspan="3">385 313</td>
+<td colspan="3">513074</td>
 </tr>
 <tr>
 <td>04</td>
@@ -862,7 +825,7 @@ source: https://zan.gov.kz/client/#!/doc/85509/kaz/17.06.2015
 <td colspan="3"></td>
 <td colspan="2">005</td>
 <td colspan="2">Ауданның (облыстык маңызы бар қаланың) мемлекеттік білім беру мекемелер үшін оқулықтар мен оқу-әдiстемелiк кешендерді сатып алу және жеткізу</td>
-<td colspan="3">116341</td>
+<td colspan="3">244102</td>
 </tr>
 <tr>
 <td></td>
@@ -950,7 +913,7 @@ source: https://zan.gov.kz/client/#!/doc/85509/kaz/17.06.2015
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2">Әлеуметтiк көмек және әлеуметтiк қамсыздандыру</td>
-<td colspan="3">708413</td>
+<td colspan="3">708263</td>
 </tr>
 <tr>
 <td></td>
@@ -982,7 +945,7 @@ source: https://zan.gov.kz/client/#!/doc/85509/kaz/17.06.2015
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2">Әлеуметтiк көмек</td>
-<td colspan="3">639638</td>
+<td colspan="3">639478</td>
 </tr>
 <tr>
 <td></td>
@@ -990,7 +953,7 @@ source: https://zan.gov.kz/client/#!/doc/85509/kaz/17.06.2015
 <td colspan="3">451</td>
 <td colspan="2"></td>
 <td colspan="2">Ауданның (облыстық маңызы бар қаланың) жұмыспен қамту және әлеуметтік бағдарламалар бөлімі</td>
-<td colspan="3">620221</td>
+<td colspan="3">620061</td>
 </tr>
 <tr>
 <td></td>
@@ -1046,7 +1009,7 @@ source: https://zan.gov.kz/client/#!/doc/85509/kaz/17.06.2015
 <td colspan="3"></td>
 <td colspan="2">014</td>
 <td colspan="2">Мұқтаж азаматтарға үйде әлеуметтiк көмек көрсету</td>
-<td colspan="3">72571</td>
+<td colspan="3">72521</td>
 </tr>
 <tr>
 <td></td>
@@ -1070,7 +1033,7 @@ source: https://zan.gov.kz/client/#!/doc/85509/kaz/17.06.2015
 <td colspan="3"></td>
 <td colspan="2">052</td>
 <td colspan="2">Ұлы Отан соғысындағы Жеңістің жетпіс жылдығына арналған іс-шараларды өткізу</td>
-<td colspan="3">133253</td>
+<td colspan="3">133093</td>
 </tr>
 <tr>
 <td></td>
@@ -1134,7 +1097,7 @@ source: https://zan.gov.kz/client/#!/doc/85509/kaz/17.06.2015
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2">Тұрғын үй-коммуналдық шаруашылық</td>
-<td colspan="3">520550</td>
+<td colspan="3">657 351</td>
 </tr>
 <tr>
 <td></td>
@@ -1142,7 +1105,23 @@ source: https://zan.gov.kz/client/#!/doc/85509/kaz/17.06.2015
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2">Тұрғын үй шаруашылығы</td>
-<td colspan="3">75947</td>
+<td colspan="3">212 748</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3">464</td>
+<td colspan="2"></td>
+<td colspan="2">Ауданның (облыстық маңызы бар қаланың) білім беру бөлімі</td>
+<td colspan="3">6140</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2">026</td>
+<td colspan="2">Жұмыспен қамту 2020 жол картасы бойынша қалаларды және ауылдық елді мекендерді дамыту шеңберінде объектілерді жөндеу</td>
+<td colspan="3">6140</td>
 </tr>
 <tr>
 <td></td>
@@ -1166,7 +1145,7 @@ source: https://zan.gov.kz/client/#!/doc/85509/kaz/17.06.2015
 <td colspan="3">497</td>
 <td colspan="2"></td>
 <td colspan="2">Ауданның (облыстық маңызы бар қаланың) тұрғын үй- коммуналдық шаруашылық бөлімі</td>
-<td colspan="3">33947</td>
+<td colspan="3">164608</td>
 </tr>
 <tr>
 <td></td>
@@ -1182,7 +1161,7 @@ source: https://zan.gov.kz/client/#!/doc/85509/kaz/17.06.2015
 <td colspan="3"></td>
 <td colspan="2">004</td>
 <td colspan="2">Мемлекеттiк қажеттiлiктер үшiн жер учаскелерiн алып қою, соның iшiнде сатып алу жолымен алып қою және осыған байланысты жылжымайтын мүлiктi иелiктен шығару</td>
-<td colspan="3">3400</td>
+<td colspan="3">134061</td>
 </tr>
 <tr>
 <td></td>
@@ -1782,7 +1761,7 @@ source: https://zan.gov.kz/client/#!/doc/85509/kaz/17.06.2015
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2">Көлiк және коммуникация</td>
-<td colspan="3">204077</td>
+<td colspan="3">208328</td>
 </tr>
 <tr>
 <td></td>
@@ -1790,7 +1769,7 @@ source: https://zan.gov.kz/client/#!/doc/85509/kaz/17.06.2015
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2">Автомобиль көлiгi</td>
-<td colspan="3">192951</td>
+<td colspan="3">197202</td>
 </tr>
 <tr>
 <td></td>
@@ -1798,7 +1777,7 @@ source: https://zan.gov.kz/client/#!/doc/85509/kaz/17.06.2015
 <td colspan="3">485</td>
 <td colspan="2"></td>
 <td colspan="2">Ауданның (облыстық маңызы бар қаланың) жолаушылар көлігі және автомобиль жолдары бөлімі</td>
-<td colspan="3">192951</td>
+<td colspan="3">197202</td>
 </tr>
 <tr>
 <td></td>
@@ -1806,7 +1785,7 @@ source: https://zan.gov.kz/client/#!/doc/85509/kaz/17.06.2015
 <td colspan="3"></td>
 <td colspan="2">023</td>
 <td colspan="2">Автомобиль жолдарының жұмыс істеуін қамтамасыз ету</td>
-<td colspan="3">192951</td>
+<td colspan="3">197202</td>
 </tr>
 <tr>
 <td></td>
@@ -2018,26 +1997,23 @@ source: https://zan.gov.kz/client/#!/doc/85509/kaz/17.06.2015
 </tr>
 <tr>
 <td colspan="10">Функционалдық топ</td>
-<td colspan="3">Сомасы, мың теңге</td>
+<td colspan="3" rowspan="4">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="7">Кіші функция</td>
 <td>Атауы</td>
-<td colspan="3"></td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="5">Бюджеттік бағдарламалардың әкiмшiсi</td>
-<td colspan="3"></td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="3">Бағдарлама</td>
-<td colspan="3"></td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2080,39 +2056,24 @@ source: https://zan.gov.kz/client/#!/doc/85509/kaz/17.06.2015
 <td colspan="3">29 730</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="5">Санаты</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="9">Санаты</td>
 <td>Атауы</td>
-<td colspan="3">Сомасы, мың теңге</td>
+<td colspan="3" rowspan="4">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="5">Сыныбы</td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
+<td colspan="8">Сыныбы</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="5">Iшкi сыныбы</td>
-<td colspan="3"></td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="3">Ерекшелiгi</td>
-<td colspan="3"></td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2155,35 +2116,24 @@ source: https://zan.gov.kz/client/#!/doc/85509/kaz/17.06.2015
 <td colspan="3">0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
 <td colspan="10">Функционалдық топ</td>
-<td colspan="3">Сомасы, мың теңге</td>
+<td colspan="3" rowspan="4">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="7">Кіші функция</td>
 <td>Атауы</td>
-<td colspan="3"></td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="5">Бюджеттік бағдарламалардың әкiмшiсi</td>
-<td colspan="3"></td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="3">Бағдарлама</td>
-<td colspan="3"></td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2194,39 +2144,24 @@ source: https://zan.gov.kz/client/#!/doc/85509/kaz/17.06.2015
 <td colspan="3">0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="5">Санаты</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="9">Санаты</td>
 <td>Атауы</td>
-<td colspan="3">Сомасы, мың теңге</td>
+<td colspan="3" rowspan="4">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="5">Сыныбы</td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
+<td colspan="8">Сыныбы</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="5">Iшкi сыныбы</td>
-<td colspan="3"></td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="3">Ерекшелiгi</td>
-<td colspan="3"></td>
 </tr>
 <tr>
 <td colspan="2">6</td>
@@ -2269,39 +2204,24 @@ source: https://zan.gov.kz/client/#!/doc/85509/kaz/17.06.2015
 <td colspan="3">207 155</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="5">Санаты</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="9">Санаты</td>
 <td>Атауы</td>
-<td colspan="3">Сомасы, мың теңге</td>
+<td colspan="3" rowspan="4">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="5">Сыныбы</td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
+<td colspan="8">Сыныбы</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="5">Iшкi сыныбы</td>
-<td colspan="3"></td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="3">Ерекшелiгi</td>
-<td colspan="3"></td>
 </tr>
 <tr>
 <td colspan="2">7</td>
@@ -2328,44 +2248,24 @@ source: https://zan.gov.kz/client/#!/doc/85509/kaz/17.06.2015
 <td colspan="3">29730</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
 <td colspan="9">Функционалдық топ</td>
 <td>Атауы</td>
-<td colspan="3"></td>
+<td colspan="3" rowspan="4">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="7">Кіші функция</td>
-<td></td>
-<td colspan="3"></td>
+<td colspan="8">Кіші функция</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="5">Бюджеттік бағдарламалардың әкiмшiсi</td>
-<td colspan="3">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="3">Бағдарлама</td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
 </tr>
 <tr>
 <td colspan="2">16</td>
@@ -2400,39 +2300,24 @@ source: https://zan.gov.kz/client/#!/doc/85509/kaz/17.06.2015
 <td colspan="3">2181</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="5">Санаты</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="9">Санаты</td>
 <td>Атауы</td>
-<td colspan="3">Сомасы, мың теңге</td>
+<td colspan="3" rowspan="4">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="5">Сыныбы</td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
+<td colspan="8">Сыныбы</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="5">Iшкi сыныбы</td>
-<td colspan="3"></td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="3">Ерекшелiгi</td>
-<td colspan="3"></td>
 </tr>
 <tr>
 <td colspan="2">8</td>

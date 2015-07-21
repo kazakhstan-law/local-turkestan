@@ -1,5 +1,5 @@
 ---
-version_id: '85509_272245'
+version_id: '85509_273176'
 act_code: '85509'
 language: rus
 title: О районном бюджете на 2015-2017 годы
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '166008000002'
 approval_date: 2014-12-23
-version_date: 2015-06-17
+version_date: 2015-07-21
 registry_number: '85509'
 caused_by:
-  code: '91620'
+  code: '92151'
   title: О внесении изменений в решение Сайрамского районного маслихата от 23 декабря 2014 года № 40-253/V "О районном бюджете на 2015-2017 годы"
-  link: https://zan.gov.kz/client/#!/doc/91620/rus
-source: https://zan.gov.kz/client/#!/doc/85509/rus/17.06.2015
+  link: https://zan.gov.kz/client/#!/doc/92151/rus
+source: https://zan.gov.kz/client/#!/doc/85509/rus/21.07.2015
 ---
 
 # О районном бюджете на 2015-2017 годы
@@ -25,17 +25,17 @@ source: https://zan.gov.kz/client/#!/doc/85509/rus/17.06.2015
 
 1. Утвердить районный бюджет Сайрамского района на 2015-2017 годы согласно приложению 1 соответственно, в том числе на 2015 год в следующих объемах:
 
-   1) доходы – 16 852 539 тысяч тенге, в том числе по:
+   1) доходы – 17 116 941 тысяч тенге, в том числе по:
 
-      налоговым поступлениям – 2 324 301 тысяч тенге;
+      налоговым поступлениям – 2 425 080 тысяч тенге;
 
       неналоговым поступлениям – 20 095 тысяч тенге;
 
       поступлениям от продажи основного капитала – 39 349 тысяч тенге;
 
-      поступлениям трансфертов – 14 468 794 тысяч тенге;
+      поступлениям трансфертов – 14 632 417 тысяч тенге;
 
-   2) затраты – 17 033 129 тысяч тенге;
+   2) затраты – 17 297 531 тысяч тенге;
 
    3) чистое бюджетное кредитование – 26 565 тысяч тенге, в том числе:
 
@@ -59,7 +59,7 @@ source: https://zan.gov.kz/client/#!/doc/85509/rus/17.06.2015
 
       используемые остатки бюджетных средств – 179 606 тысяч тенге.
 
-> *Сноска. Пункт 1 - в редакции решения Сайрамского районного маслихата Южно-Казахстанской области от 26.03.2015 № 42-276/V (вводится в действие с 01.01.2015).*
+> *Сноска. Пункт 1 - в редакции решения Сайрамского районного маслихата Южно-Казахстанской области от 21.07.2015 № 44-309/V (вводится в действие с 01.01.2015).*
 
 2. Установить на 2015 год норматив распределения индивидуального подоходного налога и социального налога в размере 41,6 процентов в областной бюджет.
 
@@ -91,33 +91,25 @@ source: https://zan.gov.kz/client/#!/doc/85509/rus/17.06.2015
 
 # Районный бюджет Сайрамского района на 2015 год
 
-> *Сноска. Приложение 1 - в редакции решения Сайрамского районного маслихата Южно-Казахстанской области от 17.06.2015 № 43-291/V (вводится в действие с 01.01.2015).*
+> *Сноска. Приложение 1 - в редакции решения Сайрамского районного маслихата Южно-Казахстанской области от 21.07.2015 № 44-309/V (вводится в действие с 01.01.2015).*
 
 <table>
 <tr>
-<td colspan="3">Категория</td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="2">Сумма, тысяч тенге</td>
+<td colspan="10">Категория</td>
+<td colspan="2" rowspan="3">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2">Класс</td>
-<td colspan="4"></td>
+<td colspan="6">Класс</td>
 <td colspan="3">Наименование</td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="8">Подкласс</td>
-<td colspan="2"></td>
 </tr>
 <tr>
-<th>1</th>
-<th></th>
-<th colspan="2"></th>
-<th colspan="3"></th>
+<th colspan="7">1</th>
 <th colspan="3">2</th>
 <th colspan="2">3</th>
 </tr>
@@ -127,7 +119,7 @@ source: https://zan.gov.kz/client/#!/doc/85509/rus/17.06.2015
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">1. Доходы</td>
-<td colspan="2">16852539</td>
+<td colspan="2">17 116 941</td>
 </tr>
 <tr>
 <td>1</td>
@@ -135,7 +127,7 @@ source: https://zan.gov.kz/client/#!/doc/85509/rus/17.06.2015
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">Налоговые поступления</td>
-<td colspan="2">2324301</td>
+<td colspan="2">2425080</td>
 </tr>
 <tr>
 <td></td>
@@ -143,7 +135,7 @@ source: https://zan.gov.kz/client/#!/doc/85509/rus/17.06.2015
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">Подоходный налог</td>
-<td colspan="2">794102</td>
+<td colspan="2">812266</td>
 </tr>
 <tr>
 <td></td>
@@ -151,7 +143,7 @@ source: https://zan.gov.kz/client/#!/doc/85509/rus/17.06.2015
 <td colspan="2">2</td>
 <td colspan="3"></td>
 <td colspan="3">Индивидуальный подоходный налог</td>
-<td colspan="2">794102</td>
+<td colspan="2">812266</td>
 </tr>
 <tr>
 <td></td>
@@ -175,7 +167,7 @@ source: https://zan.gov.kz/client/#!/doc/85509/rus/17.06.2015
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">Hалоги на собственность</td>
-<td colspan="2">791447</td>
+<td colspan="2">874062</td>
 </tr>
 <tr>
 <td></td>
@@ -199,7 +191,7 @@ source: https://zan.gov.kz/client/#!/doc/85509/rus/17.06.2015
 <td colspan="2">4</td>
 <td colspan="3"></td>
 <td colspan="3">Hалог на транспортные средства</td>
-<td colspan="2">242226</td>
+<td colspan="2">324841</td>
 </tr>
 <tr>
 <td></td>
@@ -351,7 +343,7 @@ source: https://zan.gov.kz/client/#!/doc/85509/rus/17.06.2015
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">Поступления трансфертов</td>
-<td colspan="2">14468794</td>
+<td colspan="2">14632417</td>
 </tr>
 <tr>
 <td></td>
@@ -359,7 +351,7 @@ source: https://zan.gov.kz/client/#!/doc/85509/rus/17.06.2015
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">Трансферты из вышестоящих органов государственного управления</td>
-<td colspan="2">14468794</td>
+<td colspan="2">14632417</td>
 </tr>
 <tr>
 <td></td>
@@ -367,44 +359,30 @@ source: https://zan.gov.kz/client/#!/doc/85509/rus/17.06.2015
 <td colspan="2">2</td>
 <td colspan="3"></td>
 <td colspan="3">Трансферты из областного бюджета</td>
-<td colspan="2">14468794</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
+<td colspan="2">14632417</td>
 </tr>
 <tr>
 <td colspan="10">Функциональная группа</td>
-<td colspan="2">Сумма, тысяч тенге</td>
+<td colspan="2" rowspan="4">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="5">Подфункция</td>
 <td colspan="4">Наименование</td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="8">Администратор бюджетной программы</td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="6">Программа</td>
-<td colspan="2"></td>
 </tr>
 <tr>
-<th>1</th>
-<th></th>
-<th colspan="2"></th>
-<th colspan="3"></th>
+<th colspan="7">1</th>
 <th colspan="3">2</th>
 <th colspan="2">3</th>
 </tr>
@@ -414,7 +392,7 @@ source: https://zan.gov.kz/client/#!/doc/85509/rus/17.06.2015
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">2. Затраты</td>
-<td colspan="2">17033129</td>
+<td colspan="2">17297531</td>
 </tr>
 <tr>
 <td>01</td>
@@ -422,7 +400,7 @@ source: https://zan.gov.kz/client/#!/doc/85509/rus/17.06.2015
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">Государственные услуги общего характера</td>
-<td colspan="2">373550</td>
+<td colspan="2">373303</td>
 </tr>
 <tr>
 <td>01</td>
@@ -430,7 +408,7 @@ source: https://zan.gov.kz/client/#!/doc/85509/rus/17.06.2015
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td colspan="2">329279</td>
+<td colspan="2">329032</td>
 </tr>
 <tr>
 <td></td>
@@ -446,15 +424,7 @@ source: https://zan.gov.kz/client/#!/doc/85509/rus/17.06.2015
 <td colspan="2">112</td>
 <td colspan="3">001</td>
 <td colspan="3">Услуги по обеспечению деятельности маслихата района (города областного значения)</td>
-<td colspan="2">19116</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="3">002</td>
-<td colspan="3">Создание информационных систем</td>
-<td colspan="2">782</td>
+<td colspan="2">19898</td>
 </tr>
 <tr>
 <td></td>
@@ -494,7 +464,7 @@ source: https://zan.gov.kz/client/#!/doc/85509/rus/17.06.2015
 <td colspan="2">123</td>
 <td colspan="3"></td>
 <td colspan="3">Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td colspan="2">211396</td>
+<td colspan="2">211149</td>
 </tr>
 <tr>
 <td>01</td>
@@ -502,7 +472,7 @@ source: https://zan.gov.kz/client/#!/doc/85509/rus/17.06.2015
 <td colspan="2">123</td>
 <td colspan="3">001</td>
 <td colspan="3">Услуги по обеспечению деятельности акима района в городе, города районного значения, поселка, села,сельского округа</td>
-<td colspan="2">207396</td>
+<td colspan="2">207149</td>
 </tr>
 <tr>
 <td></td>
@@ -598,7 +568,7 @@ source: https://zan.gov.kz/client/#!/doc/85509/rus/17.06.2015
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">Оборона</td>
-<td colspan="2">264459</td>
+<td colspan="2">260208</td>
 </tr>
 <tr>
 <td></td>
@@ -654,7 +624,7 @@ source: https://zan.gov.kz/client/#!/doc/85509/rus/17.06.2015
 <td colspan="2"></td>
 <td colspan="3">007</td>
 <td colspan="3">Мероприятия по профилактике и тушению степных пожаров районного (городского) масштаба, а также пожаров в населенных пунктах, в которых не созданы органы государственной противопожарной службы</td>
-<td colspan="2">14376</td>
+<td colspan="2">10125</td>
 </tr>
 <tr>
 <td>03</td>
@@ -694,7 +664,7 @@ source: https://zan.gov.kz/client/#!/doc/85509/rus/17.06.2015
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">Образование</td>
-<td colspan="2">12 330 730</td>
+<td colspan="2">12 458 491</td>
 </tr>
 <tr>
 <td></td>
@@ -822,7 +792,7 @@ source: https://zan.gov.kz/client/#!/doc/85509/rus/17.06.2015
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">Прочие услуги в области образования</td>
-<td colspan="2">2253196</td>
+<td colspan="2">2380957</td>
 </tr>
 <tr>
 <td></td>
@@ -830,7 +800,7 @@ source: https://zan.gov.kz/client/#!/doc/85509/rus/17.06.2015
 <td colspan="2">464</td>
 <td colspan="3"></td>
 <td colspan="3">Отдел образования района (города областного значения)</td>
-<td colspan="2">385313</td>
+<td colspan="2">513 074</td>
 </tr>
 <tr>
 <td>04</td>
@@ -846,7 +816,7 @@ source: https://zan.gov.kz/client/#!/doc/85509/rus/17.06.2015
 <td colspan="2"></td>
 <td colspan="3">005</td>
 <td colspan="3">Приобретение и доставка учебников, учебно-методических комплексов для государственных учреждений образования района (города областного значения)</td>
-<td colspan="2">116341</td>
+<td colspan="2">244102</td>
 </tr>
 <tr>
 <td></td>
@@ -902,7 +872,7 @@ source: https://zan.gov.kz/client/#!/doc/85509/rus/17.06.2015
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">Социальная помощь и социальное обеспечение</td>
-<td colspan="2">708413</td>
+<td colspan="2">708253</td>
 </tr>
 <tr>
 <td></td>
@@ -934,7 +904,7 @@ source: https://zan.gov.kz/client/#!/doc/85509/rus/17.06.2015
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">Социальная помощь</td>
-<td colspan="2">639638</td>
+<td colspan="2">639478</td>
 </tr>
 <tr>
 <td></td>
@@ -942,7 +912,7 @@ source: https://zan.gov.kz/client/#!/doc/85509/rus/17.06.2015
 <td colspan="2">451</td>
 <td colspan="3"></td>
 <td colspan="3">Отдел занятости и социальных программ района (города областного значения)</td>
-<td colspan="2">620221</td>
+<td colspan="2">620061</td>
 </tr>
 <tr>
 <td></td>
@@ -1022,7 +992,7 @@ source: https://zan.gov.kz/client/#!/doc/85509/rus/17.06.2015
 <td colspan="2"></td>
 <td colspan="3">052</td>
 <td colspan="3">Проведение мероприятий, посвященных семидесятилетию Победы в Великой Отечественной войне</td>
-<td colspan="2">133253</td>
+<td colspan="2">133093</td>
 </tr>
 <tr>
 <td></td>
@@ -1086,7 +1056,7 @@ source: https://zan.gov.kz/client/#!/doc/85509/rus/17.06.2015
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">Жилищно-коммунальное хозяйство</td>
-<td colspan="2">520303</td>
+<td colspan="2">657351</td>
 </tr>
 <tr>
 <td></td>
@@ -1094,7 +1064,23 @@ source: https://zan.gov.kz/client/#!/doc/85509/rus/17.06.2015
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">Жилищное хозяйство</td>
-<td colspan="2">75947</td>
+<td colspan="2">212748</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2">464</td>
+<td colspan="3"></td>
+<td colspan="3">Отдел образования района (города областного значения)</td>
+<td colspan="2">6140</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3">026</td>
+<td colspan="3">Ремонт объектов в рамках развития сельских населенных пунктов по Программе занятости 2020</td>
+<td colspan="2">6140</td>
 </tr>
 <tr>
 <td></td>
@@ -1118,7 +1104,7 @@ source: https://zan.gov.kz/client/#!/doc/85509/rus/17.06.2015
 <td colspan="2">497</td>
 <td colspan="3"></td>
 <td colspan="3">Отдел жилищно-коммунального хозяйства района (города областного значения)</td>
-<td colspan="2">33947</td>
+<td colspan="2">164608</td>
 </tr>
 <tr>
 <td></td>
@@ -1126,7 +1112,7 @@ source: https://zan.gov.kz/client/#!/doc/85509/rus/17.06.2015
 <td colspan="2"></td>
 <td colspan="3">001</td>
 <td colspan="3">Услуги по реализации государственной политики на местном уровне в области жилищно-коммунального хозяйства</td>
-<td colspan="2">21076</td>
+<td colspan="2">21092</td>
 </tr>
 <tr>
 <td></td>
@@ -1134,7 +1120,7 @@ source: https://zan.gov.kz/client/#!/doc/85509/rus/17.06.2015
 <td colspan="2"></td>
 <td colspan="3">004</td>
 <td colspan="3">Изъятие, в том числе путем выкупа земельных участков для государственных надобностей и связанное с этим отчуждение недвижимого имущества</td>
-<td colspan="2">3400</td>
+<td colspan="2">134061</td>
 </tr>
 <tr>
 <td></td>
@@ -1198,7 +1184,7 @@ source: https://zan.gov.kz/client/#!/doc/85509/rus/17.06.2015
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">Благоустройство населенных пунктов</td>
-<td colspan="2">104329</td>
+<td colspan="2">104576</td>
 </tr>
 <tr>
 <td></td>
@@ -1206,7 +1192,7 @@ source: https://zan.gov.kz/client/#!/doc/85509/rus/17.06.2015
 <td colspan="2">123</td>
 <td colspan="3"></td>
 <td colspan="3">Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td colspan="2">70733</td>
+<td colspan="2">70890</td>
 </tr>
 <tr>
 <td></td>
@@ -1222,7 +1208,7 @@ source: https://zan.gov.kz/client/#!/doc/85509/rus/17.06.2015
 <td colspan="2"></td>
 <td colspan="3">009</td>
 <td colspan="3">Обеспечение санитарии населенных пунктов</td>
-<td colspan="2">16936</td>
+<td colspan="2">17183</td>
 </tr>
 <tr>
 <td></td>
@@ -1742,7 +1728,7 @@ source: https://zan.gov.kz/client/#!/doc/85509/rus/17.06.2015
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">Транспорт и коммуникации</td>
-<td colspan="2">204077</td>
+<td colspan="2">208328</td>
 </tr>
 <tr>
 <td></td>
@@ -1750,7 +1736,7 @@ source: https://zan.gov.kz/client/#!/doc/85509/rus/17.06.2015
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">Автомобильный транспорт</td>
-<td colspan="2">192951</td>
+<td colspan="2">197202</td>
 </tr>
 <tr>
 <td></td>
@@ -1758,7 +1744,7 @@ source: https://zan.gov.kz/client/#!/doc/85509/rus/17.06.2015
 <td colspan="2">485</td>
 <td colspan="3"></td>
 <td colspan="3">Отдел пассажирского транспорта и автомобильных дорог района (города областного значения)</td>
-<td colspan="2">192951</td>
+<td colspan="2">197202</td>
 </tr>
 <tr>
 <td></td>
@@ -1766,7 +1752,7 @@ source: https://zan.gov.kz/client/#!/doc/85509/rus/17.06.2015
 <td colspan="2"></td>
 <td colspan="3">023</td>
 <td colspan="3">Обеспечение функционирования автомобильных дорог</td>
-<td colspan="2">192951</td>
+<td colspan="2">197202</td>
 </tr>
 <tr>
 <td></td>
@@ -1977,35 +1963,24 @@ source: https://zan.gov.kz/client/#!/doc/85509/rus/17.06.2015
 <td colspan="2">26 565</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
 <td colspan="10">Функциональная группа</td>
-<td colspan="2">Сумма, тысяч тенге</td>
+<td colspan="2" rowspan="4">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="5">Подфункция</td>
 <td colspan="4">Наименование</td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="8">Администратор бюджетной программы</td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="6">Программа</td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
@@ -2048,31 +2023,18 @@ source: https://zan.gov.kz/client/#!/doc/85509/rus/17.06.2015
 <td colspan="2">29 730</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="3">Категория</td>
-<td colspan="2"></td>
+<td colspan="5">Категория</td>
 <td colspan="5">Наименование</td>
-<td colspan="2">Сумма, тысяч тенге</td>
+<td colspan="2" rowspan="3">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="5">Класс</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="9">Класс</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="8">Подкласс</td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
@@ -2115,35 +2077,24 @@ source: https://zan.gov.kz/client/#!/doc/85509/rus/17.06.2015
 <td colspan="2">0</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
 <td colspan="10">Функциональная группа</td>
-<td colspan="2">Сумма, тысяч тенге</td>
+<td colspan="2" rowspan="4">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="5">Подфункция</td>
 <td colspan="4">Наименование</td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="8">Администратор бюджетной программы</td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="6">Программа</td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
@@ -2154,31 +2105,18 @@ source: https://zan.gov.kz/client/#!/doc/85509/rus/17.06.2015
 <td colspan="2">0</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="4">Категория</td>
-<td colspan="3"></td>
+<td colspan="7">Категория</td>
 <td colspan="3">Наименование</td>
-<td colspan="2">Сумма, тысяч тенге</td>
+<td colspan="2" rowspan="3">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="5">Класс</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="9">Класс</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="8">Подкласс</td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td>6</td>
@@ -2221,31 +2159,18 @@ source: https://zan.gov.kz/client/#!/doc/85509/rus/17.06.2015
 <td colspan="2">207155</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="3">Категория</td>
-<td colspan="2"></td>
+<td colspan="5">Категория</td>
 <td colspan="5">Наименование</td>
-<td colspan="2">Сумма, тысяч тенге</td>
+<td colspan="2" rowspan="3">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="5">Класс</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="9">Класс</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="8">Подкласс</td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td>7</td>
@@ -2272,35 +2197,24 @@ source: https://zan.gov.kz/client/#!/doc/85509/rus/17.06.2015
 <td colspan="2">29730</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
 <td colspan="10">Функциональная группа</td>
-<td colspan="2">Сумма, тысяч тенге</td>
+<td colspan="2" rowspan="4">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="5">Подфункция</td>
 <td colspan="4">Наименование</td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="8">Администратор бюджетной программы</td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="6">Программа</td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td>16</td>
@@ -2335,31 +2249,18 @@ source: https://zan.gov.kz/client/#!/doc/85509/rus/17.06.2015
 <td colspan="2">2181</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="3">Категория</td>
-<td colspan="2"></td>
+<td colspan="5">Категория</td>
 <td colspan="5">Наименование</td>
-<td colspan="2">Сумма, тысяч тенге</td>
+<td colspan="2" rowspan="3">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="5">Класс</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="9">Класс</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="8">Подкласс</td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td>8</td>
