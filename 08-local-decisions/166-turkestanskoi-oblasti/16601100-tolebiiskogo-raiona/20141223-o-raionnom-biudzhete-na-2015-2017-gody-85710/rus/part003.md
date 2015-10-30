@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/85710/rus/21.07.2015
+source: https://zan.gov.kz/client/#!/doc/85710/rus/30.10.2015
 ---
 
 > *Приложение 3 к решению*  
@@ -1915,1489 +1915,1598 @@ source: https://zan.gov.kz/client/#!/doc/85710/rus/21.07.2015
 
 # Перечень бюджетных программ каждого сельского округа бюджета на 2015 год
 
-> *Сноска. Приложение 5 - в редакции решения Толебийского районного маслихата Южно-Казахстанской области от 21.07.2015 № 42/206-V (вводится в действие с 01.01.2015).*
+> *Сноска. Приложение 5 - в редакции решения Толебийского районного маслихата Южно-Казахстанской области от 30.10.2015 № 45/222-V (вводится в действие с 01.01.2015).*
 
 <table>
 <tr>
-<td colspan="13">
-Функциональная группа Наименование
-Функциональная подгруппа
-Администратор бюджетных программ
-Программа
-</td>
-<td>Сумма в тысяч тенге</td>
+<td colspan="5">Функциональная группа Наименование</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="4">Функциональная подгруппа</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="3">Администратор бюджетных программ</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Программа</td>
+<td></td>
 </tr>
 <tr>
 <td>01</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Государственные услуги общего характера</td>
-<td>264852</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Государственные услуги общего характера</td>
+<td>265911</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">1</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>264852</td>
+<td>1</td>
+<td></td>
+<td></td>
+<td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
+<td>265911</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2">123</td>
-<td colspan="2"></td>
-<td colspan="5">Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td>264852</td>
+<td></td>
+<td>123</td>
+<td></td>
+<td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
+<td>265911</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2">001</td>
-<td colspan="5">Услуги по обеспечению деятельности акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td>218805</td>
+<td></td>
+<td></td>
+<td>001</td>
+<td>Услуги по обеспечению деятельности акима района в городе, города районного значения, поселка, села, сельского округа</td>
+<td>219574</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">в том числе:</td>
 <td></td>
+<td></td>
+<td></td>
+<td>в том числе:</td>
+<td>-</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Ленгер</td>
-<td>34152</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Ленгер</td>
+<td>35973</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Аккум</td>
-<td>14387</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Аккум</td>
+<td>14635</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Алатау</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Алатау</td>
 <td>14308</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Зертас</td>
-<td>14859</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Зертас</td>
+<td>14368</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Верхний-Аксу</td>
-<td>13250</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Верхний-Аксу</td>
+<td>13245</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Коксайек</td>
-<td>18992</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Коксайек</td>
+<td>18793</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Каскасу</td>
-<td>14275</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Каскасу</td>
+<td>14245</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Когалы</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Когалы</td>
 <td>12588</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Каратобе</td>
-<td>14678</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Каратобе</td>
+<td>14876</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Первомаевка</td>
-<td>22309</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Первомаевка</td>
+<td>22229</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Тасарык</td>
-<td>12378</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Тасарык</td>
+<td>12234</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Киелитас</td>
-<td>17649</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Киелитас</td>
+<td>16870</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Кемекалган</td>
-<td>14980</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Кемекалган</td>
+<td>15210</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2">022</td>
-<td colspan="5">Капитальные расходы государственных органов</td>
-<td>1070</td>
+<td></td>
+<td></td>
+<td>022</td>
+<td>Капитальные расходы государственных органов</td>
+<td>1360</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">в том числе:</td>
 <td></td>
+<td></td>
+<td></td>
+<td>в том числе:</td>
+<td>-</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Ленгер</td>
 <td></td>
+<td></td>
+<td></td>
+<td>Ленгер</td>
+<td>-</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Аккум</td>
 <td></td>
+<td></td>
+<td></td>
+<td>Аккум</td>
+<td>-</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Алатау</td>
 <td></td>
+<td></td>
+<td></td>
+<td>Алатау</td>
+<td>-</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Зертас</td>
 <td></td>
+<td></td>
+<td></td>
+<td>Зертас</td>
+<td>290</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Верхний-Аксу</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Верхний-Аксу</td>
 <td>250</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Коксайек</td>
 <td></td>
+<td></td>
+<td></td>
+<td>Коксайек</td>
+<td>-</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Каскасу</td>
 <td></td>
+<td></td>
+<td></td>
+<td>Каскасу</td>
+<td>-</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Когалы</td>
 <td></td>
+<td></td>
+<td></td>
+<td>Когалы</td>
+<td>-</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Каратобе</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Каратобе</td>
 <td>100</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Первомаевка</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Первомаевка</td>
 <td>100</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Тасарык</td>
 <td></td>
+<td></td>
+<td></td>
+<td>Тасарык</td>
+<td>-</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Киелитас</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Киелитас</td>
 <td>620</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Кемекалган</td>
 <td></td>
+<td></td>
+<td></td>
+<td>Кемекалган</td>
+<td>-</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2">032</td>
-<td colspan="5">Капитальные расходы подведомственных государственных учреждений и организаций</td>
+<td></td>
+<td></td>
+<td>032</td>
+<td>Капитальные расходы подведомственных государственных учреждений и организаций</td>
 <td>44977</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">в том числе:</td>
 <td></td>
+<td></td>
+<td></td>
+<td>в том числе:</td>
+<td>-</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Ленгер</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Ленгер</td>
 <td>39977</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Аккум</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Аккум</td>
 <td>5000</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Алатау</td>
 <td></td>
+<td></td>
+<td></td>
+<td>Алатау</td>
+<td>-</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Зертас</td>
 <td></td>
+<td></td>
+<td></td>
+<td>Зертас</td>
+<td>-</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Верхний-Аксу</td>
 <td></td>
+<td></td>
+<td></td>
+<td>Верхний-Аксу</td>
+<td>-</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Коксайек</td>
 <td></td>
+<td></td>
+<td></td>
+<td>Коксайек</td>
+<td>-</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Каскасу</td>
 <td></td>
+<td></td>
+<td></td>
+<td>Каскасу</td>
+<td>-</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Когалы</td>
 <td></td>
+<td></td>
+<td></td>
+<td>Когалы</td>
+<td>-</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Каратобе</td>
 <td></td>
+<td></td>
+<td></td>
+<td>Каратобе</td>
+<td>-</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Первомаевка</td>
 <td></td>
+<td></td>
+<td></td>
+<td>Первомаевка</td>
+<td>-</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Тасарык</td>
 <td></td>
+<td></td>
+<td></td>
+<td>Тасарык</td>
+<td>-</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Киелитас</td>
 <td></td>
+<td></td>
+<td></td>
+<td>Киелитас</td>
+<td>-</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Кемекалган</td>
 <td></td>
+<td></td>
+<td></td>
+<td>Кемекалган</td>
+<td>-</td>
 </tr>
 <tr>
 <td>04</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Образование</td>
-<td>530078</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Образование</td>
+<td>541102</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">1</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Дошкольное воспитание и обучение</td>
-<td>523682</td>
+<td>1</td>
+<td></td>
+<td></td>
+<td>Дошкольное воспитание и обучение</td>
+<td>534709</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2">123</td>
-<td colspan="2"></td>
-<td colspan="5">Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td>523682</td>
+<td></td>
+<td>123</td>
+<td></td>
+<td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
+<td>534709</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2">004</td>
-<td colspan="5">Поддержка организаций дошкольного воспитания и обучения</td>
-<td>221150</td>
+<td></td>
+<td></td>
+<td>004</td>
+<td>Поддержка организаций дошкольного воспитания и обучения</td>
+<td>232177</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">в том числе:</td>
 <td></td>
+<td></td>
+<td></td>
+<td>в том числе:</td>
+<td>-</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Ленгер</td>
-<td>126449</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Ленгер</td>
+<td>138662</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Аккум</td>
-<td>3000</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Аккум</td>
+<td>11398</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Алатау</td>
-<td>3055</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Алатау</td>
+<td>3013</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Зертас</td>
-<td>1990</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Зертас</td>
+<td>2008</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Верхний-Аксу</td>
-<td>3475</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Верхний-Аксу</td>
+<td>3671</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Коксайек</td>
-<td>53596</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Коксайек</td>
+<td>41115</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Каскасу</td>
-<td>1915</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Каскасу</td>
+<td>2473</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Когалы</td>
-<td>4796</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Когалы</td>
+<td>5312</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Каратобе</td>
-<td>1246</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Каратобе</td>
+<td>1787</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Первомаевка</td>
-<td>2480</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Первомаевка</td>
+<td>2355</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Тасарык</td>
-<td>15970</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Тасарык</td>
+<td>16633</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Киелитас</td>
-<td>1460</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Киелитас</td>
+<td>2048</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Кемекалган</td>
-<td>1718</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Кемекалган</td>
+<td>1702</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2">041</td>
-<td colspan="5">Реализация государственного образовательного заказа в дошкольных организациях образования</td>
+<td></td>
+<td></td>
+<td>041</td>
+<td>Реализация государственного образовательного заказа в дошкольных организациях образования</td>
 <td>302532</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">в том числе:</td>
 <td></td>
+<td></td>
+<td></td>
+<td>в том числе:</td>
+<td>-</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Ленгер</td>
 <td></td>
+<td></td>
+<td></td>
+<td>Ленгер</td>
+<td>-</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Аккум</td>
 <td></td>
+<td></td>
+<td></td>
+<td>Аккум</td>
+<td>-</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Алатау</td>
-<td>33614</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Алатау</td>
+<td>33362</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Зертас</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Зертас</td>
 <td>28812</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Верхне-Аксу</td>
-<td>19208</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Верхне-Аксу</td>
+<td>18775</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Коксайек</td>
-<td>58585</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Коксайек</td>
+<td>59362</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Каскасу</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Каскасу</td>
 <td>32653</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Когалы</td>
-<td>21132</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Когалы</td>
+<td>21275</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Каратобе</td>
-<td>17287</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Каратобе</td>
+<td>17006</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Первомаевка</td>
-<td>46099</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Первомаевка</td>
+<td>46317</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Тасарык</td>
 <td></td>
+<td></td>
+<td></td>
+<td>Тасарык</td>
+<td>-</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Киелитас</td>
-<td>33614</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Киелитас</td>
+<td>33442</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Кемекалган</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Кемекалган</td>
 <td>11528</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">2</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Начальное, основное среднее и общее среднее образование</td>
-<td>6396</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td>Начальное, основное среднее и общее среднее образование</td>
+<td>6393</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2">123</td>
-<td colspan="2"></td>
-<td colspan="5">Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td>6396</td>
+<td></td>
+<td>123</td>
+<td></td>
+<td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
+<td>6393</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2">005</td>
-<td colspan="5">Организация бесплатного подвоза учащихся до школы и обратно в сельской местности</td>
-<td>6396</td>
+<td></td>
+<td></td>
+<td>005</td>
+<td>Организация бесплатного подвоза учащихся до школы и обратно в сельской местности</td>
+<td>6393</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">в том числе:</td>
 <td></td>
+<td></td>
+<td></td>
+<td>в том числе:</td>
+<td>-</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Ленгер</td>
 <td></td>
+<td></td>
+<td></td>
+<td>Ленгер</td>
+<td>-</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Аккум</td>
 <td></td>
+<td></td>
+<td></td>
+<td>Аккум</td>
+<td>-</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Алатау</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Алатау</td>
 <td>1300</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Зертас</td>
 <td></td>
+<td></td>
+<td></td>
+<td>Зертас</td>
+<td>-</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Верхний-Аксу</td>
 <td></td>
+<td></td>
+<td></td>
+<td>Верхний-Аксу</td>
+<td>-</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Коксайек</td>
-<td>3458</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Коксайек</td>
+<td>3456</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Каскасу</td>
 <td></td>
+<td></td>
+<td></td>
+<td>Каскасу</td>
+<td>-</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Когалы</td>
 <td></td>
+<td></td>
+<td></td>
+<td>Когалы</td>
+<td>-</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Каратобе</td>
 <td></td>
+<td></td>
+<td></td>
+<td>Каратобе</td>
+<td>-</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Первомаевка</td>
 <td></td>
+<td></td>
+<td></td>
+<td>Первомаевка</td>
+<td>-</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Тасарык</td>
 <td></td>
+<td></td>
+<td></td>
+<td>Тасарык</td>
+<td>-</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Киелитас</td>
 <td></td>
+<td></td>
+<td></td>
+<td>Киелитас</td>
+<td>-</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Кемекалган</td>
-<td>1638</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Кемекалган</td>
+<td>1637</td>
 </tr>
 <tr>
 <td>07</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Жилищно-коммунальное хозяйство</td>
-<td>16853</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Жилищно-коммунальное хозяйство</td>
+<td>18823</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">3</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Благоустройство населенных пунктов</td>
-<td>16853</td>
+<td>3</td>
+<td></td>
+<td></td>
+<td>Благоустройство населенных пунктов</td>
+<td>18823</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2">123</td>
-<td colspan="2"></td>
-<td colspan="5">Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td>13473</td>
+<td></td>
+<td>123</td>
+<td></td>
+<td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
+<td>1200</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2">009</td>
-<td colspan="5">Обеспечение санитарии населенных пунктов</td>
-<td>13473</td>
+<td></td>
+<td></td>
+<td>008</td>
+<td>Освещение улиц населенных пунктов</td>
+<td>1200</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">в том числе:</td>
 <td></td>
+<td></td>
+<td></td>
+<td>в том числе:</td>
+<td>-</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Ленгер</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Ленгер</td>
+<td>1200</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Аккум</td>
+<td>-</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Алатау</td>
+<td>-</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Зертас</td>
+<td>-</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Верхний-Аксу</td>
+<td>-</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Коксайек</td>
+<td>-</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Каскасу</td>
+<td>-</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Когалы</td>
+<td>-</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Каратобе</td>
+<td>-</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Первомаевка</td>
+<td>-</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Тасарык</td>
+<td>-</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Киелитас</td>
+<td>-</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Кемекалган</td>
+<td>-</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>123</td>
+<td></td>
+<td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
+<td>13373</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>009</td>
+<td>Обеспечение санитарии населенных пунктов</td>
+<td>13373</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>в том числе:</td>
+<td>-</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Ленгер</td>
 <td>720</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Аккум</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Аккум</td>
 <td>720</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Алатау</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Алатау</td>
 <td>720</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Зертас</td>
-<td>720</td>
-</tr>
-<tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Верхний-Аксу</td>
+<td></td>
+<td></td>
+<td>Верхний-Аксу</td>
 <td>1050</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Коксайек</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Коксайек</td>
 <td>2411</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Каскасу</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Каскасу</td>
 <td>1050</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Когалы</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Когалы</td>
 <td>1100</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Каратобе</td>
-<td>1220</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Каратобе</td>
+<td>1120</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Первомаевка</td>
-<td>1000</td>
-</tr>
-<tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Тасарык</td>
+<td></td>
+<td></td>
+<td>Тасарык</td>
 <td>1042</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Киелитас</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Киелитас</td>
 <td>720</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Кемекалган</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Кемекалган</td>
 <td>1000</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2">123</td>
-<td colspan="2"></td>
-<td colspan="5">Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
+<td></td>
+<td>123</td>
+<td></td>
+<td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
 <td>180</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2">010</td>
-<td colspan="5">Содержание мест захоронений и погребение безродных</td>
+<td></td>
+<td></td>
+<td>010</td>
+<td>Содержание мест захоронений и погребение безродных</td>
 <td>180</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">в том числе:</td>
 <td></td>
+<td></td>
+<td></td>
+<td>в том числе:</td>
+<td>-</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Ленгер</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Ленгер</td>
 <td>180</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Аккум</td>
 <td></td>
+<td></td>
+<td></td>
+<td>Аккум</td>
+<td>-</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Алатау</td>
 <td></td>
+<td></td>
+<td></td>
+<td>Алатау</td>
+<td>-</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Зертас</td>
 <td></td>
+<td></td>
+<td></td>
+<td>Зертас</td>
+<td>-</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Верхний-Аксу</td>
 <td></td>
+<td></td>
+<td></td>
+<td>Верхний-Аксу</td>
+<td>-</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Коксайек</td>
 <td></td>
+<td></td>
+<td></td>
+<td>Коксайек</td>
+<td>-</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Каскасу</td>
 <td></td>
+<td></td>
+<td></td>
+<td>Каскасу</td>
+<td>-</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Когалы</td>
 <td></td>
+<td></td>
+<td></td>
+<td>Когалы</td>
+<td>-</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Каратобе</td>
 <td></td>
+<td></td>
+<td></td>
+<td>Каратобе</td>
+<td>-</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Первомаевка</td>
 <td></td>
+<td></td>
+<td></td>
+<td>Первомаевка</td>
+<td>-</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Тасарык</td>
 <td></td>
+<td></td>
+<td></td>
+<td>Тасарык</td>
+<td>-</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Киелитас</td>
 <td></td>
+<td></td>
+<td></td>
+<td>Киелитас</td>
+<td>-</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Кемекалган</td>
 <td></td>
+<td></td>
+<td></td>
+<td>Кемекалган</td>
+<td>-</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2">123</td>
-<td colspan="2"></td>
-<td colspan="5">Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td>3200</td>
+<td></td>
+<td>123</td>
+<td></td>
+<td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
+<td>4070</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2">011</td>
-<td colspan="5">Благоустройство и озеленение населенных пунктов</td>
-<td>3200</td>
+<td></td>
+<td></td>
+<td>011</td>
+<td>Благоустройство и озеленение населенных пунктов</td>
+<td>4070</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">в том числе:</td>
 <td></td>
+<td></td>
+<td></td>
+<td>в том числе:</td>
+<td>-</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Ленгер</td>
 <td></td>
+<td></td>
+<td></td>
+<td>Ленгер</td>
+<td>-</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Аккум</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Аккум</td>
+<td>780</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Алатау</td>
 <td>100</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Алатау</td>
-<td>100</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Зертас</td>
+<td>290</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Зертас</td>
-<td>100</td>
-</tr>
-<tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Верхний-Аксу</td>
-<td>100</td>
-</tr>
-<tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Коксайек</td>
+<td></td>
+<td>Коксайек</td>
 <td>2100</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Каскасу</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Каскасу</td>
 <td>100</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Когалы</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Когалы</td>
 <td>100</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Каратобе</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Каратобе</td>
 <td>100</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Первомаевка</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Тасарык</td>
 <td>100</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Тасарык</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Киелитас</td>
 <td>100</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Киелитас</td>
-<td>100</td>
-</tr>
-<tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Кемекалган</td>
+<td></td>
+<td></td>
+<td>Кемекалган</td>
 <td>100</td>
 </tr>
 <tr>
 <td>8</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Культура, спорт, туризм и информационное пространство</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Культура, спорт, туризм и информационное пространство</td>
 <td>520</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">1</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Деятельность в области культуры</td>
+<td>1</td>
+<td></td>
+<td></td>
+<td>Деятельность в области культуры</td>
 <td>260</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2">123</td>
-<td colspan="2"></td>
-<td colspan="5">Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
+<td></td>
+<td>123</td>
+<td></td>
+<td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
 <td>260</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2">006</td>
-<td colspan="5">Поддержка культурно-досуговой работы на местном уровне</td>
+<td></td>
+<td></td>
+<td>006</td>
+<td>Поддержка культурно-досуговой работы на местном уровне</td>
 <td>260</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">в том числе:</td>
 <td></td>
+<td></td>
+<td></td>
+<td>в том числе:</td>
+<td>-</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Ленгер</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Ленгер</td>
 <td>20</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Аккум</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Аккум</td>
 <td>20</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Алатау</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Алатау</td>
 <td>20</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Зертас</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Зертас</td>
 <td>20</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Верхний-Аксу</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Верхний-Аксу</td>
 <td>20</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Коксайек</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Коксайек</td>
 <td>20</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Каскасу</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Каскасу</td>
 <td>20</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Когалы</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Когалы</td>
 <td>20</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Каратобе</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Каратобе</td>
 <td>20</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Первомаевка</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Первомаевка</td>
 <td>20</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Тасарык</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Тасарык</td>
 <td>20</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Киелитас</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Киелитас</td>
 <td>20</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Кемекалган</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Кемекалган</td>
 <td>20</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">2</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Спорт</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td>Спорт</td>
 <td>260</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2">123</td>
-<td colspan="2"></td>
-<td colspan="5">Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
+<td></td>
+<td>123</td>
+<td></td>
+<td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
 <td>260</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2">028</td>
-<td colspan="5">Реализация физкультурно-оздоровительных и спортивных мероприятий на местно уровне</td>
+<td></td>
+<td></td>
+<td>028</td>
+<td>Реализация физкультурно-оздоровительных и спортивных мероприятий на местно уровне</td>
 <td>260</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">в том числе:</td>
 <td></td>
+<td></td>
+<td></td>
+<td>в том числе:</td>
+<td>-</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Ленгер</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Ленгер</td>
 <td>20</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Аккум</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Аккум</td>
 <td>20</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Алатау</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Алатау</td>
 <td>20</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Зертас</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Зертас</td>
 <td>20</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Верхний-Аксу</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Верхний-Аксу</td>
 <td>20</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Коксайек</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Коксайек</td>
 <td>20</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Каскасу</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Каскасу</td>
 <td>20</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Когалы</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Когалы</td>
 <td>20</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Каратобе</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Каратобе</td>
 <td>20</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Первомаевка</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Первомаевка</td>
 <td>20</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Тасарык</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Тасарык</td>
 <td>20</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Киелитас</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Киелитас</td>
 <td>20</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Кемекалган</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Кемекалган</td>
 <td>20</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Всего:</td>
-<td>812303</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Всего:</td>
+<td>826356</td>
 </tr>
 </table>
 
@@ -3407,118 +3516,112 @@ source: https://zan.gov.kz/client/#!/doc/85710/rus/21.07.2015
 
 # Перечень бюджетных программ развития районного бюджета на 2015 год с разделением на бюджетные программы, направленные на реализацию бюджетных инвестиционных проектов (программ)
 
-> *Сноска. Приложение 6 - в редакции решения Толебийского районного маслихата Южно-Казахстанской области от 21.07.2015 № 42/206-V (вводится в действие с 01.01.2015).*
+> *Сноска. Приложение 6 - в редакции решения Толебийского районного маслихата Южно-Казахстанской области от 30.10.2015 № 45/222-V (вводится в действие с 01.01.2015).*
 
 <table>
 <tr>
-<td colspan="13">
+<td colspan="9">
 Функциональная группа Наименование
 Функциональная подгруппа
 Администратор бюджетных программ
 Программа
 </td>
-<td colspan="2">Сумма в тысяч тенге</td>
+<td>Сумма в тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="7"></td>
-<td colspan="2">3 280 493</td>
+<td></td>
+<td></td>
+<td colspan="5"></td>
+<td>3 339 466</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
+<td></td>
 <td>467</td>
-<td colspan="2"></td>
-<td colspan="7">Отдел строительства района (города областного значения)</td>
-<td colspan="2">1 311 273</td>
+<td></td>
+<td colspan="5">Отдел строительства района (города областного значения)</td>
+<td>1 363 435</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="20">
-<table>
-<tr>
 <td></td>
 <td></td>
-<td colspan="2">037</td>
-<td colspan="7">Строительство и реконструкция объектов образования</td>
-<td colspan="4">1222239</td>
+<td>037</td>
+<td colspan="5">Строительство и реконструкция объектов образования</td>
+<td>1281382</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2">003</td>
-<td colspan="7">Строительство и (или) приобретение жилья государственного коммунального жилищного фонда</td>
-<td colspan="2">3740</td>
+<td></td>
+<td>003</td>
+<td colspan="5">Строительство и (или) приобретение жилья государственного коммунального жилищного фонда</td>
+<td>4798</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2">004</td>
-<td colspan="7">Развитие, обустройство и (или) приобретение инженерно-коммуникационной инфраструктуры</td>
-<td colspan="2">73245</td>
+<td></td>
+<td>004</td>
+<td colspan="5">Развитие, обустройство и (или) приобретение инженерно-коммуникационной инфраструктуры</td>
+<td>70182</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2">007</td>
-<td colspan="7">Развитие благоустройства городов и населенных пунктов</td>
-<td colspan="2">4800</td>
+<td></td>
+<td>007</td>
+<td colspan="5">Развитие благоустройства городов и населенных пунктов</td>
+<td>4025</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2">008</td>
-<td colspan="7">Развитие объектов спорта</td>
-<td colspan="2">7249</td>
+<td></td>
+<td>008</td>
+<td colspan="5">Развитие объектов спорта</td>
+<td>3048</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
+<td></td>
 <td>458</td>
-<td colspan="2"></td>
-<td colspan="7">Отдел жилищно-коммунального хозяйства, пассажирского транспорта и автомобильных дорог района (города областного значения)</td>
-<td colspan="2">1 358 770</td>
+<td></td>
+<td colspan="5">Отдел жилищно-коммунального хозяйства, пассажирского транспорта и автомобильных дорог района (города областного значения)</td>
+<td>1 362 267</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2">028</td>
-<td colspan="7">Развитие коммунального хозяйства</td>
-<td colspan="2">100 805</td>
+<td></td>
+<td>028</td>
+<td colspan="5">Развитие коммунального хозяйства</td>
+<td>101 313</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2">058</td>
-<td colspan="7">Развитие системы водоснабжения и водоотведения в сельских населенных пунктах</td>
-<td colspan="2">1257965</td>
+<td></td>
+<td>058</td>
+<td colspan="5">Развитие системы водоснабжения и водоотведения в сельских населенных пунктах</td>
+<td>1260954</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
+<td></td>
 <td>458</td>
-<td colspan="2"></td>
-<td colspan="7">Отдел жилищно-коммунального хозяйства, пассажирского транспорта и автомобильных дорог района (города областного значения)</td>
-<td colspan="2">610 450</td>
+<td></td>
+<td colspan="5">Отдел жилищно-коммунального хозяйства, пассажирского транспорта и автомобильных дорог района (города областного значения)</td>
+<td>613 764</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2">036</td>
-<td colspan="7">Развитие газотранспортной системы</td>
-<td colspan="2">610450</td>
-</tr>
-</table>
-</td>
+<td></td>
+<td>036</td>
+<td colspan="5">Развитие газотранспортной системы</td>
+<td>613764</td>
 </tr>
 </table>
