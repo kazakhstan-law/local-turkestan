@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/85051/kaz/21.10.2015
+source: https://zan.gov.kz/client/#!/doc/85051/kaz/09.12.2015
 ---
 
 > *Оңтүстік Қазақстан облыстық мәслихатының*  
