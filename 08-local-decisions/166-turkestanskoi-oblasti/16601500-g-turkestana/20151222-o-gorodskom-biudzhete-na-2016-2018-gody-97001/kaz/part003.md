@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/97001/kaz/22.12.2015
+source: https://zan.gov.kz/client/#!/doc/97001/kaz/20.01.2016
 ---
 
 > *Түркістан қалалық мәслихатының*  
@@ -9,20 +9,16 @@ source: https://zan.gov.kz/client/#!/doc/97001/kaz/22.12.2015
 
 # 2018 жылға арналған қалалық бюджет
 
+> *Ескерту. 3-қосымша жаңа редакцияда - Оңтүстік Қазақстан облысы Түркістан қалалық мәслихатының 20.01.2016 № 52/290-V шешімімен (01.01.2016 бастап қолданысқа енгізіледі).*
+
 <table>
 <tr>
-<td colspan="7">Санаты</td>
-<td rowspan="3">мың теңге</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="4">Сыныбы</td>
-<td>Атауы</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td colspan="4">Ішкі сыныбы</td>
+<td colspan="7">
+Санаты
+Сыныбы Атауы
+Ішкі сыныбы
+</td>
+<td>мың теңге</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -30,7 +26,7 @@ source: https://zan.gov.kz/client/#!/doc/97001/kaz/22.12.2015
 <td colspan="2"></td>
 <td></td>
 <td>1.Кірістер</td>
-<td>15 593 289</td>
+<td>15 793 289</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -262,7 +258,7 @@ source: https://zan.gov.kz/client/#!/doc/97001/kaz/22.12.2015
 <td colspan="2"></td>
 <td></td>
 <td>Трансферттер түсімі</td>
-<td>13 555 192</td>
+<td>13 755 192</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -270,7 +266,7 @@ source: https://zan.gov.kz/client/#!/doc/97001/kaz/22.12.2015
 <td colspan="2">2</td>
 <td></td>
 <td>Мемлекеттік басқарудың жоғары тұрған органдарынан түсетін трансферттер</td>
-<td>13 555 192</td>
+<td>13 755 192</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -278,27 +274,16 @@ source: https://zan.gov.kz/client/#!/doc/97001/kaz/22.12.2015
 <td colspan="2"></td>
 <td>2</td>
 <td>Облыстық бюджеттен түсетін трансферттер</td>
-<td>13 555 192</td>
+<td>13 755 192</td>
 </tr>
 <tr>
-<td colspan="7">Функционалдық топ</td>
-<td rowspan="4">мың теңге</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="4">Кіші функция</td>
-<td>Атауы</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td colspan="4">Бюджеттік бағдарламалардың әкімшісі</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2">Бағдарлама</td>
+<td colspan="7">
+Функционалдық топ
+Кіші функция Атауы
+Бюджеттік бағдарламалардың әкімшісі
+Бағдарлама
+</td>
+<td>мың теңге</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -306,7 +291,7 @@ source: https://zan.gov.kz/client/#!/doc/97001/kaz/22.12.2015
 <td colspan="2"></td>
 <td></td>
 <td>2.Шығындар</td>
-<td>15 593 289</td>
+<td>15 793 289</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
@@ -546,7 +531,7 @@ source: https://zan.gov.kz/client/#!/doc/97001/kaz/22.12.2015
 <td colspan="2"></td>
 <td></td>
 <td>Мектепке дейінгі тәрбие және оқыту</td>
-<td>256 982</td>
+<td>1 051 010</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -582,11 +567,27 @@ source: https://zan.gov.kz/client/#!/doc/97001/kaz/22.12.2015
 </tr>
 <tr>
 <td colspan="2"></td>
+<td></td>
+<td colspan="2">467</td>
+<td></td>
+<td>Ауданның (облыстық маңызы бар қаланың) құрылыс бөлімі</td>
+<td>794 028</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td>037</td>
+<td>Мектепке дейiнгi тәрбие және оқыту объектілерін салу және реконструкциялау</td>
+<td>794 028</td>
+</tr>
+<tr>
+<td colspan="2"></td>
 <td>2</td>
 <td colspan="2"></td>
 <td></td>
 <td>Бастауыш, негізгі орта және жалпы орта білім беру</td>
-<td>8 445 377</td>
+<td>8 920 657</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -630,11 +631,27 @@ source: https://zan.gov.kz/client/#!/doc/97001/kaz/22.12.2015
 </tr>
 <tr>
 <td colspan="2"></td>
+<td></td>
+<td colspan="2">467</td>
+<td></td>
+<td>Ауданның (облыстық маңызы бар қаланың) құрылыс бөлімі</td>
+<td>475 280</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td>024</td>
+<td>Бастауыш, негізгі орта және жалпы орта білім беру объектілерін салу және реконструкциялау</td>
+<td>475 280</td>
+</tr>
+<tr>
+<td colspan="2"></td>
 <td>9</td>
 <td colspan="2"></td>
 <td></td>
 <td>Білім беру саласындағы өзге де қызметтер</td>
-<td>1 663 932</td>
+<td>394 624</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -675,22 +692,6 @@ source: https://zan.gov.kz/client/#!/doc/97001/kaz/22.12.2015
 <td>067</td>
 <td>Ведомстволық бағыныстағы мемлекеттік мекемелерінің және ұйымдарының күрделі шығыстары</td>
 <td>225 893</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2">467</td>
-<td></td>
-<td>Ауданның (облыстық маңызы бар қаланың) құрылыс бөлімі</td>
-<td>1 269 308</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td>037</td>
-<td>Білім беру объектілерін салу және реконструкциялау</td>
-<td>1 269 308</td>
 </tr>
 <tr>
 <td colspan="2">05</td>
@@ -898,7 +899,7 @@ source: https://zan.gov.kz/client/#!/doc/97001/kaz/22.12.2015
 <td></td>
 <td colspan="2"></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>2 774 396</td>
+<td>2 974 396</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -906,7 +907,23 @@ source: https://zan.gov.kz/client/#!/doc/97001/kaz/22.12.2015
 <td></td>
 <td colspan="2"></td>
 <td>Тұрғын үй шаруашылығы</td>
-<td>61 365</td>
+<td>261 365</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td>467</td>
+<td colspan="2"></td>
+<td>Ауданның (облыстық маңызы бар қаланың) құрылыс бөлімі</td>
+<td>200 000</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2">004</td>
+<td>Инженерлік-коммуникациялық инфрақұрылымды жобалау, дамыту және (немесе) жайластыру</td>
+<td>200 000</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -968,16 +985,16 @@ source: https://zan.gov.kz/client/#!/doc/97001/kaz/22.12.2015
 <td colspan="2"></td>
 <td></td>
 <td></td>
-<td colspan="2">028</td>
-<td>Коммуналдық шаруашылығын дамыту</td>
+<td colspan="2">029</td>
+<td>Сумен жабдықтау және су бұру жүйесін дамыту</td>
 <td>1 350 000</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
 <td></td>
-<td colspan="2">029</td>
-<td>Сумен жабдықтау және су бұру жүйесін дамыту</td>
+<td colspan="2">058</td>
+<td>Елді мекендердегі сумен жабдықтау және су бұру жүйелерін дамыту</td>
 <td>1 000 000</td>
 </tr>
 <tr>
@@ -1074,7 +1091,7 @@ source: https://zan.gov.kz/client/#!/doc/97001/kaz/22.12.2015
 <td></td>
 <td colspan="2"></td>
 <td>Мәдениет, спорт,туризм және ақпараттық кеңістік</td>
-<td>376 100</td>
+<td>376 170</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1581,18 +1598,12 @@ source: https://zan.gov.kz/client/#!/doc/97001/kaz/22.12.2015
 <td>0</td>
 </tr>
 <tr>
-<td colspan="7">Санаты</td>
-<td rowspan="3">мың теңге</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="4">Сыныбы</td>
-<td>Атауы</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td colspan="4">Ішкі сыныбы</td>
+<td colspan="7">
+Санаты
+Сыныбы Атауы
+Ішкі сыныбы
+</td>
+<td>мың теңге</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1675,24 +1686,13 @@ source: https://zan.gov.kz/client/#!/doc/97001/kaz/22.12.2015
 <td>0</td>
 </tr>
 <tr>
-<td colspan="7">Функционалдық топ</td>
-<td rowspan="4">мың теңге</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="4">Кіші функция</td>
-<td>Атауы</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td colspan="4">Бюджеттік бағдарламалардың әкімшісі</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2">Бағдарлама</td>
+<td colspan="7">
+Функционалдық топ
+Кіші функция Атауы
+Бюджеттік бағдарламалардың әкімшісі
+Бағдарлама
+</td>
+<td>мың теңге</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1735,15 +1735,12 @@ source: https://zan.gov.kz/client/#!/doc/97001/kaz/22.12.2015
 <td>6 837</td>
 </tr>
 <tr>
-<td colspan="7">Санаты</td>
-<td rowspan="3">мың теңге</td>
-</tr>
-<tr>
-<td colspan="2">Сыныбы</td>
-<td colspan="5">Атауы</td>
-</tr>
-<tr>
-<td colspan="7">Ішкі сыныбы</td>
+<td colspan="7">
+Санаты
+Сыныбы Атауы
+Ішкі сыныбы
+</td>
+<td>мың теңге</td>
 </tr>
 <tr>
 <td colspan="2"></td>
