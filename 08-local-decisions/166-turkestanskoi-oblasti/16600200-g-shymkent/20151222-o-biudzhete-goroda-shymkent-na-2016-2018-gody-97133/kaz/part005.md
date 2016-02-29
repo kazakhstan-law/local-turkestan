@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/97133/kaz/22.01.2016
+source: https://zan.gov.kz/client/#!/doc/97133/kaz/29.02.2016
 ---
 
 > *Шымкент қалалық мәслихатының*  
