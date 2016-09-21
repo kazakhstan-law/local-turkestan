@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/97598/kaz/19.07.2016
+source: https://zan.gov.kz/client/#!/doc/97598/kaz/21.09.2016
 ---
 
 > *Сайрам аудандық мәслихатының*  
