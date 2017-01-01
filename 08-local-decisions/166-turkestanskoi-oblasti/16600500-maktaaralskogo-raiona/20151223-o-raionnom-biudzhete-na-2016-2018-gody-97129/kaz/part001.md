@@ -1,30 +1,21 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/97129/kaz/07.12.2016
+source: https://zan.gov.kz/client/#!/doc/97129/kaz/01.01.2017
 ---
 
-> *Мақтаарал аудандық*  
-> *мәслихатының 2015 жылғы*  
-> *23 желтоқсандағы № 52-328-V*  
-> *шешіміне 1-қосымша*
-
-# 2016 жылға арналған аудандық бюджет
+## 2016 жылға арналған аудандық бюджет
 
 > *Ескерту. 1-қосымша жаңа редакцияда - Оңтүстік Қазақстан облысы Мақтаарал аудандық мәслихатының 07.12.2016 № 9-64-VI шешімімен (01.01.2016 бастап қолданысқа енгізіледі).*
 
 <table>
 <tr>
-<td colspan="2">Санаты</td>
-<td></td>
-<td></td>
+<td colspan="4">Санаты</td>
 <td>Атауы</td>
 <td rowspan="3">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2">Сыныбы</td>
-<td></td>
-<td></td>
+<td colspan="4">Сыныбы</td>
 </tr>
 <tr>
 <td></td>
@@ -41,7 +32,7 @@ source: https://zan.gov.kz/client/#!/doc/97129/kaz/07.12.2016
 <td></td>
 <td></td>
 <td></td>
-<td>1.Кірістер</td>
+<td>1. Кірістер</td>
 <td>32 267 090</td>
 </tr>
 <tr>
@@ -332,9 +323,11 @@ source: https://zan.gov.kz/client/#!/doc/97129/kaz/07.12.2016
 <td>Облыстық бюджеттен түсетiн трансферттер</td>
 <td>29 815 160</td>
 </tr>
+</table>
+
+<table>
 <tr>
-<td colspan="4">Функционалдық топ</td>
-<td></td>
+<td colspan="5">Функционалдық топ</td>
 <td rowspan="4">Сомасы, мың теңге</td>
 </tr>
 <tr>
@@ -363,7 +356,7 @@ source: https://zan.gov.kz/client/#!/doc/97129/kaz/07.12.2016
 <td></td>
 <td></td>
 <td></td>
-<td>2.Шығындар</td>
+<td>2. Шығындар</td>
 <td>32 350 996</td>
 </tr>
 <tr>
@@ -2387,7 +2380,7 @@ source: https://zan.gov.kz/client/#!/doc/97129/kaz/07.12.2016
 <td></td>
 <td></td>
 <td>040</td>
-<td>«Өңірлерді дамыту» бағдарламасы шеңберінде өңірлерді экономикалық дамытуға жәрдемдесу бойынша шараларды іске асыру</td>
+<td>&quot;Өңірлерді дамыту&quot; бағдарламасы шеңберінде өңірлерді экономикалық дамытуға жәрдемдесу бойынша шараларды іске асыру</td>
 <td>266 299</td>
 </tr>
 <tr>
@@ -2427,7 +2420,7 @@ source: https://zan.gov.kz/client/#!/doc/97129/kaz/07.12.2016
 <td></td>
 <td></td>
 <td>041</td>
-<td>«Өңірлерді дамыту» Бағдарламасы шеңберінде өңірлерді экономикалық дамытуға жәрдемдесу бойынша шараларды іске асыру</td>
+<td>&quot;Өңірлерді дамыту&quot; Бағдарламасы шеңберінде өңірлерді экономикалық дамытуға жәрдемдесу бойынша шараларды іске асыру</td>
 <td>0</td>
 </tr>
 <tr>
@@ -2443,7 +2436,7 @@ source: https://zan.gov.kz/client/#!/doc/97129/kaz/07.12.2016
 <td></td>
 <td></td>
 <td>043</td>
-<td>«Өңірлерді дамыту» бағдарламасы шеңберінде өңірлерді экономикалық дамытуға жәрдемдесу бойынша шараларды іске асыру</td>
+<td>&quot;Өңірлерді дамыту&quot; бағдарламасы шеңберінде өңірлерді экономикалық дамытуға жәрдемдесу бойынша шараларды іске асыру</td>
 <td>0</td>
 </tr>
 <tr>
@@ -2535,8 +2528,7 @@ source: https://zan.gov.kz/client/#!/doc/97129/kaz/07.12.2016
 <td>307 496</td>
 </tr>
 <tr>
-<td colspan="4">Функционалдық топ</td>
-<td></td>
+<td colspan="5">Функционалдық топ</td>
 <td rowspan="4">Сомасы, мың теңге</td>
 </tr>
 <tr>
@@ -2601,17 +2593,13 @@ source: https://zan.gov.kz/client/#!/doc/97129/kaz/07.12.2016
 <td>381 776</td>
 </tr>
 <tr>
-<td colspan="2">Санаты</td>
-<td></td>
-<td></td>
+<td colspan="4">Санаты</td>
 <td>Атауы</td>
 <td rowspan="3">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2">Сыныбы</td>
-<td></td>
-<td></td>
+<td colspan="4">Сыныбы</td>
 </tr>
 <tr>
 <td></td>
@@ -2687,24 +2675,19 @@ source: https://zan.gov.kz/client/#!/doc/97129/kaz/07.12.2016
 <td>391 402</td>
 </tr>
 <tr>
-<td colspan="2">Санаты</td>
-<td></td>
-<td></td>
+<td colspan="4">Санаты</td>
 <td>Атауы</td>
-<td>Сомасы, мың</td>
+<td rowspan="3">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2">Сыныбы</td>
+<td colspan="3">Сыныбы</td>
 <td></td>
-<td></td>
-<td>теңге</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="3">Iшкi сыныбы</td>
-<td></td>
 </tr>
 <tr>
 <th colspan="4">1</th>
@@ -2740,8 +2723,7 @@ source: https://zan.gov.kz/client/#!/doc/97129/kaz/07.12.2016
 <td>381 776</td>
 </tr>
 <tr>
-<td colspan="4">Функционалдық топ</td>
-<td></td>
+<td colspan="5">Функционалдық топ</td>
 <td rowspan="4">Сомасы, мың теңге</td>
 </tr>
 <tr>
@@ -2814,16 +2796,13 @@ source: https://zan.gov.kz/client/#!/doc/97129/kaz/07.12.2016
 <td>646</td>
 </tr>
 <tr>
-<td colspan="2">Санаты</td>
-<td></td>
-<td></td>
+<td colspan="4">Санаты</td>
 <td>Атауы</td>
 <td rowspan="3">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2">Сыныбы</td>
-<td></td>
+<td colspan="3">Сыныбы</td>
 <td></td>
 </tr>
 <tr>
@@ -2866,25 +2845,29 @@ source: https://zan.gov.kz/client/#!/doc/97129/kaz/07.12.2016
 </tr>
 </table>
 
-> *Мақтаарал аудандық*  
-> *мәслихатының 2015 жылғы*  
-> *23 желтоқсандағы №52-328-V*  
-> *шешіміне 2-қосымша*
+<table>
+<tr>
+<td></td>
+<td>
+Мақтаарал аудандық мәслихатының
+2015 жылғы 23 желтоқсандағы
+№ 52-328-V шешіміне 2-қосымша
+</td>
+</tr>
+</table>
 
-# 2017 жылға арналған аудандық бюджет
+## 2017 жылға арналған аудандық бюджет
 
 <table>
 <tr>
-<td colspan="2">Санаты</td>
-<td></td>
+<td colspan="3">Санаты</td>
 <td></td>
 <td>Атауы</td>
 <td rowspan="3">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2">Сыныбы</td>
-<td></td>
+<td colspan="3">Сыныбы</td>
 <td></td>
 </tr>
 <tr>
@@ -2902,7 +2885,7 @@ source: https://zan.gov.kz/client/#!/doc/97129/kaz/07.12.2016
 <td></td>
 <td></td>
 <td></td>
-<td>1.Кірістер</td>
+<td>1. Кірістер</td>
 <td>22 213 237</td>
 </tr>
 <tr>
@@ -3146,14 +3129,12 @@ source: https://zan.gov.kz/client/#!/doc/97129/kaz/07.12.2016
 <td>20 545 227</td>
 </tr>
 <tr>
-<td colspan="4">Функционалдық топ</td>
-<td></td>
+<td colspan="5">Функционалдық топ</td>
 <td rowspan="4">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">Кіші функция</td>
-<td>Атауы</td>
+<td colspan="4">Кіші функция</td>
 </tr>
 <tr>
 <td></td>
@@ -3167,6 +3148,11 @@ source: https://zan.gov.kz/client/#!/doc/97129/kaz/07.12.2016
 <td colspan="2">Бағдарлама</td>
 </tr>
 <tr>
+<td colspan="4"></td>
+<td>Атауы</td>
+<td></td>
+</tr>
+<tr>
 <th colspan="4">1</th>
 <th>2</th>
 <th>3</th>
@@ -3176,7 +3162,7 @@ source: https://zan.gov.kz/client/#!/doc/97129/kaz/07.12.2016
 <td></td>
 <td></td>
 <td></td>
-<td>2.Шығындар</td>
+<td>2. Шығындар</td>
 <td>22 213 237</td>
 </tr>
 <tr>
@@ -4696,7 +4682,7 @@ source: https://zan.gov.kz/client/#!/doc/97129/kaz/07.12.2016
 <td></td>
 <td></td>
 <td>041</td>
-<td>«Өңірлерді дамыту» Бағдарламасы шеңберінде өңірлерді экономикалық дамытуға жәрдемдесу бойынша шараларды іске асыру</td>
+<td>&quot;Өңірлерді дамыту&quot; Бағдарламасы шеңберінде өңірлерді экономикалық дамытуға жәрдемдесу бойынша шараларды іске асыру</td>
 <td>0</td>
 </tr>
 <tr>
@@ -4712,7 +4698,7 @@ source: https://zan.gov.kz/client/#!/doc/97129/kaz/07.12.2016
 <td></td>
 <td></td>
 <td>043</td>
-<td>«Өңірлерді дамыту» бағдарламасы шеңберінде өңірлерді экономикалық дамытуға жәрдемдесу бойынша шараларды іске асыру</td>
+<td>&quot;Өңірлерді дамыту&quot; бағдарламасы шеңберінде өңірлерді экономикалық дамытуға жәрдемдесу бойынша шараларды іске асыру</td>
 <td>266 299</td>
 </tr>
 <tr>
@@ -4804,14 +4790,12 @@ source: https://zan.gov.kz/client/#!/doc/97129/kaz/07.12.2016
 <td>0</td>
 </tr>
 <tr>
-<td colspan="4">Функционалдық топ</td>
-<td></td>
+<td colspan="5">Функционалдық топ</td>
 <td rowspan="4">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">Кіші функция</td>
-<td>Атауы</td>
+<td colspan="4">Кіші функция</td>
 </tr>
 <tr>
 <td></td>
@@ -4823,6 +4807,11 @@ source: https://zan.gov.kz/client/#!/doc/97129/kaz/07.12.2016
 <td></td>
 <td></td>
 <td colspan="2">Бағдарлама</td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td>Атауы</td>
+<td></td>
 </tr>
 <tr>
 <th colspan="4">1</th>
@@ -4870,8 +4859,7 @@ source: https://zan.gov.kz/client/#!/doc/97129/kaz/07.12.2016
 <td>0</td>
 </tr>
 <tr>
-<td colspan="2">Санаты</td>
-<td></td>
+<td colspan="3">Санаты</td>
 <td></td>
 <td>Атауы</td>
 <td rowspan="3">Сомасы, мың теңге</td>
@@ -4956,8 +4944,7 @@ source: https://zan.gov.kz/client/#!/doc/97129/kaz/07.12.2016
 <td>0</td>
 </tr>
 <tr>
-<td colspan="2">Санаты</td>
-<td></td>
+<td colspan="3">Санаты</td>
 <td></td>
 <td>Атауы</td>
 <td rowspan="3">Сомасы, мың теңге</td>
@@ -5007,14 +4994,12 @@ source: https://zan.gov.kz/client/#!/doc/97129/kaz/07.12.2016
 <td>0</td>
 </tr>
 <tr>
-<td colspan="4">Функционалдық топ</td>
-<td></td>
+<td colspan="5">Функционалдық топ</td>
 <td rowspan="4">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">Кіші функция</td>
-<td>Атауы</td>
+<td colspan="4">Кіші функция</td>
 </tr>
 <tr>
 <td></td>
@@ -5026,6 +5011,11 @@ source: https://zan.gov.kz/client/#!/doc/97129/kaz/07.12.2016
 <td></td>
 <td></td>
 <td colspan="2">Бағдарлама</td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td>Атауы</td>
+<td></td>
 </tr>
 <tr>
 <th colspan="4">1</th>
@@ -5073,16 +5063,14 @@ source: https://zan.gov.kz/client/#!/doc/97129/kaz/07.12.2016
 <td>0</td>
 </tr>
 <tr>
-<td colspan="2">Санаты</td>
-<td></td>
+<td colspan="3">Санаты</td>
 <td></td>
 <td>Атауы</td>
 <td rowspan="3">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2">Сыныбы</td>
-<td></td>
+<td colspan="3">Сыныбы</td>
 <td></td>
 </tr>
 <tr>
@@ -5122,5 +5110,16 @@ source: https://zan.gov.kz/client/#!/doc/97129/kaz/07.12.2016
 <td colspan="2">1</td>
 <td>Бюджет қаражатының бос қалдықтары</td>
 <td>0</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td></td>
+<td>
+Мақтаарал аудандық мәслихатының
+2015 жылғы 23 желтоқсандағы
+№ 52-328-V шешіміне 3-қосымша
+</td>
 </tr>
 </table>

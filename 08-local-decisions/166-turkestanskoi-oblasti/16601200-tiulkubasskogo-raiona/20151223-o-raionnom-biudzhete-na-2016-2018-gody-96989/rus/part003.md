@@ -1,24 +1,17 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/96989/rus/30.11.2016
+source: https://zan.gov.kz/client/#!/doc/96989/rus/01.01.2017
 ---
 
-> *Приложение 3*  
-> *к решению Тюлькубасского*  
-> *районного маслихата*  
-> *от 23 декабря 2015 года №45/1-05*
-
-# Тюлькубасский районный бюджет на 2018 год
+## Тюлькубасский районный бюджет на 2018 год
 
 <table>
 <tr>
-<td rowspan="2">Категория</td>
-<td rowspan="2">Класс</td>
-<td colspan="2" rowspan="2">Подкласс</td>
-<td rowspan="2">Наименование</td>
-<td rowspan="2">Сумма, тысяч тенге</td>
-</tr>
-<tr>
+<td>Категория</td>
+<td>Класс</td>
+<td colspan="2">Подкласс</td>
+<td>Наименование</td>
+<td>Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <th colspan="4">1</th>
@@ -1497,7 +1490,7 @@ source: https://zan.gov.kz/client/#!/doc/96989/rus/30.11.2016
 <td></td>
 <td></td>
 <td>040</td>
-<td>Реализация мер по содействию экономическому развитию регионов в рамках Программы «Развитие регионов»</td>
+<td>Реализация мер по содействию экономическому развитию регионов в рамках Программы &quot;Развитие регионов&quot;</td>
 <td>114 285</td>
 </tr>
 <tr>
@@ -1768,25 +1761,22 @@ source: https://zan.gov.kz/client/#!/doc/96989/rus/30.11.2016
 <tr>
 <td colspan="4">Категория</td>
 <td>Наименование</td>
-<td>Сумма, тысяч тенге</td>
+<td rowspan="4">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="4">Класс</td>
-<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="3">Подкласс</td>
-<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">Специфика</td>
-<td></td>
 </tr>
 <tr>
 <td></td>
@@ -1830,12 +1820,19 @@ source: https://zan.gov.kz/client/#!/doc/96989/rus/30.11.2016
 </tr>
 </table>
 
-> *Приложение 4*  
-> *к решению Тюлькубасского*  
-> *районного маслихата*  
-> *от 23 декабря 2015 года №45/1-05*
+<table>
+<tr>
+<td></td>
+<td>
+Приложение 4
+к решению Тюлькубасского
+районного маслихата
+от 23 декабря 2015 года № 45/1-05
+</td>
+</tr>
+</table>
 
-# Перечень бюджентых программ развития районного бюджета на 2016 год
+## Перечень бюджентых программ развития районного бюджета на 2016 год
 
 <table>
 <tr>
@@ -1849,19 +1846,8 @@ source: https://zan.gov.kz/client/#!/doc/96989/rus/30.11.2016
 <tr>
 <td></td>
 <td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
 <td></td>
 <td colspan="2">Программа</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="4">1</td>
@@ -2177,12 +2163,19 @@ source: https://zan.gov.kz/client/#!/doc/96989/rus/30.11.2016
 </tr>
 </table>
 
-> *Приложение 5*  
-> *к решению Тюлькубасского*  
-> *районного маслихата*  
-> *от 23 декабря 2015 года №45/1-05*
+<table>
+<tr>
+<td></td>
+<td>
+Приложение 5
+к решению Тюлькубасского
+районного маслихата
+от 23 декабря 2015 года № 45/1-05
+</td>
+</tr>
+</table>
 
-# Перечень бюджетных программ не подлежащих секвестру в процесе исполнения местных бюджетов на 2016 год
+## Перечень бюджетных программ не подлежащих секвестру в процесе исполнения местных бюджетов на 2016 год
 
 <table>
 <tr>
@@ -2205,13 +2198,6 @@ source: https://zan.gov.kz/client/#!/doc/96989/rus/30.11.2016
 <td colspan="3">Программа</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
 <td colspan="4">1</td>
 <td colspan="2">2</td>
 </tr>
@@ -2220,38 +2206,46 @@ source: https://zan.gov.kz/client/#!/doc/96989/rus/30.11.2016
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Образование</td>
+<td colspan="2" rowspan="4">
+Образование
+Начальное, основное среднее и общее среднее образование
+Отдел образования района (города областного значения)
+Общеобразовательное обучение
+</td>
 </tr>
 <tr>
 <td>04</td>
 <td>2</td>
 <td></td>
 <td></td>
-<td colspan="2">Начальное, основное среднее и общее среднее образование</td>
 </tr>
 <tr>
 <td>04</td>
 <td>2</td>
 <td>464</td>
 <td></td>
-<td colspan="2">Отдел образования района (города областного значения)</td>
 </tr>
 <tr>
 <td>04</td>
 <td>2</td>
 <td>464</td>
 <td>003</td>
-<td colspan="2">Общеобразовательное обучение</td>
 </tr>
 </table>
 
-> *Приложение 6*  
-> *к решению Тюлькубасского*  
-> *районного маслихата*  
-> *от 23 декабря 2015 года*  
-> *№45/1-05*
+<table>
+<tr>
+<td></td>
+<td>
+Приложение 6
+к решению Тюлькубасского
+районного маслихата
+от 23 декабря 2015 года № 45/1-05
+</td>
+</tr>
+</table>
 
-# Перечень бюджетных программ каждого сельского и поселкового округа на 2016-2017 годы
+## Перечень бюджетных программ каждого сельского и поселкового округа на 2016-2017 годы
 
 > *Сноска. Приложение 6 - в редакции решения Тюлькубасского районного маслихата Южно-Казахстанской области от 30.11.2016 № 7/1-06 (вводится в действие с 01.01.2016).*
 
@@ -2259,7 +2253,7 @@ source: https://zan.gov.kz/client/#!/doc/96989/rus/30.11.2016
 <tr>
 <td colspan="4">Функциональная группа</td>
 <td>Наименование</td>
-<td colspan="6" rowspan="2">Сумма, тысяч тенге</td>
+<td colspan="3" rowspan="2">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
@@ -2269,9 +2263,9 @@ source: https://zan.gov.kz/client/#!/doc/96989/rus/30.11.2016
 <td></td>
 <td></td>
 <td colspan="3">Администратор бюджетных программ</td>
-<td colspan="2" rowspan="2">2016 год</td>
-<td colspan="2" rowspan="2">2017 год</td>
-<td colspan="2" rowspan="2">2018 год</td>
+<td rowspan="2">2016 год</td>
+<td rowspan="2">2017 год</td>
+<td rowspan="2">2018 год</td>
 </tr>
 <tr>
 <td></td>
@@ -2282,9 +2276,9 @@ source: https://zan.gov.kz/client/#!/doc/96989/rus/30.11.2016
 <tr>
 <th colspan="4">1</th>
 <th>2</th>
-<th colspan="2">3</th>
-<th colspan="2">4</th>
-<th colspan="2">5</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
 </tr>
 <tr>
 <td>01</td>
@@ -2292,9 +2286,9 @@ source: https://zan.gov.kz/client/#!/doc/96989/rus/30.11.2016
 <td></td>
 <td></td>
 <td>Государственные услуги общего характера</td>
-<td colspan="2">447 725</td>
-<td colspan="2">352 400</td>
-<td colspan="2">352 400</td>
+<td>447 725</td>
+<td>352 400</td>
+<td>352 400</td>
 </tr>
 <tr>
 <td></td>
@@ -2302,9 +2296,9 @@ source: https://zan.gov.kz/client/#!/doc/96989/rus/30.11.2016
 <td></td>
 <td></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td colspan="2">447 725</td>
-<td colspan="2">352 400</td>
-<td colspan="2">352 400</td>
+<td>447 725</td>
+<td>352 400</td>
+<td>352 400</td>
 </tr>
 <tr>
 <td></td>
@@ -2312,9 +2306,9 @@ source: https://zan.gov.kz/client/#!/doc/96989/rus/30.11.2016
 <td>123</td>
 <td></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td colspan="2">447 725</td>
-<td colspan="2">352 400</td>
-<td colspan="2">352 400</td>
+<td>447 725</td>
+<td>352 400</td>
+<td>352 400</td>
 </tr>
 <tr>
 <td></td>
@@ -2322,9 +2316,9 @@ source: https://zan.gov.kz/client/#!/doc/96989/rus/30.11.2016
 <td></td>
 <td>001</td>
 <td>Услуги по обеспечению деятельности акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td colspan="2">320 099</td>
-<td colspan="2">246 713</td>
-<td colspan="2">246 713</td>
+<td>320 099</td>
+<td>246 713</td>
+<td>246 713</td>
 </tr>
 <tr>
 <td></td>
@@ -2332,9 +2326,9 @@ source: https://zan.gov.kz/client/#!/doc/96989/rus/30.11.2016
 <td></td>
 <td></td>
 <td>Балыктынский сельский округ</td>
-<td colspan="2">18 995</td>
-<td colspan="2">14 590</td>
-<td colspan="2">14 590</td>
+<td>18 995</td>
+<td>14 590</td>
+<td>14 590</td>
 </tr>
 <tr>
 <td></td>
@@ -2342,9 +2336,9 @@ source: https://zan.gov.kz/client/#!/doc/96989/rus/30.11.2016
 <td></td>
 <td></td>
 <td>Майлыкентский сельский округ</td>
-<td colspan="2">36 127</td>
-<td colspan="2">27 956</td>
-<td colspan="2">27 956</td>
+<td>36 127</td>
+<td>27 956</td>
+<td>27 956</td>
 </tr>
 <tr>
 <td></td>
@@ -2352,9 +2346,9 @@ source: https://zan.gov.kz/client/#!/doc/96989/rus/30.11.2016
 <td></td>
 <td></td>
 <td>Тюлькубаский поселковый округ</td>
-<td colspan="2">30 319</td>
-<td colspan="2">23 169</td>
-<td colspan="2">23 169</td>
+<td>30 319</td>
+<td>23 169</td>
+<td>23 169</td>
 </tr>
 <tr>
 <td></td>
@@ -2362,9 +2356,9 @@ source: https://zan.gov.kz/client/#!/doc/96989/rus/30.11.2016
 <td></td>
 <td></td>
 <td>Шакпакский сельский округ</td>
-<td colspan="2">18 290</td>
-<td colspan="2">14 092</td>
-<td colspan="2">14 092</td>
+<td>18 290</td>
+<td>14 092</td>
+<td>14 092</td>
 </tr>
 <tr>
 <td></td>
@@ -2372,9 +2366,9 @@ source: https://zan.gov.kz/client/#!/doc/96989/rus/30.11.2016
 <td></td>
 <td></td>
 <td>Машатский сельский округ</td>
-<td colspan="2">20 663</td>
-<td colspan="2">16 138</td>
-<td colspan="2">16 138</td>
+<td>20 663</td>
+<td>16 138</td>
+<td>16 138</td>
 </tr>
 <tr>
 <td></td>
@@ -2382,9 +2376,9 @@ source: https://zan.gov.kz/client/#!/doc/96989/rus/30.11.2016
 <td></td>
 <td></td>
 <td>Жабагылинский сельский округ</td>
-<td colspan="2">18 566</td>
-<td colspan="2">13 180</td>
-<td colspan="2">13 180</td>
+<td>18 566</td>
+<td>13 180</td>
+<td>13 180</td>
 </tr>
 <tr>
 <td></td>
@@ -2392,9 +2386,9 @@ source: https://zan.gov.kz/client/#!/doc/96989/rus/30.11.2016
 <td></td>
 <td></td>
 <td>Тастумсыкский сельский округ</td>
-<td colspan="2">18 621</td>
-<td colspan="2">14 560</td>
-<td colspan="2">14 560</td>
+<td>18 621</td>
+<td>14 560</td>
+<td>14 560</td>
 </tr>
 <tr>
 <td></td>
@@ -2402,9 +2396,9 @@ source: https://zan.gov.kz/client/#!/doc/96989/rus/30.11.2016
 <td></td>
 <td></td>
 <td>Рыскуловский сельский округ</td>
-<td colspan="2">21 971</td>
-<td colspan="2">17 063</td>
-<td colspan="2">17 063</td>
+<td>21 971</td>
+<td>17 063</td>
+<td>17 063</td>
 </tr>
 <tr>
 <td></td>
@@ -2412,9 +2406,9 @@ source: https://zan.gov.kz/client/#!/doc/96989/rus/30.11.2016
 <td></td>
 <td></td>
 <td>Мичуринский сельский округ</td>
-<td colspan="2">20 839</td>
-<td colspan="2">16 435</td>
-<td colspan="2">16 435</td>
+<td>20 839</td>
+<td>16 435</td>
+<td>16 435</td>
 </tr>
 <tr>
 <td></td>
@@ -2422,9 +2416,9 @@ source: https://zan.gov.kz/client/#!/doc/96989/rus/30.11.2016
 <td></td>
 <td></td>
 <td>Кемербастауский сельский округ</td>
-<td colspan="2">17 935</td>
-<td colspan="2">14 519</td>
-<td colspan="2">14 519</td>
+<td>17 935</td>
+<td>14 519</td>
+<td>14 519</td>
 </tr>
 <tr>
 <td></td>
@@ -2432,9 +2426,9 @@ source: https://zan.gov.kz/client/#!/doc/96989/rus/30.11.2016
 <td></td>
 <td></td>
 <td>Арыский сельский округ</td>
-<td colspan="2">17 511</td>
-<td colspan="2">13 593</td>
-<td colspan="2">13 593</td>
+<td>17 511</td>
+<td>13 593</td>
+<td>13 593</td>
 </tr>
 <tr>
 <td></td>
@@ -2442,9 +2436,9 @@ source: https://zan.gov.kz/client/#!/doc/96989/rus/30.11.2016
 <td></td>
 <td></td>
 <td>Акбиикский сельский округ</td>
-<td colspan="2">17 781</td>
-<td colspan="2">13 526</td>
-<td colspan="2">13 526</td>
+<td>17 781</td>
+<td>13 526</td>
+<td>13 526</td>
 </tr>
 <tr>
 <td></td>
@@ -2452,9 +2446,9 @@ source: https://zan.gov.kz/client/#!/doc/96989/rus/30.11.2016
 <td></td>
 <td></td>
 <td>Жаскешуский сельский округ</td>
-<td colspan="2">22 688</td>
-<td colspan="2">16 601</td>
-<td colspan="2">16 601</td>
+<td>22 688</td>
+<td>16 601</td>
+<td>16 601</td>
 </tr>
 <tr>
 <td></td>
@@ -2462,9 +2456,9 @@ source: https://zan.gov.kz/client/#!/doc/96989/rus/30.11.2016
 <td></td>
 <td></td>
 <td>Келтемашатский сельский округ</td>
-<td colspan="2">17 341</td>
-<td colspan="2">13 755</td>
-<td colspan="2">13 755</td>
+<td>17 341</td>
+<td>13 755</td>
+<td>13 755</td>
 </tr>
 <tr>
 <td></td>
@@ -2472,9 +2466,9 @@ source: https://zan.gov.kz/client/#!/doc/96989/rus/30.11.2016
 <td></td>
 <td></td>
 <td>Састюбинский поселковый округ</td>
-<td colspan="2">22 452</td>
-<td colspan="2">17 536</td>
-<td colspan="2">17 536</td>
+<td>22 452</td>
+<td>17 536</td>
+<td>17 536</td>
 </tr>
 <tr>
 <td></td>
@@ -2482,9 +2476,9 @@ source: https://zan.gov.kz/client/#!/doc/96989/rus/30.11.2016
 <td></td>
 <td>022</td>
 <td>Капитальные расходы государственных органов</td>
-<td colspan="2">1 700</td>
-<td colspan="2">10 700</td>
-<td colspan="2">10 700</td>
+<td>1 700</td>
+<td>10 700</td>
+<td>10 700</td>
 </tr>
 <tr>
 <td></td>
@@ -2492,9 +2486,9 @@ source: https://zan.gov.kz/client/#!/doc/96989/rus/30.11.2016
 <td></td>
 <td></td>
 <td>Шакпакский сельский округ</td>
-<td colspan="2">100</td>
-<td colspan="2">5 350</td>
-<td colspan="2">5 350</td>
+<td>100</td>
+<td>5 350</td>
+<td>5 350</td>
 </tr>
 <tr>
 <td></td>
@@ -2502,9 +2496,9 @@ source: https://zan.gov.kz/client/#!/doc/96989/rus/30.11.2016
 <td></td>
 <td></td>
 <td>Мичуринский сельский округ</td>
-<td colspan="2">100</td>
-<td colspan="2">5 350</td>
-<td colspan="2">5 350</td>
+<td>100</td>
+<td>5 350</td>
+<td>5 350</td>
 </tr>
 <tr>
 <td></td>
@@ -2512,9 +2506,9 @@ source: https://zan.gov.kz/client/#!/doc/96989/rus/30.11.2016
 <td></td>
 <td></td>
 <td>Рыскуловский сельский округ</td>
-<td colspan="2">1 500</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td>1 500</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -2522,9 +2516,9 @@ source: https://zan.gov.kz/client/#!/doc/96989/rus/30.11.2016
 <td></td>
 <td>032</td>
 <td>Капитальные расходы подведомственных государственных учреждений и организаций</td>
-<td colspan="2">125 926</td>
-<td colspan="2">94 987</td>
-<td colspan="2">94 987</td>
+<td>125 926</td>
+<td>94 987</td>
+<td>94 987</td>
 </tr>
 <tr>
 <td></td>
@@ -2532,9 +2526,9 @@ source: https://zan.gov.kz/client/#!/doc/96989/rus/30.11.2016
 <td></td>
 <td></td>
 <td>Майлыкентский сельский округ</td>
-<td colspan="2">125 926</td>
-<td colspan="2">94 987</td>
-<td colspan="2">94 987</td>
+<td>125 926</td>
+<td>94 987</td>
+<td>94 987</td>
 </tr>
 <tr>
 <td></td>
@@ -2542,9 +2536,9 @@ source: https://zan.gov.kz/client/#!/doc/96989/rus/30.11.2016
 <td></td>
 <td></td>
 <td>Мичуринский сельский округ</td>
-<td colspan="2">0</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td>0</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>04</td>
@@ -2552,9 +2546,9 @@ source: https://zan.gov.kz/client/#!/doc/96989/rus/30.11.2016
 <td></td>
 <td></td>
 <td>Образование</td>
-<td colspan="2">240 403</td>
-<td colspan="2">191 073</td>
-<td colspan="2">191 073</td>
+<td>240 403</td>
+<td>191 073</td>
+<td>191 073</td>
 </tr>
 <tr>
 <td></td>
@@ -2562,9 +2556,9 @@ source: https://zan.gov.kz/client/#!/doc/96989/rus/30.11.2016
 <td></td>
 <td></td>
 <td>Дошкольное воспитание и обучение</td>
-<td colspan="2">238 556</td>
-<td colspan="2">188 012</td>
-<td colspan="2">188 012</td>
+<td>238 556</td>
+<td>188 012</td>
+<td>188 012</td>
 </tr>
 <tr>
 <td></td>
@@ -2572,9 +2566,9 @@ source: https://zan.gov.kz/client/#!/doc/96989/rus/30.11.2016
 <td>123</td>
 <td></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td colspan="2">238 556</td>
-<td colspan="2">188 012</td>
-<td colspan="2">188 012</td>
+<td>238 556</td>
+<td>188 012</td>
+<td>188 012</td>
 </tr>
 <tr>
 <td></td>
@@ -2582,9 +2576,9 @@ source: https://zan.gov.kz/client/#!/doc/96989/rus/30.11.2016
 <td></td>
 <td>041</td>
 <td>Реализация государственного образовательного заказа в дошкольных организациях образования</td>
-<td colspan="2">238 556</td>
-<td colspan="2">188 012</td>
-<td colspan="2">188 012</td>
+<td>238 556</td>
+<td>188 012</td>
+<td>188 012</td>
 </tr>
 <tr>
 <td></td>
@@ -2592,9 +2586,9 @@ source: https://zan.gov.kz/client/#!/doc/96989/rus/30.11.2016
 <td></td>
 <td></td>
 <td>Майлыкентский сельский округ</td>
-<td colspan="2">71 087</td>
-<td colspan="2">59314</td>
-<td colspan="2">59314</td>
+<td>71 087</td>
+<td>59314</td>
+<td>59314</td>
 </tr>
 <tr>
 <td></td>
@@ -2602,9 +2596,9 @@ source: https://zan.gov.kz/client/#!/doc/96989/rus/30.11.2016
 <td></td>
 <td></td>
 <td>Шакпакский сельский округ</td>
-<td colspan="2">20 662</td>
-<td colspan="2">12681</td>
-<td colspan="2">12681</td>
+<td>20 662</td>
+<td>12681</td>
+<td>12681</td>
 </tr>
 <tr>
 <td></td>
@@ -2612,9 +2606,9 @@ source: https://zan.gov.kz/client/#!/doc/96989/rus/30.11.2016
 <td></td>
 <td></td>
 <td>Жаскешуский сельский округ</td>
-<td colspan="2">27 811</td>
-<td colspan="2">20728</td>
-<td colspan="2">20728</td>
+<td>27 811</td>
+<td>20728</td>
+<td>20728</td>
 </tr>
 <tr>
 <td></td>
@@ -2622,9 +2616,9 @@ source: https://zan.gov.kz/client/#!/doc/96989/rus/30.11.2016
 <td></td>
 <td></td>
 <td>Састюбинский поселковый округ</td>
-<td colspan="2">91 038</td>
-<td colspan="2">71503</td>
-<td colspan="2">71503</td>
+<td>91 038</td>
+<td>71503</td>
+<td>71503</td>
 </tr>
 <tr>
 <td></td>
@@ -2632,9 +2626,9 @@ source: https://zan.gov.kz/client/#!/doc/96989/rus/30.11.2016
 <td></td>
 <td></td>
 <td>Мичуринский сельский округ</td>
-<td colspan="2">27 958</td>
-<td colspan="2">23786</td>
-<td colspan="2">23786</td>
+<td>27 958</td>
+<td>23786</td>
+<td>23786</td>
 </tr>
 <tr>
 <td></td>
@@ -2642,9 +2636,9 @@ source: https://zan.gov.kz/client/#!/doc/96989/rus/30.11.2016
 <td></td>
 <td></td>
 <td>Начальное, основное среднее и общее среднее образование</td>
-<td colspan="2">1 847</td>
-<td colspan="2">3 061</td>
-<td colspan="2">3 061</td>
+<td>1 847</td>
+<td>3 061</td>
+<td>3 061</td>
 </tr>
 <tr>
 <td></td>
@@ -2652,9 +2646,9 @@ source: https://zan.gov.kz/client/#!/doc/96989/rus/30.11.2016
 <td>123</td>
 <td></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td colspan="2">1 847</td>
-<td colspan="2">3 061</td>
-<td colspan="2">3 061</td>
+<td>1 847</td>
+<td>3 061</td>
+<td>3 061</td>
 </tr>
 <tr>
 <td></td>
@@ -2662,9 +2656,9 @@ source: https://zan.gov.kz/client/#!/doc/96989/rus/30.11.2016
 <td></td>
 <td>005</td>
 <td>Организация бесплатного подвоза учащихся до школы и обратно в сельской местности</td>
-<td colspan="2">1 847</td>
-<td colspan="2">3 061</td>
-<td colspan="2">3 061</td>
+<td>1 847</td>
+<td>3 061</td>
+<td>3 061</td>
 </tr>
 <tr>
 <td></td>
@@ -2672,9 +2666,9 @@ source: https://zan.gov.kz/client/#!/doc/96989/rus/30.11.2016
 <td></td>
 <td></td>
 <td>Жабагылинский сельский округ</td>
-<td colspan="2">790</td>
-<td colspan="2">1 930</td>
-<td colspan="2">1 930</td>
+<td>790</td>
+<td>1 930</td>
+<td>1 930</td>
 </tr>
 <tr>
 <td></td>
@@ -2682,9 +2676,9 @@ source: https://zan.gov.kz/client/#!/doc/96989/rus/30.11.2016
 <td></td>
 <td></td>
 <td>Тюлькубаский поселковый округ</td>
-<td colspan="2">1 057</td>
-<td colspan="2">1 131</td>
-<td colspan="2">1 131</td>
+<td>1 057</td>
+<td>1 131</td>
+<td>1 131</td>
 </tr>
 <tr>
 <td>05</td>
@@ -2692,9 +2686,9 @@ source: https://zan.gov.kz/client/#!/doc/96989/rus/30.11.2016
 <td></td>
 <td></td>
 <td>Здравоохранение</td>
-<td colspan="2">75</td>
-<td colspan="2">75</td>
-<td colspan="2">75</td>
+<td>75</td>
+<td>75</td>
+<td>75</td>
 </tr>
 <tr>
 <td></td>
@@ -2702,9 +2696,9 @@ source: https://zan.gov.kz/client/#!/doc/96989/rus/30.11.2016
 <td></td>
 <td></td>
 <td>Прочие услуги в области здравоохранения</td>
-<td colspan="2">75</td>
-<td colspan="2">75</td>
-<td colspan="2">75</td>
+<td>75</td>
+<td>75</td>
+<td>75</td>
 </tr>
 <tr>
 <td></td>
@@ -2712,9 +2706,9 @@ source: https://zan.gov.kz/client/#!/doc/96989/rus/30.11.2016
 <td>123</td>
 <td></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td colspan="2">75</td>
-<td colspan="2">75</td>
-<td colspan="2">75</td>
+<td>75</td>
+<td>75</td>
+<td>75</td>
 </tr>
 <tr>
 <td></td>
@@ -2722,9 +2716,9 @@ source: https://zan.gov.kz/client/#!/doc/96989/rus/30.11.2016
 <td></td>
 <td>002</td>
 <td>Организация в экстренных случаях доставки тяжелобольных людей до ближайшей организации здравоохранения, оказывающей врачебную помощь</td>
-<td colspan="2">75</td>
-<td colspan="2">75</td>
-<td colspan="2">75</td>
+<td>75</td>
+<td>75</td>
+<td>75</td>
 </tr>
 <tr>
 <td></td>
@@ -2732,9 +2726,9 @@ source: https://zan.gov.kz/client/#!/doc/96989/rus/30.11.2016
 <td></td>
 <td></td>
 <td>Машатский сельский округ</td>
-<td colspan="2">25</td>
-<td colspan="2">25</td>
-<td colspan="2">25</td>
+<td>25</td>
+<td>25</td>
+<td>25</td>
 </tr>
 <tr>
 <td></td>
@@ -2742,9 +2736,9 @@ source: https://zan.gov.kz/client/#!/doc/96989/rus/30.11.2016
 <td></td>
 <td></td>
 <td>Келтемашатский сельский округ</td>
-<td colspan="2">25</td>
-<td colspan="2">25</td>
-<td colspan="2">25</td>
+<td>25</td>
+<td>25</td>
+<td>25</td>
 </tr>
 <tr>
 <td></td>
@@ -2752,9 +2746,9 @@ source: https://zan.gov.kz/client/#!/doc/96989/rus/30.11.2016
 <td></td>
 <td></td>
 <td>Жабагылинский сельский округ</td>
-<td colspan="2">25</td>
-<td colspan="2">25</td>
-<td colspan="2">25</td>
+<td>25</td>
+<td>25</td>
+<td>25</td>
 </tr>
 <tr>
 <td>07</td>
@@ -2762,9 +2756,9 @@ source: https://zan.gov.kz/client/#!/doc/96989/rus/30.11.2016
 <td></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td colspan="2">2 885</td>
-<td colspan="2">2 926</td>
-<td colspan="2">2 926</td>
+<td>2 885</td>
+<td>2 926</td>
+<td>2 926</td>
 </tr>
 <tr>
 <td></td>
@@ -2772,9 +2766,9 @@ source: https://zan.gov.kz/client/#!/doc/96989/rus/30.11.2016
 <td></td>
 <td></td>
 <td>Благоустройство населенных пунктов</td>
-<td colspan="2">2 885</td>
-<td colspan="2">2 926</td>
-<td colspan="2">2 926</td>
+<td>2 885</td>
+<td>2 926</td>
+<td>2 926</td>
 </tr>
 <tr>
 <td></td>
@@ -2782,9 +2776,9 @@ source: https://zan.gov.kz/client/#!/doc/96989/rus/30.11.2016
 <td>123</td>
 <td></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td colspan="2">2 885</td>
-<td colspan="2">2 926</td>
-<td colspan="2">2 926</td>
+<td>2 885</td>
+<td>2 926</td>
+<td>2 926</td>
 </tr>
 <tr>
 <td></td>
@@ -2792,9 +2786,9 @@ source: https://zan.gov.kz/client/#!/doc/96989/rus/30.11.2016
 <td></td>
 <td>008</td>
 <td>Освещение улиц населенных пунктов</td>
-<td colspan="2">2 885</td>
-<td colspan="2">2 926</td>
-<td colspan="2">2 926</td>
+<td>2 885</td>
+<td>2 926</td>
+<td>2 926</td>
 </tr>
 <tr>
 <td></td>
@@ -2802,9 +2796,9 @@ source: https://zan.gov.kz/client/#!/doc/96989/rus/30.11.2016
 <td></td>
 <td></td>
 <td>Тюлькубаский поселковый округ</td>
-<td colspan="2">2 103</td>
-<td colspan="2">2 250</td>
-<td colspan="2">2 250</td>
+<td>2 103</td>
+<td>2 250</td>
+<td>2 250</td>
 </tr>
 <tr>
 <td></td>
@@ -2812,9 +2806,9 @@ source: https://zan.gov.kz/client/#!/doc/96989/rus/30.11.2016
 <td></td>
 <td></td>
 <td>Жабагылинский сельский округ</td>
-<td colspan="2">632</td>
-<td colspan="2">676</td>
-<td colspan="2">676</td>
+<td>632</td>
+<td>676</td>
+<td>676</td>
 </tr>
 <tr>
 <td></td>
@@ -2822,9 +2816,9 @@ source: https://zan.gov.kz/client/#!/doc/96989/rus/30.11.2016
 <td></td>
 <td></td>
 <td>Акбиикский сельский округ</td>
-<td colspan="2">150</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td>150</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>08</td>
@@ -2832,9 +2826,9 @@ source: https://zan.gov.kz/client/#!/doc/96989/rus/30.11.2016
 <td></td>
 <td></td>
 <td>Культура, спорт, туризм и информационное пространство</td>
-<td colspan="2">125</td>
-<td colspan="2">125</td>
-<td colspan="2">125</td>
+<td>125</td>
+<td>125</td>
+<td>125</td>
 </tr>
 <tr>
 <td></td>
@@ -2842,9 +2836,9 @@ source: https://zan.gov.kz/client/#!/doc/96989/rus/30.11.2016
 <td></td>
 <td></td>
 <td>Спорт</td>
-<td colspan="2">125</td>
-<td colspan="2">125</td>
-<td colspan="2">125</td>
+<td>125</td>
+<td>125</td>
+<td>125</td>
 </tr>
 <tr>
 <td></td>
@@ -2852,9 +2846,9 @@ source: https://zan.gov.kz/client/#!/doc/96989/rus/30.11.2016
 <td>123</td>
 <td></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td colspan="2">125</td>
-<td colspan="2">125</td>
-<td colspan="2">125</td>
+<td>125</td>
+<td>125</td>
+<td>125</td>
 </tr>
 <tr>
 <td></td>
@@ -2862,9 +2856,9 @@ source: https://zan.gov.kz/client/#!/doc/96989/rus/30.11.2016
 <td></td>
 <td>028</td>
 <td>Реализация физкультурно-оздоровительных и спортивных мероприятий на местном уровне</td>
-<td colspan="2">125</td>
-<td colspan="2">125</td>
-<td colspan="2">125</td>
+<td>125</td>
+<td>125</td>
+<td>125</td>
 </tr>
 <tr>
 <td></td>
@@ -2872,9 +2866,9 @@ source: https://zan.gov.kz/client/#!/doc/96989/rus/30.11.2016
 <td></td>
 <td></td>
 <td>Шакпакский сельский округ</td>
-<td colspan="2">25</td>
-<td colspan="2">25</td>
-<td colspan="2">25</td>
+<td>25</td>
+<td>25</td>
+<td>25</td>
 </tr>
 <tr>
 <td></td>
@@ -2882,9 +2876,9 @@ source: https://zan.gov.kz/client/#!/doc/96989/rus/30.11.2016
 <td></td>
 <td></td>
 <td>Майлыкентский сельский округ</td>
-<td colspan="2">50</td>
-<td colspan="2">50</td>
-<td colspan="2">50</td>
+<td>50</td>
+<td>50</td>
+<td>50</td>
 </tr>
 <tr>
 <td></td>
@@ -2892,19 +2886,25 @@ source: https://zan.gov.kz/client/#!/doc/96989/rus/30.11.2016
 <td></td>
 <td></td>
 <td>Састюбинский поселковый округ</td>
-<td colspan="2">50</td>
-<td colspan="2">50</td>
-<td colspan="2">50</td>
+<td>50</td>
+<td>50</td>
+<td>50</td>
 </tr>
 </table>
 
-> *Приложение 7*  
-> *к решению Тюлькубасского*  
-> *районного маслихата*  
-> *от 23 декабря 2015 года*  
-> *№45/1-05*
+<table>
+<tr>
+<td></td>
+<td>
+Приложение 7
+к решению Тюлькубасского
+районного маслихата
+от 23 декабря 2015 года № 45/1-05
+</td>
+</tr>
+</table>
 
-# Распределение трансфертов органам местного самоуправления между городами районного значения, селами, поселками, сельскими округами
+## Распределение трансфертов органам местного самоуправления между городами районного значения, селами, поселками, сельскими округами
 
 > *Сноска. Приложение 7 - в редакции решения Тюлькубасского районного маслихата Южно-Казахстанской области от 30.11.2016 № 7/1-06 (вводится в действие с 01.01.2016).*
 

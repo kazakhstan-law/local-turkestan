@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/97171/kaz/29.11.2016
+source: https://zan.gov.kz/client/#!/doc/97171/kaz/01.01.2017
 ---
 
 > *Төлеби аудандық мәслихатының*  
@@ -1795,989 +1795,586 @@ source: https://zan.gov.kz/client/#!/doc/97171/kaz/29.11.2016
 
 # 2016 жылға арналған аудандық бюджетте әрбір ауылдық округтің бюджеттік бағдарламаларының тізбесі
 
-> *Ескерту. 5-қосымша жаңа редакцияда - Оңтүстiк Қазақстан облысы Төлеби аудандық мәслихатының 29.11.2016 №10/44-VI шешiмiмен (01.01.2016 бастап қолданысқа енгiзiледі).*
-
 <table>
 <tr>
-<td colspan="6" rowspan="3">
-Функционалдық топ Атауы
-Кіші функция
-Бюджеттік бағдарламалардың әкiмшiсi
-Бағдарлама
-</td>
-<td rowspan="3">Сомасы, мың теңге</td>
+<td colspan="5">Функционалдық топ</td>
+<td colspan="4">Атауы</td>
+<td rowspan="4">Сомасы, мың теңге</td>
 </tr>
 <tr>
+<td></td>
+<td colspan="8">Кіші функция</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td colspan="7">Бюджеттік бағдарламалардың әкiмшiсi</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="6">Бағдарлама</td>
 </tr>
 <tr>
 <td>01</td>
 <td></td>
 <td></td>
-<td></td>
-<td colspan="2">Жалпы сипаттағы мемлекеттiк қызметтер көрсету</td>
-<td>276103</td>
+<td colspan="2"></td>
+<td colspan="4">Жалпы сипаттағы мемлекеттiк қызметтер көрсету</td>
+<td>219957</td>
 </tr>
 <tr>
 <td></td>
 <td>1</td>
 <td></td>
-<td></td>
-<td colspan="2">Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>276103</td>
+<td colspan="2"></td>
+<td colspan="4">Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
+<td>219957</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>123</td>
-<td></td>
-<td colspan="2">Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td>276103</td>
+<td colspan="2"></td>
+<td colspan="4">Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
+<td>219957</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td>001</td>
-<td colspan="2">Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>272336</td>
+<td colspan="2">001</td>
+<td colspan="4">Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
+<td>218657</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td colspan="2">Оның ішінде:</td>
+<td colspan="2"></td>
+<td colspan="4">Оның ішінде:</td>
 <td>-</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td colspan="2">Ленгір</td>
-<td>43200</td>
+<td colspan="2"></td>
+<td colspan="4">Ленгір</td>
+<td>35356</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td colspan="2">Аққұм</td>
-<td>16665</td>
+<td colspan="2"></td>
+<td colspan="4">Аққұм</td>
+<td>13024</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td colspan="2">Алатау</td>
-<td>19370</td>
+<td colspan="2"></td>
+<td colspan="4">Алатау</td>
+<td>15192</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td colspan="2">Зертас</td>
-<td>19084</td>
+<td colspan="2"></td>
+<td colspan="4">Зертас</td>
+<td>14584</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td colspan="2">Жоғарғы Ақсу</td>
-<td>15262</td>
+<td colspan="2"></td>
+<td colspan="4">Жоғарғы Ақсу</td>
+<td>12143</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td colspan="2">Көксәйек</td>
-<td>24574</td>
+<td colspan="2"></td>
+<td colspan="4">Көксәйек</td>
+<td>19516</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td colspan="2">Қасқасу</td>
-<td>18037</td>
+<td colspan="2"></td>
+<td colspan="4">Қасқасу</td>
+<td>14580</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td colspan="2">Қоғалы</td>
-<td>15177</td>
+<td colspan="2"></td>
+<td colspan="4">Қоғалы</td>
+<td>12116</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td colspan="2">Қаратөбе</td>
-<td>18016</td>
+<td colspan="2"></td>
+<td colspan="4">Қаратөбе</td>
+<td>14660</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td colspan="2">Бірінші Мамыр</td>
-<td>26564</td>
+<td colspan="2"></td>
+<td colspan="4">Бірінші Мамыр</td>
+<td>20517</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td colspan="2">Тасарық</td>
-<td>15796</td>
+<td colspan="2"></td>
+<td colspan="4">Тасарық</td>
+<td>12379</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td colspan="2">Киелітас</td>
-<td>22893</td>
+<td colspan="2"></td>
+<td colspan="4">Киелітас</td>
+<td>19287</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td colspan="2">Кемеқалған</td>
-<td>17698</td>
+<td colspan="2"></td>
+<td colspan="4">Кемеқалған</td>
+<td>15303</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td>022</td>
-<td colspan="2">Мемлекеттік органның күрделі шығыстары</td>
-<td>3767</td>
+<td colspan="2">022</td>
+<td colspan="4">Мемлекеттік органның күрделі шығыстары</td>
+<td>1300</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td colspan="2">Оның ішінде:</td>
+<td colspan="2"></td>
+<td colspan="4">Оның ішінде:</td>
 <td>-</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td colspan="2">Ленгір</td>
-<td>280</td>
+<td colspan="2"></td>
+<td colspan="4">Ленгір</td>
+<td>100</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td colspan="2">Аққұм</td>
-<td>307</td>
+<td colspan="2"></td>
+<td colspan="4">Аққұм</td>
+<td>100</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td colspan="2">Алатау</td>
-<td>280</td>
+<td colspan="2"></td>
+<td colspan="4">Алатау</td>
+<td>100</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td colspan="2">Зертас</td>
-<td>280</td>
+<td colspan="2"></td>
+<td colspan="4">Зертас</td>
+<td>100</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td colspan="2">Жоғарғы Ақсу</td>
-<td>280</td>
+<td colspan="2"></td>
+<td colspan="4">Жоғарғы Ақсу</td>
+<td>100</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td colspan="2">Көксәйек</td>
-<td>280</td>
+<td colspan="2"></td>
+<td colspan="4">Көксәйек</td>
+<td>100</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td colspan="2">Қасқасу</td>
-<td>280</td>
+<td colspan="2"></td>
+<td colspan="4">Қасқасу</td>
+<td>100</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td colspan="2">Қоғалы</td>
-<td>280</td>
+<td colspan="2"></td>
+<td colspan="4">Қоғалы</td>
+<td>100</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td colspan="2">Қаратөбе</td>
-<td>280</td>
+<td colspan="2"></td>
+<td colspan="4">Қаратөбе</td>
+<td>100</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td colspan="2">Бірінші Мамыр</td>
-<td>280</td>
+<td colspan="2"></td>
+<td colspan="4">Бірінші Мамыр</td>
+<td>100</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td colspan="2">Тасарық</td>
-<td>280</td>
+<td colspan="2"></td>
+<td colspan="4">Тасарық</td>
+<td>100</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td colspan="2">Киелітас</td>
-<td>280</td>
+<td colspan="2"></td>
+<td colspan="4">Киелітас</td>
+<td>100</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td colspan="2">Кемеқалған</td>
-<td>380</td>
+<td colspan="2"></td>
+<td colspan="4">Кемеқалған</td>
+<td>100</td>
 </tr>
 <tr>
 <td>04</td>
 <td></td>
 <td></td>
-<td></td>
-<td colspan="2">Бiлiм беру</td>
-<td>669651</td>
+<td colspan="2"></td>
+<td colspan="4">Бiлiм беру</td>
+<td>221161</td>
 </tr>
 <tr>
 <td></td>
 <td>1</td>
 <td></td>
-<td></td>
-<td colspan="2">Мектепке дейiнгi тәрбие және оқыту</td>
-<td>669651</td>
+<td colspan="2"></td>
+<td colspan="4">Мектепке дейiнгi тәрбие және оқыту</td>
+<td>221161</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>123</td>
-<td></td>
-<td colspan="2">Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td>669651</td>
+<td colspan="2"></td>
+<td colspan="4">Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
+<td>221161</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td>004</td>
-<td colspan="2">Мектепке дейінгі тәрбие ұйымдарының қызметін қамтамасыз ету</td>
-<td>207760</td>
+<td colspan="2">004</td>
+<td colspan="4">Мектепке дейінгі тәрбие ұйымдарының қызметін қамтамасыз ету</td>
+<td>221161</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td colspan="2">Оның ішінде:</td>
+<td colspan="2"></td>
+<td colspan="4">Оның ішінде:</td>
 <td>-</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td colspan="2">Ленгір</td>
-<td>160458</td>
+<td colspan="2"></td>
+<td colspan="4">Ленгір</td>
+<td>171545</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td colspan="2">Аққұм</td>
+<td colspan="2"></td>
+<td colspan="4">Аққұм</td>
 <td>-</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td>Алатау</td>
-<td colspan="2">-</td>
+<td colspan="2"></td>
+<td colspan="4">Алатау</td>
+<td>-</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td>Зертас</td>
-<td colspan="2">-</td>
+<td colspan="2"></td>
+<td colspan="4">Зертас</td>
+<td>-</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td>Жоғарғы Ақсу</td>
-<td colspan="2">-</td>
+<td colspan="2"></td>
+<td colspan="4">Жоғарғы Ақсу</td>
+<td>-</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td>Көксәйек</td>
-<td colspan="2">28501</td>
+<td colspan="2"></td>
+<td colspan="4">Көксәйек</td>
+<td>29768</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td>Қасқасу</td>
-<td colspan="2">-</td>
+<td colspan="2"></td>
+<td colspan="4">Қасқасу</td>
+<td>-</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td>Қоғалы</td>
-<td colspan="2">-</td>
+<td colspan="2"></td>
+<td colspan="4">Қоғалы</td>
+<td>-</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td>Қаратөбе</td>
-<td colspan="2">-</td>
+<td colspan="2"></td>
+<td colspan="4">Қаратөбе</td>
+<td>-</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td>Бірінші Мамыр</td>
-<td colspan="2">-</td>
+<td colspan="2"></td>
+<td colspan="4">Бірінші Мамыр</td>
+<td>-</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td>Тасарық</td>
-<td colspan="2">18801</td>
+<td colspan="2"></td>
+<td colspan="4">Тасарық</td>
+<td>19848</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td>Киелітас</td>
-<td colspan="2">-</td>
+<td colspan="2"></td>
+<td colspan="4">Киелітас</td>
+<td>-</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td>Кемеқалған</td>
-<td colspan="2">-</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>041</td>
-<td>Мектепке дейінгі білім беру ұйымдарында мемлекеттік білім беру тапсырысын іске асыруға</td>
-<td colspan="2">461891</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Оның ішінде:</td>
-<td colspan="2">-</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Ленгір</td>
-<td colspan="2">62112</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Аққұм</td>
-<td colspan="2">14386</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Алатау</td>
-<td colspan="2">43084</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Зертас</td>
-<td colspan="2">35966</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Жоғарғы Ақсу</td>
-<td colspan="2">25294</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Көксәйек</td>
-<td colspan="2">72156</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Қасқасу</td>
-<td colspan="2">40761</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Қоғалы</td>
-<td colspan="2">27957</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Қаратөбе</td>
-<td colspan="2">21579</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Бірінші Мамыр</td>
-<td colspan="2">63474</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Тасарық</td>
-<td colspan="2">-</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Киелітас</td>
-<td colspan="2">40986</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Кемеқалған</td>
-<td colspan="2">14136</td>
+<td colspan="2"></td>
+<td colspan="4">Кемеқалған</td>
+<td>-</td>
 </tr>
 <tr>
 <td>6</td>
 <td></td>
 <td></td>
-<td></td>
-<td>Әлеуметтiк көмек және әлеуметтiк қамсыздандыру</td>
-<td colspan="2">3918</td>
+<td colspan="2"></td>
+<td colspan="4">Әлеуметтiк көмек және әлеуметтiк қамсыздандыру</td>
+<td>2480</td>
 </tr>
 <tr>
 <td></td>
 <td>2</td>
 <td></td>
-<td></td>
-<td>Әлеуметтiк көмек</td>
-<td colspan="2">3918</td>
+<td colspan="2"></td>
+<td colspan="4">Әлеуметтiк көмек</td>
+<td>2480</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>123</td>
-<td></td>
-<td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл (село), ауылдық (селолық) округ әкімінің аппараты</td>
-<td colspan="2">3918</td>
+<td colspan="2"></td>
+<td colspan="4">Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл (село), ауылдық (селолық) округ әкімінің аппараты</td>
+<td>2480</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td>003</td>
-<td>Мұқтаж азаматтарға үйінде әлеуметтiк көмек көрсету</td>
-<td colspan="2">3918</td>
+<td colspan="2">003</td>
+<td colspan="4">Мұқтаж азаматтарға үйінде әлеуметтiк көмек көрсету</td>
+<td>2480</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td>Оның ішінде:</td>
-<td colspan="2">-</td>
+<td colspan="2"></td>
+<td colspan="4">Оның ішінде:</td>
+<td>-</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td>Ленгір</td>
-<td colspan="2">3918</td>
+<td colspan="2"></td>
+<td colspan="4">Ленгір</td>
+<td>2480</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td>Аққұм</td>
-<td colspan="2">-</td>
+<td colspan="2"></td>
+<td colspan="4">Аққұм</td>
+<td>-</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td>Алатау</td>
-<td colspan="2">-</td>
+<td colspan="2"></td>
+<td colspan="4">Алатау</td>
+<td>-</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td>Зертас</td>
-<td colspan="2">-</td>
+<td colspan="2"></td>
+<td colspan="4">Зертас</td>
+<td>-</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td>Жоғарғы Ақсу</td>
-<td colspan="2">-</td>
+<td colspan="2"></td>
+<td colspan="4">Жоғарғы Ақсу</td>
+<td>-</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td>Көксәйек</td>
-<td colspan="2">-</td>
+<td colspan="2"></td>
+<td colspan="4">Көксәйек</td>
+<td>-</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td>Қасқасу</td>
-<td colspan="2">-</td>
+<td colspan="2"></td>
+<td colspan="4">Қасқасу</td>
+<td>-</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td>Қоғалы</td>
-<td colspan="2">-</td>
+<td colspan="2"></td>
+<td colspan="4">Қоғалы</td>
+<td>-</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td>Қаратөбе</td>
-<td colspan="2">-</td>
+<td colspan="2"></td>
+<td colspan="4">Қаратөбе</td>
+<td>-</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td>Бірінші Мамыр</td>
-<td colspan="2">-</td>
+<td colspan="2"></td>
+<td colspan="4">Бірінші Мамыр</td>
+<td>-</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td>Тасарық</td>
-<td colspan="2">-</td>
+<td colspan="2"></td>
+<td colspan="4">Тасарық</td>
+<td>-</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td>Киелітас</td>
-<td colspan="2">-</td>
+<td colspan="2"></td>
+<td colspan="4">Киелітас</td>
+<td>-</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td>Кемеқалған</td>
-<td colspan="2">-</td>
-</tr>
-<tr>
-<td>7</td>
-<td></td>
-<td></td>
-<td></td>
-<td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td colspan="2">787</td>
-</tr>
-<tr>
-<td></td>
-<td>1</td>
-<td></td>
-<td></td>
-<td>Тұрғын үй шаруашылығы</td>
-<td colspan="2">787</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>123</td>
-<td></td>
-<td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td colspan="2">787</td>
+<td colspan="2"></td>
+<td colspan="4">Кемеқалған</td>
+<td>-</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td>027</td>
-<td>Жұмыспен қамту 2020 жол картасы бойынша қалаларды және ауылдық елді мекендерді дамыту шеңберінде объектілерді жөндеу және абаттандыру</td>
-<td colspan="2">787</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Оның ішінде:</td>
-<td colspan="2">-</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Ленгір</td>
-<td colspan="2">349</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Аққұм</td>
-<td colspan="2">-</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Алатау</td>
-<td colspan="2">-</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Зертас</td>
-<td colspan="2">-</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Жоғарғы Ақсу</td>
-<td colspan="2">-</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Көксәйек</td>
-<td colspan="2">-</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Қасқасу</td>
-<td colspan="2">367</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Қоғалы</td>
-<td colspan="2">-</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Қаратөбе</td>
-<td colspan="2">-</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Бірінші Мамыр</td>
-<td colspan="2">-</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Тасарық</td>
-<td colspan="2">71</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Киелітас</td>
-<td colspan="2">-</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Кемеқалған</td>
-<td colspan="2">-</td>
-</tr>
-<tr>
-<td>13</td>
-<td></td>
-<td></td>
-<td></td>
-<td>Басқалар</td>
-<td colspan="2">919</td>
-</tr>
-<tr>
-<td></td>
-<td>9</td>
-<td></td>
-<td></td>
-<td>Басқалар</td>
-<td colspan="2">919</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>123</td>
-<td></td>
-<td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td colspan="2">919</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>040</td>
-<td>«Өңірлерді дамыту» Бағдарламасы шеңберінде өңірлерді экономикалық дамытуға жәрдемдесу бойынша шараларды іске асыру</td>
-<td colspan="2">919</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Оның ішінде:</td>
-<td colspan="2">-</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Ленгір</td>
-<td colspan="2">-</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Аққұм</td>
-<td colspan="2">-</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Алатау</td>
-<td colspan="2">-</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Зертас</td>
-<td colspan="2">-</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Жоғарғы Ақсу</td>
-<td colspan="2">-</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Көксәйек</td>
-<td colspan="2">-</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Қасқасу</td>
-<td colspan="2">-</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Қоғалы</td>
-<td colspan="2">-</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Қаратөбе</td>
-<td colspan="2">-</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Бірінші Мамыр</td>
-<td colspan="2">-</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Тасарық</td>
-<td colspan="2">-</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Киелітас</td>
-<td colspan="2">-</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Кемеқалған</td>
-<td colspan="2">919</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Барлығы</td>
-<td colspan="2">951378</td>
+<td colspan="2"></td>
+<td colspan="4">Барлығы</td>
+<td>443598</td>
 </tr>
 </table>
 
@@ -2786,74 +2383,75 @@ source: https://zan.gov.kz/client/#!/doc/97171/kaz/29.11.2016
 > *№47/231-V шешіміне*  
 > *6 қосымша*
 
-# Бюджеттік инвестициялық жобаларды (бағдарламаларды) іске асыруға бағытталған бюджеттік бағдарламалар бөлінісінде 2016 жылға арналған аудандық бюджеттік даму бағдарламасының тізбесі
-
-> *Ескерту. 6-қосымша жаңа редакцияда - Оңтүстiк Қазақстан облысы Төлеби аудандық мәслихатының 29.11.2016 №10/44-VI шешiмiмен (01.01.2016 бастап қолданысқа енгiзiледі).*
+# Бюджеттік инвестициялық жобаларды (бағдарламаларды) іске асыруға бағытталған бюджеттік бағдарламалар бөлінісінде 2016 жылға арналған аудандық бюджеттік даму бағдарламаларының тізбесі
 
 <table>
 <tr>
-<td colspan="5">
-Функционалдық топ Атауы
-Кіші функция
-Бюджеттік бағдарламалардың әкiмшiсi
-Бағдарлама
-</td>
-<td>Сомасы, мың теңге</td>
+<td colspan="4">Функционалдық топ</td>
+<td colspan="3">Атауы</td>
+<td rowspan="4">Сомасы, мың теңге</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="6">Кіші функция</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="5">Бюджеттік бағдарламалардың әкiмшiсi</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="4">Бағдарлама</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td>2023901</td>
+<td colspan="3"></td>
+<td>1710201</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>467</td>
 <td></td>
-<td>Ауданның (облыстық маңызы бар қаланың) құрылыс бөлімі</td>
-<td>1542136</td>
+<td colspan="3">Ауданның (облыстық маңызы бар қаланың) құрылыс бөлімі</td>
+<td>1241667</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>037</td>
-<td>Білім беру объектілерін салу және реконструкциялау</td>
-<td>7230</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>024</td>
-<td>Бастауыш, негізгі орта және жалпы орта білім беру объектілерін салу және реконструкциялау</td>
-<td>1243389</td>
+<td colspan="3">Білім беру объектілерін салу және реконструкциялау</td>
+<td>1222045</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>003</td>
-<td>Мемлекеттік коммуналдық тұрғын үй қорының тұрғын үй құрылысы және (немесе) сатып алу</td>
-<td>284714</td>
+<td colspan="3">Мемлекеттік коммуналдық тұрғын үй қорының тұрғын үй құрылысы және (немесе) сатып алу</td>
+<td>11456</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>004</td>
-<td>Инженерлік коммуникациялық инфрақұрылымды дамыту, жайластыру және (немесе) сатып алу</td>
-<td>2864</td>
+<td colspan="3">Инженерлік коммуникациялық инфрақұрылымды дамыту, жайластыру және (немесе) сатып алу</td>
+<td>4227</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>008</td>
-<td>Спорт обьектілерін дамыту</td>
+<td colspan="3">Спорт обьектілерін дамыту</td>
 <td>3939</td>
 </tr>
 <tr>
@@ -2861,32 +2459,32 @@ source: https://zan.gov.kz/client/#!/doc/97171/kaz/29.11.2016
 <td></td>
 <td>458</td>
 <td></td>
-<td>Ауданның (облыстық маңызы бар қаланың) тұрғын үй-коммуналдық шаруашылығы, жолаушылар көлігі және автомобиль жолдары бөлімі</td>
-<td>314749</td>
+<td colspan="3">Ауданның (облыстық маңызы бар қаланың) тұрғын үй-коммуналдық шаруашылығы, жолаушылар көлігі және автомобиль жолдары бөлімі</td>
+<td>314128</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>058</td>
-<td>Елді мекендердегі сумен жабдықтау және су бұру жүйелерін дамыту</td>
-<td>314749</td>
+<td colspan="3">Елді мекендердегі сумен жабдықтау және су бұру жүйелерін дамыту</td>
+<td>314128</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>458</td>
 <td></td>
-<td>Ауданның (облыстық маңызы бар қаланың) тұрғын үй-коммуналдық шаруашылығы, жолаушылар көлігі және автомобиль жолдары бөлімі</td>
-<td>167016</td>
+<td colspan="3">Ауданның (облыстық маңызы бар қаланың) тұрғын үй-коммуналдық шаруашылығы, жолаушылар көлігі және автомобиль жолдары бөлімі</td>
+<td>154406</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>036</td>
-<td>Газ көлігі жүйесін дамыту</td>
-<td>167016</td>
+<td colspan="3">Газ көлігі жүйесін дамыту</td>
+<td>154406</td>
 </tr>
 </table>
 
@@ -2895,84 +2493,82 @@ source: https://zan.gov.kz/client/#!/doc/97171/kaz/29.11.2016
 > *№47/231-V шешіміне*  
 > *7 қосымша*
 
-# 2016 жылға арналған жергілікті өзін-өзі басқару функцияларын іске асыру үшін жергілікті өзін-өзі басқару органдарына аудандық бюджеттен берілетін нысаналы трансферттерінің тізбесі
-
-> *Ескерту. 7-қосымша жаңа редакцияда - Оңтүстiк Қазақстан облысы Төлеби аудандық мәслихатының 29.11.2016 №10/44-VI шешiмiмен (01.01.2016 бастап қолданысқа енгiзiледі).*
+# 2016 жылға арналған жергілікті өзін-өзі басқару функцияларын іске асыру үшін жергілікті өзін-өзі басқару органдарына аудандық бюджеттен берілетін нысаналы трасферттерінің тізбесі
 
 <table>
 <tr>
 <td>Р/с</td>
-<td>Атауы</td>
+<td colspan="2">Атауы</td>
 <td>Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
-<td>Төлеби ауданы</td>
-<td>152792</td>
+<td colspan="2">Төлеби ауданы</td>
+<td>138100</td>
 </tr>
 <tr>
 <td>1</td>
-<td>Ленгір</td>
-<td>83394</td>
+<td colspan="2">Ленгір</td>
+<td>64510</td>
 </tr>
 <tr>
 <td>2</td>
-<td>Аққұм</td>
-<td>3738</td>
+<td colspan="2">Аққұм</td>
+<td>3623</td>
 </tr>
 <tr>
 <td>3</td>
-<td>Алатау</td>
-<td>8051</td>
+<td colspan="2">Алатау</td>
+<td>9820</td>
 </tr>
 <tr>
 <td>4</td>
-<td>Зертас</td>
-<td>3010</td>
+<td colspan="2">Зертас</td>
+<td>4173</td>
 </tr>
 <tr>
 <td>5</td>
-<td>Жоғарғы Ақсу</td>
-<td>2251</td>
+<td colspan="2">Жоғарғы Ақсу</td>
+<td>1540</td>
 </tr>
 <tr>
 <td>6</td>
-<td>Көксәйек</td>
-<td>15126</td>
+<td colspan="2">Көксәйек</td>
+<td>12876</td>
 </tr>
 <tr>
 <td>7</td>
-<td>Қасқасу</td>
-<td>3139</td>
+<td colspan="2">Қасқасу</td>
+<td>4148</td>
 </tr>
 <tr>
 <td>8</td>
-<td>Қоғалы</td>
-<td>2274</td>
+<td colspan="2">Қоғалы</td>
+<td>2724</td>
 </tr>
 <tr>
 <td>9</td>
-<td>Қаратөбе</td>
-<td>4034</td>
+<td colspan="2">Қаратөбе</td>
+<td>4834</td>
 </tr>
 <tr>
 <td>10</td>
-<td>Бірінші Мамыр</td>
-<td>10171</td>
+<td colspan="2">Бірінші Мамыр</td>
+<td>11714</td>
 </tr>
 <tr>
 <td>11</td>
-<td>Тасарық</td>
-<td>2701</td>
+<td colspan="2">Тасарық</td>
+<td>3700</td>
 </tr>
 <tr>
 <td>12</td>
-<td>Киелітас</td>
-<td>11032</td>
+<td colspan="2">Киелітас</td>
+<td>10032</td>
 </tr>
 <tr>
 <td>13</td>
-<td>Кемеқалған</td>
-<td>3871</td>
+<td colspan="2">Кемеқалған</td>
+<td>4406</td>
 </tr>
 </table>
