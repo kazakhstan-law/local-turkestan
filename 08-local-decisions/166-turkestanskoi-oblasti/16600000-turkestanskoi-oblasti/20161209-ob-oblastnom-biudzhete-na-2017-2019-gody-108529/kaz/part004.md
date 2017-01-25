@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/108529/kaz/09.12.2016
+source: https://zan.gov.kz/client/#!/doc/108529/kaz/25.01.2017
 ---
 
 > *Оңтүстік Қазақстан облыстық*  
