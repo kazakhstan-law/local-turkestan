@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/108990/rus/22.12.2016
+source: https://zan.gov.kz/client/#!/doc/108990/rus/06.02.2017
 ---
 
 > *Приложение 3 к решению*  
@@ -9,6 +9,8 @@ source: https://zan.gov.kz/client/#!/doc/108990/rus/22.12.2016
 > *2016 года №8/1*
 
 # Районный бюджет на 2019 год
+
+> *Сноска. Приложение 3 - в редакции решения Ордабасинского районного маслихата Южно-Казахстанской области от 06.02.2017 № 9/1 (вводится в действие с 01.01.2017).*
 
 <table>
 <tr>
@@ -25,7 +27,8 @@ source: https://zan.gov.kz/client/#!/doc/108990/rus/22.12.2016
 <td colspan="3">Подкласс</td>
 </tr>
 <tr>
-<td colspan="5">1 2</td>
+<td colspan="4">1</td>
+<td>2</td>
 <td>3</td>
 </tr>
 <tr>
@@ -34,7 +37,7 @@ source: https://zan.gov.kz/client/#!/doc/108990/rus/22.12.2016
 <td></td>
 <td></td>
 <td>1. ДОХОДЫ</td>
-<td>17 282 393</td>
+<td>19 282 393</td>
 </tr>
 <tr>
 <td>1</td>
@@ -282,7 +285,7 @@ source: https://zan.gov.kz/client/#!/doc/108990/rus/22.12.2016
 <td></td>
 <td></td>
 <td>Поступления трансфертов</td>
-<td>16 167 395</td>
+<td>18 167 395</td>
 </tr>
 <tr>
 <td></td>
@@ -290,7 +293,7 @@ source: https://zan.gov.kz/client/#!/doc/108990/rus/22.12.2016
 <td></td>
 <td></td>
 <td>Трансферты из вышестоящих органов государственного управления</td>
-<td>16 167 395</td>
+<td>18 167 395</td>
 </tr>
 <tr>
 <td></td>
@@ -298,7 +301,7 @@ source: https://zan.gov.kz/client/#!/doc/108990/rus/22.12.2016
 <td>2</td>
 <td></td>
 <td>Трансферты из областного бюджета</td>
-<td>16 167 395</td>
+<td>18 167 395</td>
 </tr>
 <tr>
 <td colspan="5">Функциональная группа Наименование</td>
@@ -325,7 +328,7 @@ source: https://zan.gov.kz/client/#!/doc/108990/rus/22.12.2016
 <td></td>
 <td></td>
 <td>2.ЗАТРАТЫ</td>
-<td>17 282 393</td>
+<td>19 282 393</td>
 </tr>
 <tr>
 <td>01</td>
@@ -1224,7 +1227,31 @@ source: https://zan.gov.kz/client/#!/doc/108990/rus/22.12.2016
 <td></td>
 <td></td>
 <td>Топливно-энергетический комплекс и недропользование</td>
-<td>466 456</td>
+<td>2 466 456</td>
+</tr>
+<tr>
+<td></td>
+<td>1</td>
+<td></td>
+<td></td>
+<td>Топливо и энергетика</td>
+<td>2 000 000</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>458</td>
+<td></td>
+<td>Отдел жилищно-коммунального хозяйства, пассажирского транспорта и автомобильных дорог района (города областного значения)</td>
+<td>2 000 000</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>019</td>
+<td>Развитие теплоэнергетической системы</td>
+<td>2 000 000</td>
 </tr>
 <tr>
 <td></td>
@@ -1627,6 +1654,25 @@ source: https://zan.gov.kz/client/#!/doc/108990/rus/22.12.2016
 <td>0</td>
 </tr>
 <tr>
+<td colspan="5">Функциональная группа Найменование</td>
+<td rowspan="4">Сумма, тысяча тенге</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="4">Под функция</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="3">Администратор бюджетной программы</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Программа</td>
+</tr>
+<tr>
 <td></td>
 <td></td>
 <td></td>
@@ -1810,7 +1856,9 @@ source: https://zan.gov.kz/client/#!/doc/108990/rus/22.12.2016
 > *маслихата от 22 декабря*  
 > *2016 года №8/1*
 
-# Перечень бюджетных программ развития, направленных в 2017 году на реализацию бюджетных инвестиционных проектов (программ) и на формирование уставного капитала юредических лиц,
+# Перечень бюджетных программ развития районного бюджета на 2017 год с разделением на бюджетные программы, направленные на реализацию бюджетных инвестиционных проектов (программ) и формирование юредических лиц
+
+> *Сноска. Приложение 4 - в редакции решения Ордабасинского районного маслихата Южно-Казахстанской области от 06.02.2017 № 9/1 (вводится в действие с 01.01.2017).*
 
 <table>
 <tr>
@@ -1826,7 +1874,8 @@ source: https://zan.gov.kz/client/#!/doc/108990/rus/22.12.2016
 <td colspan="5">Программа</td>
 </tr>
 <tr>
-<td colspan="5">1 2</td>
+<td colspan="4">1</td>
+<td>2</td>
 </tr>
 <tr>
 <td></td>
@@ -1907,6 +1956,13 @@ source: https://zan.gov.kz/client/#!/doc/108990/rus/22.12.2016
 </tr>
 <tr>
 <td></td>
+<td></td>
+<td></td>
+<td>004</td>
+<td>Проектирование, развитие и (или) обустройство инженерно-коммуникационной инфраструктуры</td>
+</tr>
+<tr>
+<td></td>
 <td>2</td>
 <td></td>
 <td></td>
@@ -1932,6 +1988,27 @@ source: https://zan.gov.kz/client/#!/doc/108990/rus/22.12.2016
 <td></td>
 <td></td>
 <td>Культура, спорт, туризм и информационное пространство</td>
+</tr>
+<tr>
+<td></td>
+<td>1</td>
+<td></td>
+<td></td>
+<td>Деятельность в области культуры</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>467</td>
+<td></td>
+<td>Отдел строительства района (города областного значения)</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>011</td>
+<td>Развитие объектов культуры</td>
 </tr>
 <tr>
 <td></td>
@@ -2010,7 +2087,9 @@ source: https://zan.gov.kz/client/#!/doc/108990/rus/22.12.2016
 > *маслихата от 22 декабря*  
 > *2016 года №8/1*
 
-# Утвердить перечень бюджетных программ каждого сельского округа финансируемого из бюджета района на 2017 год
+# Перечень бюджетных программ каждого сельского округа финансируемого из бюджета района на 2017 год
+
+> *Сноска. Приложение 5 - в редакции решения Ордабасинского районного маслихата Южно-Казахстанской области от 06.02.2017 № 9/1 (вводится в действие с 01.01.2017).*
 
 <table>
 <tr>
@@ -2023,7 +2102,7 @@ source: https://zan.gov.kz/client/#!/doc/108990/rus/22.12.2016
 <td rowspan="3">Бадам</td>
 <td rowspan="3">Бугун</td>
 <td rowspan="3">Буржар</td>
-<td rowspan="3">Женис</td>
+<td colspan="2" rowspan="3">Женис</td>
 </tr>
 <tr>
 <td colspan="5">Администратор бюджетных программ</td>
@@ -2033,11 +2112,11 @@ source: https://zan.gov.kz/client/#!/doc/108990/rus/22.12.2016
 </tr>
 <tr>
 <td colspan="5">ЗАТРАТЫ</td>
-<td>828 023</td>
-<td>158246</td>
-<td>45067</td>
+<td>824 422</td>
+<td>157819</td>
+<td>44467</td>
 <td>85480</td>
-<td>30967</td>
+<td colspan="2">33975</td>
 </tr>
 <tr>
 <td>01</td>
@@ -2049,7 +2128,7 @@ source: https://zan.gov.kz/client/#!/doc/108990/rus/22.12.2016
 <td>107755</td>
 <td>17985</td>
 <td>21422</td>
-<td>15952</td>
+<td colspan="2">15952</td>
 </tr>
 <tr>
 <td></td>
@@ -2061,7 +2140,7 @@ source: https://zan.gov.kz/client/#!/doc/108990/rus/22.12.2016
 <td>107755</td>
 <td>17985</td>
 <td>21422</td>
-<td>15952</td>
+<td colspan="2">15952</td>
 </tr>
 <tr>
 <td></td>
@@ -2073,7 +2152,7 @@ source: https://zan.gov.kz/client/#!/doc/108990/rus/22.12.2016
 <td>107755</td>
 <td>17985</td>
 <td>21422</td>
-<td>15952</td>
+<td colspan="2">15952</td>
 </tr>
 <tr>
 <td></td>
@@ -2085,7 +2164,7 @@ source: https://zan.gov.kz/client/#!/doc/108990/rus/22.12.2016
 <td>24489</td>
 <td>17985</td>
 <td>21422</td>
-<td>15952</td>
+<td colspan="2">15952</td>
 </tr>
 <tr>
 <td></td>
@@ -2097,7 +2176,7 @@ source: https://zan.gov.kz/client/#!/doc/108990/rus/22.12.2016
 <td>83266</td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td>04</td>
@@ -2105,11 +2184,11 @@ source: https://zan.gov.kz/client/#!/doc/108990/rus/22.12.2016
 <td></td>
 <td></td>
 <td>Образование</td>
-<td>394770</td>
-<td>37102</td>
-<td>21225</td>
+<td>391169</td>
+<td>36675</td>
+<td>20625</td>
 <td>54414</td>
-<td>12603</td>
+<td colspan="2">15611</td>
 </tr>
 <tr>
 <td></td>
@@ -2117,11 +2196,11 @@ source: https://zan.gov.kz/client/#!/doc/108990/rus/22.12.2016
 <td></td>
 <td></td>
 <td>Дошкольное воспитание и обучение</td>
-<td>394770</td>
-<td>37102</td>
-<td>21225</td>
+<td>391169</td>
+<td>36675</td>
+<td>20625</td>
 <td>54414</td>
-<td>12603</td>
+<td colspan="2">15611</td>
 </tr>
 <tr>
 <td></td>
@@ -2129,11 +2208,23 @@ source: https://zan.gov.kz/client/#!/doc/108990/rus/22.12.2016
 <td>123</td>
 <td></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td>394770</td>
-<td>37102</td>
-<td>21225</td>
+<td>391169</td>
+<td>36675</td>
+<td>20625</td>
 <td>54414</td>
-<td>12603</td>
+<td colspan="2">15611</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>004</td>
+<td></td>
+<td>10057</td>
+<td>791</td>
+<td>1736</td>
+<td></td>
+<td colspan="2">3018</td>
 </tr>
 <tr>
 <td></td>
@@ -2141,11 +2232,11 @@ source: https://zan.gov.kz/client/#!/doc/108990/rus/22.12.2016
 <td></td>
 <td>041</td>
 <td>Реализация государственного образовательного заказа в дошкольных организациях образования</td>
-<td>394770</td>
-<td>37102</td>
-<td>21225</td>
+<td>381112</td>
+<td>35884</td>
+<td>18889</td>
 <td>54414</td>
-<td>12603</td>
+<td colspan="2">12593</td>
 </tr>
 <tr>
 <td>05</td>
@@ -2157,7 +2248,7 @@ source: https://zan.gov.kz/client/#!/doc/108990/rus/22.12.2016
 <td>33</td>
 <td>16</td>
 <td>19</td>
-<td>15</td>
+<td colspan="2">15</td>
 </tr>
 <tr>
 <td></td>
@@ -2169,7 +2260,7 @@ source: https://zan.gov.kz/client/#!/doc/108990/rus/22.12.2016
 <td>33</td>
 <td>16</td>
 <td>19</td>
-<td>15</td>
+<td colspan="2">15</td>
 </tr>
 <tr>
 <td></td>
@@ -2181,7 +2272,7 @@ source: https://zan.gov.kz/client/#!/doc/108990/rus/22.12.2016
 <td>33</td>
 <td>16</td>
 <td>19</td>
-<td>15</td>
+<td colspan="2">15</td>
 </tr>
 <tr>
 <td></td>
@@ -2193,7 +2284,7 @@ source: https://zan.gov.kz/client/#!/doc/108990/rus/22.12.2016
 <td>33</td>
 <td>16</td>
 <td>19</td>
-<td>15</td>
+<td colspan="2">15</td>
 </tr>
 <tr>
 <td>07</td>
@@ -2205,7 +2296,7 @@ source: https://zan.gov.kz/client/#!/doc/108990/rus/22.12.2016
 <td>0</td>
 <td>1068</td>
 <td>0</td>
-<td>0</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td></td>
@@ -2217,7 +2308,7 @@ source: https://zan.gov.kz/client/#!/doc/108990/rus/22.12.2016
 <td>0</td>
 <td>1068</td>
 <td>0</td>
-<td>0</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td></td>
@@ -2229,7 +2320,7 @@ source: https://zan.gov.kz/client/#!/doc/108990/rus/22.12.2016
 <td>0</td>
 <td>1068</td>
 <td>0</td>
-<td>0</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td></td>
@@ -2241,7 +2332,7 @@ source: https://zan.gov.kz/client/#!/doc/108990/rus/22.12.2016
 <td>0</td>
 <td>1068</td>
 <td>0</td>
-<td>0</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td>13</td>
@@ -2253,7 +2344,7 @@ source: https://zan.gov.kz/client/#!/doc/108990/rus/22.12.2016
 <td>13356</td>
 <td>4773</td>
 <td>9625</td>
-<td>2397</td>
+<td colspan="2">2397</td>
 </tr>
 <tr>
 <td></td>
@@ -2265,7 +2356,7 @@ source: https://zan.gov.kz/client/#!/doc/108990/rus/22.12.2016
 <td>13356</td>
 <td>4773</td>
 <td>9625</td>
-<td>2397</td>
+<td colspan="2">2397</td>
 </tr>
 <tr>
 <td></td>
@@ -2277,7 +2368,7 @@ source: https://zan.gov.kz/client/#!/doc/108990/rus/22.12.2016
 <td>13356</td>
 <td>4773</td>
 <td>9625</td>
-<td>2397</td>
+<td colspan="2">2397</td>
 </tr>
 <tr>
 <td></td>
@@ -2289,7 +2380,7 @@ source: https://zan.gov.kz/client/#!/doc/108990/rus/22.12.2016
 <td>13356</td>
 <td>4773</td>
 <td>9625</td>
-<td>2397</td>
+<td colspan="2">2397</td>
 </tr>
 </table>
 
@@ -2304,10 +2395,10 @@ source: https://zan.gov.kz/client/#!/doc/108990/rus/22.12.2016
 <td colspan="5">Функциональная подгруппа</td>
 <td rowspan="3">Каракум</td>
 <td rowspan="3">Караспан</td>
-<td rowspan="3">Кажы-мукан</td>
+<td rowspan="3">Кажымукан</td>
 <td rowspan="3">Торткуль</td>
 <td rowspan="3">Шубар</td>
-<td rowspan="3">Шубарсу</td>
+<td rowspan="3">Шубару</td>
 </tr>
 <tr>
 <td colspan="5">Администратор бюджетных программ</td>
@@ -2317,11 +2408,11 @@ source: https://zan.gov.kz/client/#!/doc/108990/rus/22.12.2016
 </tr>
 <tr>
 <td colspan="5">ЗАТРАТЫ</td>
-<td>49223</td>
+<td>52484</td>
 <td>68676</td>
 <td>197827</td>
-<td>84876</td>
-<td>55418</td>
+<td>83981</td>
+<td>47470</td>
 <td>52243</td>
 </tr>
 <tr>
@@ -2395,11 +2486,11 @@ source: https://zan.gov.kz/client/#!/doc/108990/rus/22.12.2016
 <td></td>
 <td></td>
 <td>Образование</td>
-<td>28571</td>
+<td>31832</td>
 <td>29294</td>
 <td>145037</td>
-<td>40971</td>
-<td>25553</td>
+<td>40076</td>
+<td>17605</td>
 <td>0</td>
 </tr>
 <tr>
@@ -2408,11 +2499,11 @@ source: https://zan.gov.kz/client/#!/doc/108990/rus/22.12.2016
 <td></td>
 <td></td>
 <td>Дошкольное воспитание и обучение</td>
-<td>28571</td>
+<td>31832</td>
 <td>29294</td>
 <td>145037</td>
-<td>40971</td>
-<td>25553</td>
+<td>40076</td>
+<td>17605</td>
 <td>0</td>
 </tr>
 <tr>
@@ -2421,12 +2512,25 @@ source: https://zan.gov.kz/client/#!/doc/108990/rus/22.12.2016
 <td>123</td>
 <td></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td>28571</td>
+<td>31832</td>
 <td>29294</td>
 <td>145037</td>
-<td>40971</td>
-<td>25553</td>
+<td>40076</td>
+<td>17605</td>
 <td>0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>004</td>
+<td></td>
+<td>350</td>
+<td></td>
+<td></td>
+<td>2298</td>
+<td>1864</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -2434,11 +2538,11 @@ source: https://zan.gov.kz/client/#!/doc/108990/rus/22.12.2016
 <td></td>
 <td>041</td>
 <td>Реализация государственного образовательного заказа в дошкольных организациях образования</td>
-<td>28571</td>
+<td>31482</td>
 <td>29294</td>
 <td>145037</td>
-<td>40971</td>
-<td>25553</td>
+<td>37778</td>
+<td>15741</td>
 <td>0</td>
 </tr>
 <tr>
