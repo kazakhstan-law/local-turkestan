@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/108668/kaz/23.12.2016
+source: https://zan.gov.kz/client/#!/doc/108668/kaz/08.02.2017
 ---
 
 > *Созақ аудандық мәслихатының*  
