@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/109129/rus/23.12.2016
+source: https://zan.gov.kz/client/#!/doc/109129/rus/08.02.2017
 ---
 
 > *Приложение 3 к решению*  
@@ -9,6 +9,8 @@ source: https://zan.gov.kz/client/#!/doc/109129/rus/23.12.2016
 > *2016 года №10-68-VI*
 
 # Районный бюджет на 2019 год
+
+> *Сноска. Приложение 3 - в редакции решения Мактааральского районного маслихата Южно-Казахстанской области от 08.02.2017 № 11-85-VI (вводится в действие с 01.01.2017).*
 
 <table>
 <tr>
@@ -31,9 +33,9 @@ source: https://zan.gov.kz/client/#!/doc/109129/rus/23.12.2016
 <td></td>
 </tr>
 <tr>
-<td colspan="4">1</td>
-<td>2</td>
-<td>3</td>
+<th colspan="4">1</th>
+<th>2</th>
+<th>3</th>
 </tr>
 <tr>
 <td></td>
@@ -41,7 +43,7 @@ source: https://zan.gov.kz/client/#!/doc/109129/rus/23.12.2016
 <td></td>
 <td></td>
 <td>1.Доходы</td>
-<td>41 876 793</td>
+<td>42 093 630</td>
 </tr>
 <tr>
 <td>1</td>
@@ -313,7 +315,7 @@ source: https://zan.gov.kz/client/#!/doc/109129/rus/23.12.2016
 <td></td>
 <td></td>
 <td>Поступления трансфертов</td>
-<td>39 733 805</td>
+<td>39 950 642</td>
 </tr>
 <tr>
 <td></td>
@@ -321,7 +323,7 @@ source: https://zan.gov.kz/client/#!/doc/109129/rus/23.12.2016
 <td></td>
 <td></td>
 <td>Трансферты из вышестоящих органов государственного управления</td>
-<td>39 733 805</td>
+<td>39 950 642</td>
 </tr>
 <tr>
 <td></td>
@@ -329,7 +331,7 @@ source: https://zan.gov.kz/client/#!/doc/109129/rus/23.12.2016
 <td>2</td>
 <td></td>
 <td>Трансферты из областного бюджета</td>
-<td>39 733 805</td>
+<td>39 950 642</td>
 </tr>
 <tr>
 <td colspan="5">Функциональная группа</td>
@@ -351,9 +353,9 @@ source: https://zan.gov.kz/client/#!/doc/109129/rus/23.12.2016
 <td colspan="2">Программа</td>
 </tr>
 <tr>
-<td colspan="4">1</td>
-<td>2</td>
-<td>3</td>
+<th colspan="4">1</th>
+<th>2</th>
+<th>3</th>
 </tr>
 <tr>
 <td></td>
@@ -361,7 +363,7 @@ source: https://zan.gov.kz/client/#!/doc/109129/rus/23.12.2016
 <td></td>
 <td></td>
 <td>2.Затраты</td>
-<td>41 876 793</td>
+<td>42 093 630</td>
 </tr>
 <tr>
 <td>01</td>
@@ -601,7 +603,7 @@ source: https://zan.gov.kz/client/#!/doc/109129/rus/23.12.2016
 <td></td>
 <td></td>
 <td>Образование</td>
-<td>26 933 725</td>
+<td>27 150 562</td>
 </tr>
 <tr>
 <td></td>
@@ -673,7 +675,7 @@ source: https://zan.gov.kz/client/#!/doc/109129/rus/23.12.2016
 <td></td>
 <td></td>
 <td>Начальное, основное среднее и общее среднее образование</td>
-<td>19 821 465</td>
+<td>20 038 302</td>
 </tr>
 <tr>
 <td></td>
@@ -721,7 +723,7 @@ source: https://zan.gov.kz/client/#!/doc/109129/rus/23.12.2016
 <td>466</td>
 <td></td>
 <td>Отдел архитектуры, градостроительства и строительства района (города областного значения)</td>
-<td>1 406 394</td>
+<td>1 623 231</td>
 </tr>
 <tr>
 <td></td>
@@ -729,7 +731,7 @@ source: https://zan.gov.kz/client/#!/doc/109129/rus/23.12.2016
 <td></td>
 <td>021</td>
 <td>Строительство и реконструкция объектов начального, основного среднего и общего среднего образования</td>
-<td>1 406 394</td>
+<td>1 623 231</td>
 </tr>
 <tr>
 <td></td>
@@ -1799,14 +1801,6 @@ source: https://zan.gov.kz/client/#!/doc/109129/rus/23.12.2016
 <td></td>
 <td></td>
 <td></td>
-<td>024</td>
-<td>Целевые текущие трансферты в вышестоящие бюджеты в связи с передачей функций государственных органов из нижестоящего уровня государственного управления в вышестоящий</td>
-<td>0</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
 <td>051</td>
 <td>Трансферты органам местного самоуправления</td>
 <td>235 592</td>
@@ -1839,9 +1833,9 @@ source: https://zan.gov.kz/client/#!/doc/109129/rus/23.12.2016
 <td colspan="2">Программа</td>
 </tr>
 <tr>
-<td colspan="4">1</td>
-<td>2</td>
-<td>3</td>
+<th colspan="4">1</th>
+<th>2</th>
+<th>3</th>
 </tr>
 <tr>
 <td></td>
@@ -1903,9 +1897,9 @@ source: https://zan.gov.kz/client/#!/doc/109129/rus/23.12.2016
 <td></td>
 </tr>
 <tr>
-<td colspan="4">1</td>
-<td>2</td>
-<td>3</td>
+<th colspan="4">1</th>
+<th>2</th>
+<th>3</th>
 </tr>
 <tr>
 <td></td>
@@ -1990,9 +1984,9 @@ source: https://zan.gov.kz/client/#!/doc/109129/rus/23.12.2016
 <td></td>
 </tr>
 <tr>
-<td colspan="4">1</td>
-<td>2</td>
-<td>3</td>
+<th colspan="4">1</th>
+<th>2</th>
+<th>3</th>
 </tr>
 <tr>
 <td></td>
@@ -2042,9 +2036,9 @@ source: https://zan.gov.kz/client/#!/doc/109129/rus/23.12.2016
 <td colspan="2">Программа</td>
 </tr>
 <tr>
-<td colspan="4">1</td>
-<td>2</td>
-<td>3</td>
+<th colspan="4">1</th>
+<th>2</th>
+<th>3</th>
 </tr>
 <tr>
 <td></td>
@@ -2114,9 +2108,9 @@ source: https://zan.gov.kz/client/#!/doc/109129/rus/23.12.2016
 <td></td>
 </tr>
 <tr>
-<td colspan="4">1</td>
-<td>2</td>
-<td>3</td>
+<th colspan="4">1</th>
+<th>2</th>
+<th>3</th>
 </tr>
 <tr>
 <td></td>
