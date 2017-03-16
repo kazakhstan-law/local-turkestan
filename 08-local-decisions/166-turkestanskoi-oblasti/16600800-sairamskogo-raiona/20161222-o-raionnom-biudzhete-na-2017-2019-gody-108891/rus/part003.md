@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/108891/rus/07.02.2017
+source: https://zan.gov.kz/client/#!/doc/108891/rus/16.03.2017
 ---
 
 > *Приложение 3 к решению*  
@@ -9,7 +9,7 @@ source: https://zan.gov.kz/client/#!/doc/108891/rus/07.02.2017
 
 # Районный бюджет на 2019 год
 
-> *Сноска. Приложение 3 - в редакции решения Сайрамского районного маслихата Южно-Казахстанской области от 07.02.2017 № 12-76/VI (вводится в действие с 01.01.2017).*
+> *Сноска. Приложение 3 - в редакции решения Сайрамского районного маслихата Южно-Казахстанской области от 16.03.2017 № 13-86/VI (вводится в действие с 01.01.2017).*
 
 <table>
 <tr>
@@ -30,16 +30,16 @@ source: https://zan.gov.kz/client/#!/doc/108891/rus/07.02.2017
 <td colspan="6">Наименование</td>
 </tr>
 <tr>
-<th colspan="8">1</th>
-<th colspan="6">2</th>
-<th colspan="2">3</th>
+<td colspan="8">1</td>
+<td colspan="6">2</td>
+<td colspan="2">3</td>
 </tr>
 <tr>
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="6">1. Доходы</td>
-<td colspan="2">29702954</td>
+<td colspan="2">30527596</td>
 </tr>
 <tr>
 <td colspan="3">1</td>
@@ -221,21 +221,24 @@ source: https://zan.gov.kz/client/#!/doc/108891/rus/07.02.2017
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="6">Поступления трансфертов</td>
-<td colspan="2">26349735</td>
+<td colspan="2">27174377</td>
 </tr>
 <tr>
 <td colspan="3"></td>
 <td colspan="3">02</td>
 <td colspan="2"></td>
 <td colspan="6">Трансферты из вышестоящих органов государственного управления</td>
-<td colspan="2">26349735</td>
+<td colspan="2">27174377</td>
 </tr>
 <tr>
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="2">2</td>
 <td colspan="6">Трансферты из областного бюджета</td>
-<td colspan="2">26349735</td>
+<td colspan="2">27174377</td>
+</tr>
+<tr>
+<td colspan="16"></td>
 </tr>
 <tr>
 <td colspan="13">Функциональная группа</td>
@@ -269,7 +272,7 @@ source: https://zan.gov.kz/client/#!/doc/108891/rus/07.02.2017
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">2. Затраты</td>
-<td colspan="3">29702954</td>
+<td colspan="3">30527596</td>
 </tr>
 <tr>
 <td colspan="3">01</td>
@@ -941,7 +944,7 @@ source: https://zan.gov.kz/client/#!/doc/108891/rus/07.02.2017
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">Жилищно-коммунальное хозяйство</td>
-<td colspan="3">4304466</td>
+<td colspan="3">5129108</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -1005,7 +1008,7 @@ source: https://zan.gov.kz/client/#!/doc/108891/rus/07.02.2017
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">Коммунальное хозяйство</td>
-<td colspan="3">3468748</td>
+<td colspan="3">4293390</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -1013,7 +1016,7 @@ source: https://zan.gov.kz/client/#!/doc/108891/rus/07.02.2017
 <td colspan="2">497</td>
 <td colspan="3"></td>
 <td colspan="2">Отдел жилищно-коммунального хозяйства района (города областного значения)</td>
-<td colspan="3">3468748</td>
+<td colspan="3">4293390</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -1029,7 +1032,7 @@ source: https://zan.gov.kz/client/#!/doc/108891/rus/07.02.2017
 <td colspan="2"></td>
 <td colspan="3">058</td>
 <td colspan="2">Развитие системы водоснабжения и водоотведения в сельских населенных пунктах</td>
-<td colspan="3">3452891</td>
+<td colspan="3">4277533</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -1745,38 +1748,38 @@ source: https://zan.gov.kz/client/#!/doc/108891/rus/07.02.2017
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="10">Функциональная группа</td>
+<td colspan="11">Функциональная группа</td>
 <td colspan="3"></td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="10">Функциональная подгруппа</td>
+<td colspan="11">Функциональная подгруппа</td>
 <td colspan="3" rowspan="4">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="3"></td>
-<td colspan="7">Администратор бюджетных программ</td>
+<td colspan="8">Администратор бюджетных программ</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="4"></td>
-<td colspan="3">Программа</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td></td>
-<td colspan="2">Наименование</td>
+<td colspan="4">Программа</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="4"></td>
 <td></td>
-<td colspan="2">Бюджетные кредиты</td>
+<td colspan="3">Наименование</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td></td>
+<td colspan="3">Бюджетные кредиты</td>
 <td colspan="3">0</td>
 </tr>
 <tr>
@@ -1784,7 +1787,7 @@ source: https://zan.gov.kz/client/#!/doc/108891/rus/07.02.2017
 <td colspan="3"></td>
 <td colspan="4"></td>
 <td></td>
-<td colspan="2">Сельское, водное, лесное, рыбное хозяйство, особо охраняемые природные территории, охрана окружающей среды и животного мира, земельные отношения</td>
+<td colspan="3">Сельское, водное, лесное, рыбное хозяйство, особо охраняемые природные территории, охрана окружающей среды и животного мира, земельные отношения</td>
 <td colspan="3">0</td>
 </tr>
 <tr>
@@ -1792,7 +1795,7 @@ source: https://zan.gov.kz/client/#!/doc/108891/rus/07.02.2017
 <td colspan="3">1</td>
 <td colspan="4"></td>
 <td></td>
-<td colspan="2">Сельское хозяйство</td>
+<td colspan="3">Сельское хозяйство</td>
 <td colspan="3">0</td>
 </tr>
 <tr>
@@ -1800,7 +1803,7 @@ source: https://zan.gov.kz/client/#!/doc/108891/rus/07.02.2017
 <td colspan="3"></td>
 <td colspan="4">477</td>
 <td></td>
-<td colspan="2">Отдел сельского хозяйства и земельных отношений района (города областного значения)</td>
+<td colspan="3">Отдел сельского хозяйства и земельных отношений района (города областного значения)</td>
 <td colspan="3">0</td>
 </tr>
 <tr>
@@ -1808,42 +1811,42 @@ source: https://zan.gov.kz/client/#!/doc/108891/rus/07.02.2017
 <td colspan="3"></td>
 <td colspan="4"></td>
 <td>004</td>
-<td colspan="2">Бюджетные кредиты для реализации мер социальной поддержки специалистов</td>
+<td colspan="3">Бюджетные кредиты для реализации мер социальной поддержки специалистов</td>
 <td colspan="3">0</td>
 </tr>
 <tr>
-<td colspan="12">Категория</td>
+<td colspan="13">Категория</td>
 <td colspan="3" rowspan="4">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="11">Класс</td>
+<td colspan="12">Класс</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
-<td colspan="8">Подкласс</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="5">Специфика</td>
+<td colspan="9">Подкласс</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
 <td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="2">Наименование</td>
-<td colspan="3"></td>
+<td colspan="6">Специфика</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="3"></td>
-<td colspan="2">Погашение бюджетных кредитов</td>
+<td colspan="3">Наименование</td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3">Погашение бюджетных кредитов</td>
 <td colspan="3">0</td>
 </tr>
 <tr>
@@ -1851,7 +1854,7 @@ source: https://zan.gov.kz/client/#!/doc/108891/rus/07.02.2017
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="3"></td>
-<td colspan="2">Погашение бюджетных кредитов</td>
+<td colspan="3">Погашение бюджетных кредитов</td>
 <td colspan="3">0</td>
 </tr>
 <tr>
@@ -1859,7 +1862,7 @@ source: https://zan.gov.kz/client/#!/doc/108891/rus/07.02.2017
 <td colspan="3">01</td>
 <td colspan="3"></td>
 <td colspan="3"></td>
-<td colspan="2">Погашение бюджетных кредитов</td>
+<td colspan="3">Погашение бюджетных кредитов</td>
 <td colspan="3">0</td>
 </tr>
 <tr>
@@ -1867,7 +1870,7 @@ source: https://zan.gov.kz/client/#!/doc/108891/rus/07.02.2017
 <td colspan="3"></td>
 <td colspan="3">1</td>
 <td colspan="3"></td>
-<td colspan="2">Погашение бюджетных кредитов, выданных из государственного бюджета</td>
+<td colspan="3">Погашение бюджетных кредитов, выданных из государственного бюджета</td>
 <td colspan="3">0</td>
 </tr>
 <tr>
@@ -1875,62 +1878,62 @@ source: https://zan.gov.kz/client/#!/doc/108891/rus/07.02.2017
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="3"></td>
-<td colspan="2">4. Сальдо по операциям с финансовыми активами</td>
+<td colspan="3">4. Сальдо по операциям с финансовыми активами</td>
 <td colspan="3">0</td>
 </tr>
 <tr>
-<td colspan="12">Функциональная группа</td>
+<td colspan="13">Функциональная группа</td>
 <td colspan="3" rowspan="5">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="11">Функциональная подгруппа</td>
+<td colspan="12">Функциональная подгруппа</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
-<td colspan="8">Администратор бюджетных программ</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="5">Программа</td>
+<td colspan="9">Администратор бюджетных программ</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
 <td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="2">Наименование</td>
+<td colspan="6">Программа</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="3"></td>
-<td colspan="2">Приобретение финансовых активов</td>
+<td colspan="3">Наименование</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3">Приобретение финансовых активов</td>
 <td colspan="3">0</td>
 </tr>
 <tr>
-<td colspan="12">Категория</td>
+<td colspan="13">Категория</td>
 <td colspan="3" rowspan="3">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="11">Класс</td>
+<td colspan="12">Класс</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
-<td colspan="8">Подкласс</td>
+<td colspan="9">Подкласс</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="3"></td>
-<td colspan="2">Наименование</td>
+<td colspan="3">Наименование</td>
 <td colspan="3"></td>
 </tr>
 <tr>
@@ -1938,7 +1941,7 @@ source: https://zan.gov.kz/client/#!/doc/108891/rus/07.02.2017
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="3"></td>
-<td colspan="2">Поступление от продажи финансовых активов государства</td>
+<td colspan="3">Поступление от продажи финансовых активов государства</td>
 <td colspan="3">0</td>
 </tr>
 <tr>
@@ -1946,7 +1949,7 @@ source: https://zan.gov.kz/client/#!/doc/108891/rus/07.02.2017
 <td colspan="3">01</td>
 <td colspan="3"></td>
 <td colspan="3"></td>
-<td colspan="2">Поступление от продажи финансовых активов государства</td>
+<td colspan="3">Поступление от продажи финансовых активов государства</td>
 <td colspan="3">0</td>
 </tr>
 <tr>
@@ -1954,7 +1957,7 @@ source: https://zan.gov.kz/client/#!/doc/108891/rus/07.02.2017
 <td colspan="3"></td>
 <td colspan="3">1</td>
 <td colspan="3"></td>
-<td colspan="2">Поступления от продажи финансовых активов внутри страны</td>
+<td colspan="3">Поступления от продажи финансовых активов внутри страны</td>
 <td colspan="3">0</td>
 </tr>
 <tr>
@@ -1962,7 +1965,7 @@ source: https://zan.gov.kz/client/#!/doc/108891/rus/07.02.2017
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="3"></td>
-<td colspan="2">5. Дефицит (профицит) бюджета</td>
+<td colspan="3">5. Дефицит (профицит) бюджета</td>
 <td colspan="3">0</td>
 </tr>
 <tr>
@@ -1970,28 +1973,28 @@ source: https://zan.gov.kz/client/#!/doc/108891/rus/07.02.2017
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="3"></td>
-<td colspan="2">6. Финансирование дефицита (использование профицита) бюджета</td>
+<td colspan="3">6. Финансирование дефицита (использование профицита) бюджета</td>
 <td colspan="3">0</td>
 </tr>
 <tr>
-<td colspan="12">Категория</td>
+<td colspan="13">Категория</td>
 <td colspan="3" rowspan="3">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="11">Класс</td>
+<td colspan="12">Класс</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
-<td colspan="8">Подкласс</td>
+<td colspan="9">Подкласс</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="3"></td>
-<td colspan="2">Наименование</td>
+<td colspan="3">Наименование</td>
 <td colspan="3"></td>
 </tr>
 <tr>
@@ -1999,7 +2002,7 @@ source: https://zan.gov.kz/client/#!/doc/108891/rus/07.02.2017
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="3"></td>
-<td colspan="2">Поступления займов</td>
+<td colspan="3">Поступления займов</td>
 <td colspan="3">0</td>
 </tr>
 <tr>
@@ -2007,7 +2010,7 @@ source: https://zan.gov.kz/client/#!/doc/108891/rus/07.02.2017
 <td colspan="3">01</td>
 <td colspan="3"></td>
 <td colspan="3"></td>
-<td colspan="2">Внутренние государственные займы</td>
+<td colspan="3">Внутренние государственные займы</td>
 <td colspan="3">0</td>
 </tr>
 <tr>
@@ -2015,41 +2018,41 @@ source: https://zan.gov.kz/client/#!/doc/108891/rus/07.02.2017
 <td colspan="3"></td>
 <td colspan="3">2</td>
 <td colspan="3"></td>
-<td colspan="2">Договоры займа</td>
+<td colspan="3">Договоры займа</td>
 <td colspan="3">0</td>
 </tr>
 <tr>
-<td colspan="12">Функциональная группа</td>
+<td colspan="13">Функциональная группа</td>
 <td colspan="3" rowspan="5">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="11">Функциональная подгруппа</td>
+<td colspan="12">Функциональная подгруппа</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
-<td colspan="8">Администратор бюджетных программ</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="5">Программа</td>
+<td colspan="9">Администратор бюджетных программ</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
 <td colspan="3"></td>
+<td colspan="6">Программа</td>
+</tr>
+<tr>
+<td></td>
 <td colspan="3"></td>
-<td colspan="2">Наименование</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3">Наименование</td>
 </tr>
 <tr>
 <td>16</td>
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="3"></td>
-<td colspan="2">Погашение займов</td>
+<td colspan="3">Погашение займов</td>
 <td colspan="3">0</td>
 </tr>
 <tr>
@@ -2057,7 +2060,7 @@ source: https://zan.gov.kz/client/#!/doc/108891/rus/07.02.2017
 <td colspan="3">1</td>
 <td colspan="3"></td>
 <td colspan="3"></td>
-<td colspan="2">Погашение займов</td>
+<td colspan="3">Погашение займов</td>
 <td colspan="3">0</td>
 </tr>
 <tr>
