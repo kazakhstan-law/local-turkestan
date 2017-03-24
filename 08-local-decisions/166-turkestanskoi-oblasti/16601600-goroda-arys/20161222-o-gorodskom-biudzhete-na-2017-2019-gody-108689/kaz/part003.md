@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/108689/kaz/09.02.2017
+source: https://zan.gov.kz/client/#!/doc/108689/kaz/24.03.2017
 ---
 
 > *Арыс қалалық мәслихатының*  
@@ -1934,25 +1934,28 @@ source: https://zan.gov.kz/client/#!/doc/108689/kaz/09.02.2017
 </tr>
 </table>
 
-> *Арыс қалалық мәслихатының*  
-> *2016 жылғы 22 желтоқсандағы*  
-> *№8/49-VI шешіміне 5-қосымша*
+> *Арыс қалалық*  
+> *мәслихатының 2016 жылғы*  
+> *22 желтоқсандағы №8/49-VI*  
+> *шешіміне 5-қосымша*
 
 # Қаладағы әрбір ауылдық округ әкімдерінің аппараттары бойынша 2017 жылға арналған бюджеттік бағдарламалардың тізбесі
+
+> *Ескерту. 5 – қосымша жаңа редакцияда - Оңтүстік Қазақстан облысы Арыс қалалық мәслихатының 24.03.2017 № 11/76-VI шешімімен (01.01.2017 бастап қолданысқа енгізіледі).*
 
 <table>
 <tr>
 <td colspan="5">Функционалдық топ Атауы</td>
-<td rowspan="4">Жалпы сомасы, мың теңге</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="4">Кіші функция</td>
+<td rowspan="3">Жалпы сомасы, мың теңге</td>
+<td colspan="3">Ауылдық округтердің тізбесі</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="3">Бюджеттік бағдарлама әкімшісі</td>
+<td rowspan="2">Ақдала</td>
+<td rowspan="2">Дермене</td>
+<td rowspan="2">Қожатоғай</td>
 </tr>
 <tr>
 <td></td>
@@ -1964,6 +1967,9 @@ source: https://zan.gov.kz/client/#!/doc/108689/kaz/09.02.2017
 <td colspan="4">1</td>
 <td>2</td>
 <td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td>01</td>
@@ -1971,7 +1977,10 @@ source: https://zan.gov.kz/client/#!/doc/108689/kaz/09.02.2017
 <td></td>
 <td></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>122761</td>
+<td>129360</td>
+<td>18556</td>
+<td>27510</td>
+<td>22917</td>
 </tr>
 <tr>
 <td></td>
@@ -1979,7 +1988,10 @@ source: https://zan.gov.kz/client/#!/doc/108689/kaz/09.02.2017
 <td></td>
 <td></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>122761</td>
+<td>129360</td>
+<td>18556</td>
+<td>27510</td>
+<td>22917</td>
 </tr>
 <tr>
 <td></td>
@@ -1987,7 +1999,10 @@ source: https://zan.gov.kz/client/#!/doc/108689/kaz/09.02.2017
 <td>123</td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td>122761</td>
+<td>129360</td>
+<td>18556</td>
+<td>27510</td>
+<td>22917</td>
 </tr>
 <tr>
 <td></td>
@@ -1995,15 +2010,21 @@ source: https://zan.gov.kz/client/#!/doc/108689/kaz/09.02.2017
 <td></td>
 <td>001</td>
 <td>Қаладағы аудан, аудандық маңызы бар қаланың, кент, ауыл, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>113989</td>
+<td>120216</td>
+<td>18406</td>
+<td>19298</td>
+<td>22767</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td>023</td>
+<td>022</td>
 <td>Мемлекеттік органдардың күрделі шығыстары</td>
-<td>964</td>
+<td>1241</td>
+<td>150</td>
+<td>309</td>
+<td>150</td>
 </tr>
 <tr>
 <td></td>
@@ -2011,7 +2032,10 @@ source: https://zan.gov.kz/client/#!/doc/108689/kaz/09.02.2017
 <td></td>
 <td>032</td>
 <td>Ведомстволық бағыныстағы мемлекеттік мекемелерінің және ұйымдарының күрделі шығыстары</td>
-<td>7808</td>
+<td>7903</td>
+<td>0</td>
+<td>7 903</td>
+<td>0</td>
 </tr>
 <tr>
 <td>04</td>
@@ -2019,7 +2043,10 @@ source: https://zan.gov.kz/client/#!/doc/108689/kaz/09.02.2017
 <td></td>
 <td></td>
 <td>Бiлiм беру</td>
-<td>84781</td>
+<td>80504</td>
+<td>0</td>
+<td>13120</td>
+<td>43855</td>
 </tr>
 <tr>
 <td></td>
@@ -2027,7 +2054,10 @@ source: https://zan.gov.kz/client/#!/doc/108689/kaz/09.02.2017
 <td></td>
 <td></td>
 <td>Мектепке дейiнгi тәрбие және оқыту</td>
-<td>84531</td>
+<td>80254</td>
+<td>0</td>
+<td>13120</td>
+<td>43855</td>
 </tr>
 <tr>
 <td></td>
@@ -2035,7 +2065,10 @@ source: https://zan.gov.kz/client/#!/doc/108689/kaz/09.02.2017
 <td>123</td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td>84531</td>
+<td>80254</td>
+<td>0</td>
+<td>13120</td>
+<td>43855</td>
 </tr>
 <tr>
 <td></td>
@@ -2044,6 +2077,9 @@ source: https://zan.gov.kz/client/#!/doc/108689/kaz/09.02.2017
 <td>004</td>
 <td>Мектепке дейінгі тәрбие мен оқыту ұйымдарының қызметін қамтамасыз ету</td>
 <td>38777</td>
+<td>0</td>
+<td>0</td>
+<td>15498</td>
 </tr>
 <tr>
 <td></td>
@@ -2051,7 +2087,10 @@ source: https://zan.gov.kz/client/#!/doc/108689/kaz/09.02.2017
 <td></td>
 <td>041</td>
 <td>Мектепке дейінгі білім беру ұйымдарында мемлекеттік білім беру тапсырысын іске асыруға</td>
-<td>45754</td>
+<td>41477</td>
+<td>0</td>
+<td>13120</td>
+<td>28357</td>
 </tr>
 <tr>
 <td></td>
@@ -2059,6 +2098,283 @@ source: https://zan.gov.kz/client/#!/doc/108689/kaz/09.02.2017
 <td></td>
 <td></td>
 <td>Бастауыш, негізгі орта және жалпы орта білім беру</td>
+<td>250</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>123</td>
+<td></td>
+<td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл (село), ауылдық (селолық) округ әкімінің аппараты</td>
+<td>250</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>005</td>
+<td>Ауылдық (селолық) жерлерде балаларды мектепке дейін тегін алып баруды және кері алып келуді ұйымдастыру</td>
+<td>250</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>05</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Денсаулық сақтау</td>
+<td>120</td>
+<td>20</td>
+<td>20</td>
+<td>20</td>
+</tr>
+<tr>
+<td></td>
+<td>9</td>
+<td></td>
+<td></td>
+<td>Денсаулық сақтау саласындағы өзге де қызметтер</td>
+<td>120</td>
+<td>20</td>
+<td>20</td>
+<td>20</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>123</td>
+<td></td>
+<td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
+<td>120</td>
+<td>20</td>
+<td>20</td>
+<td>20</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>002</td>
+<td>Шұғыл жағдайларда сырқаты ауыр адамдарды дәрігерлік көмек көрсететін ең жақын денсаулық сақтау ұйымына дейін жеткізуді ұйымдастыру</td>
+<td>120</td>
+<td>20</td>
+<td>20</td>
+<td>20</td>
+</tr>
+<tr>
+<td>08</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Мәдениет, спорт, туризм және ақпараттық кеңістiк</td>
+<td>120</td>
+<td>20</td>
+<td>20</td>
+<td>20</td>
+</tr>
+<tr>
+<td></td>
+<td>2</td>
+<td></td>
+<td></td>
+<td>Спорт</td>
+<td>120</td>
+<td>20</td>
+<td>20</td>
+<td>20</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>123</td>
+<td></td>
+<td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
+<td>120</td>
+<td>20</td>
+<td>20</td>
+<td>20</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>028</td>
+<td>Жергілікті деңгейде дене шынықтыру – сауықтыру және спорттық іс-шараларды іске асыру</td>
+<td>120</td>
+<td>20</td>
+<td>20</td>
+<td>20</td>
+</tr>
+</table>
+
+Кестенің жалғасы
+
+<table>
+<tr>
+<td colspan="5">Функционалдық топ Атауы</td>
+<td rowspan="3">Жалпы сомасы, мың теңге</td>
+<td colspan="3">Ауылдық округтердің тізбесі</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="3">Бюджеттік бағдарлама әкімшісі</td>
+<td rowspan="2">Монтайтас</td>
+<td rowspan="2">Жиделі</td>
+<td rowspan="2">Байырқұм</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Бағдарлама</td>
+</tr>
+<tr>
+<td colspan="4">1</td>
+<td>2</td>
+<td>3</td>
+<td>7</td>
+<td>8</td>
+<td>9</td>
+</tr>
+<tr>
+<td>01</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
+<td>129360</td>
+<td>21373</td>
+<td>19703</td>
+<td>19301</td>
+</tr>
+<tr>
+<td></td>
+<td>1</td>
+<td></td>
+<td></td>
+<td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
+<td>129360</td>
+<td>21373</td>
+<td>19703</td>
+<td>19301</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>123</td>
+<td></td>
+<td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
+<td>129360</td>
+<td>21373</td>
+<td>19703</td>
+<td>19301</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>001</td>
+<td>Қаладағы аудан, аудандық маңызы бар қаланың, кент, ауыл, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
+<td>120216</td>
+<td>21223</td>
+<td>19553</td>
+<td>18969</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>022</td>
+<td>Мемлекеттік органдардың күрделі шығыстары</td>
+<td>1241</td>
+<td>150</td>
+<td>150</td>
+<td>332</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>032</td>
+<td>Ведомстволық бағыныстағы мемлекеттік мекемелерінің және ұйымдарының күрделі шығыстары</td>
+<td>7903</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>04</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Бiлiм беру</td>
+<td>80504</td>
+<td>0</td>
+<td>23279</td>
+<td>250</td>
+</tr>
+<tr>
+<td></td>
+<td>1</td>
+<td></td>
+<td></td>
+<td>Мектепке дейiнгi тәрбие және оқыту</td>
+<td>80254</td>
+<td>0</td>
+<td>23279</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>123</td>
+<td></td>
+<td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
+<td>80254</td>
+<td>0</td>
+<td>23279</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>004</td>
+<td>Мектепке дейінгі тәрбие мен оқыту ұйымдарының қызметін қамтамасыз ету</td>
+<td>38777</td>
+<td>0</td>
+<td>23279</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>041</td>
+<td>Мектепке дейінгі білім беру ұйымдарында мемлекеттік білім беру тапсырысын іске асыруға</td>
+<td>41477</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td>2</td>
+<td></td>
+<td></td>
+<td>Бастауыш, негізгі орта және жалпы орта білім беру</td>
+<td>250</td>
+<td>0</td>
+<td>0</td>
 <td>250</td>
 </tr>
 <tr>
@@ -2068,6 +2384,9 @@ source: https://zan.gov.kz/client/#!/doc/108689/kaz/09.02.2017
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл (село), ауылдық (селолық) округ әкімінің аппараты</td>
 <td>250</td>
+<td>0</td>
+<td>0</td>
+<td>250</td>
 </tr>
 <tr>
 <td></td>
@@ -2075,6 +2394,9 @@ source: https://zan.gov.kz/client/#!/doc/108689/kaz/09.02.2017
 <td></td>
 <td>005</td>
 <td>Ауылдық (селолық) жерлерде балаларды мектепке дейін тегін алып баруды және кері алып келуді ұйымдастыру</td>
+<td>250</td>
+<td>0</td>
+<td>0</td>
 <td>250</td>
 </tr>
 <tr>
@@ -2084,6 +2406,9 @@ source: https://zan.gov.kz/client/#!/doc/108689/kaz/09.02.2017
 <td></td>
 <td>Денсаулық сақтау</td>
 <td>120</td>
+<td>20</td>
+<td>20</td>
+<td>20</td>
 </tr>
 <tr>
 <td></td>
@@ -2092,6 +2417,9 @@ source: https://zan.gov.kz/client/#!/doc/108689/kaz/09.02.2017
 <td></td>
 <td>Денсаулық сақтау саласындағы өзге де қызметтер</td>
 <td>120</td>
+<td>20</td>
+<td>20</td>
+<td>20</td>
 </tr>
 <tr>
 <td></td>
@@ -2100,6 +2428,9 @@ source: https://zan.gov.kz/client/#!/doc/108689/kaz/09.02.2017
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
 <td>120</td>
+<td>20</td>
+<td>20</td>
+<td>20</td>
 </tr>
 <tr>
 <td></td>
@@ -2108,6 +2439,9 @@ source: https://zan.gov.kz/client/#!/doc/108689/kaz/09.02.2017
 <td>002</td>
 <td>Шұғыл жағдайларда сырқаты ауыр адамдарды дәрігерлік көмек көрсететін ең жақын денсаулық сақтау ұйымына дейін жеткізуді ұйымдастыру</td>
 <td>120</td>
+<td>20</td>
+<td>20</td>
+<td>20</td>
 </tr>
 <tr>
 <td>08</td>
@@ -2116,6 +2450,9 @@ source: https://zan.gov.kz/client/#!/doc/108689/kaz/09.02.2017
 <td></td>
 <td>Мәдениет, спорт, туризм және ақпараттық кеңістiк</td>
 <td>120</td>
+<td>20</td>
+<td>20</td>
+<td>20</td>
 </tr>
 <tr>
 <td></td>
@@ -2124,6 +2461,9 @@ source: https://zan.gov.kz/client/#!/doc/108689/kaz/09.02.2017
 <td></td>
 <td>Спорт</td>
 <td>120</td>
+<td>20</td>
+<td>20</td>
+<td>20</td>
 </tr>
 <tr>
 <td></td>
@@ -2132,6 +2472,9 @@ source: https://zan.gov.kz/client/#!/doc/108689/kaz/09.02.2017
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
 <td>120</td>
+<td>20</td>
+<td>20</td>
+<td>20</td>
 </tr>
 <tr>
 <td></td>
@@ -2140,208 +2483,9 @@ source: https://zan.gov.kz/client/#!/doc/108689/kaz/09.02.2017
 <td>028</td>
 <td>Жергілікті деңгейде дене шынықтыру – сауықтыру және спорттық іс-шараларды іске асыру</td>
 <td>120</td>
-</tr>
-</table>
-
-Кестенің жалғасы
-
-<table>
-<tr>
-<td colspan="11">Ауылдық округтердің тізбесі</td>
-</tr>
-<tr>
-<td colspan="2" rowspan="2">Ақдала</td>
-<td rowspan="2">Дермене</td>
-<td colspan="2" rowspan="2">Қожатоғай</td>
-<td colspan="2" rowspan="2">Монтайтас</td>
-<td colspan="2" rowspan="2">Жиделі</td>
-<td colspan="2" rowspan="2">Байырқұм</td>
-</tr>
-<tr>
-</tr>
-<tr>
-<td colspan="2">4</td>
-<td>5</td>
-<td colspan="2">6</td>
-<td colspan="2">7</td>
-<td colspan="2">8</td>
-<td colspan="2">9</td>
-</tr>
-<tr>
-<td colspan="2">17676</td>
-<td>26380</td>
-<td colspan="2">22137</td>
-<td colspan="2">20523</td>
-<td colspan="2">17642</td>
-<td colspan="2">18403</td>
-</tr>
-<tr>
-<td colspan="2">17676</td>
-<td>26380</td>
-<td colspan="2">22137</td>
-<td colspan="2">20523</td>
-<td colspan="2">17642</td>
-<td colspan="2">18403</td>
-</tr>
-<tr>
-<td colspan="2">17676</td>
-<td>26380</td>
-<td colspan="2">22137</td>
-<td colspan="2">20523</td>
-<td colspan="2">17642</td>
-<td colspan="2">18403</td>
-</tr>
-<tr>
-<td colspan="2">17526</td>
-<td>18422</td>
-<td colspan="2">21987</td>
-<td colspan="2">20373</td>
-<td colspan="2">17492</td>
-<td colspan="2">18189</td>
-</tr>
-<tr>
-<td colspan="2">150</td>
-<td>150</td>
-<td colspan="2">150</td>
-<td colspan="2">150</td>
-<td colspan="2">150</td>
-<td colspan="2">214</td>
-</tr>
-<tr>
-<td colspan="2">0</td>
-<td>7 808</td>
-<td colspan="2">0</td>
-<td colspan="2">0</td>
-<td colspan="2">0</td>
-<td colspan="2">0</td>
-</tr>
-<tr>
-<td colspan="2">0</td>
-<td>17397</td>
-<td colspan="2">43855</td>
-<td colspan="2">0</td>
-<td colspan="2">23279</td>
-<td colspan="2">250</td>
-</tr>
-<tr>
-<td colspan="2">0</td>
-<td>17397</td>
-<td colspan="2">43855</td>
-<td colspan="2">0</td>
-<td colspan="2">23279</td>
-<td colspan="2">0</td>
-</tr>
-<tr>
-<td colspan="2">0</td>
-<td>17397</td>
-<td colspan="2">43855</td>
-<td colspan="2">0</td>
-<td colspan="2">23279</td>
-<td colspan="2">0</td>
-</tr>
-<tr>
-<td colspan="2">0</td>
-<td>0</td>
-<td colspan="2">15498</td>
-<td colspan="2">0</td>
-<td colspan="2">23279</td>
-<td colspan="2">0</td>
-</tr>
-<tr>
-<td colspan="2">0</td>
-<td>17397</td>
-<td colspan="2">28357</td>
-<td colspan="2">0</td>
-<td colspan="2">0</td>
-<td colspan="2">0</td>
-</tr>
-<tr>
-<td colspan="2">0</td>
-<td>0</td>
-<td colspan="2">0</td>
-<td colspan="2">0</td>
-<td colspan="2">0</td>
-<td colspan="2">250</td>
-</tr>
-<tr>
-<td colspan="2">0</td>
-<td>0</td>
-<td colspan="2">0</td>
-<td colspan="2">0</td>
-<td colspan="2">0</td>
-<td colspan="2">250</td>
-</tr>
-<tr>
-<td colspan="2">0</td>
-<td>0</td>
-<td colspan="2">0</td>
-<td colspan="2">0</td>
-<td colspan="2">0</td>
-<td colspan="2">250</td>
-</tr>
-<tr>
-<td colspan="2">20</td>
 <td>20</td>
-<td colspan="2">20</td>
-<td colspan="2">20</td>
-<td colspan="2">20</td>
-<td colspan="2">20</td>
-</tr>
-<tr>
-<td colspan="2">20</td>
 <td>20</td>
-<td colspan="2">20</td>
-<td colspan="2">20</td>
-<td colspan="2">20</td>
-<td colspan="2">20</td>
-</tr>
-<tr>
-<td colspan="2">20</td>
 <td>20</td>
-<td colspan="2">20</td>
-<td colspan="2">20</td>
-<td colspan="2">20</td>
-<td colspan="2">20</td>
-</tr>
-<tr>
-<td colspan="2">20</td>
-<td>20</td>
-<td colspan="2">20</td>
-<td colspan="2">20</td>
-<td colspan="2">20</td>
-<td colspan="2">20</td>
-</tr>
-<tr>
-<td colspan="2">20</td>
-<td>20</td>
-<td colspan="2">20</td>
-<td colspan="2">20</td>
-<td colspan="2">20</td>
-<td colspan="2">20</td>
-</tr>
-<tr>
-<td colspan="2">20</td>
-<td>20</td>
-<td colspan="2">20</td>
-<td colspan="2">20</td>
-<td colspan="2">20</td>
-<td colspan="2">20</td>
-</tr>
-<tr>
-<td colspan="2">20</td>
-<td>20</td>
-<td colspan="2">20</td>
-<td colspan="2">20</td>
-<td colspan="2">20</td>
-<td colspan="2">20</td>
-</tr>
-<tr>
-<td colspan="2">20</td>
-<td>20</td>
-<td colspan="2">20</td>
-<td colspan="2">20</td>
-<td colspan="2">20</td>
-<td colspan="2">20</td>
 </tr>
 </table>
 
