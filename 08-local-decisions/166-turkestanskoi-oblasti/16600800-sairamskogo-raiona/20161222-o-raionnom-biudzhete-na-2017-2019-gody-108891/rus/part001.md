@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/108891/rus/16.03.2017
+source: https://zan.gov.kz/client/#!/doc/108891/rus/14.04.2017
 ---
 
 > *Приложение 1 к решению*  
@@ -9,7 +9,7 @@ source: https://zan.gov.kz/client/#!/doc/108891/rus/16.03.2017
 
 # Районный бюджет на 2017 год
 
-> *Сноска. Приложение 1 - в редакции решения Сайрамского районного маслихата Южно-Казахстанской области от 16.03.2017 № 13-86/VI (вводится в действие с 01.01.2017).*
+> *Сноска. Приложение 1 - в редакции решения Сайрамского районного маслихата Южно-Казахстанской области от 14.04.2017 № 14-98/VI (вводится в действие с 01.01.2017).*
 
 <table>
 <tr>
@@ -39,42 +39,42 @@ source: https://zan.gov.kz/client/#!/doc/108891/rus/16.03.2017
 <td></td>
 <td></td>
 <td colspan="3">1. Доходы</td>
-<td>26153223</td>
+<td>26372591</td>
 </tr>
 <tr>
 <td>1</td>
 <td></td>
 <td></td>
 <td colspan="3">Налоговые поступления</td>
-<td>3034771</td>
+<td>3043965</td>
 </tr>
 <tr>
 <td></td>
 <td>01</td>
 <td></td>
 <td colspan="3">Подоходный налог</td>
-<td>871923</td>
+<td>878631</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>2</td>
 <td colspan="3">Индивидуальный подоходный налог</td>
-<td>871923</td>
+<td>878631</td>
 </tr>
 <tr>
 <td></td>
 <td>03</td>
 <td></td>
 <td colspan="3">Социальный налог</td>
-<td>600921</td>
+<td>603407</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>1</td>
 <td colspan="3">Социальный налог</td>
-<td>600921</td>
+<td>603407</td>
 </tr>
 <tr>
 <td></td>
@@ -221,25 +221,25 @@ source: https://zan.gov.kz/client/#!/doc/108891/rus/16.03.2017
 <td></td>
 <td></td>
 <td colspan="3">Поступления трансфертов</td>
-<td>23081969</td>
+<td>23292143</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td colspan="3">Трансферты из вышестоящих органов государственного управления</td>
-<td>23081969</td>
+<td>23292143</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>2</td>
 <td colspan="3">Трансферты из областного бюджета</td>
-<td>23081969</td>
+<td>23292143</td>
 </tr>
-<tr>
-<td colspan="7"></td>
-</tr>
+</table>
+
+<table>
 <tr>
 <td colspan="5">Функциональная группа</td>
 <td colspan="2" rowspan="5">Сумма, тысяч тенге</td>
@@ -272,7 +272,7 @@ source: https://zan.gov.kz/client/#!/doc/108891/rus/16.03.2017
 <td></td>
 <td></td>
 <td>2. Затраты</td>
-<td colspan="2">26369713</td>
+<td colspan="2">26589081</td>
 </tr>
 <tr>
 <td>01</td>
@@ -536,7 +536,7 @@ source: https://zan.gov.kz/client/#!/doc/108891/rus/16.03.2017
 <td></td>
 <td></td>
 <td>Образование</td>
-<td colspan="2">18871912</td>
+<td colspan="2">18881106</td>
 </tr>
 <tr>
 <td></td>
@@ -544,7 +544,7 @@ source: https://zan.gov.kz/client/#!/doc/108891/rus/16.03.2017
 <td></td>
 <td></td>
 <td>Дошкольное воспитание и обучение</td>
-<td colspan="2">2596773</td>
+<td colspan="2">2605967</td>
 </tr>
 <tr>
 <td></td>
@@ -568,7 +568,7 @@ source: https://zan.gov.kz/client/#!/doc/108891/rus/16.03.2017
 <td>464</td>
 <td></td>
 <td>Отдел образования района (города областного значения)</td>
-<td colspan="2">2397406</td>
+<td colspan="2">2406600</td>
 </tr>
 <tr>
 <td></td>
@@ -584,7 +584,7 @@ source: https://zan.gov.kz/client/#!/doc/108891/rus/16.03.2017
 <td></td>
 <td>040</td>
 <td>Реализация государственного образовательного заказа в дошкольных организациях образования</td>
-<td colspan="2">2305793</td>
+<td colspan="2">2314987</td>
 </tr>
 <tr>
 <td></td>
@@ -744,7 +744,7 @@ source: https://zan.gov.kz/client/#!/doc/108891/rus/16.03.2017
 <td></td>
 <td></td>
 <td>Социальная помощь и социальное обеспечение</td>
-<td colspan="2">1167441</td>
+<td colspan="2">1333615</td>
 </tr>
 <tr>
 <td></td>
@@ -808,7 +808,7 @@ source: https://zan.gov.kz/client/#!/doc/108891/rus/16.03.2017
 <td></td>
 <td></td>
 <td>Социальная помощь</td>
-<td colspan="2">478956</td>
+<td colspan="2">645130</td>
 </tr>
 <tr>
 <td></td>
@@ -816,7 +816,7 @@ source: https://zan.gov.kz/client/#!/doc/108891/rus/16.03.2017
 <td>451</td>
 <td></td>
 <td>Отдел занятости и социальных программ района (города областного значения)</td>
-<td colspan="2">451430</td>
+<td colspan="2">617604</td>
 </tr>
 <tr>
 <td></td>
@@ -824,7 +824,7 @@ source: https://zan.gov.kz/client/#!/doc/108891/rus/16.03.2017
 <td></td>
 <td>002</td>
 <td>Программа занятости</td>
-<td colspan="2">162851</td>
+<td colspan="2">329025</td>
 </tr>
 <tr>
 <td></td>
@@ -1336,7 +1336,7 @@ source: https://zan.gov.kz/client/#!/doc/108891/rus/16.03.2017
 <td></td>
 <td></td>
 <td>Топливно-энергетический комплекс и недропользование</td>
-<td colspan="2">1057884</td>
+<td colspan="2">1101884</td>
 </tr>
 <tr>
 <td></td>
@@ -1344,7 +1344,7 @@ source: https://zan.gov.kz/client/#!/doc/108891/rus/16.03.2017
 <td></td>
 <td></td>
 <td>Прочие услуги в области топливно-энергетического комплекса и недропользования</td>
-<td colspan="2">1057884</td>
+<td colspan="2">1101884</td>
 </tr>
 <tr>
 <td></td>
@@ -1352,7 +1352,7 @@ source: https://zan.gov.kz/client/#!/doc/108891/rus/16.03.2017
 <td>497</td>
 <td></td>
 <td>Отдел жилищно-коммунального хозяйства района (города областного значения)</td>
-<td colspan="2">1057884</td>
+<td colspan="2">1101884</td>
 </tr>
 <tr>
 <td></td>
@@ -1360,7 +1360,7 @@ source: https://zan.gov.kz/client/#!/doc/108891/rus/16.03.2017
 <td></td>
 <td>038</td>
 <td>Развитие газотранспортной системы</td>
-<td colspan="2">1057884</td>
+<td colspan="2">1101884</td>
 </tr>
 <tr>
 <td>10</td>
@@ -2228,7 +2228,7 @@ source: https://zan.gov.kz/client/#!/doc/108891/rus/16.03.2017
 
 # Районный бюджет на 2018 год
 
-> *Сноска. Приложение 2 - в редакции решения Сайрамского районного маслихата Южно-Казахстанской области от 16.03.2017 № 13-86/VI (вводится в действие с 01.01.2017).*
+> *Сноска. Приложение 2 - в редакции решения Сайрамского районного маслихата Южно-Казахстанской области от 14.04.2017 № 14-98/VI (вводится в действие с 01.01.2017).*
 
 <table>
 <tr>
@@ -2258,7 +2258,7 @@ source: https://zan.gov.kz/client/#!/doc/108891/rus/16.03.2017
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="5">1. Доходы</td>
-<td colspan="2">24291783</td>
+<td colspan="2">24491783</td>
 </tr>
 <tr>
 <td colspan="2">1</td>
@@ -2440,25 +2440,25 @@ source: https://zan.gov.kz/client/#!/doc/108891/rus/16.03.2017
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="5">Поступления трансфертов</td>
-<td colspan="2">21089681</td>
+<td colspan="2">21289681</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">02</td>
 <td colspan="2"></td>
 <td colspan="5">Трансферты из вышестоящих органов государственного управления</td>
-<td colspan="2">21089681</td>
+<td colspan="2">21289681</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">2</td>
 <td colspan="5">Трансферты из областного бюджета</td>
-<td colspan="2">21089681</td>
+<td colspan="2">21289681</td>
 </tr>
-<tr>
-<td colspan="13"></td>
-</tr>
+</table>
+
+<table>
 <tr>
 <td colspan="10">Функциональная группа</td>
 <td colspan="3" rowspan="5">Сумма, тысяч тенге</td>
@@ -2491,7 +2491,7 @@ source: https://zan.gov.kz/client/#!/doc/108891/rus/16.03.2017
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">2. Затраты</td>
-<td colspan="3">24291783</td>
+<td colspan="3">24491783</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
@@ -3531,7 +3531,7 @@ source: https://zan.gov.kz/client/#!/doc/108891/rus/16.03.2017
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Топливно-энергетический комплекс и недропользование</td>
-<td colspan="3">576318</td>
+<td colspan="3">776318</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3539,7 +3539,7 @@ source: https://zan.gov.kz/client/#!/doc/108891/rus/16.03.2017
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Прочие услуги в области топливно-энергетического комплекса и недропользования</td>
-<td colspan="3">576318</td>
+<td colspan="3">776318</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3547,7 +3547,7 @@ source: https://zan.gov.kz/client/#!/doc/108891/rus/16.03.2017
 <td colspan="2">497</td>
 <td colspan="2"></td>
 <td colspan="2">Отдел жилищно-коммунального хозяйства</td>
-<td colspan="3">576318</td>
+<td colspan="3">776318</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3555,7 +3555,7 @@ source: https://zan.gov.kz/client/#!/doc/108891/rus/16.03.2017
 <td colspan="2"></td>
 <td colspan="2">038</td>
 <td colspan="2">Развитие газотранспортной системы</td>
-<td colspan="3">576318</td>
+<td colspan="3">776318</td>
 </tr>
 <tr>
 <td colspan="2">10</td>
