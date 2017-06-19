@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/108896/rus/14.04.2017
+source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 ---
 
 > *Приложение 3 к решению*  
@@ -1871,1179 +1871,1259 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/14.04.2017
 
 # Перечень бюджетных программ по аппаратам сельского округа на 2017 год
 
-> *Сноска. Приложение 5 - в редакции решения Отрарского районного маслихата Южно-Казахстанской области от 14.04.2017 № 13/69-VI (вводится в действие с 01.01.2017).*
+> *Сноска. Приложение 5 - в редакции решения Отрарского районного маслихата Южно-Казахстанской области от 19.06.2017 № 15/73-VI (вводится в действие с 01.01.2017).*
 
 <table>
 <tr>
-<td colspan="11">Функциональная группа</td>
-<td colspan="4" rowspan="4">сумма, тысяч тенге</td>
+<td colspan="6">Функциональная группа</td>
+<td rowspan="4">сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="10">Функциональная подгруппа</td>
+<td colspan="5">Функциональная подгруппа</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="8">Администратор бюджетных программ</td>
+<td></td>
+<td colspan="4">Администратор бюджетных программ</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="4">Программа</td>
+<td></td>
+<td></td>
+<td colspan="3">Программа</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td colspan="2">Наименование</td>
-<td colspan="4"></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td colspan="2">ІІ. Затраты</td>
-<td colspan="4">999 589</td>
+<td>1 040 462</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td colspan="2">Свод сельских округов по Отрарскому району</td>
-<td colspan="4">999 589</td>
+<td>1 040 462</td>
 </tr>
 <tr>
 <td>01</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td colspan="2">Государственные услуги общего характера</td>
-<td colspan="4">286 268</td>
+<td>296 264</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2">1</td>
-<td colspan="4"></td>
-<td colspan="2"></td>
+<td>1</td>
+<td></td>
+<td></td>
 <td colspan="2">Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td colspan="4">286 268</td>
+<td>296 264</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="4">123</td>
-<td colspan="2"></td>
+<td></td>
+<td>123</td>
+<td></td>
 <td colspan="2">Аппарат акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
-<td colspan="4">286 268</td>
+<td>296 264</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2">001</td>
+<td></td>
+<td></td>
+<td>001</td>
 <td colspan="2">Услуги по обеспечению деятельности акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
-<td colspan="4">276 598</td>
+<td>286 958</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2">022</td>
+<td></td>
+<td></td>
+<td>022</td>
 <td colspan="2">Капитальные расходы государственных органов</td>
-<td colspan="4">8 670</td>
+<td>8 306</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2">032</td>
+<td></td>
+<td></td>
+<td>032</td>
 <td colspan="2">Капитальные расходы подведомственных государственных учреждений и организаций</td>
-<td colspan="4">1 000</td>
+<td>1 000</td>
 </tr>
 <tr>
 <td>04</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td colspan="2">Образование</td>
-<td colspan="4">713 321</td>
+<td>744 198</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2">1</td>
-<td colspan="4"></td>
-<td colspan="2"></td>
+<td>1</td>
+<td></td>
+<td></td>
 <td colspan="2">Дошкольное воспитание и обучение</td>
-<td colspan="4">713 321</td>
+<td>744 198</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="4">123</td>
-<td colspan="2"></td>
+<td></td>
+<td>123</td>
+<td></td>
 <td colspan="2">Аппарат акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
-<td colspan="4">713 321</td>
+<td>744 198</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2">041</td>
+<td></td>
+<td></td>
+<td>004</td>
+<td colspan="2">Поддержка организаций дошкольного воспитания и обучения</td>
+<td>30 877</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>041</td>
 <td colspan="2">Реализация государственного образовательного заказа в дошкольных организациях образования</td>
-<td colspan="4">713 321</td>
+<td>713 321</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td colspan="2">Сельский округ &quot;Караконур&quot; Отрарского района</td>
-<td colspan="4">66 001</td>
+<td>70 021</td>
 </tr>
 <tr>
 <td>01</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td colspan="2">Государственные услуги общего характера</td>
-<td colspan="4">20 250</td>
+<td>22 770</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2">1</td>
-<td colspan="4"></td>
-<td colspan="2"></td>
+<td>1</td>
+<td></td>
+<td></td>
 <td colspan="2">Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td colspan="4">20 250</td>
+<td>22 770</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="4">123</td>
-<td colspan="2"></td>
+<td></td>
+<td>123</td>
+<td></td>
 <td colspan="2">Аппарат акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
-<td colspan="4">20 250</td>
+<td>22 770</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2">001</td>
+<td></td>
+<td></td>
+<td>001</td>
 <td colspan="2">Услуги по обеспечению деятельности акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
-<td colspan="4">19 930</td>
+<td>22 450</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2">022</td>
+<td></td>
+<td></td>
+<td>022</td>
 <td colspan="2">Капитальные расходы государственных органов</td>
-<td colspan="4">320</td>
+<td>320</td>
 </tr>
 <tr>
 <td>04</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td colspan="2">Образование</td>
-<td colspan="4">45 751</td>
+<td>47 251</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2">1</td>
-<td colspan="4"></td>
-<td colspan="2"></td>
+<td>1</td>
+<td></td>
+<td></td>
 <td colspan="2">Дошкольное воспитание и обучение</td>
-<td colspan="4">45 751</td>
+<td>47 251</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="4">123</td>
-<td colspan="2"></td>
+<td></td>
+<td>123</td>
+<td></td>
 <td colspan="2">Аппарат акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
-<td colspan="4">45 751</td>
+<td>47 251</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2">041</td>
+<td></td>
+<td></td>
+<td>004</td>
+<td colspan="2">Поддержка организаций дошкольного воспитания и обучения</td>
+<td>1 500</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>041</td>
 <td colspan="2">Реализация государственного образовательного заказа в дошкольных организациях образования</td>
-<td colspan="4">45 751</td>
+<td>45 751</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td colspan="2">Сельский округ &quot;Аккум&quot; Отрарского района</td>
-<td colspan="4">39 008</td>
+<td>41 128</td>
 </tr>
 <tr>
 <td>01</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td colspan="2">Государственные услуги общего характера</td>
-<td colspan="4">17 484</td>
+<td>18 104</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2">1</td>
-<td colspan="4"></td>
-<td colspan="2"></td>
+<td>1</td>
+<td></td>
+<td></td>
 <td colspan="2">Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td colspan="4">17 484</td>
+<td>18 104</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="4">123</td>
-<td colspan="2"></td>
+<td></td>
+<td>123</td>
+<td></td>
 <td colspan="2">Аппарат акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
-<td colspan="4">17 484</td>
+<td>18 104</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2">001</td>
+<td></td>
+<td></td>
+<td>001</td>
 <td colspan="2">Услуги по обеспечению деятельности акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
-<td colspan="4">16 984</td>
+<td>17 604</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2">022</td>
+<td></td>
+<td></td>
+<td>022</td>
 <td colspan="2">Капитальные расходы государственных органов</td>
-<td colspan="4">500</td>
+<td>500</td>
 </tr>
 <tr>
 <td>04</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td colspan="2">Образование</td>
-<td colspan="4">21 524</td>
+<td>23 024</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2">1</td>
-<td colspan="4"></td>
-<td colspan="2"></td>
+<td>1</td>
+<td></td>
+<td></td>
 <td colspan="2">Дошкольное воспитание и обучение</td>
-<td colspan="4">21 524</td>
+<td>23 024</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="4">123</td>
-<td colspan="2"></td>
+<td></td>
+<td>123</td>
+<td></td>
 <td colspan="2">Аппарат акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
-<td colspan="4">21 524</td>
+<td>23 024</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2">041</td>
+<td></td>
+<td></td>
+<td>004</td>
+<td colspan="2">Поддержка организаций дошкольного воспитания и обучения</td>
+<td>1 500</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>041</td>
 <td colspan="2">Реализация государственного образовательного заказа в дошкольных организациях образования</td>
-<td colspan="4">21 524</td>
+<td>21 524</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td colspan="2">Сельский округ &quot;Коксарай&quot; Отрарского района</td>
-<td colspan="4">73 971</td>
+<td>80 291</td>
 </tr>
 <tr>
 <td>01</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td colspan="2">Государственные услуги общего характера</td>
-<td colspan="4">25 752</td>
+<td>26 372</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2">1</td>
-<td colspan="4"></td>
-<td colspan="2"></td>
+<td>1</td>
+<td></td>
+<td></td>
 <td colspan="2">Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td colspan="4">25 752</td>
+<td>26 372</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="4">123</td>
-<td colspan="2"></td>
+<td></td>
+<td>123</td>
+<td></td>
 <td colspan="2">Аппарат акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
-<td colspan="4">25 752</td>
+<td>26 372</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2">001</td>
+<td></td>
+<td></td>
+<td>001</td>
 <td colspan="2">Услуги по обеспечению деятельности акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
-<td colspan="4">25 552</td>
+<td>26 172</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2">022</td>
+<td></td>
+<td></td>
+<td>022</td>
 <td colspan="2">Капитальные расходы государственных органов</td>
-<td colspan="4">200</td>
+<td>200</td>
 </tr>
 <tr>
 <td>04</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td colspan="2">Образование</td>
-<td colspan="4">48 219</td>
+<td>53 919</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2">1</td>
-<td colspan="4"></td>
-<td colspan="2"></td>
+<td>1</td>
+<td></td>
+<td></td>
 <td colspan="2">Дошкольное воспитание и обучение</td>
-<td colspan="4">48 219</td>
+<td>53 919</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="4">123</td>
-<td colspan="2"></td>
+<td></td>
+<td>123</td>
+<td></td>
 <td colspan="2">Аппарат акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
-<td colspan="4">48 219</td>
+<td>53 919</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2">041</td>
+<td></td>
+<td></td>
+<td>004</td>
+<td colspan="2">Поддержка организаций дошкольного воспитания и обучения</td>
+<td>5 700</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>041</td>
 <td colspan="2">Реализация государственного образовательного заказа в дошкольных организациях образования</td>
-<td colspan="4">48 219</td>
+<td>48 219</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td colspan="2">Сельский округ &quot;Балтакуль&quot; Отрарского района</td>
-<td colspan="4">43 911</td>
+<td>46 631</td>
 </tr>
 <tr>
 <td>01</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td colspan="2">Государственные услуги общего характера</td>
-<td colspan="4">21 048</td>
+<td>21 668</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2">1</td>
-<td colspan="4"></td>
-<td colspan="2"></td>
+<td>1</td>
+<td></td>
+<td></td>
 <td colspan="2">Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td colspan="4">21 048</td>
+<td>21 668</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="4">123</td>
-<td colspan="2"></td>
+<td></td>
+<td>123</td>
+<td></td>
 <td colspan="2">Аппарат акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
-<td colspan="4">21 048</td>
+<td>21 668</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2">001</td>
+<td></td>
+<td></td>
+<td>001</td>
 <td colspan="2">Услуги по обеспечению деятельности акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
-<td colspan="4">20 488</td>
+<td>21 108</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2">022</td>
+<td></td>
+<td></td>
+<td>022</td>
 <td colspan="2">Капитальные расходы государственных органов</td>
-<td colspan="4">560</td>
+<td>560</td>
 </tr>
 <tr>
 <td>04</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td colspan="2">Образование</td>
-<td colspan="4">22 863</td>
+<td>24 963</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2">1</td>
-<td colspan="4"></td>
-<td colspan="2"></td>
+<td>1</td>
+<td></td>
+<td></td>
 <td colspan="2">Дошкольное воспитание и обучение</td>
-<td colspan="4">22 863</td>
+<td>24 963</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="4">123</td>
-<td colspan="2"></td>
+<td></td>
+<td>123</td>
+<td></td>
 <td colspan="2">Аппарат акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
-<td colspan="4">22 863</td>
+<td>24 963</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2">041</td>
+<td></td>
+<td></td>
+<td>004</td>
+<td colspan="2">Поддержка организаций дошкольного воспитания и обучения</td>
+<td>2 100</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>041</td>
 <td colspan="2">Реализация государственного образовательного заказа в дошкольных организациях образования</td>
-<td colspan="4">22 863</td>
+<td>22 863</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td colspan="2">Сельский округ &quot;Талапты&quot; Отрарского района</td>
-<td colspan="4">89 751</td>
+<td>90 371</td>
 </tr>
 <tr>
 <td>01</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td colspan="2">Государственные услуги общего характера</td>
-<td colspan="4">24 725</td>
+<td>25 345</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2">1</td>
-<td colspan="4"></td>
-<td colspan="2"></td>
+<td>1</td>
+<td></td>
+<td></td>
 <td colspan="2">Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td colspan="4">24 725</td>
+<td>25 345</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="4">123</td>
-<td colspan="2"></td>
+<td></td>
+<td>123</td>
+<td></td>
 <td colspan="2">Аппарат акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
-<td colspan="4">24 725</td>
+<td>25 345</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2">001</td>
+<td></td>
+<td></td>
+<td>001</td>
 <td colspan="2">Услуги по обеспечению деятельности акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
-<td colspan="4">24 460</td>
+<td>25 080</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2">022</td>
+<td></td>
+<td></td>
+<td>022</td>
 <td colspan="2">Капитальные расходы государственных органов</td>
-<td colspan="4">265</td>
+<td>265</td>
 </tr>
 <tr>
 <td>04</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td colspan="2">Образование</td>
-<td colspan="4">65 026</td>
+<td>65 026</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2">1</td>
-<td colspan="4"></td>
-<td colspan="2"></td>
+<td>1</td>
+<td></td>
+<td></td>
 <td colspan="2">Дошкольное воспитание и обучение</td>
-<td colspan="4">65 026</td>
+<td>65 026</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="4">123</td>
-<td colspan="2"></td>
+<td></td>
+<td>123</td>
+<td></td>
 <td colspan="2">Аппарат акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
-<td colspan="4">65 026</td>
+<td>65 026</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2">041</td>
+<td></td>
+<td></td>
+<td>041</td>
 <td colspan="2">Реализация государственного образовательного заказа в дошкольных организациях образования</td>
-<td colspan="4">65 026</td>
+<td>65 026</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td colspan="2">Сельский округ &quot;Шилик&quot; Отрарского района</td>
-<td colspan="4">46 495</td>
+<td>48 950</td>
 </tr>
 <tr>
 <td>01</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td colspan="2">Государственные услуги общего характера</td>
-<td colspan="4">21 436</td>
+<td>22 056</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2">1</td>
-<td colspan="4"></td>
-<td colspan="2"></td>
+<td>1</td>
+<td></td>
+<td></td>
 <td colspan="2">Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td colspan="4">21 436</td>
+<td>22 056</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="4">123</td>
-<td colspan="2"></td>
+<td></td>
+<td>123</td>
+<td></td>
 <td colspan="2">Аппарат акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
-<td colspan="4">21 436</td>
+<td>22 056</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2">001</td>
+<td></td>
+<td></td>
+<td>001</td>
 <td colspan="2">Услуги по обеспечению деятельности акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
-<td colspan="4">21 136</td>
+<td>21 756</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2">022</td>
+<td></td>
+<td></td>
+<td>022</td>
 <td colspan="2">Капитальные расходы государственных органов</td>
-<td colspan="4">300</td>
+<td>300</td>
 </tr>
 <tr>
 <td>04</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td colspan="2">Образование</td>
-<td colspan="4">25 059</td>
+<td>26 894</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2">1</td>
-<td colspan="4"></td>
-<td colspan="2"></td>
+<td>1</td>
+<td></td>
+<td></td>
 <td colspan="2">Дошкольное воспитание и обучение</td>
-<td colspan="4">25 059</td>
+<td>26 894</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="4">123</td>
-<td colspan="2"></td>
+<td></td>
+<td>123</td>
+<td></td>
 <td colspan="2">Аппарат акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
-<td colspan="4">25 059</td>
+<td>26 894</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2">041</td>
+<td></td>
+<td></td>
+<td>004</td>
+<td colspan="2">Поддержка организаций дошкольного воспитания и обучения</td>
+<td>1 835</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>041</td>
 <td colspan="2">Реализация государственного образовательного заказа в дошкольных организациях образования</td>
-<td colspan="4">25 059</td>
+<td>25 059</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td colspan="2">Сельский округ &quot;Шаульдер&quot; Отрарского района</td>
-<td colspan="4">286 029</td>
+<td>296 045</td>
 </tr>
 <tr>
 <td>01</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td colspan="2">Государственные услуги общего характера</td>
-<td colspan="4">27 721</td>
+<td>28 341</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2">1</td>
-<td colspan="4"></td>
-<td colspan="2"></td>
+<td>1</td>
+<td></td>
+<td></td>
 <td colspan="2">Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td colspan="4">27 721</td>
+<td>28 341</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="4">123</td>
-<td colspan="2"></td>
+<td></td>
+<td>123</td>
+<td></td>
 <td colspan="2">Аппарат акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
-<td colspan="4">27 721</td>
+<td>28 341</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2">001</td>
+<td></td>
+<td></td>
+<td>001</td>
 <td colspan="2">Услуги по обеспечению деятельности акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
-<td colspan="4">27 221</td>
+<td>27 841</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2">022</td>
+<td></td>
+<td></td>
+<td>022</td>
 <td colspan="2">Капитальные расходы государственных органов</td>
-<td colspan="4">500</td>
+<td>500</td>
 </tr>
 <tr>
 <td>04</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td colspan="2">Образование</td>
-<td colspan="4">258 308</td>
+<td>267 704</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2">1</td>
-<td colspan="4"></td>
-<td colspan="2"></td>
+<td>1</td>
+<td></td>
+<td></td>
 <td colspan="2">Дошкольное воспитание и обучение</td>
-<td colspan="4">258 308</td>
+<td>267 704</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="4">123</td>
-<td colspan="2"></td>
+<td></td>
+<td>123</td>
+<td></td>
 <td colspan="2">Аппарат акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
-<td colspan="4">258 308</td>
+<td>267 704</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2">041</td>
+<td></td>
+<td></td>
+<td>004</td>
+<td colspan="2">Поддержка организаций дошкольного воспитания и обучения</td>
+<td>9 396</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>041</td>
 <td colspan="2">Реализация государственного образовательного заказа в дошкольных организациях образования</td>
-<td colspan="4">258 308</td>
+<td>258 308</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td colspan="2">Сельский округ &quot;Тимур&quot; Отрарского района</td>
-<td colspan="4">67 080</td>
+<td>67 336</td>
 </tr>
 <tr>
 <td>01</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td colspan="2">Государственные услуги общего характера</td>
-<td colspan="4">23 911</td>
+<td>24 167</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2">1</td>
-<td colspan="4"></td>
-<td colspan="2"></td>
+<td>1</td>
+<td></td>
+<td></td>
 <td colspan="2">Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td colspan="4">23 911</td>
+<td>24 167</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="4">123</td>
-<td colspan="2"></td>
+<td></td>
+<td>123</td>
+<td></td>
 <td colspan="2">Аппарат акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
-<td colspan="4">23 911</td>
+<td>24 167</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2">001</td>
+<td></td>
+<td></td>
+<td>001</td>
 <td colspan="2">Услуги по обеспечению деятельности акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
-<td colspan="4">19 711</td>
+<td>20 331</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2">022</td>
+<td></td>
+<td></td>
+<td>022</td>
 <td colspan="2">Капитальные расходы государственных органов</td>
-<td colspan="4">4 200</td>
+<td>3 836</td>
 </tr>
 <tr>
 <td>04</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td colspan="2">Образование</td>
-<td colspan="4">43 169</td>
+<td>43 169</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2">1</td>
-<td colspan="4"></td>
-<td colspan="2"></td>
+<td>1</td>
+<td></td>
+<td></td>
 <td colspan="2">Дошкольное воспитание и обучение</td>
-<td colspan="4">43 169</td>
+<td>43 169</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="4">123</td>
-<td colspan="2"></td>
+<td></td>
+<td>123</td>
+<td></td>
 <td colspan="2">Аппарат акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
-<td colspan="4">43 169</td>
+<td>43 169</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2">041</td>
+<td></td>
+<td></td>
+<td>041</td>
 <td colspan="2">Реализация государственного образовательного заказа в дошкольных организациях образования</td>
-<td colspan="4">43 169</td>
+<td>43 169</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td colspan="2">Сельский округ &quot;Маякум&quot; Отрарского района</td>
-<td colspan="4">51 917</td>
+<td>53 537</td>
 </tr>
 <tr>
 <td>01</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td colspan="2">Государственные услуги общего характера</td>
-<td colspan="4">22 206</td>
+<td>22 826</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2">1</td>
-<td colspan="4"></td>
-<td colspan="2"></td>
+<td>1</td>
+<td></td>
+<td></td>
 <td colspan="2">Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td colspan="4">22 206</td>
+<td>22 826</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="4">123</td>
-<td colspan="2"></td>
+<td></td>
+<td>123</td>
+<td></td>
 <td colspan="2">Аппарат акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
-<td colspan="4">22 206</td>
+<td>22 826</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2">001</td>
+<td></td>
+<td></td>
+<td>001</td>
 <td colspan="2">Услуги по обеспечению деятельности акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
-<td colspan="4">21 746</td>
+<td>22 366</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2">022</td>
+<td></td>
+<td></td>
+<td>022</td>
 <td colspan="2">Капитальные расходы государственных органов</td>
-<td colspan="4">460</td>
+<td>460</td>
 </tr>
 <tr>
 <td>04</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td colspan="2">Образование</td>
-<td colspan="4">29 711</td>
+<td>30 711</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2">1</td>
-<td colspan="4"></td>
-<td colspan="2"></td>
+<td>1</td>
+<td></td>
+<td></td>
 <td colspan="2">Дошкольное воспитание и обучение</td>
-<td colspan="4">29 711</td>
+<td>30 711</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="4">123</td>
-<td colspan="2"></td>
+<td></td>
+<td>123</td>
+<td></td>
 <td colspan="2">Аппарат акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
-<td colspan="4">29 711</td>
+<td>30 711</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2">041</td>
+<td></td>
+<td></td>
+<td>004</td>
+<td colspan="2">Поддержка организаций дошкольного воспитания и обучения</td>
+<td>1 000</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>041</td>
 <td colspan="2">Реализация государственного образовательного заказа в дошкольных организациях образования</td>
-<td colspan="4">29 711</td>
+<td>29 711</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td colspan="2">Сельский округ &quot;Отрар&quot; Отрарского района</td>
-<td colspan="4">64 439</td>
+<td>68 059</td>
 </tr>
 <tr>
 <td>01</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td colspan="2">Государственные услуги общего характера</td>
-<td colspan="4">23 790</td>
+<td>24 410</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2">1</td>
-<td colspan="4"></td>
-<td colspan="2"></td>
+<td>1</td>
+<td></td>
+<td></td>
 <td colspan="2">Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td colspan="4">23 790</td>
+<td>24 410</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="4">123</td>
-<td colspan="2"></td>
+<td></td>
+<td>123</td>
+<td></td>
 <td colspan="2">Аппарат акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
-<td colspan="4">23 790</td>
+<td>24 410</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2">001</td>
+<td></td>
+<td></td>
+<td>001</td>
 <td colspan="2">Услуги по обеспечению деятельности акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
-<td colspan="4">22 190</td>
+<td>22 810</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2">022</td>
+<td></td>
+<td></td>
+<td>022</td>
 <td colspan="2">Капитальные расходы государственных органов</td>
-<td colspan="4">600</td>
+<td>600</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2">032</td>
+<td></td>
+<td></td>
+<td>032</td>
 <td colspan="2">Капитальные расходы подведомственных государственных учреждений и организаций</td>
-<td colspan="4">1 000</td>
+<td>1 000</td>
 </tr>
 <tr>
 <td>04</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td colspan="2">Образование</td>
-<td colspan="4">40 649</td>
+<td>43 649</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2">1</td>
-<td colspan="4"></td>
-<td colspan="2"></td>
+<td>1</td>
+<td></td>
+<td></td>
 <td colspan="2">Дошкольное воспитание и обучение</td>
-<td colspan="4">40 649</td>
+<td>43 649</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="4">123</td>
-<td colspan="2"></td>
+<td></td>
+<td>123</td>
+<td></td>
 <td colspan="2">Аппарат акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
-<td colspan="4">40 649</td>
+<td>43 649</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2">041</td>
+<td></td>
+<td></td>
+<td>004</td>
+<td colspan="2">Поддержка организаций дошкольного воспитания и обучения</td>
+<td>3 000</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>041</td>
 <td colspan="2">Реализация государственного образовательного заказа в дошкольных организациях образования</td>
-<td colspan="4">40 649</td>
+<td>40 649</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td colspan="2">Сельский округ &quot;Актюбе&quot; Отрарского района</td>
-<td colspan="4">42 330</td>
+<td>42 950</td>
 </tr>
 <tr>
 <td>01</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td colspan="2">Государственные услуги общего характера</td>
-<td colspan="4">17 968</td>
+<td>18 588</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2">1</td>
-<td colspan="4"></td>
-<td colspan="2"></td>
+<td>1</td>
+<td></td>
+<td></td>
 <td colspan="2">Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td colspan="4">17 968</td>
+<td>18 588</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="4">123</td>
-<td colspan="2"></td>
+<td></td>
+<td>123</td>
+<td></td>
 <td colspan="2">Аппарат акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
-<td colspan="4">17 968</td>
+<td>18 588</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2">001</td>
+<td></td>
+<td></td>
+<td>001</td>
 <td colspan="2">Услуги по обеспечению деятельности акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
-<td colspan="4">17 768</td>
+<td>18 388</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2">022</td>
+<td></td>
+<td></td>
+<td>022</td>
 <td colspan="2">Капитальные расходы государственных органов</td>
-<td colspan="4">200</td>
+<td>200</td>
 </tr>
 <tr>
 <td>04</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td colspan="2">Образование</td>
-<td colspan="4">24 362</td>
+<td>24 362</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2">1</td>
-<td colspan="4"></td>
-<td colspan="2"></td>
+<td>1</td>
+<td></td>
+<td></td>
 <td colspan="2">Дошкольное воспитание и обучение</td>
-<td colspan="4">24 362</td>
+<td>24 362</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="4">123</td>
-<td colspan="2"></td>
+<td></td>
+<td>123</td>
+<td></td>
 <td colspan="2">Аппарат акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
-<td colspan="4">24 362</td>
+<td>24 362</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2">041</td>
+<td></td>
+<td></td>
+<td>041</td>
 <td colspan="2">Реализация государственного образовательного заказа в дошкольных организациях образования</td>
-<td colspan="4">24 362</td>
+<td>24 362</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td colspan="2">Сельский округ &quot;Когам&quot; Отрарского района</td>
-<td colspan="4">61 204</td>
+<td>67 070</td>
 </tr>
 <tr>
 <td>01</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td colspan="2">Государственные услуги общего характера</td>
-<td colspan="4">20 935</td>
+<td>21 955</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2">1</td>
-<td colspan="4"></td>
-<td colspan="2"></td>
+<td>1</td>
+<td></td>
+<td></td>
 <td colspan="2">Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td colspan="4">20 935</td>
+<td>21 955</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="4">123</td>
-<td colspan="2"></td>
+<td></td>
+<td>123</td>
+<td></td>
 <td colspan="2">Аппарат акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
-<td colspan="4">20 935</td>
+<td>21 955</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2">001</td>
+<td></td>
+<td></td>
+<td>001</td>
 <td colspan="2">Услуги по обеспечению деятельности акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
-<td colspan="4">20 670</td>
+<td>21 690</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2">022</td>
+<td></td>
+<td></td>
+<td>022</td>
 <td colspan="2">Капитальные расходы государственных органов</td>
-<td colspan="4">265</td>
+<td>265</td>
 </tr>
 <tr>
 <td>04</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td colspan="2">Образование</td>
-<td colspan="4">40 269</td>
+<td>45 115</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2">1</td>
-<td colspan="4"></td>
-<td colspan="2"></td>
+<td>1</td>
+<td></td>
+<td></td>
 <td colspan="2">Дошкольное воспитание и обучение</td>
-<td colspan="4">40 269</td>
+<td>45 115</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="4">123</td>
-<td colspan="2"></td>
+<td></td>
+<td>123</td>
+<td></td>
 <td colspan="2">Аппарат акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
-<td colspan="4">40 269</td>
+<td>45 115</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2">041</td>
+<td></td>
+<td></td>
+<td>004</td>
+<td colspan="2">Поддержка организаций дошкольного воспитания и обучения</td>
+<td>4 846</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>041</td>
 <td colspan="2">Реализация государственного образовательного заказа в дошкольных организациях образования</td>
-<td colspan="4">40 269</td>
+<td>40 269</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td colspan="2">Сельский округ &quot;Каргалы&quot; Отрарского района</td>
-<td colspan="4">67 453</td>
+<td>68 073</td>
 </tr>
 <tr>
 <td>01</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td colspan="2">Государственные услуги общего характера</td>
-<td colspan="4">19 042</td>
+<td>19 662</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2">1</td>
-<td colspan="4"></td>
-<td colspan="2"></td>
+<td>1</td>
+<td></td>
+<td></td>
 <td colspan="2">Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td colspan="4">19 042</td>
+<td>19 662</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="4">123</td>
-<td colspan="2"></td>
+<td></td>
+<td>123</td>
+<td></td>
 <td colspan="2">Аппарат акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
-<td colspan="4">19 042</td>
+<td>19 662</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2">001</td>
+<td></td>
+<td></td>
+<td>001</td>
 <td colspan="2">Услуги по обеспечению деятельности акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
-<td colspan="4">18 742</td>
+<td>19 362</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2">022</td>
+<td></td>
+<td></td>
+<td>022</td>
 <td colspan="2">Капитальные расходы государственных органов</td>
-<td colspan="4">300</td>
+<td>300</td>
 </tr>
 <tr>
 <td>04</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td colspan="2">Образование</td>
-<td colspan="4">48 411</td>
+<td>48 411</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2">1</td>
-<td colspan="4"></td>
-<td colspan="2"></td>
+<td>1</td>
+<td></td>
+<td></td>
 <td colspan="2">Дошкольное воспитание и обучение</td>
-<td colspan="4">48 411</td>
+<td>48 411</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="4">123</td>
-<td colspan="2"></td>
+<td></td>
+<td>123</td>
+<td></td>
 <td colspan="2">Аппарат акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
-<td colspan="4">48 411</td>
+<td>48 411</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2">041</td>
+<td></td>
+<td></td>
+<td>041</td>
 <td colspan="2">Реализация государственного образовательного заказа в дошкольных организациях образования</td>
-<td colspan="4">48 411</td>
+<td>48 411</td>
 </tr>
 </table>
 
