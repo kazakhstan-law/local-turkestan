@@ -1,5 +1,5 @@
 ---
-version_id: '108896_196542'
+version_id: '108896_205622'
 act_code: '108896'
 language: rus
 title: О районном бюджете на 2017-2019 годы
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '166007000002'
 approval_date: 2016-12-22
-version_date: 2017-06-19
+version_date: 2017-07-12
 registry_number: '108896'
 caused_by:
-  code: '112994'
+  code: '113621'
   title: О внесении изменений в решение Отрарского районного маслихата от 22 декабря 2016 года № 8/40-VІ «О районном бюджете на 2017-2019 годы»
-  link: https://zan.gov.kz/client/#!/doc/112994/rus
-source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
+  link: https://zan.gov.kz/client/#!/doc/113621/rus
+source: https://zan.gov.kz/client/#!/doc/108896/rus/12.07.2017
 ---
 
 # О районном бюджете на 2017-2019 годы
@@ -25,7 +25,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 
 1. Утвердить районный бюджет Отрарского района на 2017-2019 годы согласно приложениям 1, 2, 3 соответственно, в том числе на 2017 год в следующих объемах:
 
-   1) доходы – 9 795 852 тысяч тенге, в том числе по:
+   1) доходы – 9 513 319 тысяч тенге, в том числе по:
 
       налоговым поступлениям – 1 033 959 тысяч тенге;
 
@@ -33,9 +33,9 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 
       поступлениям от продажи основного капитала – 7 588 тысяч тенге;
 
-      поступлениям трансфертов – 8 744 468 тысяч тенге;
+      поступлениям трансфертов – 8 461 935 тысяч тенге;
 
-   2) затраты – 9 971 470 тысяч тенге;
+   2) затраты – 9 688 937 тысяч тенге;
 
    3) чистое бюджетное кредитование – 27 288 тысяч тенге, в том числе:
 
@@ -59,7 +59,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 
       используемые остатки бюджетных средств – 175 618 тысяч тенге.
 
-> *Сноска. Пункт 1 - в редакции решения Отрарского районного маслихата Южно-Казахстанской области от 19.06.2017 № 15/73-VI (вводится в действие с 01.01.2017).*
+> *Сноска. Пункт 1 - в редакции решения Отрарского районного маслихата Южно-Казахстанской области от 12.07.2017 № 17/83-VI (вводится в действие с 01.01.2017).*
 
 2. Установить на 2017 год норматив распределения общей суммы поступлений индивидуального подоходного налога и социального налога:
 
@@ -102,7 +102,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 
 # Районный бюджет на 2017 год
 
-> *Сноска. Приложение 1 - в редакции решения Отрарского районного маслихата Южно-Казахстанской области от 19.06.2017 № 15/73-VI (вводится в действие с 01.01.2017).*
+> *Сноска. Приложение 1 - в редакции решения Отрарского районного маслихата Южно-Казахстанской области от 12.07.2017 № 17/83-VI (вводится в действие с 01.01.2017).*
 
 <table>
 <tr>
@@ -126,7 +126,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td></td>
 <td></td>
 <td colspan="2">1. ДОХОДЫ</td>
-<td>9 795 852</td>
+<td>9 513 319</td>
 </tr>
 <tr>
 <td>1</td>
@@ -315,46 +315,46 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td></td>
 <td></td>
 <td colspan="2">Поступления трансфертов</td>
-<td>8 744 468</td>
+<td>8 461 935</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td colspan="2">Трансферты из вышестоящих органов государственного управления</td>
-<td>8 744 468</td>
+<td>8 461 935</td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td colspan="5">Функциональная группа</td>
+<td colspan="6">Функциональная группа</td>
 <td rowspan="5">сумма, тысяч тенге</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td colspan="4">Функциональная подгруппа</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td colspan="3">Администратор бюджетных программ</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td colspan="2">Программа</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -362,15 +362,15 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td></td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td>2. Затраты</td>
-<td>9 971 470</td>
+<td>9 688 937</td>
 </tr>
 <tr>
-<td>01</td>
+<td colspan="2">01</td>
 <td></td>
 <td></td>
 <td></td>
@@ -378,7 +378,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>512 004</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -386,7 +386,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>429 323</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>112</td>
 <td></td>
@@ -394,7 +394,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>24 049</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -402,7 +402,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>22 137</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>002</td>
@@ -410,7 +410,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>928</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>003</td>
@@ -418,7 +418,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>984</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>122</td>
 <td></td>
@@ -426,7 +426,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>109 010</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -434,7 +434,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>95 510</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>003</td>
@@ -442,7 +442,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>13 500</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>123</td>
 <td></td>
@@ -450,7 +450,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>296 264</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -458,7 +458,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>286 958</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>022</td>
@@ -466,7 +466,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>8 306</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>032</td>
@@ -474,7 +474,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>1 000</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>2</td>
 <td></td>
 <td></td>
@@ -482,7 +482,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>1 850</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>459</td>
 <td></td>
@@ -490,7 +490,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>1 850</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>003</td>
@@ -498,7 +498,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>850</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>010</td>
@@ -506,7 +506,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>1 000</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>5</td>
 <td></td>
 <td></td>
@@ -514,7 +514,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>2 000</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>459</td>
 <td></td>
@@ -522,7 +522,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>2 000</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>061</td>
@@ -530,7 +530,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>2 000</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>9</td>
 <td></td>
 <td></td>
@@ -538,7 +538,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>78 831</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>458</td>
 <td></td>
@@ -546,7 +546,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>37 928</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -554,7 +554,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>37 128</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>013</td>
@@ -562,7 +562,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>800</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>459</td>
 <td></td>
@@ -570,7 +570,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>40 903</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -578,7 +578,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>39 283</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>015</td>
@@ -586,7 +586,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>1 620</td>
 </tr>
 <tr>
-<td>02</td>
+<td colspan="2">02</td>
 <td></td>
 <td></td>
 <td></td>
@@ -594,7 +594,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>14 683</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -602,7 +602,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>14 183</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>122</td>
 <td></td>
@@ -610,7 +610,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>14 183</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>005</td>
@@ -618,7 +618,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>14 183</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>2</td>
 <td></td>
 <td></td>
@@ -626,7 +626,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>500</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>122</td>
 <td></td>
@@ -634,7 +634,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>500</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>007</td>
@@ -642,7 +642,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>500</td>
 </tr>
 <tr>
-<td>03</td>
+<td colspan="2">03</td>
 <td></td>
 <td></td>
 <td></td>
@@ -650,7 +650,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>4 055</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>9</td>
 <td></td>
 <td></td>
@@ -658,7 +658,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>4 055</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>458</td>
 <td></td>
@@ -666,7 +666,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>4 055</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>021</td>
@@ -674,15 +674,15 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>4 055</td>
 </tr>
 <tr>
-<td>04</td>
+<td colspan="2">04</td>
 <td></td>
 <td></td>
 <td></td>
 <td>Образование</td>
-<td>5 958 780</td>
+<td>5 982 160</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -690,7 +690,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>934 705</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>123</td>
 <td></td>
@@ -698,7 +698,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>744 198</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>004</td>
@@ -706,7 +706,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>30 877</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>041</td>
@@ -714,7 +714,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>713 321</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>464</td>
 <td></td>
@@ -722,7 +722,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>98 037</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>040</td>
@@ -730,7 +730,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>98 037</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>472</td>
 <td></td>
@@ -738,7 +738,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>92 470</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>037</td>
@@ -746,7 +746,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>92 470</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>2</td>
 <td></td>
 <td></td>
@@ -754,7 +754,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>4 675 453</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>464</td>
 <td></td>
@@ -762,7 +762,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>4 663 665</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>003</td>
@@ -770,7 +770,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>4 524 563</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>006</td>
@@ -778,7 +778,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>139 102</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>472</td>
 <td></td>
@@ -786,7 +786,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>11 788</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>022</td>
@@ -794,23 +794,23 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>11 788</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>9</td>
 <td></td>
 <td></td>
 <td>Прочие услуги в области образования</td>
-<td>348 622</td>
+<td>372 002</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>464</td>
 <td></td>
 <td>Отдел образования района (города областного значения)</td>
-<td>348 622</td>
+<td>372 002</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -818,7 +818,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>14 521</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>005</td>
@@ -826,7 +826,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>71 939</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>012</td>
@@ -834,7 +834,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>200</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>015</td>
@@ -842,7 +842,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>7 065</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>022</td>
@@ -850,7 +850,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>511</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>067</td>
@@ -858,10 +858,10 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 Капитальные расходы подведомственных государственных
 учреждений и организаций
 </td>
-<td>254 386</td>
+<td>277 766</td>
 </tr>
 <tr>
-<td>06</td>
+<td colspan="2">06</td>
 <td></td>
 <td></td>
 <td></td>
@@ -869,7 +869,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>617 926</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -877,7 +877,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>236 625</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>451</td>
 <td></td>
@@ -885,7 +885,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>233 087</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>005</td>
@@ -893,7 +893,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>475</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>016</td>
@@ -901,7 +901,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>103 857</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>025</td>
@@ -909,7 +909,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>128 755</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>464</td>
 <td></td>
@@ -917,7 +917,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>3 538</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>030</td>
@@ -925,7 +925,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>3 538</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>2</td>
 <td></td>
 <td></td>
@@ -933,7 +933,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>333 485</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>451</td>
 <td></td>
@@ -941,7 +941,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>333 485</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>002</td>
@@ -949,7 +949,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>141 517</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>004</td>
@@ -957,7 +957,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>6 807</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>006</td>
@@ -965,7 +965,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>2 915</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>007</td>
@@ -973,7 +973,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>34 569</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>010</td>
@@ -981,7 +981,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>1 800</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>014</td>
@@ -989,7 +989,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>63 650</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>017</td>
@@ -997,7 +997,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>48 491</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>023</td>
@@ -1005,7 +1005,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>33 736</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>9</td>
 <td></td>
 <td></td>
@@ -1013,7 +1013,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>47 816</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>451</td>
 <td></td>
@@ -1021,7 +1021,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>47 816</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -1029,7 +1029,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>38 726</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>011</td>
@@ -1037,7 +1037,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>1 700</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>021</td>
@@ -1045,7 +1045,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>1 090</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>050</td>
@@ -1053,7 +1053,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>6 000</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>067</td>
@@ -1061,15 +1061,15 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>300</td>
 </tr>
 <tr>
-<td>07</td>
+<td colspan="2">07</td>
 <td></td>
 <td></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>685 939</td>
+<td>583 945</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -1077,7 +1077,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>52 777</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>458</td>
 <td></td>
@@ -1085,7 +1085,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>1 000</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>003</td>
@@ -1093,7 +1093,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>1 000</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>472</td>
 <td></td>
@@ -1101,7 +1101,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>51 777</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>003</td>
@@ -1109,7 +1109,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>31 644</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>004</td>
@@ -1117,15 +1117,15 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>20 133</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>2</td>
 <td></td>
 <td></td>
 <td>Коммунальное хозяйство</td>
-<td>322 620</td>
+<td>220 626</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>458</td>
 <td></td>
@@ -1133,7 +1133,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>106 485</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>012</td>
@@ -1141,7 +1141,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>39 500</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>026</td>
@@ -1149,7 +1149,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>50 000</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>028</td>
@@ -1157,7 +1157,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>7 000</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>048</td>
@@ -1165,7 +1165,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>8 641</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>058</td>
@@ -1173,23 +1173,23 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>1 344</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>472</td>
 <td></td>
 <td>Отдел строительства, архитектуры и градостроительства района (города областного значения)</td>
-<td>216 135</td>
+<td>114 141</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>007</td>
 <td>Развитие благоустройства городов и населенных пунктов</td>
-<td>216 135</td>
+<td>114 141</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>3</td>
 <td></td>
 <td></td>
@@ -1197,7 +1197,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>310 542</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>458</td>
 <td></td>
@@ -1205,7 +1205,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>310 542</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>015</td>
@@ -1213,7 +1213,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>36 628</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>016</td>
@@ -1221,7 +1221,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>8 200</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>018</td>
@@ -1229,23 +1229,23 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>265 714</td>
 </tr>
 <tr>
-<td>08</td>
+<td colspan="2">08</td>
 <td></td>
 <td></td>
 <td></td>
 <td>Культура, спорт, туризм и информационное пространство</td>
-<td>935 060</td>
+<td>731 141</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>1</td>
 <td></td>
 <td></td>
 <td>Деятельность в области культуры</td>
-<td>350 437</td>
+<td>246 518</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>455</td>
 <td></td>
@@ -1253,7 +1253,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>142 491</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>003</td>
@@ -1261,31 +1261,31 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>142 491</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>472</td>
 <td></td>
 <td>Отдел строительства, архитектуры и градостроительства района (города областного значения)</td>
-<td>207 946</td>
+<td>104 027</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>011</td>
 <td>Развитие объектов культуры</td>
-<td>207 946</td>
+<td>104 027</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>2</td>
 <td></td>
 <td></td>
 <td>Спорт</td>
-<td>386 380</td>
+<td>286 380</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>465</td>
 <td></td>
@@ -1293,7 +1293,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>184 359</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -1301,7 +1301,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>11 722</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>004</td>
@@ -1309,7 +1309,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>258</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>005</td>
@@ -1317,7 +1317,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>162 875</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>006</td>
@@ -1325,7 +1325,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>3 150</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>007</td>
@@ -1333,7 +1333,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>1 155</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>032</td>
@@ -1341,23 +1341,23 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>5 199</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>472</td>
 <td></td>
 <td>Отдел строительства, архитектуры и градостроительства района (города областного значения)</td>
-<td>202 021</td>
+<td>102 021</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>008</td>
 <td>Развитие объектов спорта и туризма</td>
-<td>202 021</td>
+<td>102 021</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>3</td>
 <td></td>
 <td></td>
@@ -1365,7 +1365,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>125 989</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>455</td>
 <td></td>
@@ -1373,7 +1373,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>106 239</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>006</td>
@@ -1381,7 +1381,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>90 714</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>007</td>
@@ -1389,7 +1389,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>15 525</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>456</td>
 <td></td>
@@ -1397,7 +1397,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>19 750</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>002</td>
@@ -1405,7 +1405,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>19 750</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>9</td>
 <td></td>
 <td></td>
@@ -1413,7 +1413,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>72 254</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>455</td>
 <td></td>
@@ -1421,7 +1421,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>26 341</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -1429,7 +1429,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>12 181</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>010</td>
@@ -1437,7 +1437,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>150</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>032</td>
@@ -1445,7 +1445,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>14 010</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>456</td>
 <td></td>
@@ -1453,7 +1453,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>45 913</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -1461,7 +1461,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>18 632</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>003</td>
@@ -1469,7 +1469,15 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>27 176</td>
 </tr>
 <tr>
+<td colspan="2"></td>
 <td></td>
+<td></td>
+<td>006</td>
+<td>Капитальные расходы государственных органов</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>032</td>
@@ -1477,7 +1485,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>105</td>
 </tr>
 <tr>
-<td>9</td>
+<td colspan="2">9</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1485,7 +1493,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>316 203</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>9</td>
 <td></td>
 <td></td>
@@ -1493,7 +1501,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>316 203</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>458</td>
 <td></td>
@@ -1501,7 +1509,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>316 203</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>036</td>
@@ -1509,7 +1517,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>316 203</td>
 </tr>
 <tr>
-<td>10</td>
+<td colspan="2">10</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1517,7 +1525,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>357 331</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -1525,7 +1533,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>351 418</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>472</td>
 <td></td>
@@ -1533,7 +1541,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>72 549</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>010</td>
@@ -1541,7 +1549,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>72 549</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>473</td>
 <td></td>
@@ -1549,7 +1557,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>235 458</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -1557,7 +1565,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>22 885</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>003</td>
@@ -1565,7 +1573,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>4 550</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>005</td>
@@ -1573,7 +1581,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>2 210</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>006</td>
@@ -1581,7 +1589,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>1 070</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>007</td>
@@ -1589,7 +1597,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>5 000</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>008</td>
@@ -1597,7 +1605,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>6 834</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>009</td>
@@ -1605,7 +1613,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>30 928</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>010</td>
@@ -1613,7 +1621,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>1 400</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>011</td>
@@ -1621,7 +1629,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>160 581</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>498</td>
 <td></td>
@@ -1629,7 +1637,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>43 411</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -1637,7 +1645,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>43 131</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>003</td>
@@ -1645,7 +1653,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>280</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>09</td>
 <td></td>
 <td></td>
@@ -1653,7 +1661,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>5 913</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>459</td>
 <td></td>
@@ -1661,7 +1669,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>5 913</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>099</td>
@@ -1669,7 +1677,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>5 913</td>
 </tr>
 <tr>
-<td>11</td>
+<td colspan="2">11</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1677,7 +1685,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>49 748</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>2</td>
 <td></td>
 <td></td>
@@ -1685,7 +1693,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>49 748</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>472</td>
 <td></td>
@@ -1693,7 +1701,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>49 748</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -1701,7 +1709,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>28 832</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>013</td>
@@ -1709,7 +1717,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>17 258</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>015</td>
@@ -1717,7 +1725,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>3 658</td>
 </tr>
 <tr>
-<td>12</td>
+<td colspan="2">12</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1725,7 +1733,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>300 773</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -1733,7 +1741,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>297 773</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>458</td>
 <td></td>
@@ -1741,7 +1749,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>297 773</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>023</td>
@@ -1749,7 +1757,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>297 773</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>9</td>
 <td></td>
 <td></td>
@@ -1757,7 +1765,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>3 000</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>458</td>
 <td></td>
@@ -1765,7 +1773,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>3 000</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>037</td>
@@ -1773,7 +1781,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>3 000</td>
 </tr>
 <tr>
-<td>13</td>
+<td colspan="2">13</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1781,7 +1789,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>127 190</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>3</td>
 <td></td>
 <td></td>
@@ -1789,7 +1797,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>19 087</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>469</td>
 <td></td>
@@ -1797,7 +1805,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>19 087</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -1805,7 +1813,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>18 737</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>004</td>
@@ -1813,7 +1821,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>350</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>9</td>
 <td></td>
 <td></td>
@@ -1821,7 +1829,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>108 103</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>458</td>
 <td></td>
@@ -1829,7 +1837,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>89 185</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>040</td>
@@ -1837,7 +1845,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>41 019</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>065</td>
@@ -1845,7 +1853,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>48 166</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>459</td>
 <td></td>
@@ -1853,7 +1861,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>18 918</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>008</td>
@@ -1861,7 +1869,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>2 000</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>012</td>
@@ -1869,7 +1877,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>16 918</td>
 </tr>
 <tr>
-<td>14</td>
+<td colspan="2">14</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1877,7 +1885,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>9</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -1885,7 +1893,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>9</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>459</td>
 <td></td>
@@ -1893,7 +1901,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>9</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>021</td>
@@ -1901,7 +1909,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>9</td>
 </tr>
 <tr>
-<td>15</td>
+<td colspan="2">15</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1909,7 +1917,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>91 769</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>01</td>
 <td></td>
 <td></td>
@@ -1917,7 +1925,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>91 769</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>459</td>
 <td></td>
@@ -1925,7 +1933,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>91 769</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>006</td>
@@ -1933,7 +1941,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>19 093</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>051</td>
@@ -1941,7 +1949,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>72 676</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1949,7 +1957,15 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>27 288</td>
 </tr>
 <tr>
-<td>10</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Бюджетные кредиты</td>
+<td>34 035</td>
+</tr>
+<tr>
+<td colspan="2">10</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1957,7 +1973,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>34 035</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -1965,7 +1981,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>34 035</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>459</td>
 <td></td>
@@ -1973,7 +1989,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>34 035</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>018</td>
@@ -1981,7 +1997,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>34 035</td>
 </tr>
 <tr>
-<td>05</td>
+<td colspan="2">05</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1989,7 +2005,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>6 747</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -1997,7 +2013,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>6 747</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>001</td>
 <td></td>
@@ -2005,7 +2021,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>6 747</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>013</td>
@@ -2013,7 +2029,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>6 747</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2021,23 +2037,23 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>0</td>
 </tr>
 <tr>
-<td>13</td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
-<td>Прочие</td>
+<td>Приобретение финансовых активов</td>
 <td>0</td>
 </tr>
 <tr>
+<td colspan="2"></td>
 <td></td>
-<td>9</td>
 <td></td>
 <td></td>
-<td>Прочие</td>
+<td>Поступления от продажи финансовых активов государства</td>
 <td>0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2045,7 +2061,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>-202 906</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2053,7 +2069,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>202 906</td>
 </tr>
 <tr>
-<td>7</td>
+<td colspan="2">7</td>
 <td></td>
 <td></td>
 <td></td>
@@ -2061,7 +2077,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>34 035</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>01</td>
 <td></td>
 <td></td>
@@ -2069,7 +2085,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>34 035</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>2</td>
 <td></td>
@@ -2077,7 +2093,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>34 035</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>3</td>
@@ -2085,7 +2101,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>34 035</td>
 </tr>
 <tr>
-<td>16</td>
+<td colspan="2">16</td>
 <td></td>
 <td></td>
 <td></td>
@@ -2093,7 +2109,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>6 747</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>01</td>
 <td></td>
 <td></td>
@@ -2101,7 +2117,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>6 747</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>459</td>
 <td></td>
@@ -2109,7 +2125,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>6 747</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>005</td>
@@ -2117,7 +2133,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>6 747</td>
 </tr>
 <tr>
-<td>8</td>
+<td colspan="2">8</td>
 <td></td>
 <td></td>
 <td></td>
@@ -2125,7 +2141,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>175 618</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -2133,7 +2149,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>175 618</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>1</td>
 <td></td>
@@ -2141,7 +2157,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>175 618</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>1</td>
@@ -5922,42 +5938,45 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 
 # Перечень бюджетных программ по аппаратам сельского округа на 2017 год
 
-> *Сноска. Приложение 5 - в редакции решения Отрарского районного маслихата Южно-Казахстанской области от 19.06.2017 № 15/73-VI (вводится в действие с 01.01.2017).*
+> *Сноска. Приложение 5 - в редакции решения Отрарского районного маслихата Южно-Казахстанской области от 12.07.2017 № 17/83-VI (вводится в действие с 01.01.2017).*
 
 <table>
 <tr>
-<td colspan="6">Функциональная группа</td>
-<td rowspan="4">сумма, тысяч тенге</td>
+<td colspan="5">Функциональная группа</td>
+<td rowspan="4">
+
+сумма, тысяч тенге
+</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="5">Функциональная подгруппа</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td colspan="4">Администратор бюджетных программ</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3">Программа</td>
+<td colspan="4">Функциональная подгруппа</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
+<td colspan="3">Администратор бюджетных программ</td>
+</tr>
+<tr>
 <td></td>
 <td></td>
-<td colspan="2">Наименование</td>
 <td></td>
+<td colspan="2">Программа</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">ІІ. Затраты</td>
+<td>Наименование</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>ІІ. Затраты</td>
 <td>1 040 462</td>
 </tr>
 <tr>
@@ -5965,7 +5984,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Свод сельских округов по Отрарскому району</td>
+<td>Свод сельских округов по Отрарскому району</td>
 <td>1 040 462</td>
 </tr>
 <tr>
@@ -5973,7 +5992,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Государственные услуги общего характера</td>
+<td>Государственные услуги общего характера</td>
 <td>296 264</td>
 </tr>
 <tr>
@@ -5981,7 +6000,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>1</td>
 <td></td>
 <td></td>
-<td colspan="2">Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
+<td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
 <td>296 264</td>
 </tr>
 <tr>
@@ -5989,7 +6008,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td></td>
 <td>123</td>
 <td></td>
-<td colspan="2">Аппарат акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
+<td>Аппарат акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
 <td>296 264</td>
 </tr>
 <tr>
@@ -5997,7 +6016,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td></td>
 <td></td>
 <td>001</td>
-<td colspan="2">Услуги по обеспечению деятельности акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
+<td>Услуги по обеспечению деятельности акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
 <td>286 958</td>
 </tr>
 <tr>
@@ -6005,7 +6024,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td></td>
 <td></td>
 <td>022</td>
-<td colspan="2">Капитальные расходы государственных органов</td>
+<td>Капитальные расходы государственных органов</td>
 <td>8 306</td>
 </tr>
 <tr>
@@ -6013,7 +6032,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td></td>
 <td></td>
 <td>032</td>
-<td colspan="2">Капитальные расходы подведомственных государственных учреждений и организаций</td>
+<td>Капитальные расходы подведомственных государственных учреждений и организаций</td>
 <td>1 000</td>
 </tr>
 <tr>
@@ -6021,7 +6040,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Образование</td>
+<td>Образование</td>
 <td>744 198</td>
 </tr>
 <tr>
@@ -6029,7 +6048,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>1</td>
 <td></td>
 <td></td>
-<td colspan="2">Дошкольное воспитание и обучение</td>
+<td>Дошкольное воспитание и обучение</td>
 <td>744 198</td>
 </tr>
 <tr>
@@ -6037,7 +6056,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td></td>
 <td>123</td>
 <td></td>
-<td colspan="2">Аппарат акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
+<td>Аппарат акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
 <td>744 198</td>
 </tr>
 <tr>
@@ -6045,7 +6064,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td></td>
 <td></td>
 <td>004</td>
-<td colspan="2">Поддержка организаций дошкольного воспитания и обучения</td>
+<td>Поддержка организаций дошкольного воспитания и обучения</td>
 <td>30 877</td>
 </tr>
 <tr>
@@ -6053,7 +6072,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td></td>
 <td></td>
 <td>041</td>
-<td colspan="2">Реализация государственного образовательного заказа в дошкольных организациях образования</td>
+<td>Реализация государственного образовательного заказа в дошкольных организациях образования</td>
 <td>713 321</td>
 </tr>
 <tr>
@@ -6061,7 +6080,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Сельский округ &quot;Караконур&quot; Отрарского района</td>
+<td>Сельский округ &quot;Караконур&quot; Отрарского района</td>
 <td>70 021</td>
 </tr>
 <tr>
@@ -6069,7 +6088,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Государственные услуги общего характера</td>
+<td>Государственные услуги общего характера</td>
 <td>22 770</td>
 </tr>
 <tr>
@@ -6077,7 +6096,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>1</td>
 <td></td>
 <td></td>
-<td colspan="2">Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
+<td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
 <td>22 770</td>
 </tr>
 <tr>
@@ -6085,7 +6104,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td></td>
 <td>123</td>
 <td></td>
-<td colspan="2">Аппарат акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
+<td>Аппарат акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
 <td>22 770</td>
 </tr>
 <tr>
@@ -6093,7 +6112,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td></td>
 <td></td>
 <td>001</td>
-<td colspan="2">Услуги по обеспечению деятельности акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
+<td>Услуги по обеспечению деятельности акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
 <td>22 450</td>
 </tr>
 <tr>
@@ -6101,7 +6120,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td></td>
 <td></td>
 <td>022</td>
-<td colspan="2">Капитальные расходы государственных органов</td>
+<td>Капитальные расходы государственных органов</td>
 <td>320</td>
 </tr>
 <tr>
@@ -6109,7 +6128,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Образование</td>
+<td>Образование</td>
 <td>47 251</td>
 </tr>
 <tr>
@@ -6117,7 +6136,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>1</td>
 <td></td>
 <td></td>
-<td colspan="2">Дошкольное воспитание и обучение</td>
+<td>Дошкольное воспитание и обучение</td>
 <td>47 251</td>
 </tr>
 <tr>
@@ -6125,7 +6144,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td></td>
 <td>123</td>
 <td></td>
-<td colspan="2">Аппарат акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
+<td>Аппарат акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
 <td>47 251</td>
 </tr>
 <tr>
@@ -6133,7 +6152,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td></td>
 <td></td>
 <td>004</td>
-<td colspan="2">Поддержка организаций дошкольного воспитания и обучения</td>
+<td>Поддержка организаций дошкольного воспитания и обучения</td>
 <td>1 500</td>
 </tr>
 <tr>
@@ -6141,7 +6160,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td></td>
 <td></td>
 <td>041</td>
-<td colspan="2">Реализация государственного образовательного заказа в дошкольных организациях образования</td>
+<td>Реализация государственного образовательного заказа в дошкольных организациях образования</td>
 <td>45 751</td>
 </tr>
 <tr>
@@ -6149,7 +6168,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Сельский округ &quot;Аккум&quot; Отрарского района</td>
+<td>Сельский округ &quot;Аккум&quot; Отрарского района</td>
 <td>41 128</td>
 </tr>
 <tr>
@@ -6157,7 +6176,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Государственные услуги общего характера</td>
+<td>Государственные услуги общего характера</td>
 <td>18 104</td>
 </tr>
 <tr>
@@ -6165,7 +6184,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>1</td>
 <td></td>
 <td></td>
-<td colspan="2">Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
+<td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
 <td>18 104</td>
 </tr>
 <tr>
@@ -6173,7 +6192,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td></td>
 <td>123</td>
 <td></td>
-<td colspan="2">Аппарат акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
+<td>Аппарат акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
 <td>18 104</td>
 </tr>
 <tr>
@@ -6181,7 +6200,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td></td>
 <td></td>
 <td>001</td>
-<td colspan="2">Услуги по обеспечению деятельности акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
+<td>Услуги по обеспечению деятельности акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
 <td>17 604</td>
 </tr>
 <tr>
@@ -6189,7 +6208,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td></td>
 <td></td>
 <td>022</td>
-<td colspan="2">Капитальные расходы государственных органов</td>
+<td>Капитальные расходы государственных органов</td>
 <td>500</td>
 </tr>
 <tr>
@@ -6197,7 +6216,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Образование</td>
+<td>Образование</td>
 <td>23 024</td>
 </tr>
 <tr>
@@ -6205,7 +6224,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>1</td>
 <td></td>
 <td></td>
-<td colspan="2">Дошкольное воспитание и обучение</td>
+<td>Дошкольное воспитание и обучение</td>
 <td>23 024</td>
 </tr>
 <tr>
@@ -6213,7 +6232,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td></td>
 <td>123</td>
 <td></td>
-<td colspan="2">Аппарат акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
+<td>Аппарат акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
 <td>23 024</td>
 </tr>
 <tr>
@@ -6221,7 +6240,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td></td>
 <td></td>
 <td>004</td>
-<td colspan="2">Поддержка организаций дошкольного воспитания и обучения</td>
+<td>Поддержка организаций дошкольного воспитания и обучения</td>
 <td>1 500</td>
 </tr>
 <tr>
@@ -6229,7 +6248,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td></td>
 <td></td>
 <td>041</td>
-<td colspan="2">Реализация государственного образовательного заказа в дошкольных организациях образования</td>
+<td>Реализация государственного образовательного заказа в дошкольных организациях образования</td>
 <td>21 524</td>
 </tr>
 <tr>
@@ -6237,7 +6256,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Сельский округ &quot;Коксарай&quot; Отрарского района</td>
+<td>Сельский округ &quot;Коксарай&quot; Отрарского района</td>
 <td>80 291</td>
 </tr>
 <tr>
@@ -6245,7 +6264,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Государственные услуги общего характера</td>
+<td>Государственные услуги общего характера</td>
 <td>26 372</td>
 </tr>
 <tr>
@@ -6253,7 +6272,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>1</td>
 <td></td>
 <td></td>
-<td colspan="2">Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
+<td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
 <td>26 372</td>
 </tr>
 <tr>
@@ -6261,7 +6280,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td></td>
 <td>123</td>
 <td></td>
-<td colspan="2">Аппарат акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
+<td>Аппарат акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
 <td>26 372</td>
 </tr>
 <tr>
@@ -6269,7 +6288,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td></td>
 <td></td>
 <td>001</td>
-<td colspan="2">Услуги по обеспечению деятельности акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
+<td>Услуги по обеспечению деятельности акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
 <td>26 172</td>
 </tr>
 <tr>
@@ -6277,7 +6296,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td></td>
 <td></td>
 <td>022</td>
-<td colspan="2">Капитальные расходы государственных органов</td>
+<td>Капитальные расходы государственных органов</td>
 <td>200</td>
 </tr>
 <tr>
@@ -6285,7 +6304,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Образование</td>
+<td>Образование</td>
 <td>53 919</td>
 </tr>
 <tr>
@@ -6293,7 +6312,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>1</td>
 <td></td>
 <td></td>
-<td colspan="2">Дошкольное воспитание и обучение</td>
+<td>Дошкольное воспитание и обучение</td>
 <td>53 919</td>
 </tr>
 <tr>
@@ -6301,7 +6320,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td></td>
 <td>123</td>
 <td></td>
-<td colspan="2">Аппарат акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
+<td>Аппарат акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
 <td>53 919</td>
 </tr>
 <tr>
@@ -6309,7 +6328,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td></td>
 <td></td>
 <td>004</td>
-<td colspan="2">Поддержка организаций дошкольного воспитания и обучения</td>
+<td>Поддержка организаций дошкольного воспитания и обучения</td>
 <td>5 700</td>
 </tr>
 <tr>
@@ -6317,7 +6336,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td></td>
 <td></td>
 <td>041</td>
-<td colspan="2">Реализация государственного образовательного заказа в дошкольных организациях образования</td>
+<td>Реализация государственного образовательного заказа в дошкольных организациях образования</td>
 <td>48 219</td>
 </tr>
 <tr>
@@ -6325,7 +6344,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Сельский округ &quot;Балтакуль&quot; Отрарского района</td>
+<td>Сельский округ &quot;Балтакуль&quot; Отрарского района</td>
 <td>46 631</td>
 </tr>
 <tr>
@@ -6333,7 +6352,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Государственные услуги общего характера</td>
+<td>Государственные услуги общего характера</td>
 <td>21 668</td>
 </tr>
 <tr>
@@ -6341,7 +6360,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>1</td>
 <td></td>
 <td></td>
-<td colspan="2">Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
+<td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
 <td>21 668</td>
 </tr>
 <tr>
@@ -6349,7 +6368,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td></td>
 <td>123</td>
 <td></td>
-<td colspan="2">Аппарат акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
+<td>Аппарат акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
 <td>21 668</td>
 </tr>
 <tr>
@@ -6357,7 +6376,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td></td>
 <td></td>
 <td>001</td>
-<td colspan="2">Услуги по обеспечению деятельности акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
+<td>Услуги по обеспечению деятельности акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
 <td>21 108</td>
 </tr>
 <tr>
@@ -6365,7 +6384,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td></td>
 <td></td>
 <td>022</td>
-<td colspan="2">Капитальные расходы государственных органов</td>
+<td>Капитальные расходы государственных органов</td>
 <td>560</td>
 </tr>
 <tr>
@@ -6373,7 +6392,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Образование</td>
+<td>Образование</td>
 <td>24 963</td>
 </tr>
 <tr>
@@ -6381,7 +6400,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>1</td>
 <td></td>
 <td></td>
-<td colspan="2">Дошкольное воспитание и обучение</td>
+<td>Дошкольное воспитание и обучение</td>
 <td>24 963</td>
 </tr>
 <tr>
@@ -6389,7 +6408,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td></td>
 <td>123</td>
 <td></td>
-<td colspan="2">Аппарат акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
+<td>Аппарат акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
 <td>24 963</td>
 </tr>
 <tr>
@@ -6397,7 +6416,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td></td>
 <td></td>
 <td>004</td>
-<td colspan="2">Поддержка организаций дошкольного воспитания и обучения</td>
+<td>Поддержка организаций дошкольного воспитания и обучения</td>
 <td>2 100</td>
 </tr>
 <tr>
@@ -6405,7 +6424,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td></td>
 <td></td>
 <td>041</td>
-<td colspan="2">Реализация государственного образовательного заказа в дошкольных организациях образования</td>
+<td>Реализация государственного образовательного заказа в дошкольных организациях образования</td>
 <td>22 863</td>
 </tr>
 <tr>
@@ -6413,7 +6432,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Сельский округ &quot;Талапты&quot; Отрарского района</td>
+<td>Сельский округ &quot;Талапты&quot; Отрарского района</td>
 <td>90 371</td>
 </tr>
 <tr>
@@ -6421,7 +6440,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Государственные услуги общего характера</td>
+<td>Государственные услуги общего характера</td>
 <td>25 345</td>
 </tr>
 <tr>
@@ -6429,7 +6448,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>1</td>
 <td></td>
 <td></td>
-<td colspan="2">Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
+<td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
 <td>25 345</td>
 </tr>
 <tr>
@@ -6437,7 +6456,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td></td>
 <td>123</td>
 <td></td>
-<td colspan="2">Аппарат акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
+<td>Аппарат акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
 <td>25 345</td>
 </tr>
 <tr>
@@ -6445,7 +6464,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td></td>
 <td></td>
 <td>001</td>
-<td colspan="2">Услуги по обеспечению деятельности акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
+<td>Услуги по обеспечению деятельности акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
 <td>25 080</td>
 </tr>
 <tr>
@@ -6453,7 +6472,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td></td>
 <td></td>
 <td>022</td>
-<td colspan="2">Капитальные расходы государственных органов</td>
+<td>Капитальные расходы государственных органов</td>
 <td>265</td>
 </tr>
 <tr>
@@ -6461,7 +6480,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Образование</td>
+<td>Образование</td>
 <td>65 026</td>
 </tr>
 <tr>
@@ -6469,7 +6488,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>1</td>
 <td></td>
 <td></td>
-<td colspan="2">Дошкольное воспитание и обучение</td>
+<td>Дошкольное воспитание и обучение</td>
 <td>65 026</td>
 </tr>
 <tr>
@@ -6477,7 +6496,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td></td>
 <td>123</td>
 <td></td>
-<td colspan="2">Аппарат акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
+<td>Аппарат акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
 <td>65 026</td>
 </tr>
 <tr>
@@ -6485,7 +6504,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td></td>
 <td></td>
 <td>041</td>
-<td colspan="2">Реализация государственного образовательного заказа в дошкольных организациях образования</td>
+<td>Реализация государственного образовательного заказа в дошкольных организациях образования</td>
 <td>65 026</td>
 </tr>
 <tr>
@@ -6493,7 +6512,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Сельский округ &quot;Шилик&quot; Отрарского района</td>
+<td>Сельский округ &quot;Шилик&quot; Отрарского района</td>
 <td>48 950</td>
 </tr>
 <tr>
@@ -6501,7 +6520,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Государственные услуги общего характера</td>
+<td>Государственные услуги общего характера</td>
 <td>22 056</td>
 </tr>
 <tr>
@@ -6509,7 +6528,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>1</td>
 <td></td>
 <td></td>
-<td colspan="2">Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
+<td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
 <td>22 056</td>
 </tr>
 <tr>
@@ -6517,7 +6536,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td></td>
 <td>123</td>
 <td></td>
-<td colspan="2">Аппарат акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
+<td>Аппарат акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
 <td>22 056</td>
 </tr>
 <tr>
@@ -6525,7 +6544,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td></td>
 <td></td>
 <td>001</td>
-<td colspan="2">Услуги по обеспечению деятельности акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
+<td>Услуги по обеспечению деятельности акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
 <td>21 756</td>
 </tr>
 <tr>
@@ -6533,7 +6552,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td></td>
 <td></td>
 <td>022</td>
-<td colspan="2">Капитальные расходы государственных органов</td>
+<td>Капитальные расходы государственных органов</td>
 <td>300</td>
 </tr>
 <tr>
@@ -6541,7 +6560,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Образование</td>
+<td>Образование</td>
 <td>26 894</td>
 </tr>
 <tr>
@@ -6549,7 +6568,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>1</td>
 <td></td>
 <td></td>
-<td colspan="2">Дошкольное воспитание и обучение</td>
+<td>Дошкольное воспитание и обучение</td>
 <td>26 894</td>
 </tr>
 <tr>
@@ -6557,7 +6576,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td></td>
 <td>123</td>
 <td></td>
-<td colspan="2">Аппарат акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
+<td>Аппарат акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
 <td>26 894</td>
 </tr>
 <tr>
@@ -6565,7 +6584,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td></td>
 <td></td>
 <td>004</td>
-<td colspan="2">Поддержка организаций дошкольного воспитания и обучения</td>
+<td>Поддержка организаций дошкольного воспитания и обучения</td>
 <td>1 835</td>
 </tr>
 <tr>
@@ -6573,7 +6592,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td></td>
 <td></td>
 <td>041</td>
-<td colspan="2">Реализация государственного образовательного заказа в дошкольных организациях образования</td>
+<td>Реализация государственного образовательного заказа в дошкольных организациях образования</td>
 <td>25 059</td>
 </tr>
 <tr>
@@ -6581,7 +6600,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Сельский округ &quot;Шаульдер&quot; Отрарского района</td>
+<td>Сельский округ &quot;Шаульдер&quot; Отрарского района</td>
 <td>296 045</td>
 </tr>
 <tr>
@@ -6589,7 +6608,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Государственные услуги общего характера</td>
+<td>Государственные услуги общего характера</td>
 <td>28 341</td>
 </tr>
 <tr>
@@ -6597,7 +6616,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>1</td>
 <td></td>
 <td></td>
-<td colspan="2">Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
+<td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
 <td>28 341</td>
 </tr>
 <tr>
@@ -6605,7 +6624,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td></td>
 <td>123</td>
 <td></td>
-<td colspan="2">Аппарат акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
+<td>Аппарат акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
 <td>28 341</td>
 </tr>
 <tr>
@@ -6613,7 +6632,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td></td>
 <td></td>
 <td>001</td>
-<td colspan="2">Услуги по обеспечению деятельности акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
+<td>Услуги по обеспечению деятельности акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
 <td>27 841</td>
 </tr>
 <tr>
@@ -6621,7 +6640,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td></td>
 <td></td>
 <td>022</td>
-<td colspan="2">Капитальные расходы государственных органов</td>
+<td>Капитальные расходы государственных органов</td>
 <td>500</td>
 </tr>
 <tr>
@@ -6629,7 +6648,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Образование</td>
+<td>Образование</td>
 <td>267 704</td>
 </tr>
 <tr>
@@ -6637,7 +6656,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>1</td>
 <td></td>
 <td></td>
-<td colspan="2">Дошкольное воспитание и обучение</td>
+<td>Дошкольное воспитание и обучение</td>
 <td>267 704</td>
 </tr>
 <tr>
@@ -6645,7 +6664,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td></td>
 <td>123</td>
 <td></td>
-<td colspan="2">Аппарат акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
+<td>Аппарат акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
 <td>267 704</td>
 </tr>
 <tr>
@@ -6653,7 +6672,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td></td>
 <td></td>
 <td>004</td>
-<td colspan="2">Поддержка организаций дошкольного воспитания и обучения</td>
+<td>Поддержка организаций дошкольного воспитания и обучения</td>
 <td>9 396</td>
 </tr>
 <tr>
@@ -6661,7 +6680,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td></td>
 <td></td>
 <td>041</td>
-<td colspan="2">Реализация государственного образовательного заказа в дошкольных организациях образования</td>
+<td>Реализация государственного образовательного заказа в дошкольных организациях образования</td>
 <td>258 308</td>
 </tr>
 <tr>
@@ -6669,7 +6688,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Сельский округ &quot;Тимур&quot; Отрарского района</td>
+<td>Сельский округ &quot;Тимур&quot; Отрарского района</td>
 <td>67 336</td>
 </tr>
 <tr>
@@ -6677,7 +6696,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Государственные услуги общего характера</td>
+<td>Государственные услуги общего характера</td>
 <td>24 167</td>
 </tr>
 <tr>
@@ -6685,7 +6704,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>1</td>
 <td></td>
 <td></td>
-<td colspan="2">Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
+<td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
 <td>24 167</td>
 </tr>
 <tr>
@@ -6693,7 +6712,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td></td>
 <td>123</td>
 <td></td>
-<td colspan="2">Аппарат акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
+<td>Аппарат акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
 <td>24 167</td>
 </tr>
 <tr>
@@ -6701,7 +6720,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td></td>
 <td></td>
 <td>001</td>
-<td colspan="2">Услуги по обеспечению деятельности акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
+<td>Услуги по обеспечению деятельности акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
 <td>20 331</td>
 </tr>
 <tr>
@@ -6709,7 +6728,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td></td>
 <td></td>
 <td>022</td>
-<td colspan="2">Капитальные расходы государственных органов</td>
+<td>Капитальные расходы государственных органов</td>
 <td>3 836</td>
 </tr>
 <tr>
@@ -6717,7 +6736,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Образование</td>
+<td>Образование</td>
 <td>43 169</td>
 </tr>
 <tr>
@@ -6725,7 +6744,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>1</td>
 <td></td>
 <td></td>
-<td colspan="2">Дошкольное воспитание и обучение</td>
+<td>Дошкольное воспитание и обучение</td>
 <td>43 169</td>
 </tr>
 <tr>
@@ -6733,7 +6752,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td></td>
 <td>123</td>
 <td></td>
-<td colspan="2">Аппарат акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
+<td>Аппарат акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
 <td>43 169</td>
 </tr>
 <tr>
@@ -6741,7 +6760,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td></td>
 <td></td>
 <td>041</td>
-<td colspan="2">Реализация государственного образовательного заказа в дошкольных организациях образования</td>
+<td>Реализация государственного образовательного заказа в дошкольных организациях образования</td>
 <td>43 169</td>
 </tr>
 <tr>
@@ -6749,7 +6768,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Сельский округ &quot;Маякум&quot; Отрарского района</td>
+<td>Сельский округ &quot;Маякум&quot; Отрарского района</td>
 <td>53 537</td>
 </tr>
 <tr>
@@ -6757,7 +6776,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Государственные услуги общего характера</td>
+<td>Государственные услуги общего характера</td>
 <td>22 826</td>
 </tr>
 <tr>
@@ -6765,7 +6784,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>1</td>
 <td></td>
 <td></td>
-<td colspan="2">Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
+<td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
 <td>22 826</td>
 </tr>
 <tr>
@@ -6773,7 +6792,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td></td>
 <td>123</td>
 <td></td>
-<td colspan="2">Аппарат акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
+<td>Аппарат акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
 <td>22 826</td>
 </tr>
 <tr>
@@ -6781,7 +6800,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td></td>
 <td></td>
 <td>001</td>
-<td colspan="2">Услуги по обеспечению деятельности акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
+<td>Услуги по обеспечению деятельности акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
 <td>22 366</td>
 </tr>
 <tr>
@@ -6789,7 +6808,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td></td>
 <td></td>
 <td>022</td>
-<td colspan="2">Капитальные расходы государственных органов</td>
+<td>Капитальные расходы государственных органов</td>
 <td>460</td>
 </tr>
 <tr>
@@ -6797,7 +6816,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Образование</td>
+<td>Образование</td>
 <td>30 711</td>
 </tr>
 <tr>
@@ -6805,7 +6824,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>1</td>
 <td></td>
 <td></td>
-<td colspan="2">Дошкольное воспитание и обучение</td>
+<td>Дошкольное воспитание и обучение</td>
 <td>30 711</td>
 </tr>
 <tr>
@@ -6813,7 +6832,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td></td>
 <td>123</td>
 <td></td>
-<td colspan="2">Аппарат акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
+<td>Аппарат акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
 <td>30 711</td>
 </tr>
 <tr>
@@ -6821,7 +6840,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td></td>
 <td></td>
 <td>004</td>
-<td colspan="2">Поддержка организаций дошкольного воспитания и обучения</td>
+<td>Поддержка организаций дошкольного воспитания и обучения</td>
 <td>1 000</td>
 </tr>
 <tr>
@@ -6829,7 +6848,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td></td>
 <td></td>
 <td>041</td>
-<td colspan="2">Реализация государственного образовательного заказа в дошкольных организациях образования</td>
+<td>Реализация государственного образовательного заказа в дошкольных организациях образования</td>
 <td>29 711</td>
 </tr>
 <tr>
@@ -6837,7 +6856,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Сельский округ &quot;Отрар&quot; Отрарского района</td>
+<td>Сельский округ &quot;Отрар&quot; Отрарского района</td>
 <td>68 059</td>
 </tr>
 <tr>
@@ -6845,7 +6864,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Государственные услуги общего характера</td>
+<td>Государственные услуги общего характера</td>
 <td>24 410</td>
 </tr>
 <tr>
@@ -6853,7 +6872,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>1</td>
 <td></td>
 <td></td>
-<td colspan="2">Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
+<td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
 <td>24 410</td>
 </tr>
 <tr>
@@ -6861,7 +6880,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td></td>
 <td>123</td>
 <td></td>
-<td colspan="2">Аппарат акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
+<td>Аппарат акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
 <td>24 410</td>
 </tr>
 <tr>
@@ -6869,7 +6888,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td></td>
 <td></td>
 <td>001</td>
-<td colspan="2">Услуги по обеспечению деятельности акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
+<td>Услуги по обеспечению деятельности акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
 <td>22 810</td>
 </tr>
 <tr>
@@ -6877,7 +6896,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td></td>
 <td></td>
 <td>022</td>
-<td colspan="2">Капитальные расходы государственных органов</td>
+<td>Капитальные расходы государственных органов</td>
 <td>600</td>
 </tr>
 <tr>
@@ -6885,7 +6904,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td></td>
 <td></td>
 <td>032</td>
-<td colspan="2">Капитальные расходы подведомственных государственных учреждений и организаций</td>
+<td>Капитальные расходы подведомственных государственных учреждений и организаций</td>
 <td>1 000</td>
 </tr>
 <tr>
@@ -6893,7 +6912,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Образование</td>
+<td>Образование</td>
 <td>43 649</td>
 </tr>
 <tr>
@@ -6901,7 +6920,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>1</td>
 <td></td>
 <td></td>
-<td colspan="2">Дошкольное воспитание и обучение</td>
+<td>Дошкольное воспитание и обучение</td>
 <td>43 649</td>
 </tr>
 <tr>
@@ -6909,7 +6928,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td></td>
 <td>123</td>
 <td></td>
-<td colspan="2">Аппарат акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
+<td>Аппарат акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
 <td>43 649</td>
 </tr>
 <tr>
@@ -6917,7 +6936,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td></td>
 <td></td>
 <td>004</td>
-<td colspan="2">Поддержка организаций дошкольного воспитания и обучения</td>
+<td>Поддержка организаций дошкольного воспитания и обучения</td>
 <td>3 000</td>
 </tr>
 <tr>
@@ -6925,7 +6944,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td></td>
 <td></td>
 <td>041</td>
-<td colspan="2">Реализация государственного образовательного заказа в дошкольных организациях образования</td>
+<td>Реализация государственного образовательного заказа в дошкольных организациях образования</td>
 <td>40 649</td>
 </tr>
 <tr>
@@ -6933,7 +6952,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Сельский округ &quot;Актюбе&quot; Отрарского района</td>
+<td>Сельский округ &quot;Актюбе&quot; Отрарского района</td>
 <td>42 950</td>
 </tr>
 <tr>
@@ -6941,7 +6960,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Государственные услуги общего характера</td>
+<td>Государственные услуги общего характера</td>
 <td>18 588</td>
 </tr>
 <tr>
@@ -6949,7 +6968,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>1</td>
 <td></td>
 <td></td>
-<td colspan="2">Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
+<td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
 <td>18 588</td>
 </tr>
 <tr>
@@ -6957,7 +6976,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td></td>
 <td>123</td>
 <td></td>
-<td colspan="2">Аппарат акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
+<td>Аппарат акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
 <td>18 588</td>
 </tr>
 <tr>
@@ -6965,7 +6984,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td></td>
 <td></td>
 <td>001</td>
-<td colspan="2">Услуги по обеспечению деятельности акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
+<td>Услуги по обеспечению деятельности акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
 <td>18 388</td>
 </tr>
 <tr>
@@ -6973,7 +6992,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td></td>
 <td></td>
 <td>022</td>
-<td colspan="2">Капитальные расходы государственных органов</td>
+<td>Капитальные расходы государственных органов</td>
 <td>200</td>
 </tr>
 <tr>
@@ -6981,7 +7000,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Образование</td>
+<td>Образование</td>
 <td>24 362</td>
 </tr>
 <tr>
@@ -6989,7 +7008,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>1</td>
 <td></td>
 <td></td>
-<td colspan="2">Дошкольное воспитание и обучение</td>
+<td>Дошкольное воспитание и обучение</td>
 <td>24 362</td>
 </tr>
 <tr>
@@ -6997,7 +7016,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td></td>
 <td>123</td>
 <td></td>
-<td colspan="2">Аппарат акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
+<td>Аппарат акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
 <td>24 362</td>
 </tr>
 <tr>
@@ -7005,7 +7024,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td></td>
 <td></td>
 <td>041</td>
-<td colspan="2">Реализация государственного образовательного заказа в дошкольных организациях образования</td>
+<td>Реализация государственного образовательного заказа в дошкольных организациях образования</td>
 <td>24 362</td>
 </tr>
 <tr>
@@ -7013,7 +7032,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Сельский округ &quot;Когам&quot; Отрарского района</td>
+<td>Сельский округ &quot;Когам&quot; Отрарского района</td>
 <td>67 070</td>
 </tr>
 <tr>
@@ -7021,7 +7040,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Государственные услуги общего характера</td>
+<td>Государственные услуги общего характера</td>
 <td>21 955</td>
 </tr>
 <tr>
@@ -7029,7 +7048,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>1</td>
 <td></td>
 <td></td>
-<td colspan="2">Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
+<td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
 <td>21 955</td>
 </tr>
 <tr>
@@ -7037,7 +7056,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td></td>
 <td>123</td>
 <td></td>
-<td colspan="2">Аппарат акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
+<td>Аппарат акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
 <td>21 955</td>
 </tr>
 <tr>
@@ -7045,7 +7064,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td></td>
 <td></td>
 <td>001</td>
-<td colspan="2">Услуги по обеспечению деятельности акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
+<td>Услуги по обеспечению деятельности акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
 <td>21 690</td>
 </tr>
 <tr>
@@ -7053,7 +7072,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td></td>
 <td></td>
 <td>022</td>
-<td colspan="2">Капитальные расходы государственных органов</td>
+<td>Капитальные расходы государственных органов</td>
 <td>265</td>
 </tr>
 <tr>
@@ -7061,7 +7080,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Образование</td>
+<td>Образование</td>
 <td>45 115</td>
 </tr>
 <tr>
@@ -7069,7 +7088,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>1</td>
 <td></td>
 <td></td>
-<td colspan="2">Дошкольное воспитание и обучение</td>
+<td>Дошкольное воспитание и обучение</td>
 <td>45 115</td>
 </tr>
 <tr>
@@ -7077,7 +7096,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td></td>
 <td>123</td>
 <td></td>
-<td colspan="2">Аппарат акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
+<td>Аппарат акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
 <td>45 115</td>
 </tr>
 <tr>
@@ -7085,7 +7104,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td></td>
 <td></td>
 <td>004</td>
-<td colspan="2">Поддержка организаций дошкольного воспитания и обучения</td>
+<td>Поддержка организаций дошкольного воспитания и обучения</td>
 <td>4 846</td>
 </tr>
 <tr>
@@ -7093,7 +7112,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td></td>
 <td></td>
 <td>041</td>
-<td colspan="2">Реализация государственного образовательного заказа в дошкольных организациях образования</td>
+<td>Реализация государственного образовательного заказа в дошкольных организациях образования</td>
 <td>40 269</td>
 </tr>
 <tr>
@@ -7101,7 +7120,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Сельский округ &quot;Каргалы&quot; Отрарского района</td>
+<td>Сельский округ &quot;Каргалы&quot; Отрарского района</td>
 <td>68 073</td>
 </tr>
 <tr>
@@ -7109,7 +7128,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Государственные услуги общего характера</td>
+<td>Государственные услуги общего характера</td>
 <td>19 662</td>
 </tr>
 <tr>
@@ -7117,7 +7136,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>1</td>
 <td></td>
 <td></td>
-<td colspan="2">Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
+<td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
 <td>19 662</td>
 </tr>
 <tr>
@@ -7125,7 +7144,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td></td>
 <td>123</td>
 <td></td>
-<td colspan="2">Аппарат акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
+<td>Аппарат акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
 <td>19 662</td>
 </tr>
 <tr>
@@ -7133,7 +7152,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td></td>
 <td></td>
 <td>001</td>
-<td colspan="2">Услуги по обеспечению деятельности акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
+<td>Услуги по обеспечению деятельности акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
 <td>19 362</td>
 </tr>
 <tr>
@@ -7141,7 +7160,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td></td>
 <td></td>
 <td>022</td>
-<td colspan="2">Капитальные расходы государственных органов</td>
+<td>Капитальные расходы государственных органов</td>
 <td>300</td>
 </tr>
 <tr>
@@ -7149,7 +7168,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Образование</td>
+<td>Образование</td>
 <td>48 411</td>
 </tr>
 <tr>
@@ -7157,7 +7176,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td>1</td>
 <td></td>
 <td></td>
-<td colspan="2">Дошкольное воспитание и обучение</td>
+<td>Дошкольное воспитание и обучение</td>
 <td>48 411</td>
 </tr>
 <tr>
@@ -7165,7 +7184,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td></td>
 <td>123</td>
 <td></td>
-<td colspan="2">Аппарат акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
+<td>Аппарат акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
 <td>48 411</td>
 </tr>
 <tr>
@@ -7173,7 +7192,7 @@ source: https://zan.gov.kz/client/#!/doc/108896/rus/19.06.2017
 <td></td>
 <td></td>
 <td>041</td>
-<td colspan="2">Реализация государственного образовательного заказа в дошкольных организациях образования</td>
+<td>Реализация государственного образовательного заказа в дошкольных организациях образования</td>
 <td>48 411</td>
 </tr>
 </table>
