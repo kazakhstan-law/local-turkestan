@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/108639/rus/19.06.2017
+source: https://zan.gov.kz/client/#!/doc/108639/rus/31.08.2017
 ---
 
 > *Приложение 3 к решению*  
@@ -10,7 +10,7 @@ source: https://zan.gov.kz/client/#!/doc/108639/rus/19.06.2017
 
 # Городской бюджет на 2019 год
 
-> *Сноска. Приложение 3 - в редакции решения Туркестанского городского маслихата Южно-Казахстанской области от 19.06.2017 № 16/92-VI (вводится в действие с 01.01.2017).*
+> *Сноска. Приложение 3 - в редакции решения Туркестанского городского маслихата Южно-Казахстанской области от 31.08.2017 № 18/104-VI (вводится в действие с 01.01.2017).*
 
 <table>
 <tr>
@@ -34,7 +34,7 @@ source: https://zan.gov.kz/client/#!/doc/108639/rus/19.06.2017
 <td colspan="2"></td>
 <td colspan="4"></td>
 <td colspan="2">1. Доходы</td>
-<td>34 100 138</td>
+<td>33 874 702</td>
 </tr>
 <tr>
 <td></td>
@@ -250,7 +250,7 @@ source: https://zan.gov.kz/client/#!/doc/108639/rus/19.06.2017
 <td colspan="2"></td>
 <td colspan="4"></td>
 <td colspan="2">Поступления трансфертов</td>
-<td>31 703 492</td>
+<td>31 478 056</td>
 </tr>
 <tr>
 <td></td>
@@ -258,7 +258,7 @@ source: https://zan.gov.kz/client/#!/doc/108639/rus/19.06.2017
 <td colspan="2">2</td>
 <td colspan="4"></td>
 <td colspan="2">Трансферты из вышестоящих органов государственного управления</td>
-<td>31 703 492</td>
+<td>31 478 056</td>
 </tr>
 <tr>
 <td></td>
@@ -266,7 +266,7 @@ source: https://zan.gov.kz/client/#!/doc/108639/rus/19.06.2017
 <td colspan="2"></td>
 <td colspan="4">2</td>
 <td colspan="2">Трансферты из областного бюджета</td>
-<td>31 703 492</td>
+<td>31 478 056</td>
 </tr>
 <tr>
 <td colspan="11">
@@ -283,7 +283,7 @@ source: https://zan.gov.kz/client/#!/doc/108639/rus/19.06.2017
 <td colspan="2"></td>
 <td colspan="4"></td>
 <td colspan="2">2. Затраты</td>
-<td>34 100 138</td>
+<td>33 874 702</td>
 </tr>
 <tr>
 <td>01</td>
@@ -971,7 +971,7 @@ source: https://zan.gov.kz/client/#!/doc/108639/rus/19.06.2017
 <td colspan="2"></td>
 <td colspan="4"></td>
 <td colspan="2">Жилищно-коммунальное хозяйство</td>
-<td>4 003 894</td>
+<td>3 778 458</td>
 </tr>
 <tr>
 <td></td>
@@ -1083,7 +1083,7 @@ source: https://zan.gov.kz/client/#!/doc/108639/rus/19.06.2017
 <td colspan="2"></td>
 <td colspan="4"></td>
 <td colspan="2">Коммунальное хозяйство</td>
-<td>1 646 185</td>
+<td>1 420 749</td>
 </tr>
 <tr>
 <td></td>
@@ -1091,7 +1091,7 @@ source: https://zan.gov.kz/client/#!/doc/108639/rus/19.06.2017
 <td colspan="2">497</td>
 <td colspan="4"></td>
 <td colspan="2">Отдел жилищно-коммунального хозяйства района (города областного значения)</td>
-<td>1 646 185</td>
+<td>1 420 749</td>
 </tr>
 <tr>
 <td></td>
@@ -1115,7 +1115,7 @@ source: https://zan.gov.kz/client/#!/doc/108639/rus/19.06.2017
 <td colspan="2"></td>
 <td colspan="4">058</td>
 <td colspan="2">Развитие системы водоснабжения и водоотведения в сельских населенных пунктах</td>
-<td>1 456 185</td>
+<td>1 230 749</td>
 </tr>
 <tr>
 <td></td>
