@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/108891/rus/29.06.2017
+source: https://zan.gov.kz/client/#!/doc/108891/rus/26.09.2017
 ---
 
 > *Приложение 3 к решению*  
@@ -9,7 +9,7 @@ source: https://zan.gov.kz/client/#!/doc/108891/rus/29.06.2017
 
 # Районный бюджет на 2019 год
 
-> *Сноска. Приложение 3 - в редакции решения Сайрамского районного маслихата Южно-Казахстанской области от 14.04.2017 № 14-98/VI (вводится в действие с 01.01.2017).*
+> *Сноска. Приложение 3 - в редакции решения Сайрамского районного маслихата Южно-Казахстанской области от 26.09.2017 № 19-125/VI (вводится в действие с 01.01.2017).*
 
 <table>
 <tr>
@@ -30,16 +30,16 @@ source: https://zan.gov.kz/client/#!/doc/108891/rus/29.06.2017
 <td colspan="6">Наименование</td>
 </tr>
 <tr>
-<td colspan="8">1</td>
-<td colspan="6">2</td>
-<td colspan="2">3</td>
+<th colspan="8">1</th>
+<th colspan="6">2</th>
+<th colspan="2">3</th>
 </tr>
 <tr>
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="6">1. Доходы</td>
-<td colspan="2">30727596</td>
+<td colspan="2">30827596</td>
 </tr>
 <tr>
 <td colspan="3">1</td>
@@ -221,25 +221,22 @@ source: https://zan.gov.kz/client/#!/doc/108891/rus/29.06.2017
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="6">Поступления трансфертов</td>
-<td colspan="2">27374377</td>
+<td colspan="2">27474377</td>
 </tr>
 <tr>
 <td colspan="3"></td>
 <td colspan="3">02</td>
 <td colspan="2"></td>
 <td colspan="6">Трансферты из вышестоящих органов государственного управления</td>
-<td colspan="2">27374377</td>
+<td colspan="2">27474377</td>
 </tr>
 <tr>
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="2">2</td>
 <td colspan="6">Трансферты из областного бюджета</td>
-<td colspan="2">27374377</td>
+<td colspan="2">27474377</td>
 </tr>
-</table>
-
-<table>
 <tr>
 <td colspan="13">Функциональная группа</td>
 <td colspan="3" rowspan="5">Сумма, тысяч тенге</td>
@@ -272,7 +269,7 @@ source: https://zan.gov.kz/client/#!/doc/108891/rus/29.06.2017
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">2. Затраты</td>
-<td colspan="3">30727596</td>
+<td colspan="3">30827596</td>
 </tr>
 <tr>
 <td colspan="3">01</td>
@@ -944,7 +941,7 @@ source: https://zan.gov.kz/client/#!/doc/108891/rus/29.06.2017
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">Жилищно-коммунальное хозяйство</td>
-<td colspan="3">5129108</td>
+<td colspan="3">5229108</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -1032,7 +1029,7 @@ source: https://zan.gov.kz/client/#!/doc/108891/rus/29.06.2017
 <td colspan="2"></td>
 <td colspan="3">058</td>
 <td colspan="2">Развитие системы водоснабжения и водоотведения в сельских населенных пунктах</td>
-<td colspan="3">4277533</td>
+<td colspan="3">4377533</td>
 </tr>
 <tr>
 <td colspan="3"></td>
