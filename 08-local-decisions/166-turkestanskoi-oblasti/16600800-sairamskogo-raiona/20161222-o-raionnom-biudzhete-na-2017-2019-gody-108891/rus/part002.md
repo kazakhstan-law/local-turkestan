@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/108891/rus/26.09.2017
+source: https://zan.gov.kz/client/#!/doc/108891/rus/07.11.2017
 ---
 
 > *Приложение 2 к решению*  
@@ -9,7 +9,7 @@ source: https://zan.gov.kz/client/#!/doc/108891/rus/26.09.2017
 
 # Районный бюджет на 2018 год
 
-> *Сноска. Приложение 2 - в редакции решения Сайрамского районного маслихата Южно-Казахстанской области от 26.09.2017 № 19-125/VI (вводится в действие с 01.01.2017).*
+> *Сноска. Приложение 2 - в редакции решения Сайрамского районного маслихата Южно-Казахстанской области от 07.11.2017 № 20-136/VI (вводится в действие с 01.01.2017).*
 
 <table>
 <tr>
@@ -235,7 +235,7 @@ source: https://zan.gov.kz/client/#!/doc/108891/rus/26.09.2017
 <td colspan="2"></td>
 <td colspan="2">2</td>
 <td colspan="5">Трансферты из областного бюджета</td>
-<td colspan="2">21339681</td>
+<td colspan="2">21 339 681</td>
 </tr>
 <tr>
 <td colspan="10">Функциональная группа</td>
@@ -477,7 +477,7 @@ source: https://zan.gov.kz/client/#!/doc/108891/rus/26.09.2017
 <td colspan="2">122</td>
 <td colspan="2"></td>
 <td colspan="2">Аппарат акима района (города областного значения)</td>
-<td colspan="3">204654</td>
+<td colspan="3">186811</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -485,7 +485,7 @@ source: https://zan.gov.kz/client/#!/doc/108891/rus/26.09.2017
 <td colspan="2"></td>
 <td colspan="2">006</td>
 <td colspan="2">Предупреждение и ликвидация чрезвычайных ситуаций масштаба района (города областного значения)</td>
-<td colspan="3">186811</td>
+<td colspan="3">17843</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -493,7 +493,7 @@ source: https://zan.gov.kz/client/#!/doc/108891/rus/26.09.2017
 <td colspan="2"></td>
 <td colspan="2">007</td>
 <td colspan="2">Мероприятия по профилактике и тушению степных пожаров районного (городского) масштаба, а также пожаров в населенных пунктах, в которых не созданы органы государственной противопожарной службы</td>
-<td colspan="3">17843</td>
+<td colspan="3">53714</td>
 </tr>
 <tr>
 <td colspan="2">03</td>
@@ -525,7 +525,7 @@ source: https://zan.gov.kz/client/#!/doc/108891/rus/26.09.2017
 <td colspan="2"></td>
 <td colspan="2">021</td>
 <td colspan="2">Обеспечение безопасности дорожного движения в населенных пунктах</td>
-<td colspan="3">53714</td>
+<td colspan="3">17 836 069</td>
 </tr>
 <tr>
 <td colspan="2">04</td>
@@ -533,7 +533,7 @@ source: https://zan.gov.kz/client/#!/doc/108891/rus/26.09.2017
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Образование</td>
-<td colspan="3">17836069</td>
+<td colspan="3">2 991 786</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -541,7 +541,7 @@ source: https://zan.gov.kz/client/#!/doc/108891/rus/26.09.2017
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Дошкольное воспитание и обучение</td>
-<td colspan="3">2991786</td>
+<td colspan="3">213 356</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -549,7 +549,7 @@ source: https://zan.gov.kz/client/#!/doc/108891/rus/26.09.2017
 <td colspan="2">123</td>
 <td colspan="2"></td>
 <td colspan="2">Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td colspan="3">213356</td>
+<td colspan="3">213 356</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -557,7 +557,7 @@ source: https://zan.gov.kz/client/#!/doc/108891/rus/26.09.2017
 <td colspan="2"></td>
 <td colspan="2">004</td>
 <td colspan="2">Обеспечение деятельности организаций дошкольного воспитания и обучения</td>
-<td colspan="3">213356</td>
+<td colspan="3">2 778 430</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -565,7 +565,7 @@ source: https://zan.gov.kz/client/#!/doc/108891/rus/26.09.2017
 <td colspan="2">464</td>
 <td colspan="2"></td>
 <td colspan="2">Отдел образования района (города областного значения)</td>
-<td colspan="3">2778430</td>
+<td colspan="3">24541783</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -573,7 +573,7 @@ source: https://zan.gov.kz/client/#!/doc/108891/rus/26.09.2017
 <td colspan="2"></td>
 <td colspan="2">009</td>
 <td colspan="2">Обеспечение деятельности организаций дошкольного воспитания и обучения</td>
-<td colspan="3">90157</td>
+<td colspan="3">90 157</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -581,7 +581,7 @@ source: https://zan.gov.kz/client/#!/doc/108891/rus/26.09.2017
 <td colspan="2"></td>
 <td colspan="2">040</td>
 <td colspan="2">Реализация государственного образовательного заказа в дошкольных организациях образования</td>
-<td colspan="3">2688273</td>
+<td colspan="3">2 688 273</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -589,7 +589,7 @@ source: https://zan.gov.kz/client/#!/doc/108891/rus/26.09.2017
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Начальное, основное среднее и общее среднее образование</td>
-<td colspan="3">13575445</td>
+<td colspan="3">13 575 445</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -613,7 +613,7 @@ source: https://zan.gov.kz/client/#!/doc/108891/rus/26.09.2017
 <td colspan="2">464</td>
 <td colspan="2"></td>
 <td colspan="2">Отдел образования района (города областного значения)</td>
-<td colspan="3">12554637</td>
+<td colspan="3">12 554 637</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -621,7 +621,7 @@ source: https://zan.gov.kz/client/#!/doc/108891/rus/26.09.2017
 <td colspan="2"></td>
 <td colspan="2">003</td>
 <td colspan="2">Общеобразовательное обучение</td>
-<td colspan="3">12421605</td>
+<td colspan="3">12 421 605</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1685,7 +1685,7 @@ source: https://zan.gov.kz/client/#!/doc/108891/rus/26.09.2017
 <td colspan="2"></td>
 <td colspan="2">043</td>
 <td colspan="2">Реализация мер по содействию экономическому развитию регионов в рамках Программы «Развитие регионов»</td>
-<td colspan="3">108024</td>
+<td colspan="3">9</td>
 </tr>
 <tr>
 <td colspan="2">14</td>
@@ -1717,7 +1717,7 @@ source: https://zan.gov.kz/client/#!/doc/108891/rus/26.09.2017
 <td colspan="2"></td>
 <td colspan="2">021</td>
 <td colspan="2">Обслуживание долга местных исполнительных органов по выплате вознаграждений и иных платежей по займам из областного бюджета</td>
-<td colspan="3">9</td>
+<td colspan="3">290132</td>
 </tr>
 <tr>
 <td colspan="2">15</td>
@@ -1725,7 +1725,7 @@ source: https://zan.gov.kz/client/#!/doc/108891/rus/26.09.2017
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Трансферты</td>
-<td colspan="3">290132</td>
+<td colspan="3">9001</td>
 </tr>
 <tr>
 <td colspan="2"></td>
