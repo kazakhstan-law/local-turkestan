@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/108514/kaz/03.11.2017
+source: https://zan.gov.kz/client/#!/doc/108514/kaz/08.12.2017
 ---
 
 > *Түлкібас аудандық мәслихатының*  
@@ -2486,19 +2486,20 @@ source: https://zan.gov.kz/client/#!/doc/108514/kaz/03.11.2017
 </tr>
 </table>
 
-> *Түлкібас аудандық мәслихатының*  
-> *2016 жылғы 21 желтоқсандағы №8/1-06*  
+> *Түлкібас аудандық*  
+> *мәслихатының 2016 жылғы*  
+> *21 желтоқсандағы №8/1-06*  
 > *шешіміне 6-қосымша*
 
 # 2017-2019 жылдарға арналған аудандық бюджетте әрбір ауылдық, поселкелік округтердің бюджеттік бағдарламаларының тізбесі
 
-> *Ескерту. 6-қосымша жаңа редакцияда - Оңтүстік Қазақстан облысы Түлкібас аудандық мәслихатының 03.11.2017 № 19/1-06 шешімімен (01.01.2017 бастап қолданысқа енгізіледі).*
+> *Ескерту. 6-қосымша жаңа редакцияда - Оңтүстік Қазақстан облысы Түлкібас аудандық мәслихатының 08.12.2017 № 20/1-06 шешімімен (01.01.2017 бастап қолданысқа енгізіледі).*
 
 <table>
 <tr>
 <td colspan="4">Функционалдық топ</td>
 <td>Атауы</td>
-<td colspan="6" rowspan="2">Сомасы, мың теңге</td>
+<td colspan="9" rowspan="2">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
@@ -2509,8 +2510,8 @@ source: https://zan.gov.kz/client/#!/doc/108514/kaz/03.11.2017
 <td></td>
 <td colspan="3">Бюджеттік бағдарламалардың әкiмшiсi</td>
 <td colspan="2" rowspan="2">2017 жыл</td>
-<td colspan="2" rowspan="2">2018 жыл</td>
-<td colspan="2" rowspan="2">2019 жыл</td>
+<td colspan="3" rowspan="2">2018 жыл</td>
+<td colspan="4" rowspan="2">2019 жыл</td>
 </tr>
 <tr>
 <td></td>
@@ -2522,8 +2523,8 @@ source: https://zan.gov.kz/client/#!/doc/108514/kaz/03.11.2017
 <th colspan="4">1</th>
 <th>2</th>
 <th colspan="2">3</th>
-<th colspan="2">4</th>
-<th colspan="2">5</th>
+<th colspan="3">4</th>
+<th colspan="4">5</th>
 </tr>
 <tr>
 <td>01</td>
@@ -2531,9 +2532,9 @@ source: https://zan.gov.kz/client/#!/doc/108514/kaz/03.11.2017
 <td></td>
 <td></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td colspan="2">378 899</td>
-<td colspan="2">385 858</td>
-<td colspan="2">398 910</td>
+<td colspan="2">378 335</td>
+<td colspan="3">385 858</td>
+<td colspan="4">398 910</td>
 </tr>
 <tr>
 <td></td>
@@ -2541,9 +2542,9 @@ source: https://zan.gov.kz/client/#!/doc/108514/kaz/03.11.2017
 <td></td>
 <td></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td colspan="2">378 899</td>
-<td colspan="2">385 858</td>
-<td colspan="2">398 910</td>
+<td colspan="2">378 335</td>
+<td colspan="3">385 858</td>
+<td colspan="4">398 910</td>
 </tr>
 <tr>
 <td></td>
@@ -2551,9 +2552,9 @@ source: https://zan.gov.kz/client/#!/doc/108514/kaz/03.11.2017
 <td>123</td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td colspan="2">378 899</td>
-<td colspan="2">385 858</td>
-<td colspan="2">398 910</td>
+<td colspan="2">378 335</td>
+<td colspan="3">385 858</td>
+<td colspan="4">398 910</td>
 </tr>
 <tr>
 <td></td>
@@ -2561,9 +2562,9 @@ source: https://zan.gov.kz/client/#!/doc/108514/kaz/03.11.2017
 <td></td>
 <td>001</td>
 <td>Қаладағы аудан, аудандық маңызы бар қаланың, кент, ауыл, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td colspan="2">342 637</td>
-<td colspan="2">347 543</td>
-<td colspan="2">360 595</td>
+<td colspan="2">342 073</td>
+<td colspan="3">347 543</td>
+<td colspan="4">360 595</td>
 </tr>
 <tr>
 <td></td>
@@ -2571,9 +2572,9 @@ source: https://zan.gov.kz/client/#!/doc/108514/kaz/03.11.2017
 <td></td>
 <td></td>
 <td>Балықты ауыл округі</td>
-<td colspan="2">21 407</td>
-<td colspan="2">20 316</td>
-<td colspan="2">20 468</td>
+<td colspan="2">21 347</td>
+<td colspan="3">20 316</td>
+<td colspan="4">20 468</td>
 </tr>
 <tr>
 <td></td>
@@ -2582,8 +2583,8 @@ source: https://zan.gov.kz/client/#!/doc/108514/kaz/03.11.2017
 <td></td>
 <td>Майлыкент ауыл округі</td>
 <td colspan="2">38 424</td>
-<td colspan="2">40 413</td>
-<td colspan="2">47 076</td>
+<td colspan="3">40 413</td>
+<td colspan="4">47 076</td>
 </tr>
 <tr>
 <td></td>
@@ -2592,8 +2593,8 @@ source: https://zan.gov.kz/client/#!/doc/108514/kaz/03.11.2017
 <td></td>
 <td>Түлкібас поселкелік округ</td>
 <td colspan="2">34 297</td>
-<td colspan="2">36 132</td>
-<td colspan="2">36 997</td>
+<td colspan="3">36 132</td>
+<td colspan="4">36 997</td>
 </tr>
 <tr>
 <td></td>
@@ -2601,9 +2602,9 @@ source: https://zan.gov.kz/client/#!/doc/108514/kaz/03.11.2017
 <td></td>
 <td></td>
 <td>Шақпақ ауыл округі</td>
-<td colspan="2">21 326</td>
-<td colspan="2">22 417</td>
-<td colspan="2">23 063</td>
+<td colspan="2">21 266</td>
+<td colspan="3">22 417</td>
+<td colspan="4">23 063</td>
 </tr>
 <tr>
 <td></td>
@@ -2611,9 +2612,9 @@ source: https://zan.gov.kz/client/#!/doc/108514/kaz/03.11.2017
 <td></td>
 <td></td>
 <td>Машат ауыл округі</td>
-<td colspan="2">23 075</td>
-<td colspan="2">24 233</td>
-<td colspan="2">24 781</td>
+<td colspan="2">22 988</td>
+<td colspan="3">24 233</td>
+<td colspan="4">24 781</td>
 </tr>
 <tr>
 <td></td>
@@ -2621,9 +2622,9 @@ source: https://zan.gov.kz/client/#!/doc/108514/kaz/03.11.2017
 <td></td>
 <td></td>
 <td>Жабағылы ауыл округі</td>
-<td colspan="2">16 712</td>
-<td colspan="2">16 506</td>
-<td colspan="2">16 706</td>
+<td colspan="2">16 697</td>
+<td colspan="3">16 506</td>
+<td colspan="4">16 706</td>
 </tr>
 <tr>
 <td></td>
@@ -2631,9 +2632,9 @@ source: https://zan.gov.kz/client/#!/doc/108514/kaz/03.11.2017
 <td></td>
 <td></td>
 <td>Тастұмсық ауыл округі</td>
-<td colspan="2">20 731</td>
-<td colspan="2">21 783</td>
-<td colspan="2">22 368</td>
+<td colspan="2">20 645</td>
+<td colspan="3">21 783</td>
+<td colspan="4">22 368</td>
 </tr>
 <tr>
 <td></td>
@@ -2642,8 +2643,8 @@ source: https://zan.gov.kz/client/#!/doc/108514/kaz/03.11.2017
 <td></td>
 <td>Рысқұлов ауыл округі</td>
 <td colspan="2">23 307</td>
-<td colspan="2">21 216</td>
-<td colspan="2">21 634</td>
+<td colspan="3">21 216</td>
+<td colspan="4">21 634</td>
 </tr>
 <tr>
 <td></td>
@@ -2652,8 +2653,8 @@ source: https://zan.gov.kz/client/#!/doc/108514/kaz/03.11.2017
 <td></td>
 <td>Мичурин ауыл округі</td>
 <td colspan="2">19 597</td>
-<td colspan="2">19 670</td>
-<td colspan="2">19 974</td>
+<td colspan="3">19 670</td>
+<td colspan="4">19 974</td>
 </tr>
 <tr>
 <td></td>
@@ -2662,8 +2663,8 @@ source: https://zan.gov.kz/client/#!/doc/108514/kaz/03.11.2017
 <td></td>
 <td>Кемербастау ауыл округі</td>
 <td colspan="2">19 453</td>
-<td colspan="2">20 058</td>
-<td colspan="2">20 599</td>
+<td colspan="3">20 058</td>
+<td colspan="4">20 599</td>
 </tr>
 <tr>
 <td></td>
@@ -2672,8 +2673,8 @@ source: https://zan.gov.kz/client/#!/doc/108514/kaz/03.11.2017
 <td></td>
 <td>Арыс ауыл округі</td>
 <td colspan="2">18 813</td>
-<td colspan="2">18 871</td>
-<td colspan="2">19 286</td>
+<td colspan="3">18 871</td>
+<td colspan="4">19 286</td>
 </tr>
 <tr>
 <td></td>
@@ -2681,9 +2682,9 @@ source: https://zan.gov.kz/client/#!/doc/108514/kaz/03.11.2017
 <td></td>
 <td></td>
 <td>Акбиік ауыл округі</td>
-<td colspan="2">18 679</td>
-<td colspan="2">19 501</td>
-<td colspan="2">19 940</td>
+<td colspan="2">18 619</td>
+<td colspan="3">19 501</td>
+<td colspan="4">19 940</td>
 </tr>
 <tr>
 <td></td>
@@ -2691,9 +2692,9 @@ source: https://zan.gov.kz/client/#!/doc/108514/kaz/03.11.2017
 <td></td>
 <td></td>
 <td>Жаскешу ауыл округі</td>
-<td colspan="2">24 397</td>
-<td colspan="2">23 451</td>
-<td colspan="2">23 862</td>
+<td colspan="2">24 317</td>
+<td colspan="3">23 451</td>
+<td colspan="4">23 862</td>
 </tr>
 <tr>
 <td></td>
@@ -2701,9 +2702,9 @@ source: https://zan.gov.kz/client/#!/doc/108514/kaz/03.11.2017
 <td></td>
 <td></td>
 <td>Келтемашат ауыл округі</td>
-<td colspan="2">19 058</td>
-<td colspan="2">19 026</td>
-<td colspan="2">19 423</td>
+<td colspan="2">19 008</td>
+<td colspan="3">19 026</td>
+<td colspan="4">19 423</td>
 </tr>
 <tr>
 <td></td>
@@ -2711,9 +2712,9 @@ source: https://zan.gov.kz/client/#!/doc/108514/kaz/03.11.2017
 <td></td>
 <td></td>
 <td>Састөбе поселкелік округ</td>
-<td colspan="2">23 361</td>
-<td colspan="2">23 950</td>
-<td colspan="2">24 418</td>
+<td colspan="2">23 295</td>
+<td colspan="3">23 950</td>
+<td colspan="4">24 418</td>
 </tr>
 <tr>
 <td></td>
@@ -2722,8 +2723,8 @@ source: https://zan.gov.kz/client/#!/doc/108514/kaz/03.11.2017
 <td>022</td>
 <td>Мемлекеттік органның күрделі шығыстары</td>
 <td colspan="2">35 047</td>
-<td colspan="2">0</td>
-<td colspan="2">0</td>
+<td colspan="3">0</td>
+<td colspan="4">0</td>
 </tr>
 <tr>
 <td></td>
@@ -2732,8 +2733,8 @@ source: https://zan.gov.kz/client/#!/doc/108514/kaz/03.11.2017
 <td></td>
 <td>Шақпақ ауыл округі</td>
 <td colspan="2">20 219</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td></td>
@@ -2742,8 +2743,8 @@ source: https://zan.gov.kz/client/#!/doc/108514/kaz/03.11.2017
 <td></td>
 <td>Машат ауыл округі</td>
 <td colspan="2">300</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td></td>
@@ -2752,8 +2753,8 @@ source: https://zan.gov.kz/client/#!/doc/108514/kaz/03.11.2017
 <td></td>
 <td>Жабағылы ауыл округі</td>
 <td colspan="2">300</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td></td>
@@ -2762,8 +2763,8 @@ source: https://zan.gov.kz/client/#!/doc/108514/kaz/03.11.2017
 <td></td>
 <td>Мичурин ауыл округі</td>
 <td colspan="2">13 628</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td></td>
@@ -2772,8 +2773,8 @@ source: https://zan.gov.kz/client/#!/doc/108514/kaz/03.11.2017
 <td></td>
 <td>Арыс ауыл округі</td>
 <td colspan="2">300</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td></td>
@@ -2782,8 +2783,8 @@ source: https://zan.gov.kz/client/#!/doc/108514/kaz/03.11.2017
 <td></td>
 <td>Акбиік ауыл округі</td>
 <td colspan="2">300</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td></td>
@@ -2792,8 +2793,8 @@ source: https://zan.gov.kz/client/#!/doc/108514/kaz/03.11.2017
 <td></td>
 <td>Тастұмсық ауыл округі</td>
 <td colspan="2">0</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td></td>
@@ -2802,8 +2803,8 @@ source: https://zan.gov.kz/client/#!/doc/108514/kaz/03.11.2017
 <td>032</td>
 <td>Ведомстволық бағыныстағы мемлекеттік мекемелерінің және ұйымдарының күрделі шығыстары</td>
 <td colspan="2">1 215</td>
-<td colspan="2">38 315</td>
-<td colspan="2">38 315</td>
+<td colspan="3">38 315</td>
+<td colspan="4">38 315</td>
 </tr>
 <tr>
 <td></td>
@@ -2812,8 +2813,8 @@ source: https://zan.gov.kz/client/#!/doc/108514/kaz/03.11.2017
 <td></td>
 <td>Шакпак ауыл округі</td>
 <td colspan="2">1 215</td>
-<td colspan="2">38 315</td>
-<td colspan="2">38 315</td>
+<td colspan="3">38 315</td>
+<td colspan="4">38 315</td>
 </tr>
 <tr>
 <td>04</td>
@@ -2821,9 +2822,9 @@ source: https://zan.gov.kz/client/#!/doc/108514/kaz/03.11.2017
 <td></td>
 <td></td>
 <td>Бiлiм беру</td>
-<td colspan="2">242 727</td>
-<td colspan="2">254 081</td>
-<td colspan="2">258 420</td>
+<td colspan="2">242 569</td>
+<td colspan="3">254 081</td>
+<td colspan="4">258 420</td>
 </tr>
 <tr>
 <td></td>
@@ -2831,9 +2832,9 @@ source: https://zan.gov.kz/client/#!/doc/108514/kaz/03.11.2017
 <td></td>
 <td></td>
 <td>Мектепке дейiнгi тәрбие және оқыту</td>
-<td colspan="2">242 727</td>
-<td colspan="2">254 081</td>
-<td colspan="2">258 420</td>
+<td colspan="2">242 569</td>
+<td colspan="3">254 081</td>
+<td colspan="4">258 420</td>
 </tr>
 <tr>
 <td></td>
@@ -2841,9 +2842,9 @@ source: https://zan.gov.kz/client/#!/doc/108514/kaz/03.11.2017
 <td>123</td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл (село), ауылдық (селолық) округ әкімінің аппараты</td>
-<td colspan="2">242 727</td>
-<td colspan="2">254 081</td>
-<td colspan="2">258 420</td>
+<td colspan="2">242 569</td>
+<td colspan="3">254 081</td>
+<td colspan="4">258 420</td>
 </tr>
 <tr>
 <td></td>
@@ -2851,9 +2852,9 @@ source: https://zan.gov.kz/client/#!/doc/108514/kaz/03.11.2017
 <td></td>
 <td>041</td>
 <td>Мектепке дейінгі білім беру ұйымдарында мемлекеттік білім беру тапсырысын іске асыруға</td>
-<td colspan="2">242 727</td>
-<td colspan="2">254 081</td>
-<td colspan="2">258 420</td>
+<td colspan="2">242 569</td>
+<td colspan="3">254 081</td>
+<td colspan="4">258 420</td>
 </tr>
 <tr>
 <td></td>
@@ -2861,9 +2862,9 @@ source: https://zan.gov.kz/client/#!/doc/108514/kaz/03.11.2017
 <td></td>
 <td></td>
 <td>Майлыкент ауыл округі</td>
-<td colspan="2">72 935</td>
-<td colspan="2">77 322</td>
-<td colspan="2">78 232</td>
+<td colspan="2">72 835</td>
+<td colspan="3">77 322</td>
+<td colspan="4">78 232</td>
 </tr>
 <tr>
 <td></td>
@@ -2871,9 +2872,9 @@ source: https://zan.gov.kz/client/#!/doc/108514/kaz/03.11.2017
 <td></td>
 <td></td>
 <td>Шақпақ ауыл округі</td>
-<td colspan="2">25 270</td>
-<td colspan="2">26 862</td>
-<td colspan="2">27 555</td>
+<td colspan="2">25 212</td>
+<td colspan="3">26 862</td>
+<td colspan="4">27 555</td>
 </tr>
 <tr>
 <td></td>
@@ -2882,8 +2883,8 @@ source: https://zan.gov.kz/client/#!/doc/108514/kaz/03.11.2017
 <td></td>
 <td>Жаскешу ауыл округі</td>
 <td colspan="2">29 893</td>
-<td colspan="2">29 590</td>
-<td colspan="2">30 010</td>
+<td colspan="3">29 590</td>
+<td colspan="4">30 010</td>
 </tr>
 <tr>
 <td></td>
@@ -2892,8 +2893,8 @@ source: https://zan.gov.kz/client/#!/doc/108514/kaz/03.11.2017
 <td></td>
 <td>Састобе поселкелік округі</td>
 <td colspan="2">88 829</td>
-<td colspan="2">93 200</td>
-<td colspan="2">94 845</td>
+<td colspan="3">93 200</td>
+<td colspan="4">94 845</td>
 </tr>
 <tr>
 <td></td>
@@ -2902,8 +2903,8 @@ source: https://zan.gov.kz/client/#!/doc/108514/kaz/03.11.2017
 <td></td>
 <td>Мичурин ауыл округі</td>
 <td colspan="2">25 800</td>
-<td colspan="2">27 107</td>
-<td colspan="2">27 778</td>
+<td colspan="3">27 107</td>
+<td colspan="4">27 778</td>
 </tr>
 <tr>
 <td>05</td>
@@ -2912,8 +2913,8 @@ source: https://zan.gov.kz/client/#!/doc/108514/kaz/03.11.2017
 <td></td>
 <td>Денсаулық сақтау</td>
 <td colspan="2">0</td>
-<td colspan="2">75</td>
-<td colspan="2">75</td>
+<td colspan="3">75</td>
+<td colspan="4">75</td>
 </tr>
 <tr>
 <td></td>
@@ -2922,8 +2923,8 @@ source: https://zan.gov.kz/client/#!/doc/108514/kaz/03.11.2017
 <td></td>
 <td>Денсаулық сақтау саласындағы өзге де қызметтер</td>
 <td colspan="2">0</td>
-<td colspan="2">75</td>
-<td colspan="2">75</td>
+<td colspan="3">75</td>
+<td colspan="4">75</td>
 </tr>
 <tr>
 <td></td>
@@ -2932,8 +2933,8 @@ source: https://zan.gov.kz/client/#!/doc/108514/kaz/03.11.2017
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
 <td colspan="2">0</td>
-<td colspan="2">75</td>
-<td colspan="2">75</td>
+<td colspan="3">75</td>
+<td colspan="4">75</td>
 </tr>
 <tr>
 <td></td>
@@ -2942,8 +2943,8 @@ source: https://zan.gov.kz/client/#!/doc/108514/kaz/03.11.2017
 <td>002</td>
 <td>Шұғыл жағдайларда сырқаты ауыр адамдарды дәрігерлік көмек көрсететін ең жақын денсаулық сақтау ұйымына дейін жеткізуді ұйымдастыру</td>
 <td colspan="2">0</td>
-<td colspan="2">75</td>
-<td colspan="2">75</td>
+<td colspan="3">75</td>
+<td colspan="4">75</td>
 </tr>
 <tr>
 <td></td>
@@ -2952,8 +2953,8 @@ source: https://zan.gov.kz/client/#!/doc/108514/kaz/03.11.2017
 <td></td>
 <td>Машат ауыл округі</td>
 <td colspan="2">0</td>
-<td colspan="2">25</td>
-<td colspan="2">25</td>
+<td colspan="3">25</td>
+<td colspan="4">25</td>
 </tr>
 <tr>
 <td></td>
@@ -2962,8 +2963,8 @@ source: https://zan.gov.kz/client/#!/doc/108514/kaz/03.11.2017
 <td></td>
 <td>Келтемашат ауыл округі</td>
 <td colspan="2">0</td>
-<td colspan="2">25</td>
-<td colspan="2">25</td>
+<td colspan="3">25</td>
+<td colspan="4">25</td>
 </tr>
 <tr>
 <td></td>
@@ -2972,8 +2973,8 @@ source: https://zan.gov.kz/client/#!/doc/108514/kaz/03.11.2017
 <td></td>
 <td>Жабағылы ауыл округі</td>
 <td colspan="2">0</td>
-<td colspan="2">25</td>
-<td colspan="2">25</td>
+<td colspan="3">25</td>
+<td colspan="4">25</td>
 </tr>
 <tr>
 <td>07</td>
@@ -2982,8 +2983,8 @@ source: https://zan.gov.kz/client/#!/doc/108514/kaz/03.11.2017
 <td></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
 <td colspan="2">1 995</td>
-<td colspan="2">0</td>
-<td colspan="2">0</td>
+<td colspan="3">0</td>
+<td colspan="4">0</td>
 </tr>
 <tr>
 <td></td>
@@ -2992,8 +2993,8 @@ source: https://zan.gov.kz/client/#!/doc/108514/kaz/03.11.2017
 <td></td>
 <td>Елді-мекендерді көркейту</td>
 <td colspan="2">1 995</td>
-<td colspan="2">0</td>
-<td colspan="2">0</td>
+<td colspan="3">0</td>
+<td colspan="4">0</td>
 </tr>
 <tr>
 <td></td>
@@ -3002,8 +3003,8 @@ source: https://zan.gov.kz/client/#!/doc/108514/kaz/03.11.2017
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
 <td colspan="2">1 995</td>
-<td colspan="2">0</td>
-<td colspan="2">0</td>
+<td colspan="3">0</td>
+<td colspan="4">0</td>
 </tr>
 <tr>
 <td></td>
@@ -3012,8 +3013,8 @@ source: https://zan.gov.kz/client/#!/doc/108514/kaz/03.11.2017
 <td>011</td>
 <td>Елді мекендерді абаттандыру мен көгалдандыру</td>
 <td colspan="2">1 995</td>
-<td colspan="2">0</td>
-<td colspan="2">0</td>
+<td colspan="3">0</td>
+<td colspan="4">0</td>
 </tr>
 <tr>
 <td></td>
@@ -3022,8 +3023,8 @@ source: https://zan.gov.kz/client/#!/doc/108514/kaz/03.11.2017
 <td></td>
 <td>Шақпақ ауыл округі</td>
 <td colspan="2">1 320</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td></td>
@@ -3032,8 +3033,8 @@ source: https://zan.gov.kz/client/#!/doc/108514/kaz/03.11.2017
 <td></td>
 <td>Кемербастау ауыл округі</td>
 <td colspan="2">675</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td>08</td>
@@ -3042,8 +3043,8 @@ source: https://zan.gov.kz/client/#!/doc/108514/kaz/03.11.2017
 <td></td>
 <td>Мәдениет, спорт, туризм және ақпараттық кеңістiк</td>
 <td colspan="2">125</td>
-<td colspan="2">125</td>
-<td colspan="2">125</td>
+<td colspan="3">125</td>
+<td colspan="4">125</td>
 </tr>
 <tr>
 <td></td>
@@ -3052,8 +3053,8 @@ source: https://zan.gov.kz/client/#!/doc/108514/kaz/03.11.2017
 <td></td>
 <td>Спорт</td>
 <td colspan="2">125</td>
-<td colspan="2">125</td>
-<td colspan="2">125</td>
+<td colspan="3">125</td>
+<td colspan="4">125</td>
 </tr>
 <tr>
 <td></td>
@@ -3062,8 +3063,8 @@ source: https://zan.gov.kz/client/#!/doc/108514/kaz/03.11.2017
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
 <td colspan="2">125</td>
-<td colspan="2">125</td>
-<td colspan="2">125</td>
+<td colspan="3">125</td>
+<td colspan="4">125</td>
 </tr>
 <tr>
 <td></td>
@@ -3072,8 +3073,8 @@ source: https://zan.gov.kz/client/#!/doc/108514/kaz/03.11.2017
 <td>028</td>
 <td>Жергілікті деңгейде дене шынықтыру – сауықтыру және спорттық іс-шараларды іске асыру</td>
 <td colspan="2">125</td>
-<td colspan="2">125</td>
-<td colspan="2">125</td>
+<td colspan="3">125</td>
+<td colspan="4">125</td>
 </tr>
 <tr>
 <td></td>
@@ -3082,8 +3083,8 @@ source: https://zan.gov.kz/client/#!/doc/108514/kaz/03.11.2017
 <td></td>
 <td>Шақпақ ауыл округі</td>
 <td colspan="2">25</td>
-<td colspan="2">25</td>
-<td colspan="2">25</td>
+<td colspan="3">25</td>
+<td colspan="4">25</td>
 </tr>
 <tr>
 <td></td>
@@ -3092,8 +3093,8 @@ source: https://zan.gov.kz/client/#!/doc/108514/kaz/03.11.2017
 <td></td>
 <td>Майлыкент ауыл округі</td>
 <td colspan="2">50</td>
-<td colspan="2">50</td>
-<td colspan="2">50</td>
+<td colspan="3">50</td>
+<td colspan="4">50</td>
 </tr>
 <tr>
 <td></td>
@@ -3102,8 +3103,8 @@ source: https://zan.gov.kz/client/#!/doc/108514/kaz/03.11.2017
 <td></td>
 <td>Састөбе поселкелік округ</td>
 <td colspan="2">50</td>
-<td colspan="2">50</td>
-<td colspan="2">50</td>
+<td colspan="3">50</td>
+<td colspan="4">50</td>
 </tr>
 </table>
 
