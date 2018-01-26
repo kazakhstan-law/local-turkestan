@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/117215/rus/21.12.2017
+source: https://zan.gov.kz/client/#!/doc/117215/rus/26.01.2018
 ---
 
 > *Приложение 3 к решению*  
@@ -9,6 +9,8 @@ source: https://zan.gov.kz/client/#!/doc/117215/rus/21.12.2017
 > *2017 года №23/125 –VІ*
 
 # Городской бюджет на 2020 год
+
+> *Сноска. Приложение 3 - в редакции решения Туркестанского городского маслихата Южно-Казахстанской области от 26.01.2018 № 26/140-VI (вводится в действие с 01.01.2018).*
 
 <table>
 <tr>
@@ -32,7 +34,7 @@ source: https://zan.gov.kz/client/#!/doc/117215/rus/21.12.2017
 <td></td>
 <td colspan="4"></td>
 <td>1. Доходы</td>
-<td>38 733 074</td>
+<td>41 592 426</td>
 </tr>
 <tr>
 <td></td>
@@ -280,7 +282,7 @@ source: https://zan.gov.kz/client/#!/doc/117215/rus/21.12.2017
 <td></td>
 <td colspan="4"></td>
 <td>Поступления трансфертов</td>
-<td>35 818 598</td>
+<td>38 677 950</td>
 </tr>
 <tr>
 <td></td>
@@ -288,7 +290,7 @@ source: https://zan.gov.kz/client/#!/doc/117215/rus/21.12.2017
 <td>2</td>
 <td colspan="4"></td>
 <td>Трансферты из вышестоящих органов государственного управления</td>
-<td>35 818 598</td>
+<td>38 677 950</td>
 </tr>
 <tr>
 <td></td>
@@ -296,7 +298,7 @@ source: https://zan.gov.kz/client/#!/doc/117215/rus/21.12.2017
 <td></td>
 <td colspan="4">2</td>
 <td>Трансферты из областного бюджета</td>
-<td>35 818 598</td>
+<td>38 677 950</td>
 </tr>
 <tr>
 <td colspan="8">
@@ -313,7 +315,7 @@ source: https://zan.gov.kz/client/#!/doc/117215/rus/21.12.2017
 <td></td>
 <td colspan="4"></td>
 <td>2. Затраты</td>
-<td>38 733 074</td>
+<td>41 592 426</td>
 </tr>
 <tr>
 <td>01</td>
@@ -561,7 +563,7 @@ source: https://zan.gov.kz/client/#!/doc/117215/rus/21.12.2017
 <td></td>
 <td colspan="4"></td>
 <td>Образование</td>
-<td>22 789 880</td>
+<td>23 531 723</td>
 </tr>
 <tr>
 <td></td>
@@ -617,7 +619,7 @@ source: https://zan.gov.kz/client/#!/doc/117215/rus/21.12.2017
 <td></td>
 <td colspan="4"></td>
 <td>Начальное, основное среднее и общее среднее образование</td>
-<td>16 782 185</td>
+<td>17 524 028</td>
 </tr>
 <tr>
 <td></td>
@@ -625,7 +627,7 @@ source: https://zan.gov.kz/client/#!/doc/117215/rus/21.12.2017
 <td>464</td>
 <td colspan="4"></td>
 <td>Отдел образования района (города областного значения)</td>
-<td>15 294 272</td>
+<td>16 036 115</td>
 </tr>
 <tr>
 <td></td>
@@ -633,7 +635,7 @@ source: https://zan.gov.kz/client/#!/doc/117215/rus/21.12.2017
 <td></td>
 <td colspan="4">003</td>
 <td>Общеобразовательное обучение</td>
-<td>15 041 909</td>
+<td>15 783 752</td>
 </tr>
 <tr>
 <td></td>
@@ -1369,7 +1371,7 @@ source: https://zan.gov.kz/client/#!/doc/117215/rus/21.12.2017
 <td></td>
 <td colspan="4"></td>
 <td>Топливно-энергетический комплекс и недропользование</td>
-<td>7 680 761</td>
+<td>9 680 761</td>
 </tr>
 <tr>
 <td></td>
@@ -1377,7 +1379,7 @@ source: https://zan.gov.kz/client/#!/doc/117215/rus/21.12.2017
 <td></td>
 <td colspan="4"></td>
 <td>Прочие услуги в области топливно-энергетического комплекса и недропользования</td>
-<td>7 680 761</td>
+<td>9 680 761</td>
 </tr>
 <tr>
 <td></td>
@@ -1385,7 +1387,7 @@ source: https://zan.gov.kz/client/#!/doc/117215/rus/21.12.2017
 <td>497</td>
 <td colspan="4"></td>
 <td>Отдел жилищно-коммунального хозяйства района (города областного значения)</td>
-<td>7 680 761</td>
+<td>9 680 761</td>
 </tr>
 <tr>
 <td></td>
@@ -1393,7 +1395,7 @@ source: https://zan.gov.kz/client/#!/doc/117215/rus/21.12.2017
 <td></td>
 <td colspan="4">038</td>
 <td>Развитие газотранспортной системы</td>
-<td>7 680 761</td>
+<td>9 680 761</td>
 </tr>
 <tr>
 <td>10</td>
@@ -1465,7 +1467,7 @@ source: https://zan.gov.kz/client/#!/doc/117215/rus/21.12.2017
 <td></td>
 <td colspan="4">009</td>
 <td>Проведение ветеринарных мероприятий по энзоотическим болезням животных</td>
-<td>34 000</td>
+<td>38 000</td>
 </tr>
 <tr>
 <td></td>
@@ -1481,7 +1483,7 @@ source: https://zan.gov.kz/client/#!/doc/117215/rus/21.12.2017
 <td></td>
 <td colspan="4">011</td>
 <td>Проведение противоэпизоотических мероприятий</td>
-<td>273 693</td>
+<td>269 693</td>
 </tr>
 <tr>
 <td></td>
@@ -1753,7 +1755,7 @@ source: https://zan.gov.kz/client/#!/doc/117215/rus/21.12.2017
 <td></td>
 <td colspan="4"></td>
 <td>Трансферты</td>
-<td>1 216 027</td>
+<td>1 333 536</td>
 </tr>
 <tr>
 <td></td>
@@ -1761,7 +1763,7 @@ source: https://zan.gov.kz/client/#!/doc/117215/rus/21.12.2017
 <td></td>
 <td colspan="4"></td>
 <td>Трансферты</td>
-<td>1 216 027</td>
+<td>1 333 536</td>
 </tr>
 <tr>
 <td></td>
@@ -1769,7 +1771,7 @@ source: https://zan.gov.kz/client/#!/doc/117215/rus/21.12.2017
 <td>459</td>
 <td colspan="4"></td>
 <td>Отдел экономики и финансов района (города областного значения)</td>
-<td>1 216 027</td>
+<td>1 333 536</td>
 </tr>
 <tr>
 <td></td>
@@ -1777,7 +1779,7 @@ source: https://zan.gov.kz/client/#!/doc/117215/rus/21.12.2017
 <td></td>
 <td colspan="4">038</td>
 <td>Субвенции</td>
-<td>1 216 027</td>
+<td>1 333 536</td>
 </tr>
 <tr>
 <td></td>
