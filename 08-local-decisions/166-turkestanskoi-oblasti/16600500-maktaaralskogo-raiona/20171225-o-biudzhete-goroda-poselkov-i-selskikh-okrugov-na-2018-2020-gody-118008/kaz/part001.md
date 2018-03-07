@@ -1,27 +1,27 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/118008/kaz/25.12.2017
+source: https://zan.gov.kz/client/#!/doc/118008/kaz/07.03.2018
 ---
 
 > *Мақтарал аудандық*  
 > *мәслихатының 2017 жылғы*  
-> *25 желтоқсандағы №22-174-VI*  
-> *шешіміне 1-қосымша*
+> *25 желтоқсандағы № 22-174-VI*  
+> *шешіміне 1- қосымша*
 
 # Жетісай қаласының 2018 жылға арналған бюджеті
 
+> *Ескерту. 1-қосымша жаңа редакцияда - Оңтүстiк Қазақстан облысы Мақтаарал аудандық мәслихатының 07.03.2018 № 26-187-VI шешiмiмен (01.01.2018 бастап қолданысқа енгiзiледi).*
+
 <table>
 <tr>
-<td colspan="2">Санаты</td>
-<td></td>
+<td colspan="3">Санаты</td>
 <td></td>
 <td>Атауы</td>
 <td rowspan="3">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2">Сыныбы</td>
-<td></td>
+<td colspan="3">Сыныбы</td>
 <td></td>
 </tr>
 <tr>
@@ -40,7 +40,7 @@ source: https://zan.gov.kz/client/#!/doc/118008/kaz/25.12.2017
 <td></td>
 <td></td>
 <td>1.Кірістер</td>
-<td>1 122 128</td>
+<td>1 129 865</td>
 </tr>
 <tr>
 <td>1</td>
@@ -118,12 +118,52 @@ source: https://zan.gov.kz/client/#!/doc/118008/kaz/25.12.2017
 <td>550</td>
 </tr>
 <tr>
+<td>3</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Негізгі капиталды сатудан түсетін түсімдер</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td>01</td>
+<td></td>
+<td></td>
+<td>Мемлекеттік мекемелерге бекітілген мемлекеттік мүлікті сату</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>1</td>
+<td></td>
+<td>Мемлекеттік мекемелерге бекітілген мемлекеттік мүлікті сату</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td>03</td>
+<td></td>
+<td></td>
+<td>Жердi және материалдық емес активтердi сату</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>1</td>
+<td></td>
+<td>Жерді сату</td>
+<td>0</td>
+</tr>
+<tr>
 <td>4</td>
 <td></td>
 <td></td>
 <td></td>
 <td>Трансферттер түсімі</td>
-<td>985 713</td>
+<td>993 450</td>
 </tr>
 <tr>
 <td></td>
@@ -131,18 +171,17 @@ source: https://zan.gov.kz/client/#!/doc/118008/kaz/25.12.2017
 <td></td>
 <td></td>
 <td>Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td>985 713</td>
+<td>993 450</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="2">3</td>
 <td>Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td>985 713</td>
+<td>993 450</td>
 </tr>
 <tr>
-<td colspan="4">Функционалдық топ</td>
-<td></td>
+<td colspan="5">Функционалдық топ</td>
 <td rowspan="4">Сомасы, мың теңге</td>
 </tr>
 <tr>
@@ -172,7 +211,7 @@ source: https://zan.gov.kz/client/#!/doc/118008/kaz/25.12.2017
 <td></td>
 <td></td>
 <td>2.Шығындар</td>
-<td>1 122 128</td>
+<td>1 129 865</td>
 </tr>
 <tr>
 <td>01</td>
@@ -220,7 +259,7 @@ source: https://zan.gov.kz/client/#!/doc/118008/kaz/25.12.2017
 <td></td>
 <td></td>
 <td>Бiлiм беру</td>
-<td>989 165</td>
+<td>996 902</td>
 </tr>
 <tr>
 <td></td>
@@ -228,7 +267,7 @@ source: https://zan.gov.kz/client/#!/doc/118008/kaz/25.12.2017
 <td></td>
 <td></td>
 <td>Мектепке дейiнгi тәрбие және оқыту</td>
-<td>988 585</td>
+<td>996 322</td>
 </tr>
 <tr>
 <td></td>
@@ -236,7 +275,7 @@ source: https://zan.gov.kz/client/#!/doc/118008/kaz/25.12.2017
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>988 585</td>
+<td>996 322</td>
 </tr>
 <tr>
 <td></td>
@@ -244,7 +283,7 @@ source: https://zan.gov.kz/client/#!/doc/118008/kaz/25.12.2017
 <td></td>
 <td>004</td>
 <td>Мектепке дейінгі тәрбиелеу және оқыту және мектепке дейінгі тәрбиелеу және оқыту ұйымдарында медициналық қызмет көрсетуді ұйымдастыру</td>
-<td>988 585</td>
+<td>996 322</td>
 </tr>
 <tr>
 <td></td>
@@ -447,8 +486,7 @@ source: https://zan.gov.kz/client/#!/doc/118008/kaz/25.12.2017
 <td>0</td>
 </tr>
 <tr>
-<td colspan="4">Функционалдық топ</td>
-<td></td>
+<td colspan="5">Функционалдық топ</td>
 <td rowspan="4">Сомасы, мың теңге</td>
 </tr>
 <tr>
@@ -481,16 +519,14 @@ source: https://zan.gov.kz/client/#!/doc/118008/kaz/25.12.2017
 <td>0</td>
 </tr>
 <tr>
-<td colspan="2">Санаты</td>
-<td></td>
+<td colspan="3">Санаты</td>
 <td></td>
 <td>Атауы</td>
 <td rowspan="3">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2">Сыныбы</td>
-<td></td>
+<td colspan="3">Сыныбы</td>
 <td></td>
 </tr>
 <tr>
@@ -567,16 +603,14 @@ source: https://zan.gov.kz/client/#!/doc/118008/kaz/25.12.2017
 <td>0</td>
 </tr>
 <tr>
-<td colspan="2">Санаты</td>
-<td></td>
+<td colspan="3">Санаты</td>
 <td></td>
 <td>Атауы</td>
 <td rowspan="3">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2">Сыныбы</td>
-<td></td>
+<td colspan="3">Сыныбы</td>
 <td></td>
 </tr>
 <tr>
@@ -618,8 +652,7 @@ source: https://zan.gov.kz/client/#!/doc/118008/kaz/25.12.2017
 <td>0</td>
 </tr>
 <tr>
-<td colspan="4">Функционалдық топ</td>
-<td></td>
+<td colspan="5">Функционалдық топ</td>
 <td rowspan="4">Сомасы, мың теңге</td>
 </tr>
 <tr>
@@ -668,16 +701,14 @@ source: https://zan.gov.kz/client/#!/doc/118008/kaz/25.12.2017
 <td>0</td>
 </tr>
 <tr>
-<td colspan="2">Санаты</td>
-<td></td>
+<td colspan="3">Санаты</td>
 <td></td>
 <td>Атауы</td>
 <td rowspan="3">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2">Сыныбы</td>
-<td></td>
+<td colspan="3">Сыныбы</td>
 <td></td>
 </tr>
 <tr>
@@ -2156,10 +2187,12 @@ source: https://zan.gov.kz/client/#!/doc/118008/kaz/25.12.2017
 
 > *Мақтарал аудандық*  
 > *мәслихатының 2017 жылғы*  
-> *25 желтоқсандағы №22-174-VI*  
-> *шешіміне 4-қосымша*
+> *25 желтоқсандағы № 22-174-VI*  
+> *шешіміне 4- қосымша*
 
 # Достық ауылдық округінің 2018 жылға арналған бюджеті
+
+> *Ескерту. 4-қосымша жаңа редакцияда - Оңтүстiк Қазақстан облысы Мақтаарал аудандық мәслихатының 07.03.2018 № 26-187-VI шешiмiмен (01.01.2018 бастап қолданысқа енгiзiледi).*
 
 <table>
 <tr>
@@ -2171,8 +2204,7 @@ source: https://zan.gov.kz/client/#!/doc/118008/kaz/25.12.2017
 </tr>
 <tr>
 <td></td>
-<td colspan="2">Сыныбы</td>
-<td></td>
+<td colspan="3">Сыныбы</td>
 <td></td>
 </tr>
 <tr>
@@ -2191,7 +2223,7 @@ source: https://zan.gov.kz/client/#!/doc/118008/kaz/25.12.2017
 <td></td>
 <td></td>
 <td>1.Кірістер</td>
-<td>222 580</td>
+<td>229 987</td>
 </tr>
 <tr>
 <td>1</td>
@@ -2269,12 +2301,52 @@ source: https://zan.gov.kz/client/#!/doc/118008/kaz/25.12.2017
 <td>0</td>
 </tr>
 <tr>
+<td>3</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Негізгі капиталды сатудан түсетін түсімдер</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td>01</td>
+<td></td>
+<td></td>
+<td>Мемлекеттік мекемелерге бекітілген мемлекеттік мүлікті сату</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>1</td>
+<td></td>
+<td>Мемлекеттік мекемелерге бекітілген мемлекеттік мүлікті сату</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td>03</td>
+<td></td>
+<td></td>
+<td>Жердi және материалдық емес активтердi сату</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>1</td>
+<td></td>
+<td>Жерді сату</td>
+<td>0</td>
+</tr>
+<tr>
 <td>4</td>
 <td></td>
 <td></td>
 <td></td>
 <td>Трансферттер түсімі</td>
-<td>212 969</td>
+<td>220 376</td>
 </tr>
 <tr>
 <td></td>
@@ -2282,18 +2354,17 @@ source: https://zan.gov.kz/client/#!/doc/118008/kaz/25.12.2017
 <td></td>
 <td></td>
 <td>Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td>212 969</td>
+<td>220 376</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="2">3</td>
 <td>Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td>212 969</td>
+<td></td>
 </tr>
 <tr>
-<td colspan="4">Функционалдық топ</td>
-<td></td>
+<td colspan="5">Функционалдық топ</td>
 <td rowspan="4">Сомасы, мың теңге</td>
 </tr>
 <tr>
@@ -2323,7 +2394,7 @@ source: https://zan.gov.kz/client/#!/doc/118008/kaz/25.12.2017
 <td></td>
 <td></td>
 <td>2.Шығындар</td>
-<td>222 580</td>
+<td>229 987</td>
 </tr>
 <tr>
 <td>01</td>
@@ -2371,7 +2442,7 @@ source: https://zan.gov.kz/client/#!/doc/118008/kaz/25.12.2017
 <td></td>
 <td></td>
 <td>Бiлiм беру</td>
-<td>167 543</td>
+<td>174 950</td>
 </tr>
 <tr>
 <td></td>
@@ -2379,7 +2450,7 @@ source: https://zan.gov.kz/client/#!/doc/118008/kaz/25.12.2017
 <td></td>
 <td></td>
 <td>Мектепке дейiнгi тәрбие және оқыту</td>
-<td>165 658</td>
+<td>173 065</td>
 </tr>
 <tr>
 <td></td>
@@ -2387,7 +2458,7 @@ source: https://zan.gov.kz/client/#!/doc/118008/kaz/25.12.2017
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>165 658</td>
+<td>173 065</td>
 </tr>
 <tr>
 <td></td>
@@ -2395,7 +2466,7 @@ source: https://zan.gov.kz/client/#!/doc/118008/kaz/25.12.2017
 <td></td>
 <td>004</td>
 <td>Мектепке дейінгі тәрбиелеу және оқыту және мектепке дейінгі тәрбиелеу және оқыту ұйымдарында медициналық қызмет көрсетуді ұйымдастыру</td>
-<td>165 658</td>
+<td>173 065</td>
 </tr>
 <tr>
 <td></td>
@@ -2598,8 +2669,7 @@ source: https://zan.gov.kz/client/#!/doc/118008/kaz/25.12.2017
 <td>0</td>
 </tr>
 <tr>
-<td colspan="4">Функционалдық топ</td>
-<td></td>
+<td colspan="5">Функционалдық топ</td>
 <td rowspan="4">Сомасы, мың теңге</td>
 </tr>
 <tr>
@@ -2629,7 +2699,7 @@ source: https://zan.gov.kz/client/#!/doc/118008/kaz/25.12.2017
 <td></td>
 <td></td>
 <td>Бюджеттік кредиттер</td>
-<td>0</td>
+<td></td>
 </tr>
 <tr>
 <td colspan="2">Санаты</td>
@@ -2640,8 +2710,7 @@ source: https://zan.gov.kz/client/#!/doc/118008/kaz/25.12.2017
 </tr>
 <tr>
 <td></td>
-<td colspan="2">Сыныбы</td>
-<td></td>
+<td colspan="3">Сыныбы</td>
 <td></td>
 </tr>
 <tr>
@@ -2726,8 +2795,7 @@ source: https://zan.gov.kz/client/#!/doc/118008/kaz/25.12.2017
 </tr>
 <tr>
 <td></td>
-<td colspan="2">Сыныбы</td>
-<td></td>
+<td colspan="3">Сыныбы</td>
 <td></td>
 </tr>
 <tr>
@@ -2769,8 +2837,7 @@ source: https://zan.gov.kz/client/#!/doc/118008/kaz/25.12.2017
 <td>0</td>
 </tr>
 <tr>
-<td colspan="4">Функционалдық топ</td>
-<td></td>
+<td colspan="5">Функционалдық топ</td>
 <td rowspan="4">Сомасы, мың теңге</td>
 </tr>
 <tr>
@@ -2827,8 +2894,7 @@ source: https://zan.gov.kz/client/#!/doc/118008/kaz/25.12.2017
 </tr>
 <tr>
 <td></td>
-<td colspan="2">Сыныбы</td>
-<td></td>
+<td colspan="3">Сыныбы</td>
 <td></td>
 </tr>
 <tr>
