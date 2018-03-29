@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/117396/kaz/26.01.2018
+source: https://zan.gov.kz/client/#!/doc/117396/kaz/29.03.2018
 ---
 
 > *Түлкібас аудандық*  
