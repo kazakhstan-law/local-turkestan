@@ -1,28 +1,31 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/118622/rus/28.12.2017
+source: https://zan.gov.kz/client/#!/doc/118622/rus/19.04.2018
 ---
 
 > *Приложение 25 к решению*  
 > *Сайрамского районного*  
 > *маслихата от 28 декабря*  
-> *2017 года №23-159/VI*
+> *2017 года №23-159/VІ*
 
 # Сельский бюджет Кутарыского сельского округа на 2018 год
+
+> *Сноска. Приложение 25 в редакции решения Сайрамского районного маслихата Южно-Казахстанской области от 19.04.2018 № 27-179/VI (вводится в действие с 01.01.2018).*
 
 <table>
 <tr>
 <td colspan="6">
-Категория Класс
+Категория
+Класс
 Подкласс
 </td>
 <td>Наименование</td>
-<td colspan="2">Сумма, тысяч тенге</td>
+<td>Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <th colspan="6">1</th>
 <th>2</th>
-<th colspan="2">3</th>
+<th>3</th>
 </tr>
 <tr>
 <td></td>
@@ -30,7 +33,7 @@ source: https://zan.gov.kz/client/#!/doc/118622/rus/28.12.2017
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>І. Доходы</td>
-<td colspan="2">46 953</td>
+<td>60 260</td>
 </tr>
 <tr>
 <td>1</td>
@@ -38,7 +41,7 @@ source: https://zan.gov.kz/client/#!/doc/118622/rus/28.12.2017
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Налоговые поступления</td>
-<td colspan="2">5 342</td>
+<td>5 342</td>
 </tr>
 <tr>
 <td></td>
@@ -46,7 +49,7 @@ source: https://zan.gov.kz/client/#!/doc/118622/rus/28.12.2017
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Подоходный налог</td>
-<td colspan="2">1 078</td>
+<td>1 078</td>
 </tr>
 <tr>
 <td></td>
@@ -54,7 +57,7 @@ source: https://zan.gov.kz/client/#!/doc/118622/rus/28.12.2017
 <td colspan="2">2</td>
 <td colspan="2"></td>
 <td>Индивидуальный подоходный налог</td>
-<td colspan="2">1 078</td>
+<td>1 078</td>
 </tr>
 <tr>
 <td></td>
@@ -62,7 +65,7 @@ source: https://zan.gov.kz/client/#!/doc/118622/rus/28.12.2017
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Hалоги на собственность</td>
-<td colspan="2">4 264</td>
+<td>4 264</td>
 </tr>
 <tr>
 <td></td>
@@ -70,7 +73,7 @@ source: https://zan.gov.kz/client/#!/doc/118622/rus/28.12.2017
 <td colspan="2">1</td>
 <td colspan="2"></td>
 <td>Hалоги на имущество</td>
-<td colspan="2">509</td>
+<td>509</td>
 </tr>
 <tr>
 <td></td>
@@ -78,7 +81,7 @@ source: https://zan.gov.kz/client/#!/doc/118622/rus/28.12.2017
 <td colspan="2">3</td>
 <td colspan="2"></td>
 <td>Земельный налог</td>
-<td colspan="2">937</td>
+<td>937</td>
 </tr>
 <tr>
 <td></td>
@@ -86,7 +89,7 @@ source: https://zan.gov.kz/client/#!/doc/118622/rus/28.12.2017
 <td colspan="2">4</td>
 <td colspan="2"></td>
 <td>Hалог на транспортные средства</td>
-<td colspan="2">2 818</td>
+<td>2 818</td>
 </tr>
 <tr>
 <td>2</td>
@@ -94,7 +97,7 @@ source: https://zan.gov.kz/client/#!/doc/118622/rus/28.12.2017
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Неналоговые поступления</td>
-<td colspan="2">100</td>
+<td>100</td>
 </tr>
 <tr>
 <td></td>
@@ -102,7 +105,7 @@ source: https://zan.gov.kz/client/#!/doc/118622/rus/28.12.2017
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Прочие неналоговые поступления</td>
-<td colspan="2">100</td>
+<td>100</td>
 </tr>
 <tr>
 <td></td>
@@ -110,7 +113,7 @@ source: https://zan.gov.kz/client/#!/doc/118622/rus/28.12.2017
 <td colspan="2">1</td>
 <td colspan="2"></td>
 <td>Прочие неналоговые поступления</td>
-<td colspan="2">100</td>
+<td>100</td>
 </tr>
 <tr>
 <td>3</td>
@@ -118,7 +121,7 @@ source: https://zan.gov.kz/client/#!/doc/118622/rus/28.12.2017
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Поступление от продажи основного капитала</td>
-<td colspan="2">0</td>
+<td>0</td>
 </tr>
 <tr>
 <td>4</td>
@@ -126,7 +129,7 @@ source: https://zan.gov.kz/client/#!/doc/118622/rus/28.12.2017
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Поступления трансфертов</td>
-<td colspan="2">41 511</td>
+<td>54 818</td>
 </tr>
 <tr>
 <td></td>
@@ -134,7 +137,7 @@ source: https://zan.gov.kz/client/#!/doc/118622/rus/28.12.2017
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Трансферты из вышестоящих органов государственного управления</td>
-<td colspan="2">41 511</td>
+<td>54 818</td>
 </tr>
 <tr>
 <td></td>
@@ -142,7 +145,7 @@ source: https://zan.gov.kz/client/#!/doc/118622/rus/28.12.2017
 <td colspan="2">3</td>
 <td colspan="2"></td>
 <td>Трансферты из районного (города областного значения) бюджета</td>
-<td colspan="2">41 511</td>
+<td>54818</td>
 </tr>
 <tr>
 <td colspan="7">
@@ -151,12 +154,12 @@ source: https://zan.gov.kz/client/#!/doc/118622/rus/28.12.2017
 Администратор бюджетных программ
 Программа
 </td>
-<td colspan="2">Сумма, тысяч тенге</td>
+<td>Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <th colspan="6">1</th>
 <th>2</th>
-<th colspan="2">3</th>
+<th>3</th>
 </tr>
 <tr>
 <td></td>
@@ -164,7 +167,7 @@ source: https://zan.gov.kz/client/#!/doc/118622/rus/28.12.2017
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>2. Затраты</td>
-<td colspan="2">46953</td>
+<td>60 260</td>
 </tr>
 <tr>
 <td>01</td>
@@ -172,7 +175,7 @@ source: https://zan.gov.kz/client/#!/doc/118622/rus/28.12.2017
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Государственные услуги общего характера</td>
-<td colspan="2">20896</td>
+<td>21003</td>
 </tr>
 <tr>
 <td></td>
@@ -180,7 +183,7 @@ source: https://zan.gov.kz/client/#!/doc/118622/rus/28.12.2017
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td colspan="2">20896</td>
+<td>21003</td>
 </tr>
 <tr>
 <td></td>
@@ -188,7 +191,7 @@ source: https://zan.gov.kz/client/#!/doc/118622/rus/28.12.2017
 <td colspan="2">124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">20896</td>
+<td>21003</td>
 </tr>
 <tr>
 <td></td>
@@ -196,7 +199,7 @@ source: https://zan.gov.kz/client/#!/doc/118622/rus/28.12.2017
 <td colspan="2"></td>
 <td colspan="2">001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">20296</td>
+<td>20403</td>
 </tr>
 <tr>
 <td></td>
@@ -204,7 +207,7 @@ source: https://zan.gov.kz/client/#!/doc/118622/rus/28.12.2017
 <td colspan="2"></td>
 <td colspan="2">022</td>
 <td>Капитальные расходы государственного органа</td>
-<td colspan="2">600</td>
+<td>600</td>
 </tr>
 <tr>
 <td>07</td>
@@ -212,7 +215,7 @@ source: https://zan.gov.kz/client/#!/doc/118622/rus/28.12.2017
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td colspan="2">23790</td>
+<td>36 117</td>
 </tr>
 <tr>
 <td></td>
@@ -220,7 +223,7 @@ source: https://zan.gov.kz/client/#!/doc/118622/rus/28.12.2017
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Благоустройство населенных пунктов</td>
-<td colspan="2">23790</td>
+<td>36117</td>
 </tr>
 <tr>
 <td></td>
@@ -228,7 +231,7 @@ source: https://zan.gov.kz/client/#!/doc/118622/rus/28.12.2017
 <td colspan="2">124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">23790</td>
+<td>13117</td>
 </tr>
 <tr>
 <td></td>
@@ -236,7 +239,7 @@ source: https://zan.gov.kz/client/#!/doc/118622/rus/28.12.2017
 <td colspan="2"></td>
 <td colspan="2">008</td>
 <td>Освещение улиц в населенных пунктах</td>
-<td colspan="2">1342</td>
+<td>13669</td>
 </tr>
 <tr>
 <td></td>
@@ -244,7 +247,7 @@ source: https://zan.gov.kz/client/#!/doc/118622/rus/28.12.2017
 <td colspan="2"></td>
 <td colspan="2">009</td>
 <td>Обеспечение санитарии населенных пунктов</td>
-<td colspan="2">806</td>
+<td>806</td>
 </tr>
 <tr>
 <td></td>
@@ -252,7 +255,7 @@ source: https://zan.gov.kz/client/#!/doc/118622/rus/28.12.2017
 <td colspan="2"></td>
 <td colspan="2">011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td colspan="2">21642</td>
+<td>21642</td>
 </tr>
 <tr>
 <td>08</td>
@@ -260,7 +263,7 @@ source: https://zan.gov.kz/client/#!/doc/118622/rus/28.12.2017
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Культура, спорт, туризм и информационное пространство</td>
-<td colspan="2">2267</td>
+<td>2151</td>
 </tr>
 <tr>
 <td></td>
@@ -268,7 +271,7 @@ source: https://zan.gov.kz/client/#!/doc/118622/rus/28.12.2017
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Деятельность в области культуры</td>
-<td colspan="2">2267</td>
+<td>2151</td>
 </tr>
 <tr>
 <td></td>
@@ -276,7 +279,7 @@ source: https://zan.gov.kz/client/#!/doc/118622/rus/28.12.2017
 <td colspan="2">124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">2267</td>
+<td>2151</td>
 </tr>
 <tr>
 <td></td>
@@ -284,7 +287,39 @@ source: https://zan.gov.kz/client/#!/doc/118622/rus/28.12.2017
 <td colspan="2"></td>
 <td colspan="2">006</td>
 <td>Поддержка культурно-досуговой работы на местном уровне»;</td>
-<td colspan="2">2267</td>
+<td>2151</td>
+</tr>
+<tr>
+<td>15</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>Трансферты</td>
+<td>989</td>
+</tr>
+<tr>
+<td></td>
+<td>1</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>Трансферты</td>
+<td>989</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2">124</td>
+<td colspan="2"></td>
+<td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
+<td>989</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">051</td>
+<td>Целевые текущие трансферты из нижестоящего бюджета на компенсацию потерь вышестоящего бюджета в связи с изменением законодательства</td>
+<td>989</td>
 </tr>
 <tr>
 <td></td>
@@ -292,19 +327,11 @@ source: https://zan.gov.kz/client/#!/doc/118622/rus/28.12.2017
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>3. Чистое бюджетное кредитование</td>
-<td colspan="2">0</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
+<td>0</td>
 </tr>
 <tr>
 <td colspan="7">Функциональная группа</td>
-<td colspan="2">Сумма,</td>
+<td>Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td colspan="7">
@@ -312,10 +339,7 @@ source: https://zan.gov.kz/client/#!/doc/118622/rus/28.12.2017
 Администратор бюджетной программы
 Программа
 </td>
-<td>
-тысяч
-тенге
-</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -326,17 +350,10 @@ source: https://zan.gov.kz/client/#!/doc/118622/rus/28.12.2017
 <td>0</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-</tr>
-<tr>
 <td colspan="7">
 Категория Наименование
-Класс Подкласс
+Класс
+Подкласс
 </td>
 <td>Сумма, тысяч тенге</td>
 </tr>
@@ -357,14 +374,6 @@ source: https://zan.gov.kz/client/#!/doc/118622/rus/28.12.2017
 <td>0</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-</tr>
-<tr>
 <td colspan="7">
 Функциональная группа
 Подфункция Наименование
@@ -382,17 +391,10 @@ source: https://zan.gov.kz/client/#!/doc/118622/rus/28.12.2017
 <td>0</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-</tr>
-<tr>
 <td colspan="7">
 Категория Наименование
-Класс Подкласс
+Класс
+Подкласс
 </td>
 <td>Сумма, тысяч тенге</td>
 </tr>
@@ -421,17 +423,10 @@ source: https://zan.gov.kz/client/#!/doc/118622/rus/28.12.2017
 <td>0</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-</tr>
-<tr>
 <td colspan="7">
 Категория Наименование
-Класс Подкласс
+Класс
+Подкласс
 </td>
 <td>Сумма, тысяч тенге</td>
 </tr>
@@ -442,14 +437,6 @@ source: https://zan.gov.kz/client/#!/doc/118622/rus/28.12.2017
 <td colspan="2"></td>
 <td colspan="2">Поступления займов</td>
 <td>0</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="7">
@@ -469,17 +456,10 @@ source: https://zan.gov.kz/client/#!/doc/118622/rus/28.12.2017
 <td>0</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-</tr>
-<tr>
 <td colspan="7">
 Категория Наименование
-Класс Подкласс
+Класс
+Подкласс
 </td>
 <td>Сумма, тысяч тенге</td>
 </tr>
@@ -1477,6 +1457,8 @@ source: https://zan.gov.kz/client/#!/doc/118622/rus/28.12.2017
 
 # Сельский бюджет Колкентского сельского округа на 2018 год
 
+> *Сноска. Приложение 28 в редакции решения Сайрамского районного маслихата Южно-Казахстанской области от 19.04.2018 № 27-179/VI (вводится в действие с 01.01.2018).*
+
 <table>
 <tr>
 <td colspan="4">
@@ -1498,7 +1480,7 @@ source: https://zan.gov.kz/client/#!/doc/118622/rus/28.12.2017
 <td></td>
 <td></td>
 <td>І. Доходы</td>
-<td>116 861</td>
+<td>136 709</td>
 </tr>
 <tr>
 <td>1</td>
@@ -1506,7 +1488,7 @@ source: https://zan.gov.kz/client/#!/doc/118622/rus/28.12.2017
 <td></td>
 <td></td>
 <td>Налоговые поступления</td>
-<td>23 934</td>
+<td>24 009</td>
 </tr>
 <tr>
 <td></td>
@@ -1530,7 +1512,7 @@ source: https://zan.gov.kz/client/#!/doc/118622/rus/28.12.2017
 <td></td>
 <td></td>
 <td>Hалоги на собственность</td>
-<td>19 749</td>
+<td>19 824</td>
 </tr>
 <tr>
 <td></td>
@@ -1538,7 +1520,7 @@ source: https://zan.gov.kz/client/#!/doc/118622/rus/28.12.2017
 <td>1</td>
 <td></td>
 <td>Hалоги на имущество</td>
-<td>307</td>
+<td>382</td>
 </tr>
 <tr>
 <td></td>
@@ -1626,7 +1608,7 @@ source: https://zan.gov.kz/client/#!/doc/118622/rus/28.12.2017
 <td></td>
 <td></td>
 <td>Поступления трансфертов</td>
-<td>92 209</td>
+<td>111 982</td>
 </tr>
 <tr>
 <td></td>
@@ -1634,7 +1616,7 @@ source: https://zan.gov.kz/client/#!/doc/118622/rus/28.12.2017
 <td></td>
 <td></td>
 <td>Трансферты из вышестоящих органов государственного управления</td>
-<td>92 209</td>
+<td>111 982</td>
 </tr>
 <tr>
 <td></td>
@@ -1642,7 +1624,7 @@ source: https://zan.gov.kz/client/#!/doc/118622/rus/28.12.2017
 <td>3</td>
 <td></td>
 <td>Трансферты из районного (города областного значения) бюджета</td>
-<td>92 209</td>
+<td>111 982</td>
 </tr>
 <tr>
 <td colspan="5">
@@ -1664,7 +1646,7 @@ source: https://zan.gov.kz/client/#!/doc/118622/rus/28.12.2017
 <td></td>
 <td></td>
 <td>2. Затраты</td>
-<td>116 861</td>
+<td>136 709</td>
 </tr>
 <tr>
 <td>01</td>
@@ -1672,7 +1654,7 @@ source: https://zan.gov.kz/client/#!/doc/118622/rus/28.12.2017
 <td></td>
 <td></td>
 <td>Государственные услуги общего характера</td>
-<td>67024</td>
+<td>65 961</td>
 </tr>
 <tr>
 <td></td>
@@ -1680,7 +1662,7 @@ source: https://zan.gov.kz/client/#!/doc/118622/rus/28.12.2017
 <td></td>
 <td></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>67024</td>
+<td>65961</td>
 </tr>
 <tr>
 <td></td>
@@ -1688,7 +1670,7 @@ source: https://zan.gov.kz/client/#!/doc/118622/rus/28.12.2017
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>67204</td>
+<td>65961</td>
 </tr>
 <tr>
 <td></td>
@@ -1696,7 +1678,7 @@ source: https://zan.gov.kz/client/#!/doc/118622/rus/28.12.2017
 <td></td>
 <td>001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>24444</td>
+<td>23381</td>
 </tr>
 <tr>
 <td></td>
@@ -1712,7 +1694,7 @@ source: https://zan.gov.kz/client/#!/doc/118622/rus/28.12.2017
 <td></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>46821</td>
+<td>66 594</td>
 </tr>
 <tr>
 <td></td>
@@ -1720,7 +1702,7 @@ source: https://zan.gov.kz/client/#!/doc/118622/rus/28.12.2017
 <td></td>
 <td></td>
 <td>Благоустройство населенных пунктов</td>
-<td>46821</td>
+<td>66 594</td>
 </tr>
 <tr>
 <td></td>
@@ -1728,7 +1710,7 @@ source: https://zan.gov.kz/client/#!/doc/118622/rus/28.12.2017
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>46821</td>
+<td>66594</td>
 </tr>
 <tr>
 <td></td>
@@ -1752,7 +1734,7 @@ source: https://zan.gov.kz/client/#!/doc/118622/rus/28.12.2017
 <td></td>
 <td>011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td>37165</td>
+<td>56 938</td>
 </tr>
 <tr>
 <td>08</td>
@@ -1760,7 +1742,7 @@ source: https://zan.gov.kz/client/#!/doc/118622/rus/28.12.2017
 <td></td>
 <td></td>
 <td>Культура, спорт, туризм и информационное пространство</td>
-<td>3016</td>
+<td>2854</td>
 </tr>
 <tr>
 <td></td>
@@ -1768,7 +1750,7 @@ source: https://zan.gov.kz/client/#!/doc/118622/rus/28.12.2017
 <td></td>
 <td></td>
 <td>Деятельность в области культуры</td>
-<td>3016</td>
+<td>2854</td>
 </tr>
 <tr>
 <td></td>
@@ -1776,7 +1758,7 @@ source: https://zan.gov.kz/client/#!/doc/118622/rus/28.12.2017
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>3016</td>
+<td>2854</td>
 </tr>
 <tr>
 <td></td>
@@ -1784,7 +1766,39 @@ source: https://zan.gov.kz/client/#!/doc/118622/rus/28.12.2017
 <td></td>
 <td>001</td>
 <td>Поддержка культурно-досуговой работы на местном уровне»;</td>
-<td>3016</td>
+<td>2854</td>
+</tr>
+<tr>
+<td>15</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Трансферты</td>
+<td>1300</td>
+</tr>
+<tr>
+<td></td>
+<td>1</td>
+<td></td>
+<td></td>
+<td>Трансферты</td>
+<td>1300</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>124</td>
+<td></td>
+<td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
+<td>1300</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>051</td>
+<td>Целевые текущие трансферты из нижестоящего бюджета на компенсацию потерь вышестоящего бюджета в связи с изменением законодательства</td>
+<td>1300</td>
 </tr>
 <tr>
 <td></td>
@@ -1793,14 +1807,6 @@ source: https://zan.gov.kz/client/#!/doc/118622/rus/28.12.2017
 <td></td>
 <td>3. Чистое бюджетное кредитование</td>
 <td>0</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="5">
@@ -1818,14 +1824,6 @@ source: https://zan.gov.kz/client/#!/doc/118622/rus/28.12.2017
 <td></td>
 <td>Бюджетные кредиты</td>
 <td>0</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="5">
@@ -1852,14 +1850,6 @@ source: https://zan.gov.kz/client/#!/doc/118622/rus/28.12.2017
 <td>0</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
 <td colspan="5">
 Функциональная группа
 Подфункция Наименование
@@ -1875,14 +1865,6 @@ source: https://zan.gov.kz/client/#!/doc/118622/rus/28.12.2017
 <td></td>
 <td>Приобретение финансовых активов</td>
 <td>0</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="5">
@@ -1917,14 +1899,6 @@ source: https://zan.gov.kz/client/#!/doc/118622/rus/28.12.2017
 <td>0</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
 <td colspan="5">
 Категория Наименование
 Класс
@@ -1939,14 +1913,6 @@ source: https://zan.gov.kz/client/#!/doc/118622/rus/28.12.2017
 <td></td>
 <td>Поступления займов</td>
 <td>0</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="5">
@@ -1964,14 +1930,6 @@ source: https://zan.gov.kz/client/#!/doc/118622/rus/28.12.2017
 <td></td>
 <td>Погашение займов</td>
 <td>0</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="5">
@@ -3031,6 +2989,8 @@ source: https://zan.gov.kz/client/#!/doc/118622/rus/28.12.2017
 
 # Сельский бюджет Манкентского сельского округа на 2018 год
 
+> *Сноска. Приложение 31 в редакции решения Сайрамского районного маслихата Южно-Казахстанской области от 19.04.2018 № 27-179/VI (вводится в действие с 01.01.2018).*
+
 <table>
 <tr>
 <td colspan="5">
@@ -3201,7 +3161,7 @@ source: https://zan.gov.kz/client/#!/doc/118622/rus/28.12.2017
 <td></td>
 <td></td>
 <td>2. Затраты</td>
-<td>105938</td>
+<td>105 938</td>
 </tr>
 <tr>
 <td>01</td>
@@ -3209,7 +3169,7 @@ source: https://zan.gov.kz/client/#!/doc/118622/rus/28.12.2017
 <td></td>
 <td></td>
 <td>Государственные услуги общего характера</td>
-<td>33538</td>
+<td>32001</td>
 </tr>
 <tr>
 <td></td>
@@ -3217,7 +3177,7 @@ source: https://zan.gov.kz/client/#!/doc/118622/rus/28.12.2017
 <td></td>
 <td></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>33538</td>
+<td>32001</td>
 </tr>
 <tr>
 <td></td>
@@ -3225,7 +3185,7 @@ source: https://zan.gov.kz/client/#!/doc/118622/rus/28.12.2017
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>33538</td>
+<td>32001</td>
 </tr>
 <tr>
 <td></td>
@@ -3233,7 +3193,7 @@ source: https://zan.gov.kz/client/#!/doc/118622/rus/28.12.2017
 <td></td>
 <td>001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>32938</td>
+<td>31401</td>
 </tr>
 <tr>
 <td></td>
@@ -3356,6 +3316,38 @@ source: https://zan.gov.kz/client/#!/doc/118622/rus/28.12.2017
 <td>48404</td>
 </tr>
 <tr>
+<td>15</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Трансферты</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>1</td>
+<td></td>
+<td></td>
+<td>Трансферты</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>124</td>
+<td></td>
+<td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>051</td>
+<td>Целевые текущие трансферты из нижестоящего бюджета на компенсацию потерь вышестоящего бюджета в связи с изменением законодательства</td>
+<td></td>
+</tr>
+<tr>
 <td></td>
 <td></td>
 <td></td>
@@ -3468,14 +3460,6 @@ source: https://zan.gov.kz/client/#!/doc/118622/rus/28.12.2017
 <td></td>
 <td>Поступления займов</td>
 <td>0</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="5">
