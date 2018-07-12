@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/117421/kaz/24.05.2018
+source: https://zan.gov.kz/client/#!/doc/117421/kaz/12.07.2018
 ---
 
 > *Кентау қалалық мәслихатының*  
