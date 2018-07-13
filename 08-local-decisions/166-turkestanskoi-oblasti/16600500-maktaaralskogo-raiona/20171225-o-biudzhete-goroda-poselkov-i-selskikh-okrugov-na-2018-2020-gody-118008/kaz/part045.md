@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/118008/kaz/07.03.2018
+source: https://zan.gov.kz/client/#!/doc/118008/kaz/13.07.2018
 ---
 
 > *Мақтарал аудандық*  
