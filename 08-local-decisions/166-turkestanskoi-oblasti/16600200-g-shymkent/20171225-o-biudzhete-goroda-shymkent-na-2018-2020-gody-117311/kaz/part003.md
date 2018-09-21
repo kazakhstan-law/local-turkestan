@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/117311/kaz/27.07.2018
+source: https://zan.gov.kz/client/#!/doc/117311/kaz/21.09.2018
 ---
 
 > *Шымкент қалалық*  
