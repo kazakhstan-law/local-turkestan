@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/117396/rus/14.09.2018
+source: https://zan.gov.kz/client/#!/doc/117396/rus/21.11.2018
 ---
 
 > *Приложение 3*  
