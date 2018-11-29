@@ -1493,7 +1493,7 @@
 
 # Атакент кентінің 2018 жылға арналған бюджеті
 
-> *Ескерту. 78-қосымша жаңа редакцияда - Түркістан облысы Мақтаарал аудандық мәслихатының 26.09.2018 № 38-254-VI (01.01.2018 бастап қолданысқа енгiзiледi) шешiмiмен.*
+> *Ескерту. 78-қосымша жаңа редакцияда - Түркістан облысы Мақтаарал аудандық мәслихатының 29.11.2018 № 42-278-VI (01.01.2018 бастап қолданысқа енгiзiледi) шешiмiмен.*
 
 <table>
 <tr>
@@ -1515,17 +1515,17 @@
 <td colspan="3">Iшкi сыныбы</td>
 </tr>
 <tr>
-<th colspan="4">1</th>
-<th>2</th>
-<th colspan="2">3</th>
+<td colspan="4">1</td>
+<td>2</td>
+<td colspan="2">3</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>1.Кірістер</td>
-<td colspan="2">274 911</td>
+<td>1. Кірістер</td>
+<td colspan="2">277 150</td>
 </tr>
 <tr>
 <td>1</td>
@@ -1533,7 +1533,7 @@
 <td></td>
 <td></td>
 <td>Салықтық түсімдер</td>
-<td colspan="2">51 649</td>
+<td colspan="2">44 514</td>
 </tr>
 <tr>
 <td></td>
@@ -1541,14 +1541,14 @@
 <td></td>
 <td></td>
 <td>Табыс салығы</td>
-<td colspan="2">17 052</td>
+<td colspan="2">18 059</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="2">2</td>
 <td>Жеке табыс салығы</td>
-<td colspan="2">17 052</td>
+<td colspan="2">18 059</td>
 </tr>
 <tr>
 <td></td>
@@ -1556,14 +1556,14 @@
 <td></td>
 <td></td>
 <td>Меншiкке салынатын салықтар</td>
-<td colspan="2">34 597</td>
+<td colspan="2">26 455</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="2">1</td>
 <td>Мүлiкке салынатын салықтар</td>
-<td colspan="2">758</td>
+<td colspan="2">1 457</td>
 </tr>
 <tr>
 <td></td>
@@ -1577,7 +1577,7 @@
 <td></td>
 <td colspan="2">4</td>
 <td>Көлiк құралдарына салынатын салық</td>
-<td colspan="2">30 771</td>
+<td colspan="2">21 930</td>
 </tr>
 <tr>
 <td>2</td>
@@ -1585,7 +1585,7 @@
 <td></td>
 <td></td>
 <td>Салықтық емес түсiмдер</td>
-<td colspan="2">2 417</td>
+<td colspan="2">2 950</td>
 </tr>
 <tr>
 <td></td>
@@ -1593,14 +1593,54 @@
 <td></td>
 <td></td>
 <td>Басқа да салықтық емес түсiмдер</td>
-<td colspan="2">2 417</td>
+<td colspan="2">2 950</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="2">1</td>
 <td>Басқа да салықтық емес түсiмдер</td>
-<td colspan="2">2 417</td>
+<td colspan="2">2 950</td>
+</tr>
+<tr>
+<td>3</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Негізгі капиталды сатудан түсетін түсімдер</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td></td>
+<td>01</td>
+<td></td>
+<td></td>
+<td>Мемлекеттік мекемелерге бекітілген мемлекеттік мүлікті сату</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>1</td>
+<td></td>
+<td>Мемлекеттік мекемелерге бекітілген мемлекеттік мүлікті сату</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td></td>
+<td>03</td>
+<td></td>
+<td></td>
+<td>Жердi және материалдық емес активтердi сату</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>1</td>
+<td></td>
+<td>Жерді сату</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td>4</td>
@@ -1608,7 +1648,7 @@
 <td></td>
 <td></td>
 <td>Трансферттер түсімі</td>
-<td colspan="2">220 845</td>
+<td colspan="2">229 686</td>
 </tr>
 <tr>
 <td></td>
@@ -1616,14 +1656,14 @@
 <td></td>
 <td></td>
 <td>Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td colspan="2">220 845</td>
+<td colspan="2">229 686</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="2">3</td>
 <td>Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td colspan="2">220 845</td>
+<td colspan="2">229 686</td>
 </tr>
 <tr>
 <td colspan="4">Функционалдық топ</td>
@@ -1647,17 +1687,17 @@
 <td colspan="2">Бағдарлама</td>
 </tr>
 <tr>
-<th colspan="4">1</th>
-<th>2</th>
-<th colspan="2">3</th>
+<td colspan="4">1</td>
+<td>2</td>
+<td colspan="2">3</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>2.Шығындар</td>
-<td colspan="2">274 911</td>
+<td>2. Шығындар</td>
+<td colspan="2">277 150</td>
 </tr>
 <tr>
 <td>01</td>
@@ -1665,7 +1705,7 @@
 <td></td>
 <td></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td colspan="2">30 697</td>
+<td colspan="2">32 936</td>
 </tr>
 <tr>
 <td></td>
@@ -1673,7 +1713,7 @@
 <td></td>
 <td></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td colspan="2">30 697</td>
+<td colspan="2">32 936</td>
 </tr>
 <tr>
 <td></td>
@@ -1681,7 +1721,7 @@
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td colspan="2">30 697</td>
+<td colspan="2">32 936</td>
 </tr>
 <tr>
 <td></td>
@@ -1689,7 +1729,7 @@
 <td></td>
 <td>001</td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td colspan="2">29 473</td>
+<td colspan="2">29 673</td>
 </tr>
 <tr>
 <td></td>
@@ -1697,7 +1737,7 @@
 <td></td>
 <td>022</td>
 <td>Мемлекеттік органның күрделі шығыстары</td>
-<td colspan="2">1 224</td>
+<td colspan="2">3 263</td>
 </tr>
 <tr>
 <td>04</td>
@@ -1953,9 +1993,9 @@
 <td colspan="2">Бағдарлама</td>
 </tr>
 <tr>
-<th colspan="4">1</th>
-<th>2</th>
-<th colspan="2">3</th>
+<td colspan="4">1</td>
+<td>2</td>
+<td colspan="2">3</td>
 </tr>
 <tr>
 <td></td>
@@ -1984,9 +2024,9 @@
 <td colspan="3">Iшкi сыныбы</td>
 </tr>
 <tr>
-<th colspan="4">1</th>
-<th>2</th>
-<th colspan="2">3</th>
+<td colspan="4">1</td>
+<td>2</td>
+<td colspan="2">3</td>
 </tr>
 <tr>
 <td></td>
@@ -2070,9 +2110,9 @@
 <td colspan="3">Iшкi сыныбы</td>
 </tr>
 <tr>
-<th colspan="4">1</th>
-<th>2</th>
-<th colspan="2">3</th>
+<td colspan="4">1</td>
+<td>2</td>
+<td colspan="2">3</td>
 </tr>
 <tr>
 <td></td>
@@ -2124,9 +2164,9 @@
 <td colspan="2">Бағдарлама</td>
 </tr>
 <tr>
-<th colspan="4">1</th>
-<th>2</th>
-<th colspan="2">3</th>
+<td colspan="4">1</td>
+<td>2</td>
+<td colspan="2">3</td>
 </tr>
 <tr>
 <td></td>
@@ -2171,9 +2211,9 @@
 <td colspan="3">Iшкi сыныбы</td>
 </tr>
 <tr>
-<th colspan="4">1</th>
-<th>2</th>
-<th colspan="2">3</th>
+<td colspan="4">1</td>
+<td>2</td>
+<td colspan="2">3</td>
 </tr>
 <tr>
 <td></td>
