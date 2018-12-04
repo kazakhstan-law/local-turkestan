@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/118030/kaz/09.10.2018
+source: https://zan.gov.kz/client/#!/doc/118030/kaz/04.12.2018
 ---
 
 > *Арыс қалалық*  
@@ -11,7 +11,7 @@ source: https://zan.gov.kz/client/#!/doc/118030/kaz/09.10.2018
 
 # 2018 жылға арналған Монтайтас ауылдық округінің бюджеті
 
-> *Ескерту. 16-қосымша жаңа редакцияда - Түркістан облысы Арыс қалалық мәслихатының 09.10.2018 № 27/198-VI (01.01.2018 бастап қолданысқа енгiзiледi) шешімімен.*
+> *Ескерту. 16-қосымша жаңа редакцияда - Түркістан облысы Арыс қалалық мәслихатының 04.12.2018 № 29/203-VI (01.01.2018 бастап қолданысқа енгiзiледi) шешімімен.*
 
 <table>
 <tr>
@@ -41,7 +41,7 @@ source: https://zan.gov.kz/client/#!/doc/118030/kaz/09.10.2018
 <td></td>
 <td></td>
 <td>1. КІРІСТЕР</td>
-<td>42378</td>
+<td>42060</td>
 </tr>
 <tr>
 <td></td>
@@ -49,7 +49,7 @@ source: https://zan.gov.kz/client/#!/doc/118030/kaz/09.10.2018
 <td></td>
 <td></td>
 <td>САЛЫҚТЫҚ ТҮСІМДЕР</td>
-<td>6868</td>
+<td>5893</td>
 </tr>
 <tr>
 <td>1</td>
@@ -57,7 +57,7 @@ source: https://zan.gov.kz/client/#!/doc/118030/kaz/09.10.2018
 <td></td>
 <td></td>
 <td>Салықтық түсімдер</td>
-<td>6868</td>
+<td>5893</td>
 </tr>
 <tr>
 <td></td>
@@ -81,7 +81,7 @@ source: https://zan.gov.kz/client/#!/doc/118030/kaz/09.10.2018
 <td></td>
 <td></td>
 <td>Меншiкке салынатын салықтар</td>
-<td>6699</td>
+<td>5724</td>
 </tr>
 <tr>
 <td></td>
@@ -105,7 +105,7 @@ source: https://zan.gov.kz/client/#!/doc/118030/kaz/09.10.2018
 <td>4</td>
 <td></td>
 <td>Көлiк құралдарына салынатын салық</td>
-<td>6051</td>
+<td>5076</td>
 </tr>
 <tr>
 <td></td>
@@ -113,7 +113,7 @@ source: https://zan.gov.kz/client/#!/doc/118030/kaz/09.10.2018
 <td></td>
 <td></td>
 <td>САЛЫҚТЫҚ ЕМЕС ТҮСІМДЕР</td>
-<td>1305</td>
+<td>987</td>
 </tr>
 <tr>
 <td>2</td>
@@ -121,7 +121,7 @@ source: https://zan.gov.kz/client/#!/doc/118030/kaz/09.10.2018
 <td></td>
 <td></td>
 <td>Салықтық емес түсiмдер</td>
-<td>1305</td>
+<td>987</td>
 </tr>
 <tr>
 <td></td>
@@ -129,7 +129,7 @@ source: https://zan.gov.kz/client/#!/doc/118030/kaz/09.10.2018
 <td></td>
 <td></td>
 <td>Басқа да салықтық емес түсiмдер</td>
-<td>1305</td>
+<td>987</td>
 </tr>
 <tr>
 <td></td>
@@ -137,7 +137,7 @@ source: https://zan.gov.kz/client/#!/doc/118030/kaz/09.10.2018
 <td>1</td>
 <td></td>
 <td>Басқа да салықтық емес түсiмдер</td>
-<td>1305</td>
+<td>987</td>
 </tr>
 <tr>
 <td></td>
@@ -153,7 +153,7 @@ source: https://zan.gov.kz/client/#!/doc/118030/kaz/09.10.2018
 <td></td>
 <td></td>
 <td>ТРАНСФЕРТТЕР ТҮСІМІ</td>
-<td>34205</td>
+<td>35180</td>
 </tr>
 <tr>
 <td>4</td>
@@ -161,7 +161,7 @@ source: https://zan.gov.kz/client/#!/doc/118030/kaz/09.10.2018
 <td></td>
 <td></td>
 <td>Трансферттер түсімі</td>
-<td>34205</td>
+<td>35180</td>
 </tr>
 <tr>
 <td></td>
@@ -169,7 +169,7 @@ source: https://zan.gov.kz/client/#!/doc/118030/kaz/09.10.2018
 <td></td>
 <td></td>
 <td>Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td>34205</td>
+<td>35180</td>
 </tr>
 <tr>
 <td></td>
@@ -177,7 +177,7 @@ source: https://zan.gov.kz/client/#!/doc/118030/kaz/09.10.2018
 <td>3</td>
 <td></td>
 <td>Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td>34205</td>
+<td>35180</td>
 </tr>
 <tr>
 <td colspan="5">Функционалдық топ Атауы</td>
@@ -212,7 +212,7 @@ source: https://zan.gov.kz/client/#!/doc/118030/kaz/09.10.2018
 <td></td>
 <td></td>
 <td>2. ШЫҒЫНДАР</td>
-<td>42378</td>
+<td>42060</td>
 </tr>
 <tr>
 <td>01</td>
@@ -220,7 +220,7 @@ source: https://zan.gov.kz/client/#!/doc/118030/kaz/09.10.2018
 <td></td>
 <td></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>24851</td>
+<td>24733</td>
 </tr>
 <tr>
 <td></td>
@@ -228,7 +228,7 @@ source: https://zan.gov.kz/client/#!/doc/118030/kaz/09.10.2018
 <td></td>
 <td></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>24851</td>
+<td>24733</td>
 </tr>
 <tr>
 <td></td>
@@ -236,7 +236,7 @@ source: https://zan.gov.kz/client/#!/doc/118030/kaz/09.10.2018
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>24851</td>
+<td>24733</td>
 </tr>
 <tr>
 <td></td>
@@ -244,7 +244,7 @@ source: https://zan.gov.kz/client/#!/doc/118030/kaz/09.10.2018
 <td></td>
 <td>001</td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>24586</td>
+<td>24468</td>
 </tr>
 <tr>
 <td></td>
@@ -332,7 +332,7 @@ source: https://zan.gov.kz/client/#!/doc/118030/kaz/09.10.2018
 <td></td>
 <td></td>
 <td>Көлiк және коммуникация</td>
-<td>17140</td>
+<td>16940</td>
 </tr>
 <tr>
 <td></td>
@@ -340,7 +340,7 @@ source: https://zan.gov.kz/client/#!/doc/118030/kaz/09.10.2018
 <td></td>
 <td></td>
 <td>Автомобиль көлiгi</td>
-<td>17140</td>
+<td>16940</td>
 </tr>
 <tr>
 <td></td>
@@ -348,7 +348,7 @@ source: https://zan.gov.kz/client/#!/doc/118030/kaz/09.10.2018
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>17140</td>
+<td>16940</td>
 </tr>
 <tr>
 <td></td>
@@ -356,7 +356,7 @@ source: https://zan.gov.kz/client/#!/doc/118030/kaz/09.10.2018
 <td></td>
 <td>045</td>
 <td>Аудандық маңызы бар қалаларда, ауылдарда, кенттерде, ауылдық округтерде автомобиль жолдарын күрделі және орташа жөндеу</td>
-<td>17140</td>
+<td>16940</td>
 </tr>
 <tr>
 <td></td>
