@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/117704/kaz/11.09.2018
+source: https://zan.gov.kz/client/#!/doc/117704/kaz/07.12.2018
 ---
 
 > *Созақ аудандық*  
@@ -10,7 +10,7 @@ source: https://zan.gov.kz/client/#!/doc/117704/kaz/11.09.2018
 
 # Шолаққорған ауылдық округінің 2018 жылға арналған бюджеті
 
-> *Ескерту. 1-қосымша жаңа редакцияда - Түркістан облысы Созақ аудандық мәслихатының 11.09.2018 № 182 (01.01.2018 бастап қолданысқа енгiзiледi) шешiмiмен.*
+> *Ескерту. 1-қосымша жаңа редакцияда - Түркістан облысы Созақ аудандық мәслихатының 07.12.2018 № 203 (01.01.2018 бастап қолданысқа енгiзiледi) шешiмiмен.*
 
 <table>
 <tr>
@@ -27,35 +27,35 @@ source: https://zan.gov.kz/client/#!/doc/117704/kaz/11.09.2018
 <td></td>
 <td></td>
 <td>1. Кірістер</td>
-<td>380136</td>
+<td>376172</td>
 </tr>
 <tr>
 <td>1</td>
 <td></td>
 <td></td>
 <td>Салықтық түсімдер</td>
-<td>63414</td>
+<td>52394</td>
 </tr>
 <tr>
 <td></td>
 <td>01</td>
 <td></td>
 <td>Табыс салығы</td>
-<td>28004</td>
+<td>19704</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>2</td>
 <td>Жеке табыс салығы</td>
-<td>28004</td>
+<td>19704</td>
 </tr>
 <tr>
 <td></td>
 <td>04</td>
 <td></td>
 <td>Меншiкке салынатын салықтар</td>
-<td>35410</td>
+<td>32690</td>
 </tr>
 <tr>
 <td></td>
@@ -69,7 +69,7 @@ source: https://zan.gov.kz/client/#!/doc/117704/kaz/11.09.2018
 <td></td>
 <td>3</td>
 <td>Жер салығы</td>
-<td>4345</td>
+<td>1625</td>
 </tr>
 <tr>
 <td></td>
@@ -83,7 +83,7 @@ source: https://zan.gov.kz/client/#!/doc/117704/kaz/11.09.2018
 <td></td>
 <td></td>
 <td>Салықтық емес түсiмдер</td>
-<td>5261</td>
+<td>4581</td>
 </tr>
 <tr>
 <td></td>
@@ -104,14 +104,14 @@ source: https://zan.gov.kz/client/#!/doc/117704/kaz/11.09.2018
 <td>04</td>
 <td></td>
 <td>Мемлекеттік бюджеттен қаржыландырылатын, сондай-ақ Қазақстан Республикасы Ұлттық Банкінің бюджетінен (шығыстар сметасынан) ұсталатын және қаржыландырылатын мемлекеттік мекемелер салатын айыппұлдар, өсімпұлдар, санкциялар, өндіріп алулар</td>
-<td>810</td>
+<td>130</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>1</td>
 <td>Мұнай секторы ұйымдарынан түсетін түсімдерді қоспағанда, мемлекеттік бюджеттен қаржыландырылатын, сондай-ақ Қазақстан Республикасы Ұлттық Банкінің бюджетінен (шығыстар сметасынан) ұсталатын және қаржыландырылатын мемлекеттік мекемелер салатын айыппұлдар</td>
-<td>810</td>
+<td>130</td>
 </tr>
 <tr>
 <td></td>
@@ -139,21 +139,21 @@ source: https://zan.gov.kz/client/#!/doc/117704/kaz/11.09.2018
 <td></td>
 <td></td>
 <td>Трансферттер түсімі</td>
-<td>311461</td>
+<td>319197</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td>Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td>311461</td>
+<td>319197</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td>Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td>311461</td>
+<td>319197</td>
 </tr>
 </table>
 
@@ -169,10 +169,10 @@ source: https://zan.gov.kz/client/#!/doc/117704/kaz/11.09.2018
 <td colspan="2">Сомасы мың теңге</td>
 </tr>
 <tr>
-<td colspan="4">1</td>
-<td></td>
-<td colspan="2">2</td>
-<td colspan="2">3</td>
+<th colspan="4">1</th>
+<th></th>
+<th colspan="2">2</th>
+<th colspan="2">3</th>
 </tr>
 <tr>
 <td></td>
@@ -180,7 +180,7 @@ source: https://zan.gov.kz/client/#!/doc/117704/kaz/11.09.2018
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">2. Шығындар</td>
-<td colspan="2">380136</td>
+<td colspan="2">376172</td>
 </tr>
 <tr>
 <td>01</td>
@@ -211,7 +211,7 @@ source: https://zan.gov.kz/client/#!/doc/117704/kaz/11.09.2018
 <td></td>
 <td></td>
 <td colspan="3">001</td>
-<td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
+<td colspan="2">Аудандық маңызы бар қала, ауыл,кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
 <td colspan="2">49726</td>
 </tr>
 <tr>
@@ -228,7 +228,7 @@ source: https://zan.gov.kz/client/#!/doc/117704/kaz/11.09.2018
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">Бiлiм беру</td>
-<td colspan="2">254182</td>
+<td colspan="2">259456</td>
 </tr>
 <tr>
 <td></td>
@@ -236,7 +236,7 @@ source: https://zan.gov.kz/client/#!/doc/117704/kaz/11.09.2018
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">Мектепке дейiнгi тәрбие және оқыту</td>
-<td colspan="2">254182</td>
+<td colspan="2">259456</td>
 </tr>
 <tr>
 <td></td>
@@ -244,7 +244,7 @@ source: https://zan.gov.kz/client/#!/doc/117704/kaz/11.09.2018
 <td>124</td>
 <td colspan="2"></td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td colspan="2">254182</td>
+<td colspan="2">259456</td>
 </tr>
 <tr>
 <td></td>
@@ -252,7 +252,7 @@ source: https://zan.gov.kz/client/#!/doc/117704/kaz/11.09.2018
 <td></td>
 <td colspan="2">004</td>
 <td colspan="2">Мектепке дейінгі тәрбиелеу және оқыту және мектепке дейінгі тәрбиелеу және оқыту ұйымдарында медициналық қызмет көрсетуді ұйымдастыру</td>
-<td colspan="2">254182</td>
+<td colspan="2">259456</td>
 </tr>
 <tr>
 <td>07</td>
@@ -260,7 +260,7 @@ source: https://zan.gov.kz/client/#!/doc/117704/kaz/11.09.2018
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">Тұрғын үй-коммуналдық шаруашылық</td>
-<td colspan="2">74045</td>
+<td colspan="2">63885</td>
 </tr>
 <tr>
 <td></td>
@@ -268,7 +268,7 @@ source: https://zan.gov.kz/client/#!/doc/117704/kaz/11.09.2018
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">Елді-мекендерді көркейту</td>
-<td colspan="2">74045</td>
+<td colspan="2">63885</td>
 </tr>
 <tr>
 <td></td>
@@ -276,7 +276,7 @@ source: https://zan.gov.kz/client/#!/doc/117704/kaz/11.09.2018
 <td>124</td>
 <td colspan="2"></td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td colspan="2">74045</td>
+<td colspan="2">63885</td>
 </tr>
 <tr>
 <td></td>
@@ -284,7 +284,7 @@ source: https://zan.gov.kz/client/#!/doc/117704/kaz/11.09.2018
 <td></td>
 <td colspan="2">008</td>
 <td colspan="2">Елді мекендердегі көшелерді жарықтандыру</td>
-<td colspan="2">17557</td>
+<td colspan="2">10354</td>
 </tr>
 <tr>
 <td></td>
@@ -300,7 +300,7 @@ source: https://zan.gov.kz/client/#!/doc/117704/kaz/11.09.2018
 <td></td>
 <td colspan="2">011</td>
 <td colspan="2">Елді мекендерді абаттандыру мен көгалдандыру</td>
-<td colspan="2">26488</td>
+<td colspan="2">23531</td>
 </tr>
 <tr>
 <td>08</td>
@@ -308,7 +308,7 @@ source: https://zan.gov.kz/client/#!/doc/117704/kaz/11.09.2018
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">Мәдениет, спорт, туризм және ақпараттық кеңістiк</td>
-<td colspan="2">500</td>
+<td colspan="2">1422</td>
 </tr>
 <tr>
 <td></td>
@@ -316,7 +316,7 @@ source: https://zan.gov.kz/client/#!/doc/117704/kaz/11.09.2018
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">Спорт</td>
-<td colspan="2">500</td>
+<td colspan="2">1422</td>
 </tr>
 <tr>
 <td></td>
@@ -324,7 +324,7 @@ source: https://zan.gov.kz/client/#!/doc/117704/kaz/11.09.2018
 <td>124</td>
 <td colspan="2"></td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td colspan="2">500</td>
+<td colspan="2">1422</td>
 </tr>
 <tr>
 <td></td>
@@ -332,7 +332,7 @@ source: https://zan.gov.kz/client/#!/doc/117704/kaz/11.09.2018
 <td></td>
 <td colspan="2">028</td>
 <td colspan="2">Жергілікті деңгейде дене шынықтыру-сауықтыру және спорттық іс-шараларды өткізу</td>
-<td colspan="2">500</td>
+<td colspan="2">1422</td>
 </tr>
 <tr>
 <td></td>
@@ -364,10 +364,10 @@ source: https://zan.gov.kz/client/#!/doc/117704/kaz/11.09.2018
 <td>Сомасы мың теңге</td>
 </tr>
 <tr>
-<td colspan="3">1</td>
-<td></td>
-<td>2</td>
-<td>3</td>
+<th colspan="3">1</th>
+<th></th>
+<th>2</th>
+<th>3</th>
 </tr>
 <tr>
 <td></td>
@@ -423,10 +423,10 @@ source: https://zan.gov.kz/client/#!/doc/117704/kaz/11.09.2018
 <td>Сомасы мың теңге</td>
 </tr>
 <tr>
-<td colspan="3">1</td>
-<td></td>
-<td>2</td>
-<td>3</td>
+<th colspan="3">1</th>
+<th></th>
+<th>2</th>
+<th>3</th>
 </tr>
 <tr>
 <td></td>
@@ -490,10 +490,10 @@ source: https://zan.gov.kz/client/#!/doc/117704/kaz/11.09.2018
 <td>Сомасы мың теңге</td>
 </tr>
 <tr>
-<td colspan="3">1</td>
-<td></td>
-<td>2</td>
-<td>3</td>
+<th colspan="3">1</th>
+<th></th>
+<th>2</th>
+<th>3</th>
 </tr>
 <tr>
 <td></td>
@@ -532,10 +532,10 @@ source: https://zan.gov.kz/client/#!/doc/117704/kaz/11.09.2018
 <td>Сомасы мың теңге</td>
 </tr>
 <tr>
-<td colspan="3">1</td>
-<td></td>
-<td>2</td>
-<td>3</td>
+<th colspan="3">1</th>
+<th></th>
+<th>2</th>
+<th>3</th>
 </tr>
 <tr>
 <td></td>
@@ -1897,7 +1897,7 @@ source: https://zan.gov.kz/client/#!/doc/117704/kaz/11.09.2018
 
 # Жартытөбе ауылдық округінің 2018 жылға арналған бюджеті
 
-> *Ескерту. 4-қосымша жаңа редакцияда - Түркістан облысы Созақ аудандық мәслихатының 11.09.2018 № 182 (01.01.2018 бастап қолданысқа енгiзiледi) шешiмiмен.*
+> *Ескерту. 4-қосымша жаңа редакцияда - Түркістан облысы Созақ аудандық мәслихатының 07.12.2018 № 203 (01.01.2018 бастап қолданысқа енгiзiледi) шешiмiмен.*
 
 <table>
 <tr>
@@ -1928,63 +1928,63 @@ source: https://zan.gov.kz/client/#!/doc/117704/kaz/11.09.2018
 <td>01</td>
 <td></td>
 <td>Табыс салығы</td>
-<td>300</td>
+<td>477</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>2</td>
 <td>Жеке табыс салығы</td>
-<td>300</td>
+<td>477</td>
 </tr>
 <tr>
 <td></td>
 <td>04</td>
 <td></td>
 <td>Меншiкке салынатын салықтар</td>
-<td>2968</td>
+<td>2731</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>1</td>
 <td>Мүлiкке салынатын салықтар</td>
-<td>15</td>
+<td>70</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td>Жер салығы</td>
-<td>176</td>
+<td>234</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>4</td>
 <td>Көлiк құралдарына салынатын салық</td>
-<td>2777</td>
+<td>2427</td>
 </tr>
 <tr>
 <td>2</td>
 <td></td>
 <td></td>
 <td>Салықтық емес түсiмдер</td>
-<td>1793</td>
+<td>1853</td>
 </tr>
 <tr>
 <td></td>
 <td>01</td>
 <td></td>
 <td>Мемлекеттік меншіктен түсетін кірістер</td>
-<td>1250</td>
+<td>1310</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>5</td>
 <td>Мемлекет меншігіндегі мүлікті жалға беруден түсетін кірістер</td>
-<td>1250</td>
+<td>1310</td>
 </tr>
 <tr>
 <td></td>
@@ -2056,10 +2056,10 @@ source: https://zan.gov.kz/client/#!/doc/117704/kaz/11.09.2018
 <td colspan="2">Сомасы мың теңге</td>
 </tr>
 <tr>
-<td colspan="4">1</td>
-<td></td>
-<td colspan="2">2</td>
-<td colspan="2">3</td>
+<th colspan="4">1</th>
+<th></th>
+<th colspan="2">2</th>
+<th colspan="2">3</th>
 </tr>
 <tr>
 <td></td>
@@ -2098,7 +2098,7 @@ source: https://zan.gov.kz/client/#!/doc/117704/kaz/11.09.2018
 <td></td>
 <td></td>
 <td colspan="3">001</td>
-<td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
+<td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
 <td colspan="2">29113</td>
 </tr>
 <tr>
@@ -2171,7 +2171,7 @@ source: https://zan.gov.kz/client/#!/doc/117704/kaz/11.09.2018
 <td></td>
 <td colspan="2">008</td>
 <td colspan="2">Елді мекендердегі көшелерді жарықтандыру</td>
-<td colspan="2">1129</td>
+<td colspan="2">609</td>
 </tr>
 <tr>
 <td></td>
@@ -2187,7 +2187,7 @@ source: https://zan.gov.kz/client/#!/doc/117704/kaz/11.09.2018
 <td></td>
 <td colspan="2">011</td>
 <td colspan="2">Елді мекендерді абаттандыру мен көгалдандыру</td>
-<td colspan="2">30072</td>
+<td colspan="2">30592</td>
 </tr>
 <tr>
 <td>08</td>
@@ -2251,10 +2251,10 @@ source: https://zan.gov.kz/client/#!/doc/117704/kaz/11.09.2018
 <td>Сомасы мың теңге</td>
 </tr>
 <tr>
-<td colspan="3">1</td>
-<td></td>
-<td>2</td>
-<td>3</td>
+<th colspan="3">1</th>
+<th></th>
+<th>2</th>
+<th>3</th>
 </tr>
 <tr>
 <td></td>
@@ -2310,10 +2310,10 @@ source: https://zan.gov.kz/client/#!/doc/117704/kaz/11.09.2018
 <td>Сомасы мың теңге</td>
 </tr>
 <tr>
-<td colspan="3">1</td>
-<td></td>
-<td>2</td>
-<td>3</td>
+<th colspan="3">1</th>
+<th></th>
+<th>2</th>
+<th>3</th>
 </tr>
 <tr>
 <td></td>
@@ -2377,10 +2377,10 @@ source: https://zan.gov.kz/client/#!/doc/117704/kaz/11.09.2018
 <td>Сомасы мың теңге</td>
 </tr>
 <tr>
-<td colspan="3">1</td>
-<td></td>
-<td>2</td>
-<td>3</td>
+<th colspan="3">1</th>
+<th></th>
+<th>2</th>
+<th>3</th>
 </tr>
 <tr>
 <td></td>
@@ -2419,10 +2419,10 @@ source: https://zan.gov.kz/client/#!/doc/117704/kaz/11.09.2018
 <td>Сомасы мың теңге</td>
 </tr>
 <tr>
-<td colspan="3">1</td>
-<td></td>
-<td>2</td>
-<td>3</td>
+<th colspan="3">1</th>
+<th></th>
+<th>2</th>
+<th>3</th>
 </tr>
 <tr>
 <td></td>
@@ -3811,7 +3811,7 @@ source: https://zan.gov.kz/client/#!/doc/117704/kaz/11.09.2018
 
 # Құмкент ауылдық округінің 2018 жылға арналған бюджеті
 
-> *Ескерту. 7-қосымша жаңа редакцияда - Түркістан облысы Созақ аудандық мәслихатының 11.09.2018 № 182 (01.01.2018 бастап қолданысқа енгiзiледi) шешiмiмен.*
+> *Ескерту. 7-қосымша жаңа редакцияда - Түркістан облысы Созақ аудандық мәслихатының 07.12.2018 № 203 (01.01.2018 бастап қолданысқа енгiзiледi) шешiмiмен.*
 
 <table>
 <tr>
@@ -3828,77 +3828,63 @@ source: https://zan.gov.kz/client/#!/doc/117704/kaz/11.09.2018
 <td></td>
 <td></td>
 <td>1. Кірістер</td>
-<td>97326</td>
+<td>97006</td>
 </tr>
 <tr>
 <td>1</td>
 <td></td>
 <td></td>
 <td>Салықтық түсімдер</td>
-<td>3442</td>
+<td>3322</td>
 </tr>
 <tr>
 <td></td>
 <td>01</td>
 <td></td>
 <td>Табыс салығы</td>
-<td>264</td>
+<td>99</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>2</td>
 <td>Жеке табыс салығы</td>
-<td>264</td>
+<td>99</td>
 </tr>
 <tr>
 <td></td>
 <td>04</td>
 <td></td>
 <td>Меншiкке салынатын салықтар</td>
-<td>3178</td>
+<td>3223</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>1</td>
 <td>Мүлiкке салынатын салықтар</td>
-<td>23</td>
+<td>33</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td>Жер салығы</td>
-<td>323</td>
+<td>337</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>4</td>
 <td>Көлiк құралдарына салынатын салық</td>
-<td>2832</td>
+<td>2853</td>
 </tr>
 <tr>
 <td>2</td>
 <td></td>
 <td></td>
 <td>Салықтық емес түсiмдер</td>
-<td>890</td>
-</tr>
-<tr>
-<td></td>
-<td>01</td>
-<td></td>
-<td>Мемлекеттік меншіктен түсетін кірістер</td>
-<td>0</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>5</td>
-<td>Мемлекет меншігіндегі мүлікті жалға беруден түсетін кірістер</td>
-<td>0</td>
+<td>690</td>
 </tr>
 <tr>
 <td></td>
@@ -3919,14 +3905,14 @@ source: https://zan.gov.kz/client/#!/doc/117704/kaz/11.09.2018
 <td>06</td>
 <td></td>
 <td>Басқа да салықтық емес түсiмдер</td>
-<td>810</td>
+<td>610</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>1</td>
 <td>Басқа да салықтық емес түсiмдер</td>
-<td>810</td>
+<td>610</td>
 </tr>
 <tr>
 <td>3</td>
@@ -3970,10 +3956,10 @@ source: https://zan.gov.kz/client/#!/doc/117704/kaz/11.09.2018
 <td colspan="2">Сомасы мың теңге</td>
 </tr>
 <tr>
-<td colspan="4">1</td>
-<td></td>
-<td colspan="2">2</td>
-<td colspan="2">3</td>
+<th colspan="4">1</th>
+<th></th>
+<th colspan="2">2</th>
+<th colspan="2">3</th>
 </tr>
 <tr>
 <td></td>
@@ -3981,7 +3967,7 @@ source: https://zan.gov.kz/client/#!/doc/117704/kaz/11.09.2018
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">2. Шығындар</td>
-<td colspan="2">97326</td>
+<td colspan="2">97006</td>
 </tr>
 <tr>
 <td>01</td>
@@ -4012,7 +3998,7 @@ source: https://zan.gov.kz/client/#!/doc/117704/kaz/11.09.2018
 <td></td>
 <td></td>
 <td colspan="3">001</td>
-<td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
+<td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
 <td colspan="2">27322</td>
 </tr>
 <tr>
@@ -4061,7 +4047,7 @@ source: https://zan.gov.kz/client/#!/doc/117704/kaz/11.09.2018
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">Тұрғын үй-коммуналдық шаруашылық</td>
-<td colspan="2">19797</td>
+<td colspan="2">19477</td>
 </tr>
 <tr>
 <td></td>
@@ -4069,7 +4055,7 @@ source: https://zan.gov.kz/client/#!/doc/117704/kaz/11.09.2018
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">Елді-мекендерді көркейту</td>
-<td colspan="2">19797</td>
+<td colspan="2">19477</td>
 </tr>
 <tr>
 <td></td>
@@ -4077,7 +4063,7 @@ source: https://zan.gov.kz/client/#!/doc/117704/kaz/11.09.2018
 <td>124</td>
 <td colspan="2"></td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td colspan="2">19797</td>
+<td colspan="2">19477</td>
 </tr>
 <tr>
 <td></td>
@@ -4085,7 +4071,7 @@ source: https://zan.gov.kz/client/#!/doc/117704/kaz/11.09.2018
 <td></td>
 <td colspan="2">008</td>
 <td colspan="2">Елді мекендердегі көшелерді жарықтандыру</td>
-<td colspan="2">8994</td>
+<td colspan="2">8794</td>
 </tr>
 <tr>
 <td></td>
@@ -4093,7 +4079,7 @@ source: https://zan.gov.kz/client/#!/doc/117704/kaz/11.09.2018
 <td></td>
 <td colspan="2">009</td>
 <td colspan="2">Елді мекендердің санитариясын қамтамасыз ету</td>
-<td colspan="2">240</td>
+<td colspan="2">120</td>
 </tr>
 <tr>
 <td></td>
@@ -4165,10 +4151,10 @@ source: https://zan.gov.kz/client/#!/doc/117704/kaz/11.09.2018
 <td>Сомасы мың теңге</td>
 </tr>
 <tr>
-<td colspan="3">1</td>
-<td></td>
-<td>2</td>
-<td>3</td>
+<th colspan="3">1</th>
+<th></th>
+<th>2</th>
+<th>3</th>
 </tr>
 <tr>
 <td></td>
@@ -4224,10 +4210,10 @@ source: https://zan.gov.kz/client/#!/doc/117704/kaz/11.09.2018
 <td>Сомасы мың теңге</td>
 </tr>
 <tr>
-<td colspan="3">1</td>
-<td></td>
-<td>2</td>
-<td>3</td>
+<th colspan="3">1</th>
+<th></th>
+<th>2</th>
+<th>3</th>
 </tr>
 <tr>
 <td></td>
@@ -4291,10 +4277,10 @@ source: https://zan.gov.kz/client/#!/doc/117704/kaz/11.09.2018
 <td>Сомасы мың теңге</td>
 </tr>
 <tr>
-<td colspan="3">1</td>
-<td></td>
-<td>2</td>
-<td>3</td>
+<th colspan="3">1</th>
+<th></th>
+<th>2</th>
+<th>3</th>
 </tr>
 <tr>
 <td></td>
@@ -4333,10 +4319,10 @@ source: https://zan.gov.kz/client/#!/doc/117704/kaz/11.09.2018
 <td>Сомасы мың теңге</td>
 </tr>
 <tr>
-<td colspan="3">1</td>
-<td></td>
-<td>2</td>
-<td>3</td>
+<th colspan="3">1</th>
+<th></th>
+<th>2</th>
+<th>3</th>
 </tr>
 <tr>
 <td></td>
@@ -5708,7 +5694,7 @@ source: https://zan.gov.kz/client/#!/doc/117704/kaz/11.09.2018
 
 # Созақ ауылдық округінің 2018 жылға арналған бюджеті
 
-> *Ескерту. 10-қосымша жаңа редакцияда - Түркістан облысы Созақ аудандық мәслихатының 11.09.2018 № 182 (01.01.2018 бастап қолданысқа енгiзiледi) шешiмiмен.*
+> *Ескерту. 10-қосымша жаңа редакцияда - Түркістан облысы Созақ аудандық мәслихатының 07.12.2018 № 203 (01.01.2018 бастап қолданысқа енгiзiледi) шешiмiмен.*
 
 <table>
 <tr>
@@ -5725,28 +5711,28 @@ source: https://zan.gov.kz/client/#!/doc/117704/kaz/11.09.2018
 <td></td>
 <td></td>
 <td>1. Кірістер</td>
-<td>141374</td>
+<td>140692</td>
 </tr>
 <tr>
 <td>1</td>
 <td></td>
 <td></td>
 <td>Салықтық түсімдер</td>
-<td>19343</td>
+<td>18742</td>
 </tr>
 <tr>
 <td></td>
 <td>01</td>
 <td></td>
 <td>Табыс салығы</td>
-<td>3845</td>
+<td>3244</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>2</td>
 <td>Жеке табыс салығы</td>
-<td>3845</td>
+<td>3244</td>
 </tr>
 <tr>
 <td></td>
@@ -5781,7 +5767,7 @@ source: https://zan.gov.kz/client/#!/doc/117704/kaz/11.09.2018
 <td></td>
 <td></td>
 <td>Салықтық емес түсiмдер</td>
-<td>6228</td>
+<td>6147</td>
 </tr>
 <tr>
 <td></td>
@@ -5867,10 +5853,10 @@ source: https://zan.gov.kz/client/#!/doc/117704/kaz/11.09.2018
 <td colspan="2">Сомасы мың теңге</td>
 </tr>
 <tr>
-<td colspan="4">1</td>
-<td></td>
-<td colspan="2">2</td>
-<td colspan="2">3</td>
+<th colspan="4">1</th>
+<th></th>
+<th colspan="2">2</th>
+<th colspan="2">3</th>
 </tr>
 <tr>
 <td></td>
@@ -5909,7 +5895,7 @@ source: https://zan.gov.kz/client/#!/doc/117704/kaz/11.09.2018
 <td></td>
 <td></td>
 <td colspan="3">001</td>
-<td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
+<td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
 <td colspan="2">31272</td>
 </tr>
 <tr>
@@ -6102,10 +6088,10 @@ source: https://zan.gov.kz/client/#!/doc/117704/kaz/11.09.2018
 <td>Сомасы мың теңге</td>
 </tr>
 <tr>
-<td colspan="3">1</td>
-<td></td>
-<td>2</td>
-<td>3</td>
+<th colspan="3">1</th>
+<th></th>
+<th>2</th>
+<th>3</th>
 </tr>
 <tr>
 <td></td>
@@ -6161,10 +6147,10 @@ source: https://zan.gov.kz/client/#!/doc/117704/kaz/11.09.2018
 <td>Сомасы мың теңге</td>
 </tr>
 <tr>
-<td colspan="3">1</td>
-<td></td>
-<td>2</td>
-<td>3</td>
+<th colspan="3">1</th>
+<th></th>
+<th>2</th>
+<th>3</th>
 </tr>
 <tr>
 <td></td>
@@ -6228,10 +6214,10 @@ source: https://zan.gov.kz/client/#!/doc/117704/kaz/11.09.2018
 <td>Сомасы мың теңге</td>
 </tr>
 <tr>
-<td colspan="3">1</td>
-<td></td>
-<td>2</td>
-<td>3</td>
+<th colspan="3">1</th>
+<th></th>
+<th>2</th>
+<th>3</th>
 </tr>
 <tr>
 <td></td>
@@ -6270,10 +6256,10 @@ source: https://zan.gov.kz/client/#!/doc/117704/kaz/11.09.2018
 <td>Сомасы мың теңге</td>
 </tr>
 <tr>
-<td colspan="3">1</td>
-<td></td>
-<td>2</td>
-<td>3</td>
+<th colspan="3">1</th>
+<th></th>
+<th>2</th>
+<th>3</th>
 </tr>
 <tr>
 <td></td>
