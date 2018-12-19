@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/124876/rus/24.09.2018
+source: https://zan.gov.kz/client/#!/doc/124876/rus/19.12.2018
 ---
 
 > *Приложение 1 к решению*  
@@ -2187,6 +2187,8 @@ source: https://zan.gov.kz/client/#!/doc/124876/rus/24.09.2018
 
 # Бюджет сельского округа Жана ауыл на 2018 год
 
+> *Сноска. Приложение 4 в редакции решения Жетысайского районного маслихата Туркестанской области от 19.12.2018 № 9-45-VI (вводится в действие с 01.01.2018).*
+
 <table>
 <tr>
 <td colspan="2">Категория</td>
@@ -2217,8 +2219,8 @@ source: https://zan.gov.kz/client/#!/doc/124876/rus/24.09.2018
 <td></td>
 <td></td>
 <td colspan="2"></td>
-<td colspan="2">1.Доходы</td>
-<td>88 785</td>
+<td colspan="2">1. Доходы</td>
+<td>89 489</td>
 </tr>
 <tr>
 <td>1</td>
@@ -2226,7 +2228,7 @@ source: https://zan.gov.kz/client/#!/doc/124876/rus/24.09.2018
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">Налоговые поступления</td>
-<td>3 943</td>
+<td>4 647</td>
 </tr>
 <tr>
 <td></td>
@@ -2234,14 +2236,14 @@ source: https://zan.gov.kz/client/#!/doc/124876/rus/24.09.2018
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">Подоходный налог</td>
-<td>1 047</td>
+<td>1 751</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="3">2</td>
 <td colspan="2">Индивидуальный подоходный налог</td>
-<td>1 047</td>
+<td>1 751</td>
 </tr>
 <tr>
 <td></td>
@@ -2296,6 +2298,46 @@ source: https://zan.gov.kz/client/#!/doc/124876/rus/24.09.2018
 <td>337</td>
 </tr>
 <tr>
+<td>3</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">Поступления от продажи основного капитала</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td>01</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">Продажа государственного имущества, закрепленного за государственными учреждениями</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>1</td>
+<td colspan="2"></td>
+<td colspan="2">Продажа государственного имущества, закрепленного за государственными учреждениями</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td>03</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">Продажа земли и нематериальных активов</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>1</td>
+<td colspan="2"></td>
+<td colspan="2">Продажа земли</td>
+<td>0</td>
+</tr>
+<tr>
 <td>4</td>
 <td></td>
 <td></td>
@@ -2347,8 +2389,8 @@ source: https://zan.gov.kz/client/#!/doc/124876/rus/24.09.2018
 <td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td>2.Затраты</td>
-<td>88 785</td>
+<td>2. Затраты</td>
+<td>89 489</td>
 </tr>
 <tr>
 <td>01</td>
@@ -2356,7 +2398,7 @@ source: https://zan.gov.kz/client/#!/doc/124876/rus/24.09.2018
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Государственные услуги общего характера</td>
-<td>8 298</td>
+<td>9 002</td>
 </tr>
 <tr>
 <td></td>
@@ -2364,7 +2406,7 @@ source: https://zan.gov.kz/client/#!/doc/124876/rus/24.09.2018
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>8 298</td>
+<td>9 002</td>
 </tr>
 <tr>
 <td></td>
@@ -2372,7 +2414,7 @@ source: https://zan.gov.kz/client/#!/doc/124876/rus/24.09.2018
 <td colspan="2">124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>8 298</td>
+<td>9 002</td>
 </tr>
 <tr>
 <td></td>
@@ -2380,7 +2422,7 @@ source: https://zan.gov.kz/client/#!/doc/124876/rus/24.09.2018
 <td colspan="2"></td>
 <td colspan="2">001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>7 594</td>
+<td>8 298</td>
 </tr>
 <tr>
 <td></td>
@@ -4386,6 +4428,8 @@ source: https://zan.gov.kz/client/#!/doc/124876/rus/24.09.2018
 
 # Бюджет сельского округа Жылы су на 2018 год
 
+> *Сноска. Приложение 8 в редакции решения Жетысайского районного маслихата Туркестанской области от 19.12.2018 № 9-45-VI (вводится в действие с 01.01.2018).*
+
 <table>
 <tr>
 <td colspan="3">Категория</td>
@@ -4414,8 +4458,8 @@ source: https://zan.gov.kz/client/#!/doc/124876/rus/24.09.2018
 <td></td>
 <td></td>
 <td></td>
-<td>1.Доходы</td>
-<td>81 236</td>
+<td>1. Доходы</td>
+<td>81 940</td>
 </tr>
 <tr>
 <td>1</td>
@@ -4423,7 +4467,7 @@ source: https://zan.gov.kz/client/#!/doc/124876/rus/24.09.2018
 <td></td>
 <td></td>
 <td>Налоговые поступления</td>
-<td>3 152</td>
+<td>3 856</td>
 </tr>
 <tr>
 <td></td>
@@ -4431,14 +4475,14 @@ source: https://zan.gov.kz/client/#!/doc/124876/rus/24.09.2018
 <td></td>
 <td></td>
 <td>Подоходный налог</td>
-<td>401</td>
+<td>1 105</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="2">2</td>
 <td>Индивидуальный подоходный налог</td>
-<td>401</td>
+<td>1 105</td>
 </tr>
 <tr>
 <td></td>
@@ -4584,8 +4628,8 @@ source: https://zan.gov.kz/client/#!/doc/124876/rus/24.09.2018
 <td></td>
 <td></td>
 <td></td>
-<td>2.Затраты</td>
-<td>81 236</td>
+<td>2. Затраты</td>
+<td>81 940</td>
 </tr>
 <tr>
 <td>01</td>
@@ -4593,7 +4637,7 @@ source: https://zan.gov.kz/client/#!/doc/124876/rus/24.09.2018
 <td></td>
 <td></td>
 <td>Государственные услуги общего характера</td>
-<td>6 444</td>
+<td>7 148</td>
 </tr>
 <tr>
 <td></td>
@@ -4601,7 +4645,7 @@ source: https://zan.gov.kz/client/#!/doc/124876/rus/24.09.2018
 <td></td>
 <td></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>6 444</td>
+<td>7 148</td>
 </tr>
 <tr>
 <td></td>
@@ -4609,7 +4653,7 @@ source: https://zan.gov.kz/client/#!/doc/124876/rus/24.09.2018
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>6 444</td>
+<td>7 148</td>
 </tr>
 <tr>
 <td></td>
@@ -4617,7 +4661,7 @@ source: https://zan.gov.kz/client/#!/doc/124876/rus/24.09.2018
 <td></td>
 <td>001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>6 444</td>
+<td>7 148</td>
 </tr>
 <tr>
 <td></td>
