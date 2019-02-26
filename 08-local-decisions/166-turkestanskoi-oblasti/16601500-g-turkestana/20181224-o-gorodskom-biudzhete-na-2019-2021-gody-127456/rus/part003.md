@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/127456/rus/24.12.2018
+source: https://zan.gov.kz/client/#!/doc/127456/rus/26.02.2019
 ---
 
 > *Приложение 3 к решению*  
@@ -9,6 +9,8 @@ source: https://zan.gov.kz/client/#!/doc/127456/rus/24.12.2018
 > *2018 года №41/207–VІ*
 
 # Городской бюджет на 2021 год
+
+> *Сноска. Приложение 3 - в редакции решения Туркестанского городского маслихата Туркестанской области от 26.02.2019 № 43/222-VI (вводится в действие с 01.01.2019).*
 
 <table>
 <tr>
@@ -32,7 +34,7 @@ source: https://zan.gov.kz/client/#!/doc/127456/rus/24.12.2018
 <td></td>
 <td colspan="4"></td>
 <td>1. Доходы</td>
-<td>42 056 111</td>
+<td>41 970 634</td>
 </tr>
 <tr>
 <td></td>
@@ -40,7 +42,7 @@ source: https://zan.gov.kz/client/#!/doc/127456/rus/24.12.2018
 <td></td>
 <td colspan="4"></td>
 <td>Налоговые поступления</td>
-<td>3 919 638</td>
+<td>3 834 161</td>
 </tr>
 <tr>
 <td></td>
@@ -48,7 +50,7 @@ source: https://zan.gov.kz/client/#!/doc/127456/rus/24.12.2018
 <td>1</td>
 <td colspan="4"></td>
 <td>Подоходный налог</td>
-<td>1 654 323</td>
+<td>1 546 904</td>
 </tr>
 <tr>
 <td></td>
@@ -56,7 +58,7 @@ source: https://zan.gov.kz/client/#!/doc/127456/rus/24.12.2018
 <td></td>
 <td colspan="4">2</td>
 <td>Индивидуальный подоходный налог</td>
-<td>1 654 323</td>
+<td>1 546 904</td>
 </tr>
 <tr>
 <td></td>
@@ -64,7 +66,7 @@ source: https://zan.gov.kz/client/#!/doc/127456/rus/24.12.2018
 <td>3</td>
 <td colspan="4"></td>
 <td>Социальный налог</td>
-<td>1 241 231</td>
+<td>1 263 173</td>
 </tr>
 <tr>
 <td></td>
@@ -72,7 +74,7 @@ source: https://zan.gov.kz/client/#!/doc/127456/rus/24.12.2018
 <td></td>
 <td colspan="4">1</td>
 <td>Социальный налог</td>
-<td>1 241 231</td>
+<td>1 263 173</td>
 </tr>
 <tr>
 <td></td>
@@ -256,7 +258,7 @@ source: https://zan.gov.kz/client/#!/doc/127456/rus/24.12.2018
 <td></td>
 <td colspan="4">2</td>
 <td>Продажа нематериальных активов</td>
-<td>1200</td>
+<td>1 200</td>
 </tr>
 <tr>
 <td></td>
@@ -297,7 +299,7 @@ source: https://zan.gov.kz/client/#!/doc/127456/rus/24.12.2018
 <td></td>
 <td colspan="4"></td>
 <td>2. Затраты</td>
-<td>42 056 111</td>
+<td>41 970 634</td>
 </tr>
 <tr>
 <td>1</td>
@@ -577,7 +579,7 @@ source: https://zan.gov.kz/client/#!/doc/127456/rus/24.12.2018
 <td></td>
 <td colspan="4"></td>
 <td>Образование</td>
-<td>25 309 919</td>
+<td>25 224 442</td>
 </tr>
 <tr>
 <td></td>
@@ -617,7 +619,7 @@ source: https://zan.gov.kz/client/#!/doc/127456/rus/24.12.2018
 <td></td>
 <td colspan="4"></td>
 <td>Начальное, основное среднее и общее среднее образование</td>
-<td>19 007 952</td>
+<td>18 922 475</td>
 </tr>
 <tr>
 <td></td>
@@ -625,7 +627,7 @@ source: https://zan.gov.kz/client/#!/doc/127456/rus/24.12.2018
 <td>464</td>
 <td colspan="4"></td>
 <td>Отдел образования района (города областного значения)</td>
-<td>13 089 731</td>
+<td>13 004 254</td>
 </tr>
 <tr>
 <td></td>
@@ -633,7 +635,7 @@ source: https://zan.gov.kz/client/#!/doc/127456/rus/24.12.2018
 <td></td>
 <td colspan="4">003</td>
 <td>Общеобразовательное обучение</td>
-<td>12 864 099</td>
+<td>12 778 622</td>
 </tr>
 <tr>
 <td></td>
@@ -1625,7 +1627,7 @@ source: https://zan.gov.kz/client/#!/doc/127456/rus/24.12.2018
 <td></td>
 <td colspan="4">017</td>
 <td>Капитальные расходы государственного органа</td>
-<td>1500</td>
+<td>1 500</td>
 </tr>
 <tr>
 <td></td>

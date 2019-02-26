@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/127456/kaz/24.12.2018
+source: https://zan.gov.kz/client/#!/doc/127456/kaz/26.02.2019
 ---
 
 > *Түркістан қалалық*  
@@ -9,6 +9,8 @@ source: https://zan.gov.kz/client/#!/doc/127456/kaz/24.12.2018
 > *шешіміне 3 қосымша*
 
 # 2021 жылға арналған қалалық бюджет
+
+> *Ескерту. 3-қосымша жаңа редакцияда - Түркiстан облысы Түркістан қалалық мәслихатының 26.02.2019 № 43/222-VI (01.01.2019 бастап қолданысқа енгiзiледi) шешiмiмен.*
 
 <table>
 <tr>
@@ -25,7 +27,7 @@ source: https://zan.gov.kz/client/#!/doc/127456/kaz/24.12.2018
 <td></td>
 <td></td>
 <td>1. Кірістер</td>
-<td>42 056 111</td>
+<td>41 970 634</td>
 </tr>
 <tr>
 <td></td>
@@ -33,7 +35,7 @@ source: https://zan.gov.kz/client/#!/doc/127456/kaz/24.12.2018
 <td></td>
 <td></td>
 <td>Салықтық түсімдер</td>
-<td>3 919 638</td>
+<td>3 834 161</td>
 </tr>
 <tr>
 <td></td>
@@ -41,7 +43,7 @@ source: https://zan.gov.kz/client/#!/doc/127456/kaz/24.12.2018
 <td>1</td>
 <td></td>
 <td>Табыс салығы</td>
-<td>1 654 323</td>
+<td>1 546 904</td>
 </tr>
 <tr>
 <td></td>
@@ -49,7 +51,7 @@ source: https://zan.gov.kz/client/#!/doc/127456/kaz/24.12.2018
 <td></td>
 <td>2</td>
 <td>Жеке табыс салығы</td>
-<td>1 654 323</td>
+<td>1 546 904</td>
 </tr>
 <tr>
 <td></td>
@@ -57,7 +59,7 @@ source: https://zan.gov.kz/client/#!/doc/127456/kaz/24.12.2018
 <td>3</td>
 <td></td>
 <td>Әлеуметтік салық</td>
-<td>1 241 231</td>
+<td>1 263 173</td>
 </tr>
 <tr>
 <td></td>
@@ -65,7 +67,7 @@ source: https://zan.gov.kz/client/#!/doc/127456/kaz/24.12.2018
 <td></td>
 <td>1</td>
 <td>Әлеуметтік салық</td>
-<td>1 241 231</td>
+<td>1 263 173</td>
 </tr>
 <tr>
 <td></td>
@@ -290,7 +292,7 @@ source: https://zan.gov.kz/client/#!/doc/127456/kaz/24.12.2018
 <td></td>
 <td></td>
 <td>2. Шығындар</td>
-<td>42 056 111</td>
+<td>41 970 634</td>
 </tr>
 <tr>
 <td>1</td>
@@ -570,7 +572,7 @@ source: https://zan.gov.kz/client/#!/doc/127456/kaz/24.12.2018
 <td></td>
 <td></td>
 <td>Білім беру</td>
-<td>25 309 919</td>
+<td>25 224 442</td>
 </tr>
 <tr>
 <td></td>
@@ -610,7 +612,7 @@ source: https://zan.gov.kz/client/#!/doc/127456/kaz/24.12.2018
 <td></td>
 <td></td>
 <td>Бастауыш, негізгі орта және жалпы орта білім беру</td>
-<td>19 007 952</td>
+<td>18 922 475</td>
 </tr>
 <tr>
 <td></td>
@@ -618,7 +620,7 @@ source: https://zan.gov.kz/client/#!/doc/127456/kaz/24.12.2018
 <td>464</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) білім бөлімі</td>
-<td>13 089 731</td>
+<td>13 004 254</td>
 </tr>
 <tr>
 <td></td>
@@ -626,7 +628,7 @@ source: https://zan.gov.kz/client/#!/doc/127456/kaz/24.12.2018
 <td></td>
 <td>003</td>
 <td>Жалпы білім беру</td>
-<td>12 864 099</td>
+<td>12 778 622</td>
 </tr>
 <tr>
 <td></td>
