@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/127763/kaz/26.12.2018
+source: https://zan.gov.kz/client/#!/doc/127763/kaz/15.04.2019
 ---
 
 > *Жетісай аудандық*  
