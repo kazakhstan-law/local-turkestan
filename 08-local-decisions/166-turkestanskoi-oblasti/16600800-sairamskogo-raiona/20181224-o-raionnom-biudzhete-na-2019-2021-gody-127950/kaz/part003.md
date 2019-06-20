@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/127950/kaz/23.04.2019
+source: https://zan.gov.kz/client/#!/doc/127950/kaz/20.06.2019
 ---
 
 > *Сайрам аудандық*  
