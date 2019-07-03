@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/128504/rus/22.04.2019
+source: https://zan.gov.kz/client/#!/doc/128504/rus/03.07.2019
 ---
 
 > *Приложение 48 к решению*  
