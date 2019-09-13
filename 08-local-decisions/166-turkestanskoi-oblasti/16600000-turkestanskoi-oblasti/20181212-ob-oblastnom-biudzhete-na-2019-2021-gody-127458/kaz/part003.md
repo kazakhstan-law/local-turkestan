@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/127458/kaz/12.07.2019
+source: https://zan.gov.kz/client/#!/doc/127458/kaz/13.09.2019
 ---
 
 > *2018 жылғы 12 желтоқсандағы*  
