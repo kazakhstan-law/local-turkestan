@@ -1,16 +1,16 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/128851/kaz/27.06.2019
+source: https://zan.gov.kz/client/#!/doc/128851/kaz/03.10.2019
 ---
 
-> *Сайрам ауданды*  
+> *Сайрам аудандық*  
 > *мәслихатының 2019 жылғы*  
 > *8 қаңтардағы №36-232/VI*  
 > *шешіміне 10-қосымша*
 
 # Жібек жолы ауылдық округінің 2019 жылға арналған бюджеті
 
-> *Ескерту. 10-қосымша жаңа редакцияда - Түркістан облысы Сайрам аудандық мәслихатының 27.06.2019 № 44-273/VI (01.01.2019 бастап қолданысқа енгізіледі) шешімімен.*
+> *Ескерту. 10-қосымша жаңа редакцияда - Түркістан облысы Сайрам аудандық мәслихатының 03.10.2019 № 46-288/VI (01.01.2019 бастап қолданысқа енгізіледі) шешімімен.*
 
 <table>
 <tr>
@@ -48,7 +48,7 @@ Iшкi сыныбы
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Табыс салығы</td>
-<td>4 130</td>
+<td>5 100</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -56,7 +56,7 @@ Iшкi сыныбы
 <td colspan="2">2</td>
 <td colspan="2"></td>
 <td colspan="2">Жеке табыс салығы</td>
-<td>4 130</td>
+<td>5 100</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -64,7 +64,7 @@ Iшкi сыныбы
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Меншiкке салынатын салықтар</td>
-<td>4 466</td>
+<td>3 496</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -72,7 +72,7 @@ Iшкi сыныбы
 <td colspan="2">1</td>
 <td colspan="2"></td>
 <td colspan="2">Мүлiкке салынатын салықтар</td>
-<td>98</td>
+<td>83</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -80,7 +80,7 @@ Iшкi сыныбы
 <td colspan="2">3</td>
 <td colspan="2"></td>
 <td colspan="2">Жер салығы</td>
-<td>631</td>
+<td>356</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -88,7 +88,7 @@ Iшкi сыныбы
 <td colspan="2">4</td>
 <td colspan="2"></td>
 <td colspan="2">Көлiк құралдарына салынатын салық</td>
-<td>3 737</td>
+<td>3 057</td>
 </tr>
 <tr>
 <td colspan="2">2</td>
@@ -147,11 +147,18 @@ Iшкi сыныбы
 <td>66 621</td>
 </tr>
 <tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
 <td colspan="8">
 Функционалдық топ
 Кіші функция
-Бюджеттік бағдарламалардың әкiмшiсi
-Бағдарлама
+Бюджеттік бағдарламалардың әкiмшiсi Бағдарлама
 </td>
 <td colspan="2">Атауы</td>
 <td>Сомасы, мың теңге</td>
@@ -218,7 +225,7 @@ Iшкi сыныбы
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Тұрғын үй-коммуналдық шаруашылық</td>
-<td>20699</td>
+<td>23 979</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -226,7 +233,7 @@ Iшкi сыныбы
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Елді-мекендерді көркейту</td>
-<td>20699</td>
+<td>23 979</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -234,7 +241,7 @@ Iшкi сыныбы
 <td colspan="2">124</td>
 <td colspan="2"></td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>20699</td>
+<td>23 979</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -242,7 +249,7 @@ Iшкi сыныбы
 <td colspan="2"></td>
 <td colspan="2">008</td>
 <td colspan="2">Елдi мекендерде көшелерді жарықтандыру</td>
-<td>9196</td>
+<td>8 675</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -266,7 +273,7 @@ Iшкi сыныбы
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Мәдениет, спорт, туризм және ақпараттық кеңістiк</td>
-<td>6801</td>
+<td>7 322</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -274,7 +281,7 @@ Iшкi сыныбы
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Мәдениет саласындағы қызмет</td>
-<td>6801</td>
+<td>7 322</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -282,7 +289,7 @@ Iшкi сыныбы
 <td colspan="2">124</td>
 <td colspan="2"></td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>6801</td>
+<td>7 322</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -290,7 +297,7 @@ Iшкi сыныбы
 <td colspan="2"></td>
 <td colspan="2">006</td>
 <td colspan="2">Жергілікті деңгейде мәдени-демалыс жұмысын қолдау</td>
-<td>6801</td>
+<td>7 322</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -331,6 +338,14 @@ Iшкi сыныбы
 <td>0</td>
 </tr>
 <tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
 <td colspan="4">Санаты</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -365,6 +380,14 @@ Iшкi сыныбы
 <td>0</td>
 </tr>
 <tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
 <td colspan="8">Функционалдық топ</td>
 <td colspan="2"></td>
 <td rowspan="2">Сомасы, мың теңге</td>
@@ -394,6 +417,14 @@ Iшкi сыныбы
 <td colspan="2"></td>
 <td colspan="2">Қаржы активтерін сатып алу</td>
 <td colspan="2">0</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="3">Санаты</td>
@@ -444,6 +475,14 @@ Iшкi сыныбы
 <td colspan="2">2 538</td>
 </tr>
 <tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
 <td colspan="3">Санаты</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -468,6 +507,14 @@ Iшкi сыныбы
 <td colspan="2"></td>
 <td colspan="2">Қарыздар түсімі</td>
 <td colspan="2">0</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="7">Функционалдық топ</td>
@@ -506,6 +553,14 @@ Iшкi сыныбы
 <td colspan="2"></td>
 <td colspan="2">Қарыздарды өтеу</td>
 <td colspan="2">0</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="3">Санаты</td>
@@ -1687,14 +1742,14 @@ Iшкi сыныбы
 </tr>
 </table>
 
-> *Сайрам ауданды*  
+> *Сайрам аудандық*  
 > *мәслихатының 2019 жылғы*  
 > *8 қаңтардағы №36-232/VI*  
 > *шешіміне 13-қосымша*
 
 # Қайнарбұлақ ауылдық округінің 2019 жылға арналған бюджеті
 
-> *Ескерту. 13-қосымша жаңа редакцияда - Түркістан облысы Сайрам аудандық мәслихатының 27.06.2019 № 44-273/VI (01.01.2019 бастап қолданысқа енгізіледі) шешімімен.*
+> *Ескерту. 13-қосымша жаңа редакцияда - Түркістан облысы Сайрам аудандық мәслихатының 03.10.2019 № 46-288/VI (01.01.2019 бастап қолданысқа енгізіледі) шешімімен.*
 
 <table>
 <tr>
@@ -1716,7 +1771,7 @@ Iшкi сыныбы
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">І. Кірістер</td>
-<td>133 510</td>
+<td>148 358</td>
 </tr>
 <tr>
 <td colspan="2">1</td>
@@ -1799,12 +1854,20 @@ Iшкi сыныбы
 <td>96</td>
 </tr>
 <tr>
+<td colspan="2">3</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Негізгі капиталды сатудан түсетін түсімдер</td>
+<td>0</td>
+</tr>
+<tr>
 <td colspan="2">4</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Трансферттер түсімі</td>
-<td>119 333</td>
+<td>134 181</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1812,7 +1875,7 @@ Iшкi сыныбы
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td>119 333</td>
+<td>134 181</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1820,14 +1883,21 @@ Iшкi сыныбы
 <td colspan="2">3</td>
 <td colspan="2"></td>
 <td colspan="2">Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td>119 333</td>
+<td>134 181</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td colspan="8">
 Функционалдық топ
 Кіші функция
-Бюджеттік бағдарламалардың әкiмшiсi
-Бағдарлама
+Бюджеттік бағдарламалардың әкiмшiсi Бағдарлама
 </td>
 <td colspan="2">Атауы</td>
 <td>Сомасы, мың теңге</td>
@@ -1846,7 +1916,7 @@ Iшкi сыныбы
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">2. Шығындар</td>
-<td>137 020</td>
+<td>151 868</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
@@ -1854,7 +1924,7 @@ Iшкi сыныбы
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>33465</td>
+<td>33 682</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1862,7 +1932,7 @@ Iшкi сыныбы
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>33465</td>
+<td>33 682</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1870,7 +1940,7 @@ Iшкi сыныбы
 <td colspan="2">124</td>
 <td colspan="2"></td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>33465</td>
+<td>33 682</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1878,7 +1948,7 @@ Iшкi сыныбы
 <td colspan="2"></td>
 <td colspan="2">001</td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>33465</td>
+<td>33 682</td>
 </tr>
 <tr>
 <td colspan="2">04</td>
@@ -1886,7 +1956,7 @@ Iшкi сыныбы
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Бiлiм беру</td>
-<td>48980</td>
+<td>48 980</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1894,7 +1964,7 @@ Iшкi сыныбы
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Мектепке дейiнгi тәрбие және оқыту</td>
-<td>48980</td>
+<td>48 980</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1902,7 +1972,7 @@ Iшкi сыныбы
 <td colspan="2">124</td>
 <td colspan="2"></td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>48980</td>
+<td>48 980</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1910,7 +1980,7 @@ Iшкi сыныбы
 <td colspan="2"></td>
 <td colspan="2">004</td>
 <td colspan="2">Мектепке дейінгі тәрбиелеу және оқыту және мектепке дейінгі тәрбиелеу және оқыту ұйымдарында медициналық қызмет көрсетуді ұйымдастыру</td>
-<td>48980</td>
+<td>48 980</td>
 </tr>
 <tr>
 <td colspan="2">07</td>
@@ -1918,7 +1988,7 @@ Iшкi сыныбы
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Тұрғын үй-коммуналдық шаруашылық</td>
-<td>49449</td>
+<td>64 080</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1926,7 +1996,7 @@ Iшкi сыныбы
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Елді-мекендерді көркейту</td>
-<td>49449</td>
+<td>64 080</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1934,7 +2004,7 @@ Iшкi сыныбы
 <td colspan="2">124</td>
 <td colspan="2"></td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>49449</td>
+<td>64 080</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1942,7 +2012,7 @@ Iшкi сыныбы
 <td colspan="2"></td>
 <td colspan="2">008</td>
 <td colspan="2">Елдi мекендерде көшелерді жарықтандыру</td>
-<td>33428</td>
+<td>32 987</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1950,7 +2020,7 @@ Iшкi сыныбы
 <td colspan="2"></td>
 <td colspan="2">009</td>
 <td colspan="2">Елдi мекендердiң санитариясын қамтамасыз ету</td>
-<td>2700</td>
+<td>2 700</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1958,7 +2028,7 @@ Iшкi сыныбы
 <td colspan="2"></td>
 <td colspan="2">011</td>
 <td colspan="2">Елдi мекендердi абаттандыру және көгалдандыру</td>
-<td>13321</td>
+<td>28 393</td>
 </tr>
 <tr>
 <td colspan="2">08</td>
@@ -1966,7 +2036,7 @@ Iшкi сыныбы
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Мәдениет, спорт, туризм және ақпараттық кеңістiк</td>
-<td>5126</td>
+<td>5 126</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1974,7 +2044,7 @@ Iшкi сыныбы
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Мәдениет саласындағы қызмет</td>
-<td>5126</td>
+<td>5 126</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1982,7 +2052,7 @@ Iшкi сыныбы
 <td colspan="2">124</td>
 <td colspan="2"></td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>5126</td>
+<td>5 126</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1990,7 +2060,7 @@ Iшкi сыныбы
 <td colspan="2"></td>
 <td colspan="2">006</td>
 <td colspan="2">Жергілікті деңгейде мәдени-демалыс жұмысын қолдау</td>
-<td>5126</td>
+<td>5 126</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2031,6 +2101,14 @@ Iшкi сыныбы
 <td>0</td>
 </tr>
 <tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
 <td colspan="4">Санаты</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -2065,6 +2143,14 @@ Iшкi сыныбы
 <td colspan="2">0</td>
 </tr>
 <tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
 <td colspan="7">Функционалдық топ</td>
 <td colspan="2"></td>
 <td colspan="2" rowspan="3">Сомасы, мың теңге</td>
@@ -2093,6 +2179,14 @@ Iшкi сыныбы
 <td colspan="2"></td>
 <td colspan="2">Қаржы активтерін сатып алу</td>
 <td colspan="2">0</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="3">Санаты</td>
@@ -2143,6 +2237,14 @@ Iшкi сыныбы
 <td colspan="2">3 510</td>
 </tr>
 <tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
 <td colspan="3">Санаты</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -2167,6 +2269,14 @@ Iшкi сыныбы
 <td colspan="2"></td>
 <td colspan="2">Қарыздар түсімі</td>
 <td colspan="2">0</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="7">Функционалдық топ</td>
@@ -2205,6 +2315,14 @@ Iшкi сыныбы
 <td colspan="2"></td>
 <td colspan="2">Қарыздарды өтеу</td>
 <td colspan="2">0</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="3">Санаты</td>
@@ -3449,14 +3567,14 @@ Iшкi сыныбы
 </tr>
 </table>
 
-> *Сайрам ауданды*  
+> *Сайрам аудандық*  
 > *мәслихатының 2019 жылғы*  
 > *8 қаңтардағы №36-232/VI*  
 > *шешіміне 16-қосымша*
 
 # Қарабұлақ ауылдық округінің 2019 жылға арналған бюджеті
 
-> *Ескерту. 16-қосымша жаңа редакцияда - Түркістан облысы Сайрам аудандық мәслихатының 27.06.2019 № 44-273/VI (01.01.2019 бастап қолданысқа енгізіледі) шешімімен.*
+> *Ескерту. 16-қосымша жаңа редакцияда - Түркістан облысы Сайрам аудандық мәслихатының 03.10.2019 № 46-288/VI (01.01.2019 бастап қолданысқа енгізіледі) шешімімен.*
 
 <table>
 <tr>
@@ -3478,7 +3596,7 @@ Iшкi сыныбы
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">І. Кірістер</td>
-<td>171375</td>
+<td>177 416</td>
 </tr>
 <tr>
 <td colspan="2">1</td>
@@ -3486,7 +3604,7 @@ Iшкi сыныбы
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Салықтық түсімдер</td>
-<td>95 051</td>
+<td>94 351</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3510,7 +3628,7 @@ Iшкi сыныбы
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Меншiкке салынатын салықтар</td>
-<td>60 288</td>
+<td>57 588</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3518,7 +3636,7 @@ Iшкi сыныбы
 <td colspan="2">1</td>
 <td colspan="2"></td>
 <td colspan="2">Мүлiкке салынатын салықтар</td>
-<td>968</td>
+<td>1 150</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3526,7 +3644,7 @@ Iшкi сыныбы
 <td colspan="2">3</td>
 <td colspan="2"></td>
 <td colspan="2">Жер салығы</td>
-<td>6 523</td>
+<td>5 523</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3534,7 +3652,7 @@ Iшкi сыныбы
 <td colspan="2">4</td>
 <td colspan="2"></td>
 <td colspan="2">Көлiк құралдарына салынатын салық</td>
-<td>52 797</td>
+<td>50 915</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3558,7 +3676,7 @@ Iшкi сыныбы
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Салықтық емес түсiмдер</td>
-<td>1 235</td>
+<td>1 935</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3566,7 +3684,7 @@ Iшкi сыныбы
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Мемлекеттік меншіктен түсетін кірістер</td>
-<td>1 106</td>
+<td>1 806</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3574,7 +3692,7 @@ Iшкi сыныбы
 <td colspan="2">5</td>
 <td colspan="2"></td>
 <td colspan="2">Мемлекет меншігіндегі мүлікті жалға беруден түсетін кірістер</td>
-<td>1 106</td>
+<td>1 806</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3609,12 +3727,20 @@ Iшкi сыныбы
 <td>27</td>
 </tr>
 <tr>
+<td colspan="2">3</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Негізгі капиталды сатудан түсетін түсімдер</td>
+<td>0</td>
+</tr>
+<tr>
 <td colspan="2">4</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Трансферттер түсімі</td>
-<td>75089</td>
+<td>81 130</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3622,7 +3748,7 @@ Iшкi сыныбы
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td>75089</td>
+<td>81 130</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3630,7 +3756,15 @@ Iшкi сыныбы
 <td colspan="2">3</td>
 <td colspan="2"></td>
 <td colspan="2">Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td>75089</td>
+<td>81 130</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td colspan="8">
@@ -3656,7 +3790,7 @@ Iшкi сыныбы
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">2. Шығындар</td>
-<td>206518</td>
+<td>212 559</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
@@ -3664,7 +3798,7 @@ Iшкi сыныбы
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>49900</td>
+<td>51 461</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3672,7 +3806,7 @@ Iшкi сыныбы
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>49900</td>
+<td>51 461</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3680,7 +3814,7 @@ Iшкi сыныбы
 <td colspan="2">124</td>
 <td colspan="2"></td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>49900</td>
+<td>51 461</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3688,7 +3822,7 @@ Iшкi сыныбы
 <td colspan="2"></td>
 <td colspan="2">001</td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>44577</td>
+<td>47 818</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3696,7 +3830,7 @@ Iшкi сыныбы
 <td colspan="2"></td>
 <td colspan="2">032</td>
 <td colspan="2">Ведомстволық бағынысты мемлекеттік мекемелердің және ұйымдардың күрделі шығыстары</td>
-<td>5323</td>
+<td>3 643</td>
 </tr>
 <tr>
 <td colspan="2">07</td>
@@ -3704,7 +3838,23 @@ Iшкi сыныбы
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Тұрғын үй-коммуналдық шаруашылық</td>
-<td>129556</td>
+<td>134 050</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2">2</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Коммуналдық шаруашылық</td>
+<td>2 400</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">014</td>
+<td colspan="2">Елді мекендерді сумен жабдықтауды ұйымдасьыру</td>
+<td>2 400</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3712,7 +3862,7 @@ Iшкi сыныбы
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Елді-мекендерді көркейту</td>
-<td>129556</td>
+<td>131 650</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3720,7 +3870,7 @@ Iшкi сыныбы
 <td colspan="2">124</td>
 <td colspan="2"></td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>129556</td>
+<td>131 650</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3728,7 +3878,7 @@ Iшкi сыныбы
 <td colspan="2"></td>
 <td colspan="2">008</td>
 <td colspan="2">Елдi мекендерде көшелерді жарықтандыру</td>
-<td>51495</td>
+<td>45 535</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3736,7 +3886,7 @@ Iшкi сыныбы
 <td colspan="2"></td>
 <td colspan="2">009</td>
 <td colspan="2">Елдi мекендердiң санитариясын қамтамасыз ету</td>
-<td>1786</td>
+<td>1 786</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3744,7 +3894,7 @@ Iшкi сыныбы
 <td colspan="2"></td>
 <td colspan="2">011</td>
 <td colspan="2">Елдi мекендердi абаттандыру және көгалдандыру</td>
-<td>76275</td>
+<td>84 329</td>
 </tr>
 <tr>
 <td colspan="2">08</td>
@@ -3752,7 +3902,7 @@ Iшкi сыныбы
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Мәдениет, спорт, туризм және ақпараттық кеңістiк</td>
-<td>8814</td>
+<td>8 814</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3760,7 +3910,7 @@ Iшкi сыныбы
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Мәдениет саласындағы қызмет</td>
-<td>8814</td>
+<td>8 814</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3768,7 +3918,7 @@ Iшкi сыныбы
 <td colspan="2">124</td>
 <td colspan="2"></td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>8814</td>
+<td>8 814</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3776,7 +3926,7 @@ Iшкi сыныбы
 <td colspan="2"></td>
 <td colspan="2">006</td>
 <td colspan="2">Жергілікті деңгейде мәдени-демалыс жұмысын қолдау</td>
-<td>8814</td>
+<td>8 814</td>
 </tr>
 <tr>
 <td colspan="2">12</td>
@@ -3784,7 +3934,7 @@ Iшкi сыныбы
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Көлік және коммуникация</td>
-<td>18248</td>
+<td>18 248</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3792,7 +3942,7 @@ Iшкi сыныбы
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Автомобиль көлігі</td>
-<td>18248</td>
+<td>18 248</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3800,7 +3950,7 @@ Iшкi сыныбы
 <td colspan="2">124</td>
 <td colspan="2"></td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>18248</td>
+<td>18 248</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3808,7 +3958,7 @@ Iшкi сыныбы
 <td colspan="2"></td>
 <td colspan="2">013</td>
 <td colspan="2">Аудандық маңызы бар қалаларда, ауылдарда, кенттерде, ауылдық округтерде автомобиль жолдарының жұмыс істеуін қамтамасыз ету</td>
-<td>18248</td>
+<td>18 248</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3849,6 +3999,14 @@ Iшкi сыныбы
 <td colspan="2">0</td>
 </tr>
 <tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
 <td colspan="3">Санаты</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -3883,6 +4041,14 @@ Iшкi сыныбы
 <td colspan="2">0</td>
 </tr>
 <tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
 <td colspan="7">Функционалдық топ</td>
 <td colspan="2"></td>
 <td colspan="2" rowspan="3">Сомасы, мың теңге</td>
@@ -3911,6 +4077,14 @@ Iшкi сыныбы
 <td colspan="2"></td>
 <td colspan="2">Қаржы активтерін сатып алу</td>
 <td colspan="2">0</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="3">Санаты</td>
@@ -3961,6 +4135,14 @@ Iшкi сыныбы
 <td colspan="2">35 143</td>
 </tr>
 <tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
 <td colspan="3">Санаты</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -3985,6 +4167,14 @@ Iшкi сыныбы
 <td colspan="2"></td>
 <td colspan="2">Қарыздар түсімі</td>
 <td colspan="2">0</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="7">Функционалдық топ</td>
@@ -4023,6 +4213,14 @@ Iшкi сыныбы
 <td colspan="2"></td>
 <td colspan="2">Қарыздарды өтеу</td>
 <td colspan="2">0</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="3">Санаты</td>
