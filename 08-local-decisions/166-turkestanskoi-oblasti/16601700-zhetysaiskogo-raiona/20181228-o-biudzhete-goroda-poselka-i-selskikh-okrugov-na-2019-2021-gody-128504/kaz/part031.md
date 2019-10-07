@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/128504/kaz/03.07.2019
+source: https://zan.gov.kz/client/#!/doc/128504/kaz/07.10.2019
 ---
 
 > *Жетісай аудандық*  
@@ -2362,14 +2362,13 @@ source: https://zan.gov.kz/client/#!/doc/128504/kaz/03.07.2019
 </tr>
 </table>
 
-> *Жетісай аудандық*  
-> *мәслихатының 2018 жылғы*  
-> *28 желтоқсандағы №10-64-VI*  
-> *шешіміне 35-қосымша*
+> *Жетісай аудандық мәслихатының*  
+> *2018 жылғы 28 желтоқсандағы*  
+> *№10-64-VI шешіміне 35-қосымша*
 
 # Ж.Ералиев ауылдық округінің 2019 жылға арналған бюджеті
 
-> *Ескерту. 35-қосымша жаңа редакцияда - Түркістан облысы Жетісай аудандық мәслихатының 03.07.2019 № 17-103-VI (01.01.2019 бастап қолданысқа енгізіледі) шешiмiмен.*
+> *Ескерту. 35-қосымша жаңа редакцияда - Түркістан облысы Жетісай аудандық мәслихатының 07.10.2019 № 19-110-VI (01.01.2019 бастап қолданысқа енгізіледі) шешiмiмен.*
 
 <table>
 <tr>
@@ -2389,9 +2388,9 @@ source: https://zan.gov.kz/client/#!/doc/128504/kaz/03.07.2019
 <td colspan="3">Iшкi сыныбы</td>
 </tr>
 <tr>
-<th colspan="4">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="4">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
@@ -2415,14 +2414,14 @@ source: https://zan.gov.kz/client/#!/doc/128504/kaz/03.07.2019
 <td></td>
 <td></td>
 <td>Табыс салығы</td>
-<td>850</td>
+<td>981</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="2">2</td>
 <td>Жеке табыс салығы</td>
-<td>850</td>
+<td>981</td>
 </tr>
 <tr>
 <td></td>
@@ -2430,7 +2429,7 @@ source: https://zan.gov.kz/client/#!/doc/128504/kaz/03.07.2019
 <td></td>
 <td></td>
 <td>Меншiкке салынатын салықтар</td>
-<td>10 073</td>
+<td>9 942</td>
 </tr>
 <tr>
 <td></td>
@@ -2444,14 +2443,14 @@ source: https://zan.gov.kz/client/#!/doc/128504/kaz/03.07.2019
 <td></td>
 <td colspan="2">3</td>
 <td>Жер салығы</td>
-<td>3 131</td>
+<td>1 000</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="2">4</td>
 <td>Көлiк құралдарына салынатын салық</td>
-<td>6 572</td>
+<td>8 572</td>
 </tr>
 <tr>
 <td>2</td>
@@ -2560,9 +2559,9 @@ source: https://zan.gov.kz/client/#!/doc/128504/kaz/03.07.2019
 <td colspan="2">Бағдарлама</td>
 </tr>
 <tr>
-<th colspan="4">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="4">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
@@ -2865,9 +2864,9 @@ source: https://zan.gov.kz/client/#!/doc/128504/kaz/03.07.2019
 <td colspan="2">Бағдарлама</td>
 </tr>
 <tr>
-<th colspan="4">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="4">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
@@ -2894,9 +2893,9 @@ source: https://zan.gov.kz/client/#!/doc/128504/kaz/03.07.2019
 <td colspan="3">Iшкi сыныбы</td>
 </tr>
 <tr>
-<th colspan="4">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="4">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
@@ -2978,9 +2977,9 @@ source: https://zan.gov.kz/client/#!/doc/128504/kaz/03.07.2019
 <td colspan="3">Iшкi сыныбы</td>
 </tr>
 <tr>
-<th colspan="4">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="4">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
@@ -3031,9 +3030,9 @@ source: https://zan.gov.kz/client/#!/doc/128504/kaz/03.07.2019
 <td colspan="2">Бағдарлама</td>
 </tr>
 <tr>
-<th colspan="4">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="4">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
@@ -3076,9 +3075,9 @@ source: https://zan.gov.kz/client/#!/doc/128504/kaz/03.07.2019
 <td colspan="3">Iшкi сыныбы</td>
 </tr>
 <tr>
-<th colspan="4">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="4">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
@@ -4676,14 +4675,13 @@ source: https://zan.gov.kz/client/#!/doc/128504/kaz/03.07.2019
 </tr>
 </table>
 
-> *Жетісай аудандық*  
-> *мәслихатының 2018 жылғы*  
-> *28 желтоқсандағы №10-64-VI*  
-> *шешіміне 39-қосымша*
+> *Жетісай аудандық мәслихатының*  
+> *2018 жылғы 28 желтоқсандағы*  
+> *№10-64-VI шешіміне 39-қосымша*
 
 # Қызылқұм ауылдық округінің 2019 жылға арналған бюджеті
 
-> *Ескерту. 39-қосымша жаңа редакцияда - Түркістан облысы Жетісай аудандық мәслихатының 03.07.2019 № 17-103-VI (01.01.2019 бастап қолданысқа енгізіледі) шешiмiмен.*
+> *Ескерту. 39-қосымша жаңа редакцияда - Түркістан облысы Жетісай аудандық мәслихатының 07.10.2019 № 19-110-VI (01.01.2019 бастап қолданысқа енгізіледі) шешiмiмен.*
 
 <table>
 <tr>
@@ -4703,9 +4701,9 @@ source: https://zan.gov.kz/client/#!/doc/128504/kaz/03.07.2019
 <td colspan="3">Iшкi сыныбы</td>
 </tr>
 <tr>
-<th colspan="4">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="4">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
@@ -4874,9 +4872,9 @@ source: https://zan.gov.kz/client/#!/doc/128504/kaz/03.07.2019
 <td colspan="2">Бағдарлама</td>
 </tr>
 <tr>
-<th colspan="4">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="4">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
@@ -4892,7 +4890,7 @@ source: https://zan.gov.kz/client/#!/doc/128504/kaz/03.07.2019
 <td></td>
 <td></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>34 933</td>
+<td>36 701</td>
 </tr>
 <tr>
 <td></td>
@@ -4900,7 +4898,7 @@ source: https://zan.gov.kz/client/#!/doc/128504/kaz/03.07.2019
 <td></td>
 <td></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>34 933</td>
+<td>36 701</td>
 </tr>
 <tr>
 <td></td>
@@ -4908,7 +4906,7 @@ source: https://zan.gov.kz/client/#!/doc/128504/kaz/03.07.2019
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>34 933</td>
+<td>36 701</td>
 </tr>
 <tr>
 <td></td>
@@ -4916,7 +4914,7 @@ source: https://zan.gov.kz/client/#!/doc/128504/kaz/03.07.2019
 <td></td>
 <td>001</td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>34 473</td>
+<td>36 241</td>
 </tr>
 <tr>
 <td></td>
@@ -4932,7 +4930,7 @@ source: https://zan.gov.kz/client/#!/doc/128504/kaz/03.07.2019
 <td></td>
 <td></td>
 <td>Бiлiм беру</td>
-<td>131 985</td>
+<td>130 217</td>
 </tr>
 <tr>
 <td></td>
@@ -4940,7 +4938,7 @@ source: https://zan.gov.kz/client/#!/doc/128504/kaz/03.07.2019
 <td></td>
 <td></td>
 <td>Мектепке дейiнгi тәрбие және оқыту</td>
-<td>128 745</td>
+<td>126 977</td>
 </tr>
 <tr>
 <td></td>
@@ -4948,7 +4946,7 @@ source: https://zan.gov.kz/client/#!/doc/128504/kaz/03.07.2019
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>128 745</td>
+<td>126 977</td>
 </tr>
 <tr>
 <td></td>
@@ -4956,7 +4954,7 @@ source: https://zan.gov.kz/client/#!/doc/128504/kaz/03.07.2019
 <td></td>
 <td>004</td>
 <td>Мектепке дейінгі тәрбиелеу және оқыту және мектепке дейінгі тәрбиелеу және оқыту ұйымдарында медициналық қызмет көрсетуді ұйымдастыру</td>
-<td>128 745</td>
+<td>126 977</td>
 </tr>
 <tr>
 <td></td>
@@ -5179,9 +5177,9 @@ source: https://zan.gov.kz/client/#!/doc/128504/kaz/03.07.2019
 <td colspan="2">Бағдарлама</td>
 </tr>
 <tr>
-<th colspan="4">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="4">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
@@ -5208,9 +5206,9 @@ source: https://zan.gov.kz/client/#!/doc/128504/kaz/03.07.2019
 <td colspan="3">Iшкi сыныбы</td>
 </tr>
 <tr>
-<th colspan="4">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="4">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
@@ -5292,9 +5290,9 @@ source: https://zan.gov.kz/client/#!/doc/128504/kaz/03.07.2019
 <td colspan="3">Iшкi сыныбы</td>
 </tr>
 <tr>
-<th colspan="4">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="4">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
@@ -5345,9 +5343,9 @@ source: https://zan.gov.kz/client/#!/doc/128504/kaz/03.07.2019
 <td colspan="2">Бағдарлама</td>
 </tr>
 <tr>
-<th colspan="4">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="4">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
@@ -5390,9 +5388,9 @@ source: https://zan.gov.kz/client/#!/doc/128504/kaz/03.07.2019
 <td colspan="3">Iшкi сыныбы</td>
 </tr>
 <tr>
-<th colspan="4">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="4">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>

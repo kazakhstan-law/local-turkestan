@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/128504/kaz/03.07.2019
+source: https://zan.gov.kz/client/#!/doc/128504/kaz/07.10.2019
 ---
 
 > *Жетісай аудандық*  
@@ -812,14 +812,13 @@ source: https://zan.gov.kz/client/#!/doc/128504/kaz/03.07.2019
 </tr>
 </table>
 
-> *Жетісай аудандық*  
-> *мәслихатының 2018 жылғы*  
-> *28 желтоқсандағы №10-64-VI*  
-> *шешіміне 12-қосымша*
+> *Жетісай аудандық мәслихатының*  
+> *2018 жылғы 28 желтоқсандағы*  
+> *№10-64-VI шешіміне 12-қосымша*
 
 # Қазыбек би ауылдық округінің 2019 жылға арналған бюджеті
 
-> *Ескерту. 12-қосымша жаңа редакцияда - Түркістан облысы Жетісай аудандық мәслихатының 03.07.2019 № 17-103-VI (01.01.2019 бастап қолданысқа енгізіледі) шешiмiмен.*
+> *Ескерту. 12-қосымша жаңа редакцияда - Түркістан облысы Жетісай аудандық мәслихатының 07.10.2019 № 19-110-VI (01.01.2019 бастап қолданысқа енгізіледі) шешiмiмен.*
 
 <table>
 <tr>
@@ -839,9 +838,9 @@ source: https://zan.gov.kz/client/#!/doc/128504/kaz/03.07.2019
 <td colspan="3">Iшкi сыныбы</td>
 </tr>
 <tr>
-<th colspan="4">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="4">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
@@ -887,21 +886,21 @@ source: https://zan.gov.kz/client/#!/doc/128504/kaz/03.07.2019
 <td></td>
 <td colspan="2">1</td>
 <td>Мүлiкке салынатын салықтар</td>
-<td>250</td>
+<td>380</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="2">3</td>
 <td>Жер салығы</td>
-<td>1 441</td>
+<td>952</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="2">4</td>
 <td>Көлiк құралдарына салынатын салық</td>
-<td>8 771</td>
+<td>9130</td>
 </tr>
 <tr>
 <td>2</td>
@@ -1010,9 +1009,9 @@ source: https://zan.gov.kz/client/#!/doc/128504/kaz/03.07.2019
 <td colspan="2">Бағдарлама</td>
 </tr>
 <tr>
-<th colspan="4">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="4">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
@@ -1315,9 +1314,9 @@ source: https://zan.gov.kz/client/#!/doc/128504/kaz/03.07.2019
 <td colspan="2">Бағдарлама</td>
 </tr>
 <tr>
-<th colspan="4">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="4">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
@@ -1344,9 +1343,9 @@ source: https://zan.gov.kz/client/#!/doc/128504/kaz/03.07.2019
 <td colspan="3">Iшкi сыныбы</td>
 </tr>
 <tr>
-<th colspan="4">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="4">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
@@ -1428,9 +1427,9 @@ source: https://zan.gov.kz/client/#!/doc/128504/kaz/03.07.2019
 <td colspan="3">Iшкi сыныбы</td>
 </tr>
 <tr>
-<th colspan="4">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="4">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
@@ -1481,9 +1480,9 @@ source: https://zan.gov.kz/client/#!/doc/128504/kaz/03.07.2019
 <td colspan="2">Бағдарлама</td>
 </tr>
 <tr>
-<th colspan="4">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="4">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
@@ -1526,9 +1525,9 @@ source: https://zan.gov.kz/client/#!/doc/128504/kaz/03.07.2019
 <td colspan="3">Iшкi сыныбы</td>
 </tr>
 <tr>
-<th colspan="4">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="4">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
@@ -5440,14 +5439,13 @@ source: https://zan.gov.kz/client/#!/doc/128504/kaz/03.07.2019
 </tr>
 </table>
 
-> *Жетісай аудандық*  
-> *мәслихатының 2018 жылғы*  
-> *28 желтоқсандағы №10-64-VI*  
-> *шешіміне 20-қосымша*
+> *Жетісай аудандық мәслихатының*  
+> *2018 жылғы 28 желтоқсандағы*  
+> *№10-64-VI шешіміне 20-қосымша*
 
 # Асықата кентінің 2019 жылға арналған бюджеті
 
-> *Ескерту. 20-қосымша жаңа редакцияда - Түркістан облысы Жетісай аудандық мәслихатының 03.07.2019 № 17-103-VI (01.01.2019 бастап қолданысқа енгізіледі) шешiмiмен.*
+> *Ескерту. 20-қосымша жаңа редакцияда - Түркістан облысы Жетісай аудандық мәслихатының 07.10.2019 № 19-110-VI (01.01.2019 бастап қолданысқа енгізіледі) шешiмiмен.*
 
 <table>
 <tr>
@@ -5467,9 +5465,9 @@ source: https://zan.gov.kz/client/#!/doc/128504/kaz/03.07.2019
 <td colspan="3">Iшкi сыныбы</td>
 </tr>
 <tr>
-<th colspan="4">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="4">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
@@ -5638,9 +5636,9 @@ source: https://zan.gov.kz/client/#!/doc/128504/kaz/03.07.2019
 <td colspan="2">Бағдарлама</td>
 </tr>
 <tr>
-<th colspan="4">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="4">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
@@ -5656,7 +5654,7 @@ source: https://zan.gov.kz/client/#!/doc/128504/kaz/03.07.2019
 <td></td>
 <td></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>48 724</td>
+<td>53 071</td>
 </tr>
 <tr>
 <td></td>
@@ -5664,7 +5662,7 @@ source: https://zan.gov.kz/client/#!/doc/128504/kaz/03.07.2019
 <td></td>
 <td></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>48 724</td>
+<td>53 071</td>
 </tr>
 <tr>
 <td></td>
@@ -5672,7 +5670,7 @@ source: https://zan.gov.kz/client/#!/doc/128504/kaz/03.07.2019
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>48 724</td>
+<td>53 071</td>
 </tr>
 <tr>
 <td></td>
@@ -5680,7 +5678,7 @@ source: https://zan.gov.kz/client/#!/doc/128504/kaz/03.07.2019
 <td></td>
 <td>001</td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>47 139</td>
+<td>51 486</td>
 </tr>
 <tr>
 <td></td>
@@ -5752,7 +5750,7 @@ source: https://zan.gov.kz/client/#!/doc/128504/kaz/03.07.2019
 <td></td>
 <td></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>35 038</td>
+<td>30 691</td>
 </tr>
 <tr>
 <td></td>
@@ -5760,7 +5758,7 @@ source: https://zan.gov.kz/client/#!/doc/128504/kaz/03.07.2019
 <td></td>
 <td></td>
 <td>Елді-мекендерді көркейту</td>
-<td>35 038</td>
+<td>30 691</td>
 </tr>
 <tr>
 <td></td>
@@ -5768,7 +5766,7 @@ source: https://zan.gov.kz/client/#!/doc/128504/kaz/03.07.2019
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>35 038</td>
+<td>30 691</td>
 </tr>
 <tr>
 <td></td>
@@ -5776,7 +5774,7 @@ source: https://zan.gov.kz/client/#!/doc/128504/kaz/03.07.2019
 <td></td>
 <td>008</td>
 <td>Елді мекендердегі көшелерді жарықтандыру</td>
-<td>12 607</td>
+<td>9 360</td>
 </tr>
 <tr>
 <td></td>
@@ -5792,7 +5790,7 @@ source: https://zan.gov.kz/client/#!/doc/128504/kaz/03.07.2019
 <td></td>
 <td>011</td>
 <td>Елді мекендерді абаттандыру мен көгалдандыру</td>
-<td>17 231</td>
+<td>16 131</td>
 </tr>
 <tr>
 <td>08</td>
@@ -5943,9 +5941,9 @@ source: https://zan.gov.kz/client/#!/doc/128504/kaz/03.07.2019
 <td colspan="2">Бағдарлама</td>
 </tr>
 <tr>
-<th colspan="4">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="4">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
@@ -5972,9 +5970,9 @@ source: https://zan.gov.kz/client/#!/doc/128504/kaz/03.07.2019
 <td colspan="3">Iшкi сыныбы</td>
 </tr>
 <tr>
-<th colspan="4">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="4">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
@@ -6056,9 +6054,9 @@ source: https://zan.gov.kz/client/#!/doc/128504/kaz/03.07.2019
 <td colspan="3">Iшкi сыныбы</td>
 </tr>
 <tr>
-<th colspan="4">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="4">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
@@ -6109,9 +6107,9 @@ source: https://zan.gov.kz/client/#!/doc/128504/kaz/03.07.2019
 <td colspan="2">Бағдарлама</td>
 </tr>
 <tr>
-<th colspan="4">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="4">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
@@ -6154,9 +6152,9 @@ source: https://zan.gov.kz/client/#!/doc/128504/kaz/03.07.2019
 <td colspan="3">Iшкi сыныбы</td>
 </tr>
 <tr>
-<th colspan="4">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="4">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>

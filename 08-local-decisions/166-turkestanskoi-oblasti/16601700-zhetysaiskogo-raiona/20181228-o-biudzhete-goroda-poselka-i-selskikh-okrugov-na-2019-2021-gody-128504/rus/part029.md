@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/128504/rus/03.07.2019
+source: https://zan.gov.kz/client/#!/doc/128504/rus/07.10.2019
 ---
 
 > *Приложение 29 к решению*  
@@ -3161,13 +3161,12 @@ source: https://zan.gov.kz/client/#!/doc/128504/rus/03.07.2019
 </table>
 
 > *Приложение 35 к решению*  
-> *Жетысайского районного*  
-> *маслихата от 28 сентября*  
-> *2018 года №10-64-VI*
+> *Жетысайского районного маслихата*  
+> *от 28 сентября 2018 года №10-64-VI*
 
 # Бюджет сельского округа Ж.Ералиев на 2019 год
 
-> *Сноска. Приложение 35 - в редакции решения Жетысайского районного маслихата Туркестанской области от 03.07.2019 № 17-103-VI (вводится в действие с 01.01.2019).*
+> *Сноска. Приложение 35 - в редакции решения Жетысайского районного маслихата Туркестанской области от 07.10.2019 № 19-110-VI (вводится в действие с 01.01.2019).*
 
 <table>
 <tr>
@@ -3188,9 +3187,9 @@ source: https://zan.gov.kz/client/#!/doc/128504/rus/03.07.2019
 <td colspan="3">Подкласс</td>
 </tr>
 <tr>
-<th colspan="4">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="4">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
@@ -3214,7 +3213,7 @@ source: https://zan.gov.kz/client/#!/doc/128504/rus/03.07.2019
 <td></td>
 <td></td>
 <td>Подоходный налог</td>
-<td>850</td>
+<td>981</td>
 </tr>
 <tr>
 <td></td>
@@ -3229,7 +3228,7 @@ source: https://zan.gov.kz/client/#!/doc/128504/rus/03.07.2019
 <td></td>
 <td></td>
 <td>Hалоги на собственность</td>
-<td>10 073</td>
+<td>9 942</td>
 </tr>
 <tr>
 <td></td>
@@ -3356,9 +3355,9 @@ source: https://zan.gov.kz/client/#!/doc/128504/rus/03.07.2019
 <td colspan="2">Программа</td>
 </tr>
 <tr>
-<th colspan="4">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="4">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
@@ -3660,9 +3659,9 @@ source: https://zan.gov.kz/client/#!/doc/128504/rus/03.07.2019
 <td colspan="2">Программа</td>
 </tr>
 <tr>
-<th colspan="4">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="4">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
@@ -3690,9 +3689,9 @@ source: https://zan.gov.kz/client/#!/doc/128504/rus/03.07.2019
 <td colspan="3">Подкласс</td>
 </tr>
 <tr>
-<th colspan="4">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="4">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
@@ -3775,9 +3774,9 @@ source: https://zan.gov.kz/client/#!/doc/128504/rus/03.07.2019
 <td colspan="3">Подкласс</td>
 </tr>
 <tr>
-<th colspan="4">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="4">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
@@ -3827,9 +3826,9 @@ source: https://zan.gov.kz/client/#!/doc/128504/rus/03.07.2019
 <td colspan="2">Программа</td>
 </tr>
 <tr>
-<th colspan="4">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="4">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
@@ -3873,9 +3872,9 @@ source: https://zan.gov.kz/client/#!/doc/128504/rus/03.07.2019
 <td colspan="3">Подкласс</td>
 </tr>
 <tr>
-<th colspan="4">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="4">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>

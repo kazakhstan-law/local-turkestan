@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/128504/rus/03.07.2019
+source: https://zan.gov.kz/client/#!/doc/128504/rus/07.10.2019
 ---
 
 > *Приложение 10 к решению*  
@@ -809,13 +809,12 @@ source: https://zan.gov.kz/client/#!/doc/128504/rus/03.07.2019
 </table>
 
 > *Приложение 12 к решению*  
-> *Жетысайского районного*  
-> *маслихата от 28 декабря*  
-> *2018 года №10-64-VI*
+> *Жетысайского районного маслихата*  
+> *от 28 декабря 2018 года №10-64-VI*
 
 # Бюджет сельского округа Казыбек би на 2019 год
 
-> *Сноска. Приложение 12 - в редакции решения Жетысайского районного маслихата Туркестанской области от 03.07.2019 № 17-103-VI (вводится в действие с 01.01.2019).*
+> *Сноска. Приложение 12 - в редакции решения Жетысайского районного маслихата Туркестанской области от 07.10.2019 № 19-110-VI (вводится в действие с 01.01.2019).*
 
 <table>
 <tr>
@@ -836,9 +835,9 @@ source: https://zan.gov.kz/client/#!/doc/128504/rus/03.07.2019
 <td colspan="3">Подкласс</td>
 </tr>
 <tr>
-<th colspan="4">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="4">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
@@ -884,21 +883,21 @@ source: https://zan.gov.kz/client/#!/doc/128504/rus/03.07.2019
 <td></td>
 <td colspan="2">1</td>
 <td>Hалоги на имущество</td>
-<td>250</td>
+<td>380</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="2">3</td>
 <td>Земельный налог</td>
-<td>1 441</td>
+<td>952</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="2">4</td>
 <td>Hалог на транспортные средства</td>
-<td>8 771</td>
+<td>9130</td>
 </tr>
 <tr>
 <td>2</td>
@@ -1004,9 +1003,9 @@ source: https://zan.gov.kz/client/#!/doc/128504/rus/03.07.2019
 <td colspan="2">Программа</td>
 </tr>
 <tr>
-<th colspan="4">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="4">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
@@ -1308,9 +1307,9 @@ source: https://zan.gov.kz/client/#!/doc/128504/rus/03.07.2019
 <td colspan="2">Программа</td>
 </tr>
 <tr>
-<th colspan="4">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="4">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
@@ -1338,9 +1337,9 @@ source: https://zan.gov.kz/client/#!/doc/128504/rus/03.07.2019
 <td colspan="3">Подкласс</td>
 </tr>
 <tr>
-<th colspan="4">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="4">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
@@ -1423,9 +1422,9 @@ source: https://zan.gov.kz/client/#!/doc/128504/rus/03.07.2019
 <td colspan="3">Подкласс</td>
 </tr>
 <tr>
-<th colspan="4">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="4">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
@@ -1475,9 +1474,9 @@ source: https://zan.gov.kz/client/#!/doc/128504/rus/03.07.2019
 <td colspan="2">Программа</td>
 </tr>
 <tr>
-<th colspan="4">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="4">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
@@ -1521,9 +1520,9 @@ source: https://zan.gov.kz/client/#!/doc/128504/rus/03.07.2019
 <td colspan="3">Подкласс</td>
 </tr>
 <tr>
-<th colspan="4">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="4">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
@@ -5423,13 +5422,12 @@ source: https://zan.gov.kz/client/#!/doc/128504/rus/03.07.2019
 </table>
 
 > *Приложение 20 к решению*  
-> *Жетысайского районного*  
-> *маслихата от 28 декабря*  
-> *2018 года № 10-64-VI*
+> *Жетысайского районного маслихата*  
+> *от 28 декабря 2018 года № 10-64-VI*
 
 # Бюджет поселка Асыката на 2019 год
 
-> *Сноска. Приложение 20 - в редакции решения Жетысайского районного маслихата Туркестанской области от 03.07.2019 № 17-103-VI (вводится в действие с 01.01.2019).*
+> *Сноска. Приложение 20 - в редакции решения Жетысайского районного маслихата Туркестанской области от 07.10.2019 № 19-110-VI (вводится в действие с 01.01.2019).*
 
 <table>
 <tr>
@@ -5450,9 +5448,9 @@ source: https://zan.gov.kz/client/#!/doc/128504/rus/03.07.2019
 <td colspan="3">Подкласс</td>
 </tr>
 <tr>
-<th colspan="4">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="4">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
@@ -5618,9 +5616,9 @@ source: https://zan.gov.kz/client/#!/doc/128504/rus/03.07.2019
 <td colspan="2">Программа</td>
 </tr>
 <tr>
-<th colspan="4">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="4">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
@@ -5636,7 +5634,7 @@ source: https://zan.gov.kz/client/#!/doc/128504/rus/03.07.2019
 <td></td>
 <td></td>
 <td>Государственные услуги общего характера</td>
-<td>48 724</td>
+<td>53 071</td>
 </tr>
 <tr>
 <td></td>
@@ -5644,7 +5642,7 @@ source: https://zan.gov.kz/client/#!/doc/128504/rus/03.07.2019
 <td></td>
 <td></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>48 724</td>
+<td>53 071</td>
 </tr>
 <tr>
 <td></td>
@@ -5652,7 +5650,7 @@ source: https://zan.gov.kz/client/#!/doc/128504/rus/03.07.2019
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>48 724</td>
+<td>53 071</td>
 </tr>
 <tr>
 <td></td>
@@ -5660,7 +5658,7 @@ source: https://zan.gov.kz/client/#!/doc/128504/rus/03.07.2019
 <td></td>
 <td>001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>47 139</td>
+<td>51 486</td>
 </tr>
 <tr>
 <td></td>
@@ -5732,7 +5730,7 @@ source: https://zan.gov.kz/client/#!/doc/128504/rus/03.07.2019
 <td></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>35 038</td>
+<td>30 691</td>
 </tr>
 <tr>
 <td></td>
@@ -5740,7 +5738,7 @@ source: https://zan.gov.kz/client/#!/doc/128504/rus/03.07.2019
 <td></td>
 <td></td>
 <td>Благоустройство населенных пунктов</td>
-<td>35 038</td>
+<td>30 691</td>
 </tr>
 <tr>
 <td></td>
@@ -5748,7 +5746,7 @@ source: https://zan.gov.kz/client/#!/doc/128504/rus/03.07.2019
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>35 038</td>
+<td>30 691</td>
 </tr>
 <tr>
 <td></td>
@@ -5756,7 +5754,7 @@ source: https://zan.gov.kz/client/#!/doc/128504/rus/03.07.2019
 <td></td>
 <td>008</td>
 <td>Освещение улиц населенных пунктов</td>
-<td>12 607</td>
+<td>9 360</td>
 </tr>
 <tr>
 <td></td>
@@ -5772,7 +5770,7 @@ source: https://zan.gov.kz/client/#!/doc/128504/rus/03.07.2019
 <td></td>
 <td>011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td>17 231</td>
+<td>16 131</td>
 </tr>
 <tr>
 <td>08</td>
@@ -5922,9 +5920,9 @@ source: https://zan.gov.kz/client/#!/doc/128504/rus/03.07.2019
 <td colspan="2">Программа</td>
 </tr>
 <tr>
-<th colspan="4">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="4">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
@@ -5952,9 +5950,9 @@ source: https://zan.gov.kz/client/#!/doc/128504/rus/03.07.2019
 <td colspan="3">Подкласс</td>
 </tr>
 <tr>
-<th colspan="4">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="4">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
@@ -6037,9 +6035,9 @@ source: https://zan.gov.kz/client/#!/doc/128504/rus/03.07.2019
 <td colspan="3">Подкласс</td>
 </tr>
 <tr>
-<th colspan="4">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="4">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
@@ -6089,9 +6087,9 @@ source: https://zan.gov.kz/client/#!/doc/128504/rus/03.07.2019
 <td colspan="2">Программа</td>
 </tr>
 <tr>
-<th colspan="4">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="4">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
@@ -6135,9 +6133,9 @@ source: https://zan.gov.kz/client/#!/doc/128504/rus/03.07.2019
 <td colspan="3">Подкласс</td>
 </tr>
 <tr>
-<th colspan="4">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="4">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>

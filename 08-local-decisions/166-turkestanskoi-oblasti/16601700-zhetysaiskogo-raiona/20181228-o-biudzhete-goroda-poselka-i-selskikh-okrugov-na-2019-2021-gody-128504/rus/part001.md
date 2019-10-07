@@ -1,16 +1,15 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/128504/rus/03.07.2019
+source: https://zan.gov.kz/client/#!/doc/128504/rus/07.10.2019
 ---
 
 > *Приложение 1 к решению*  
-> *Жетысайского районного*  
-> *маслихата от 28 декабря*  
-> *2018 года №10-64-VI*
+> *Жетысайского районного маслихата*  
+> *от 28 декабря 2018 года № 10-64-VI*
 
 # Бюджет города Жетысай на 2019 год
 
-> *Сноска. Приложение 1 - в редакции решения Жетысайского районного маслихата Туркестанской области от 03.07.2019 № 17-103-VI (вводится в действие с 01.01.2019).*
+> *Сноска. Приложение 1 - в редакции решения Жетысайского районного маслихата Туркестанской области от 07.10.2019 № 19-110-VI (вводится в действие с 01.01.2019).*
 
 <table>
 <tr>
@@ -31,9 +30,9 @@ source: https://zan.gov.kz/client/#!/doc/128504/rus/03.07.2019
 <td colspan="3">Подкласс</td>
 </tr>
 <tr>
-<th colspan="4">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="4">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
@@ -41,7 +40,7 @@ source: https://zan.gov.kz/client/#!/doc/128504/rus/03.07.2019
 <td></td>
 <td></td>
 <td>1. Доходы</td>
-<td>1 394 378</td>
+<td>1 326 479</td>
 </tr>
 <tr>
 <td>1</td>
@@ -49,7 +48,7 @@ source: https://zan.gov.kz/client/#!/doc/128504/rus/03.07.2019
 <td></td>
 <td></td>
 <td>Налоговые поступления</td>
-<td>216 926</td>
+<td>149 027</td>
 </tr>
 <tr>
 <td></td>
@@ -57,7 +56,7 @@ source: https://zan.gov.kz/client/#!/doc/128504/rus/03.07.2019
 <td></td>
 <td></td>
 <td>Подоходный налог</td>
-<td>105 588</td>
+<td>80 924</td>
 </tr>
 <tr>
 <td></td>
@@ -72,7 +71,7 @@ source: https://zan.gov.kz/client/#!/doc/128504/rus/03.07.2019
 <td></td>
 <td></td>
 <td>Hалоги на собственность</td>
-<td>111 038</td>
+<td>67 803</td>
 </tr>
 <tr>
 <td></td>
@@ -214,9 +213,9 @@ source: https://zan.gov.kz/client/#!/doc/128504/rus/03.07.2019
 <td colspan="2">Программа</td>
 </tr>
 <tr>
-<th colspan="4">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="4">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
@@ -224,7 +223,7 @@ source: https://zan.gov.kz/client/#!/doc/128504/rus/03.07.2019
 <td></td>
 <td></td>
 <td>2. Затраты</td>
-<td>1 396 457</td>
+<td>1 327 574</td>
 </tr>
 <tr>
 <td>01</td>
@@ -232,7 +231,7 @@ source: https://zan.gov.kz/client/#!/doc/128504/rus/03.07.2019
 <td></td>
 <td></td>
 <td>Государственные услуги общего характера</td>
-<td>59 326</td>
+<td>61 482</td>
 </tr>
 <tr>
 <td></td>
@@ -240,7 +239,7 @@ source: https://zan.gov.kz/client/#!/doc/128504/rus/03.07.2019
 <td></td>
 <td></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>59 326</td>
+<td>61 482</td>
 </tr>
 <tr>
 <td></td>
@@ -248,7 +247,7 @@ source: https://zan.gov.kz/client/#!/doc/128504/rus/03.07.2019
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>59 326</td>
+<td>61 482</td>
 </tr>
 <tr>
 <td></td>
@@ -256,7 +255,7 @@ source: https://zan.gov.kz/client/#!/doc/128504/rus/03.07.2019
 <td></td>
 <td>001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>57 753</td>
+<td>59 909</td>
 </tr>
 <tr>
 <td></td>
@@ -328,7 +327,7 @@ source: https://zan.gov.kz/client/#!/doc/128504/rus/03.07.2019
 <td></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>175 331</td>
+<td>104 292</td>
 </tr>
 <tr>
 <td></td>
@@ -336,7 +335,7 @@ source: https://zan.gov.kz/client/#!/doc/128504/rus/03.07.2019
 <td></td>
 <td></td>
 <td>Благоустройство населенных пунктов</td>
-<td>175 331</td>
+<td>104 292</td>
 </tr>
 <tr>
 <td></td>
@@ -344,7 +343,7 @@ source: https://zan.gov.kz/client/#!/doc/128504/rus/03.07.2019
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>175 331</td>
+<td>104 292</td>
 </tr>
 <tr>
 <td></td>
@@ -352,7 +351,7 @@ source: https://zan.gov.kz/client/#!/doc/128504/rus/03.07.2019
 <td></td>
 <td>008</td>
 <td>Освещение улиц населенных пунктов</td>
-<td>16 581</td>
+<td>20 663</td>
 </tr>
 <tr>
 <td></td>
@@ -368,7 +367,7 @@ source: https://zan.gov.kz/client/#!/doc/128504/rus/03.07.2019
 <td></td>
 <td>011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td>127 450</td>
+<td>52 329</td>
 </tr>
 <tr>
 <td>08</td>
@@ -518,9 +517,9 @@ source: https://zan.gov.kz/client/#!/doc/128504/rus/03.07.2019
 <td colspan="2">Программа</td>
 </tr>
 <tr>
-<th colspan="4">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="4">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
@@ -548,9 +547,9 @@ source: https://zan.gov.kz/client/#!/doc/128504/rus/03.07.2019
 <td colspan="3">Подкласс</td>
 </tr>
 <tr>
-<th colspan="4">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="4">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
@@ -633,9 +632,9 @@ source: https://zan.gov.kz/client/#!/doc/128504/rus/03.07.2019
 <td colspan="3">Подкласс</td>
 </tr>
 <tr>
-<th colspan="4">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="4">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
@@ -685,9 +684,9 @@ source: https://zan.gov.kz/client/#!/doc/128504/rus/03.07.2019
 <td colspan="2">Программа</td>
 </tr>
 <tr>
-<th colspan="4">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="4">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
@@ -731,9 +730,9 @@ source: https://zan.gov.kz/client/#!/doc/128504/rus/03.07.2019
 <td colspan="3">Подкласс</td>
 </tr>
 <tr>
-<th colspan="4">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="4">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
