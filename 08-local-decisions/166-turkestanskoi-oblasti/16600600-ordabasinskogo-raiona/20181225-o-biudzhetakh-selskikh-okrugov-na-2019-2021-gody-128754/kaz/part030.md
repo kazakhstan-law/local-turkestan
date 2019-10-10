@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/128754/kaz/14.08.2019
+source: https://zan.gov.kz/client/#!/doc/128754/kaz/10.10.2019
 ---
 
 > *Ордабасы аудандық мәслихатының*  
