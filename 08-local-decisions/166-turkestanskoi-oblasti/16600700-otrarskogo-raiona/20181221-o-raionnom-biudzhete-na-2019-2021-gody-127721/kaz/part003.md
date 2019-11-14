@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/127721/kaz/29.08.2019
+source: https://zan.gov.kz/client/#!/doc/127721/kaz/14.11.2019
 ---
 
 > *Отырар аудандық*  
