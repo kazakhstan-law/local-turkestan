@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/127886/kaz/26.07.2019
+source: https://zan.gov.kz/client/#!/doc/127886/kaz/15.11.2019
 ---
 
 > *Созақ аудандық*  
