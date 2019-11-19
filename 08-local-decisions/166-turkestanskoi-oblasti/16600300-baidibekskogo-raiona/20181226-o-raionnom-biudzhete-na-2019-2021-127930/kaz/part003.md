@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/127930/kaz/30.09.2019
+source: https://zan.gov.kz/client/#!/doc/127930/kaz/19.11.2019
 ---
 
 > *Бәйдібек аудандық*  
