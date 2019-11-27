@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/128754/rus/10.10.2019
+source: https://zan.gov.kz/client/#!/doc/128754/rus/27.11.2019
 ---
 
 > *Приложение 10 к решению*  
@@ -8,14 +8,14 @@ source: https://zan.gov.kz/client/#!/doc/128754/rus/10.10.2019
 > *маслихата от 25 декабря*  
 > *2018 года №38/1*
 
-# Бюджет Женисского сельского округа на 2019 год
+## Бюджет сельского округа Женис на 2019 год
 
-> *Сноска. Приложение 10 - в редакции решения Ордабасинского районного маслихата Туркестанской области от 10.10.2019 № 50/1 (вводится в действие с 01.01.2019).*
+> *Сноска. Приложение 10 в редакции решения Ордабасинского районного маслихата Туркестанской области от 10.10.2019 № 50/1 (вводится в действие с 01.01.2019); в редакции решения Ордабасинского районного маслихата Туркестанской области от 27.11.2019 № 52/1 (вводится в действие с 01.01.2019).*
 
 <table>
 <tr>
-<td colspan="5">Категория Наименование</td>
-<td rowspan="4">Сумма, тысяч тенге</td>
+<td colspan="5">Категория</td>
+<td rowspan="5">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
@@ -24,17 +24,20 @@ source: https://zan.gov.kz/client/#!/doc/128754/rus/10.10.2019
 <tr>
 <td></td>
 <td></td>
-<td colspan="3">Подкласс</td>
+<td colspan="3">Под класс</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Программа</td>
+<td colspan="2">Специфика</td>
 </tr>
 <tr>
-<td colspan="5">1 2</td>
-<td>3</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Наименование</td>
 </tr>
 <tr>
 <td></td>
@@ -42,7 +45,7 @@ source: https://zan.gov.kz/client/#!/doc/128754/rus/10.10.2019
 <td></td>
 <td></td>
 <td>1. Доходы</td>
-<td>71 843</td>
+<td>90 929</td>
 </tr>
 <tr>
 <td>1</td>
@@ -58,10 +61,7 @@ source: https://zan.gov.kz/client/#!/doc/128754/rus/10.10.2019
 <td></td>
 <td></td>
 <td>Подоходный налог</td>
-<td>
-
-290
-</td>
+<td>172</td>
 </tr>
 <tr>
 <td></td>
@@ -69,7 +69,7 @@ source: https://zan.gov.kz/client/#!/doc/128754/rus/10.10.2019
 <td>2</td>
 <td></td>
 <td>Индивидуальный подоходный налог</td>
-<td>290</td>
+<td>172</td>
 </tr>
 <tr>
 <td></td>
@@ -77,7 +77,7 @@ source: https://zan.gov.kz/client/#!/doc/128754/rus/10.10.2019
 <td></td>
 <td></td>
 <td>Hалоги на собственность</td>
-<td>2 838</td>
+<td>2 966</td>
 </tr>
 <tr>
 <td></td>
@@ -85,7 +85,7 @@ source: https://zan.gov.kz/client/#!/doc/128754/rus/10.10.2019
 <td>1</td>
 <td></td>
 <td>Hалоги на имущество</td>
-<td>210</td>
+<td>243</td>
 </tr>
 <tr>
 <td></td>
@@ -93,7 +93,7 @@ source: https://zan.gov.kz/client/#!/doc/128754/rus/10.10.2019
 <td>3</td>
 <td></td>
 <td>Земельный налог</td>
-<td>154</td>
+<td>254</td>
 </tr>
 <tr>
 <td></td>
@@ -101,23 +101,7 @@ source: https://zan.gov.kz/client/#!/doc/128754/rus/10.10.2019
 <td>4</td>
 <td></td>
 <td>Hалог на транспортные средства</td>
-<td>2 474</td>
-</tr>
-<tr>
-<td></td>
-<td>05</td>
-<td></td>
-<td></td>
-<td>Внутренние налоги на товары, работы и услуги</td>
-<td>10</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>4</td>
-<td></td>
-<td>Сборы за ведение предпринимательской и профессиональной деятельности</td>
-<td>10</td>
+<td>2 469</td>
 </tr>
 <tr>
 <td>2</td>
@@ -157,7 +141,7 @@ source: https://zan.gov.kz/client/#!/doc/128754/rus/10.10.2019
 <td></td>
 <td></td>
 <td>Поступления трансфертов</td>
-<td>68 615</td>
+<td>87 701</td>
 </tr>
 <tr>
 <td></td>
@@ -165,7 +149,7 @@ source: https://zan.gov.kz/client/#!/doc/128754/rus/10.10.2019
 <td></td>
 <td></td>
 <td>Трансферты из вышестоящих органов государственного управления</td>
-<td>68 615</td>
+<td>87 701</td>
 </tr>
 <tr>
 <td></td>
@@ -173,11 +157,11 @@ source: https://zan.gov.kz/client/#!/doc/128754/rus/10.10.2019
 <td>3</td>
 <td></td>
 <td>Трансферты из районного (города областного значения) бюджета</td>
-<td>68 615</td>
+<td>87 701</td>
 </tr>
 <tr>
-<td colspan="5">Функциональная группа Наименование</td>
-<td rowspan="4">Сумма, тысяч тенге</td>
+<td colspan="5">Функциональная группа</td>
+<td rowspan="6">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
@@ -199,8 +183,22 @@ source: https://zan.gov.kz/client/#!/doc/128754/rus/10.10.2019
 <td></td>
 <td></td>
 <td></td>
+<td>Подпрограмма</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Наименование</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td>2. Затраты</td>
-<td>71 856</td>
+<td>90 942</td>
 </tr>
 <tr>
 <td>01</td>
@@ -208,7 +206,7 @@ source: https://zan.gov.kz/client/#!/doc/128754/rus/10.10.2019
 <td></td>
 <td></td>
 <td>Государственные услуги общего характера</td>
-<td>17 442</td>
+<td>17 992</td>
 </tr>
 <tr>
 <td></td>
@@ -216,7 +214,7 @@ source: https://zan.gov.kz/client/#!/doc/128754/rus/10.10.2019
 <td></td>
 <td></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>17 442</td>
+<td>17 992</td>
 </tr>
 <tr>
 <td></td>
@@ -224,7 +222,7 @@ source: https://zan.gov.kz/client/#!/doc/128754/rus/10.10.2019
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>17 442</td>
+<td>17 992</td>
 </tr>
 <tr>
 <td></td>
@@ -232,7 +230,7 @@ source: https://zan.gov.kz/client/#!/doc/128754/rus/10.10.2019
 <td></td>
 <td>001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>17 442</td>
+<td>17 992</td>
 </tr>
 <tr>
 <td>04</td>
@@ -272,7 +270,7 @@ source: https://zan.gov.kz/client/#!/doc/128754/rus/10.10.2019
 <td></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>7 695</td>
+<td>22 195</td>
 </tr>
 <tr>
 <td></td>
@@ -280,7 +278,7 @@ source: https://zan.gov.kz/client/#!/doc/128754/rus/10.10.2019
 <td></td>
 <td></td>
 <td>Благоустройство населенных пунктов</td>
-<td>7 695</td>
+<td>22 195</td>
 </tr>
 <tr>
 <td></td>
@@ -288,7 +286,7 @@ source: https://zan.gov.kz/client/#!/doc/128754/rus/10.10.2019
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>7 695</td>
+<td>22 195</td>
 </tr>
 <tr>
 <td></td>
@@ -296,7 +294,7 @@ source: https://zan.gov.kz/client/#!/doc/128754/rus/10.10.2019
 <td></td>
 <td>008</td>
 <td>Освещение улиц в населенных пунктах</td>
-<td>733</td>
+<td>15 233</td>
 </tr>
 <tr>
 <td></td>
@@ -376,7 +374,7 @@ source: https://zan.gov.kz/client/#!/doc/128754/rus/10.10.2019
 <td></td>
 <td></td>
 <td>Транспорт и коммуникации</td>
-<td>2 901</td>
+<td>6 937</td>
 </tr>
 <tr>
 <td></td>
@@ -384,7 +382,7 @@ source: https://zan.gov.kz/client/#!/doc/128754/rus/10.10.2019
 <td></td>
 <td></td>
 <td>Автомобильный транспорт</td>
-<td>2 901</td>
+<td>6 937</td>
 </tr>
 <tr>
 <td></td>
@@ -392,7 +390,7 @@ source: https://zan.gov.kz/client/#!/doc/128754/rus/10.10.2019
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>2 901</td>
+<td>6 937</td>
 </tr>
 <tr>
 <td></td>
@@ -400,7 +398,7 @@ source: https://zan.gov.kz/client/#!/doc/128754/rus/10.10.2019
 <td></td>
 <td>013</td>
 <td>Обеспечение функционирования автомобильных дорог в городах районного значения, поселках, селах, сельских округах</td>
-<td>2 901</td>
+<td>6 937</td>
 </tr>
 <tr>
 <td></td>
@@ -411,8 +409,8 @@ source: https://zan.gov.kz/client/#!/doc/128754/rus/10.10.2019
 <td>0</td>
 </tr>
 <tr>
-<td colspan="5">Функциональная группа Наименование</td>
-<td rowspan="4">Сумма, тысяч тенге</td>
+<td colspan="5">Функциональная группа</td>
+<td rowspan="6">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
@@ -433,13 +431,25 @@ source: https://zan.gov.kz/client/#!/doc/128754/rus/10.10.2019
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2">Подпрограмма</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Наименование</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td>Бюджетные кредиты</td>
 <td>0</td>
 </tr>
 <tr>
-<td colspan="5">Категория Наименование</td>
-<td rowspan="4">Сумма, тысяч тенге</td>
+<td colspan="5">Категория</td>
+<td rowspan="5">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
@@ -448,13 +458,19 @@ source: https://zan.gov.kz/client/#!/doc/128754/rus/10.10.2019
 <tr>
 <td></td>
 <td></td>
-<td colspan="3">Подкласс</td>
+<td colspan="3">Под класс</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Программа</td>
+<td colspan="2">Специфика</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Наименование</td>
 </tr>
 <tr>
 <td></td>
@@ -473,8 +489,8 @@ source: https://zan.gov.kz/client/#!/doc/128754/rus/10.10.2019
 <td>0</td>
 </tr>
 <tr>
-<td colspan="5">Функциональная группа Наименование</td>
-<td rowspan="4">Сумма, тысяч тенге</td>
+<td colspan="5">Функциональная группа</td>
+<td rowspan="6">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
@@ -495,13 +511,25 @@ source: https://zan.gov.kz/client/#!/doc/128754/rus/10.10.2019
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2">Подпрограмма</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Наименование</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td>Приобретение финансовых активов</td>
 <td>0</td>
 </tr>
 <tr>
-<td colspan="5">Категория Наименование</td>
-<td rowspan="4">Сумма, тысяч тенге</td>
+<td colspan="5">Категория</td>
+<td rowspan="5">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
@@ -510,13 +538,19 @@ source: https://zan.gov.kz/client/#!/doc/128754/rus/10.10.2019
 <tr>
 <td></td>
 <td></td>
-<td colspan="3">Подкласс</td>
+<td colspan="3">Под класс</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Программа</td>
+<td colspan="2">Специфика</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Наименование</td>
 </tr>
 <tr>
 <td></td>
@@ -532,7 +566,7 @@ source: https://zan.gov.kz/client/#!/doc/128754/rus/10.10.2019
 <td></td>
 <td></td>
 <td>5. Дефицит (профицит) бюджета</td>
-<td>- 13</td>
+<td>-13</td>
 </tr>
 <tr>
 <td></td>
@@ -543,8 +577,8 @@ source: https://zan.gov.kz/client/#!/doc/128754/rus/10.10.2019
 <td>13</td>
 </tr>
 <tr>
-<td colspan="5">Категория Наименование</td>
-<td rowspan="4">Сумма, тысяч тенге</td>
+<td colspan="5">Категория</td>
+<td rowspan="5">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
@@ -553,13 +587,19 @@ source: https://zan.gov.kz/client/#!/doc/128754/rus/10.10.2019
 <tr>
 <td></td>
 <td></td>
-<td colspan="3">Подкласс</td>
+<td colspan="3">Под класс</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Программа</td>
+<td colspan="2">Специфика</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Наименование</td>
 </tr>
 <tr>
 <td></td>
@@ -570,8 +610,8 @@ source: https://zan.gov.kz/client/#!/doc/128754/rus/10.10.2019
 <td>0</td>
 </tr>
 <tr>
-<td colspan="5">Функциональная группа Наименование</td>
-<td rowspan="4">Сумма, тысяч тенге</td>
+<td colspan="5">Функциональная группа</td>
+<td rowspan="6">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
@@ -592,13 +632,25 @@ source: https://zan.gov.kz/client/#!/doc/128754/rus/10.10.2019
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2">Подпрограмма</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Наименование</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td>Погашение займов</td>
 <td>0</td>
 </tr>
 <tr>
-<td colspan="5">Категория Наименование</td>
-<td rowspan="4">Сумма, тысяч тенге</td>
+<td colspan="5">Категория</td>
+<td rowspan="5">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
@@ -607,13 +659,19 @@ source: https://zan.gov.kz/client/#!/doc/128754/rus/10.10.2019
 <tr>
 <td></td>
 <td></td>
-<td colspan="3">Подкласс</td>
+<td colspan="3">Под класс</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Программа</td>
+<td colspan="2">Специфика</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Наименование</td>
 </tr>
 <tr>
 <td></td>
@@ -1966,14 +2024,14 @@ source: https://zan.gov.kz/client/#!/doc/128754/rus/10.10.2019
 > *маслихата от 25 декабря*  
 > *2018 года №38/1*
 
-# Бюджет Каракумского сельского округа на 2019 год
+## Бюджет сельского округа Каракум на 2019 год
 
-> *Сноска. Приложение 13 - в редакции решения Ордабасинского районного маслихата Туркестанской области от 10.10.2019 № 50/1 (вводится в действие с 01.01.2019).*
+> *Сноска. Приложение 13 в редакции решения Ордабасинского районного маслихата Туркестанской области от 10.10.2019 № 50/1 (вводится в действие с 01.01.2019); в редакции решения Ордабасинского районного маслихата Туркестанской области от 27.11.2019 № 52/1 (вводится в действие с 01.01.2019).*
 
 <table>
 <tr>
-<td colspan="5">Категория Наименование</td>
-<td rowspan="4">Сумма, тысяч тенге</td>
+<td colspan="5">Категория</td>
+<td rowspan="5">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
@@ -1982,17 +2040,20 @@ source: https://zan.gov.kz/client/#!/doc/128754/rus/10.10.2019
 <tr>
 <td></td>
 <td></td>
-<td colspan="3">Подкласс</td>
+<td colspan="3">Под класс</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Программа</td>
+<td colspan="2">Специфика</td>
 </tr>
 <tr>
-<td colspan="5">1 2</td>
-<td>3</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Наименование</td>
 </tr>
 <tr>
 <td></td>
@@ -2000,7 +2061,7 @@ source: https://zan.gov.kz/client/#!/doc/128754/rus/10.10.2019
 <td></td>
 <td></td>
 <td>1. Доходы</td>
-<td>93 515</td>
+<td>101 565</td>
 </tr>
 <tr>
 <td>1</td>
@@ -2008,7 +2069,7 @@ source: https://zan.gov.kz/client/#!/doc/128754/rus/10.10.2019
 <td></td>
 <td></td>
 <td>Налоговые поступления</td>
-<td>5 564</td>
+<td>5 599</td>
 </tr>
 <tr>
 <td></td>
@@ -2016,10 +2077,7 @@ source: https://zan.gov.kz/client/#!/doc/128754/rus/10.10.2019
 <td></td>
 <td></td>
 <td>Подоходный налог</td>
-<td>
-
-750
-</td>
+<td>779</td>
 </tr>
 <tr>
 <td></td>
@@ -2027,7 +2085,7 @@ source: https://zan.gov.kz/client/#!/doc/128754/rus/10.10.2019
 <td>2</td>
 <td></td>
 <td>Индивидуальный подоходный налог</td>
-<td>750</td>
+<td>779</td>
 </tr>
 <tr>
 <td></td>
@@ -2035,7 +2093,7 @@ source: https://zan.gov.kz/client/#!/doc/128754/rus/10.10.2019
 <td></td>
 <td></td>
 <td>Hалоги на собственность</td>
-<td>4 814</td>
+<td>4 820</td>
 </tr>
 <tr>
 <td></td>
@@ -2043,7 +2101,7 @@ source: https://zan.gov.kz/client/#!/doc/128754/rus/10.10.2019
 <td>1</td>
 <td></td>
 <td>Hалоги на имущество</td>
-<td>450</td>
+<td>456</td>
 </tr>
 <tr>
 <td></td>
@@ -2067,7 +2125,7 @@ source: https://zan.gov.kz/client/#!/doc/128754/rus/10.10.2019
 <td></td>
 <td></td>
 <td>Неналоговые поступления</td>
-<td>110</td>
+<td>75</td>
 </tr>
 <tr>
 <td></td>
@@ -2075,7 +2133,7 @@ source: https://zan.gov.kz/client/#!/doc/128754/rus/10.10.2019
 <td></td>
 <td></td>
 <td>Прочие неналоговые поступления</td>
-<td>110</td>
+<td>75</td>
 </tr>
 <tr>
 <td></td>
@@ -2083,7 +2141,7 @@ source: https://zan.gov.kz/client/#!/doc/128754/rus/10.10.2019
 <td>1</td>
 <td></td>
 <td>Прочие неналоговые поступления</td>
-<td>110</td>
+<td>75</td>
 </tr>
 <tr>
 <td>3</td>
@@ -2099,7 +2157,7 @@ source: https://zan.gov.kz/client/#!/doc/128754/rus/10.10.2019
 <td></td>
 <td></td>
 <td>Поступления трансфертов</td>
-<td>87 841</td>
+<td>95 891</td>
 </tr>
 <tr>
 <td></td>
@@ -2107,7 +2165,7 @@ source: https://zan.gov.kz/client/#!/doc/128754/rus/10.10.2019
 <td></td>
 <td></td>
 <td>Трансферты из вышестоящих органов государственного управления</td>
-<td>87 841</td>
+<td>95 891</td>
 </tr>
 <tr>
 <td></td>
@@ -2115,11 +2173,11 @@ source: https://zan.gov.kz/client/#!/doc/128754/rus/10.10.2019
 <td>3</td>
 <td></td>
 <td>Трансферты из районного (города областного значения) бюджета</td>
-<td>87 841</td>
+<td>95 891</td>
 </tr>
 <tr>
-<td colspan="5">Функциональная группа Наименование</td>
-<td rowspan="4">Сумма, тысяч тенге</td>
+<td colspan="5">Функциональная группа</td>
+<td rowspan="6">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
@@ -2141,8 +2199,22 @@ source: https://zan.gov.kz/client/#!/doc/128754/rus/10.10.2019
 <td></td>
 <td></td>
 <td></td>
+<td>Подпрограмма</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Наименование</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td>2. Затраты</td>
-<td>95 328</td>
+<td>103 378</td>
 </tr>
 <tr>
 <td>01</td>
@@ -2150,7 +2222,7 @@ source: https://zan.gov.kz/client/#!/doc/128754/rus/10.10.2019
 <td></td>
 <td></td>
 <td>Государственные услуги общего характера</td>
-<td>21 901</td>
+<td>22 451</td>
 </tr>
 <tr>
 <td></td>
@@ -2158,7 +2230,7 @@ source: https://zan.gov.kz/client/#!/doc/128754/rus/10.10.2019
 <td></td>
 <td></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>21 901</td>
+<td>22 451</td>
 </tr>
 <tr>
 <td></td>
@@ -2166,7 +2238,7 @@ source: https://zan.gov.kz/client/#!/doc/128754/rus/10.10.2019
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>21 901</td>
+<td>22 451</td>
 </tr>
 <tr>
 <td></td>
@@ -2174,7 +2246,7 @@ source: https://zan.gov.kz/client/#!/doc/128754/rus/10.10.2019
 <td></td>
 <td>001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>21 901</td>
+<td>22 451</td>
 </tr>
 <tr>
 <td>04</td>
@@ -2214,7 +2286,7 @@ source: https://zan.gov.kz/client/#!/doc/128754/rus/10.10.2019
 <td></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>8 904</td>
+<td>16 404</td>
 </tr>
 <tr>
 <td></td>
@@ -2222,7 +2294,7 @@ source: https://zan.gov.kz/client/#!/doc/128754/rus/10.10.2019
 <td></td>
 <td></td>
 <td>Благоустройство населенных пунктов</td>
-<td>8 904</td>
+<td>16 404</td>
 </tr>
 <tr>
 <td></td>
@@ -2230,7 +2302,7 @@ source: https://zan.gov.kz/client/#!/doc/128754/rus/10.10.2019
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>8 904</td>
+<td>16 404</td>
 </tr>
 <tr>
 <td></td>
@@ -2238,7 +2310,7 @@ source: https://zan.gov.kz/client/#!/doc/128754/rus/10.10.2019
 <td></td>
 <td>008</td>
 <td>Освещение улиц в населенных пунктах</td>
-<td>1 742</td>
+<td>9 242</td>
 </tr>
 <tr>
 <td></td>
@@ -2321,8 +2393,8 @@ source: https://zan.gov.kz/client/#!/doc/128754/rus/10.10.2019
 <td>0</td>
 </tr>
 <tr>
-<td colspan="5">Функциональная группа Наименование</td>
-<td rowspan="4">Сумма, тысяч тенге</td>
+<td colspan="5">Функциональная группа</td>
+<td rowspan="6">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
@@ -2343,13 +2415,25 @@ source: https://zan.gov.kz/client/#!/doc/128754/rus/10.10.2019
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2">Подпрограмма</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Наименование</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td>Бюджетные кредиты</td>
 <td>0</td>
 </tr>
 <tr>
-<td colspan="5">Категория Наименование</td>
-<td rowspan="4">Сумма, тысяч тенге</td>
+<td colspan="5">Категория</td>
+<td rowspan="5">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
@@ -2358,13 +2442,19 @@ source: https://zan.gov.kz/client/#!/doc/128754/rus/10.10.2019
 <tr>
 <td></td>
 <td></td>
-<td colspan="3">Подкласс</td>
+<td colspan="3">Под класс</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Программа</td>
+<td colspan="2">Специфика</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Наименование</td>
 </tr>
 <tr>
 <td></td>
@@ -2383,8 +2473,8 @@ source: https://zan.gov.kz/client/#!/doc/128754/rus/10.10.2019
 <td>0</td>
 </tr>
 <tr>
-<td colspan="5">Функциональная группа Наименование</td>
-<td rowspan="4">Сумма, тысяч тенге</td>
+<td colspan="5">Функциональная группа</td>
+<td rowspan="6">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
@@ -2405,13 +2495,25 @@ source: https://zan.gov.kz/client/#!/doc/128754/rus/10.10.2019
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2">Подпрограмма</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Наименование</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td>Приобретение финансовых активов</td>
 <td>0</td>
 </tr>
 <tr>
-<td colspan="5">Категория Наименование</td>
-<td rowspan="4">Сумма, тысяч тенге</td>
+<td colspan="5">Категория</td>
+<td rowspan="5">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
@@ -2420,13 +2522,19 @@ source: https://zan.gov.kz/client/#!/doc/128754/rus/10.10.2019
 <tr>
 <td></td>
 <td></td>
-<td colspan="3">Подкласс</td>
+<td colspan="3">Под класс</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Программа</td>
+<td colspan="2">Специфика</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Наименование</td>
 </tr>
 <tr>
 <td></td>
@@ -2442,7 +2550,7 @@ source: https://zan.gov.kz/client/#!/doc/128754/rus/10.10.2019
 <td></td>
 <td></td>
 <td>5. Дефицит (профицит) бюджета</td>
-<td>- 1 813</td>
+<td>-1 813</td>
 </tr>
 <tr>
 <td></td>
@@ -2453,8 +2561,8 @@ source: https://zan.gov.kz/client/#!/doc/128754/rus/10.10.2019
 <td>1 813</td>
 </tr>
 <tr>
-<td colspan="5">Категория Наименование</td>
-<td rowspan="4">Сумма, тысяч тенге</td>
+<td colspan="5">Категория</td>
+<td rowspan="5">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
@@ -2463,13 +2571,19 @@ source: https://zan.gov.kz/client/#!/doc/128754/rus/10.10.2019
 <tr>
 <td></td>
 <td></td>
-<td colspan="3">Подкласс</td>
+<td colspan="3">Под класс</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Программа</td>
+<td colspan="2">Специфика</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Наименование</td>
 </tr>
 <tr>
 <td></td>
@@ -2480,8 +2594,8 @@ source: https://zan.gov.kz/client/#!/doc/128754/rus/10.10.2019
 <td>0</td>
 </tr>
 <tr>
-<td colspan="5">Функциональная группа Наименование</td>
-<td rowspan="4">Сумма, тысяч тенге</td>
+<td colspan="5">Функциональная группа</td>
+<td rowspan="6">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
@@ -2502,13 +2616,25 @@ source: https://zan.gov.kz/client/#!/doc/128754/rus/10.10.2019
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2">Подпрограмма</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Наименование</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td>Погашение займов</td>
 <td>0</td>
 </tr>
 <tr>
-<td colspan="5">Категория Наименование</td>
-<td rowspan="4">Сумма, тысяч тенге</td>
+<td colspan="5">Категория</td>
+<td rowspan="5">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
@@ -2517,13 +2643,19 @@ source: https://zan.gov.kz/client/#!/doc/128754/rus/10.10.2019
 <tr>
 <td></td>
 <td></td>
-<td colspan="3">Подкласс</td>
+<td colspan="3">Под класс</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Программа</td>
+<td colspan="2">Специфика</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Наименование</td>
 </tr>
 <tr>
 <td></td>
@@ -3716,14 +3848,14 @@ source: https://zan.gov.kz/client/#!/doc/128754/rus/10.10.2019
 > *маслихата от 25 декабря*  
 > *2018 года №38/1*
 
-# Бюджет Караспанского сельского округа на 2019 год
+## Бюджет сельского округа Караспан на 2019 год
 
-> *Сноска. Приложение 16 - в редакции решения Ордабасинского районного маслихата Туркестанской области от 10.10.2019 № 50/1 (вводится в действие с 01.01.2019).*
+> *Сноска. Приложение 16 в редакции решения Ордабасинского районного маслихата Туркестанской области от 10.10.2019 № 50/1 (вводится в действие с 01.01.2019); в редакции решения Ордабасинского районного маслихата Туркестанской области от 27.11.2019 № 52/1 (вводится в действие с 01.01.2019).*
 
 <table>
 <tr>
-<td colspan="5">Категория Наименование</td>
-<td rowspan="4">Сумма, тысяч тенге</td>
+<td colspan="5">Категория</td>
+<td rowspan="5">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
@@ -3732,17 +3864,20 @@ source: https://zan.gov.kz/client/#!/doc/128754/rus/10.10.2019
 <tr>
 <td></td>
 <td></td>
-<td colspan="3">Подкласс</td>
+<td colspan="3">Под класс</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Программа</td>
+<td colspan="2">Специфика</td>
 </tr>
 <tr>
-<td colspan="5">1 2</td>
-<td>3</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Наименование</td>
 </tr>
 <tr>
 <td></td>
@@ -3750,7 +3885,7 @@ source: https://zan.gov.kz/client/#!/doc/128754/rus/10.10.2019
 <td></td>
 <td></td>
 <td>1. Доходы</td>
-<td>99 864</td>
+<td>107 764</td>
 </tr>
 <tr>
 <td>1</td>
@@ -3758,7 +3893,7 @@ source: https://zan.gov.kz/client/#!/doc/128754/rus/10.10.2019
 <td></td>
 <td></td>
 <td>Налоговые поступления</td>
-<td>17 661</td>
+<td>17 711</td>
 </tr>
 <tr>
 <td></td>
@@ -3782,7 +3917,7 @@ source: https://zan.gov.kz/client/#!/doc/128754/rus/10.10.2019
 <td></td>
 <td></td>
 <td>Hалоги на собственность</td>
-<td>15 577</td>
+<td>15 647</td>
 </tr>
 <tr>
 <td></td>
@@ -3806,23 +3941,7 @@ source: https://zan.gov.kz/client/#!/doc/128754/rus/10.10.2019
 <td>4</td>
 <td></td>
 <td>Hалог на транспортные средства</td>
-<td>13 193</td>
-</tr>
-<tr>
-<td></td>
-<td>05</td>
-<td></td>
-<td></td>
-<td>Внутренние налоги на товары, работы и услуг</td>
-<td>20</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>4</td>
-<td></td>
-<td>Сборы за ведение предпринимательской и профессиональной деятельности</td>
-<td>20</td>
+<td>13 263</td>
 </tr>
 <tr>
 <td>2</td>
@@ -3830,39 +3949,7 @@ source: https://zan.gov.kz/client/#!/doc/128754/rus/10.10.2019
 <td></td>
 <td></td>
 <td>Неналоговые поступления</td>
-<td>480</td>
-</tr>
-<tr>
-<td></td>
-<td>01</td>
-<td></td>
-<td></td>
-<td>Доходы от государственной собственности</td>
-<td>30</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>5</td>
-<td></td>
-<td>Доходы от аренды имущества, находящегося в государственной собственности</td>
-<td>30</td>
-</tr>
-<tr>
-<td></td>
-<td>04</td>
-<td></td>
-<td></td>
-<td>Штрафы, пени, санкции, взыскания, налагаемые государственными учреждениями, финансируемыми из государственного бюджета, а также содержащимися и финансируемыми из бюджета (сметы расходов) Национального Банка Республики Казахстан</td>
-<td>20</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>1</td>
-<td></td>
-<td>Штрафы, пени, санкции, взыскания, налагаемые государственными учреждениями, финансируемыми из государственного бюджета, а также содержащимися и финансируемыми из бюджета (сметы расходов) Национального Банка Республики Казахстан, за исключением поступлений от организаций нефтяного сектора</td>
-<td>20</td>
+<td>430</td>
 </tr>
 <tr>
 <td></td>
@@ -3894,7 +3981,7 @@ source: https://zan.gov.kz/client/#!/doc/128754/rus/10.10.2019
 <td></td>
 <td></td>
 <td>Поступления трансфертов</td>
-<td>81 723</td>
+<td>89 623</td>
 </tr>
 <tr>
 <td></td>
@@ -3902,7 +3989,7 @@ source: https://zan.gov.kz/client/#!/doc/128754/rus/10.10.2019
 <td></td>
 <td></td>
 <td>Трансферты из вышестоящих органов государственного управления</td>
-<td>81 723</td>
+<td>89 623</td>
 </tr>
 <tr>
 <td></td>
@@ -3910,11 +3997,11 @@ source: https://zan.gov.kz/client/#!/doc/128754/rus/10.10.2019
 <td>3</td>
 <td></td>
 <td>Трансферты из районного (города областного значения) бюджета</td>
-<td>81 723</td>
+<td>89 623</td>
 </tr>
 <tr>
-<td colspan="5">Функциональная группа Наименование</td>
-<td rowspan="4">Сумма, тысяч тенге</td>
+<td colspan="5">Функциональная группа</td>
+<td rowspan="6">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
@@ -3936,8 +4023,22 @@ source: https://zan.gov.kz/client/#!/doc/128754/rus/10.10.2019
 <td></td>
 <td></td>
 <td></td>
+<td>Подпрограмма</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Наименование</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td>2. Затраты</td>
-<td>102 935</td>
+<td>110 835</td>
 </tr>
 <tr>
 <td>01</td>
@@ -3945,7 +4046,7 @@ source: https://zan.gov.kz/client/#!/doc/128754/rus/10.10.2019
 <td></td>
 <td></td>
 <td>Государственные услуги общего характера</td>
-<td>31 614</td>
+<td>32 014</td>
 </tr>
 <tr>
 <td></td>
@@ -3953,7 +4054,7 @@ source: https://zan.gov.kz/client/#!/doc/128754/rus/10.10.2019
 <td></td>
 <td></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>31 614</td>
+<td>32 014</td>
 </tr>
 <tr>
 <td></td>
@@ -3961,7 +4062,7 @@ source: https://zan.gov.kz/client/#!/doc/128754/rus/10.10.2019
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>31 614</td>
+<td>32 014</td>
 </tr>
 <tr>
 <td></td>
@@ -3969,7 +4070,7 @@ source: https://zan.gov.kz/client/#!/doc/128754/rus/10.10.2019
 <td></td>
 <td>001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>31 614</td>
+<td>32 014</td>
 </tr>
 <tr>
 <td>04</td>
@@ -4033,7 +4134,7 @@ source: https://zan.gov.kz/client/#!/doc/128754/rus/10.10.2019
 <td></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>13 871</td>
+<td>21 371</td>
 </tr>
 <tr>
 <td></td>
@@ -4041,7 +4142,7 @@ source: https://zan.gov.kz/client/#!/doc/128754/rus/10.10.2019
 <td></td>
 <td></td>
 <td>Благоустройство населенных пунктов</td>
-<td>13 871</td>
+<td>21 371</td>
 </tr>
 <tr>
 <td></td>
@@ -4049,7 +4150,7 @@ source: https://zan.gov.kz/client/#!/doc/128754/rus/10.10.2019
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>13 871</td>
+<td>21 371</td>
 </tr>
 <tr>
 <td></td>
@@ -4057,7 +4158,7 @@ source: https://zan.gov.kz/client/#!/doc/128754/rus/10.10.2019
 <td></td>
 <td>008</td>
 <td>Освещение улиц в населенных пунктах</td>
-<td>3 857</td>
+<td>11 357</td>
 </tr>
 <tr>
 <td></td>
@@ -4172,8 +4273,8 @@ source: https://zan.gov.kz/client/#!/doc/128754/rus/10.10.2019
 <td>0</td>
 </tr>
 <tr>
-<td colspan="5">Функциональная группа Наименование</td>
-<td rowspan="4">Сумма, тысяч тенге</td>
+<td colspan="5">Функциональная группа</td>
+<td rowspan="6">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
@@ -4194,13 +4295,25 @@ source: https://zan.gov.kz/client/#!/doc/128754/rus/10.10.2019
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2">Подпрограмма</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Наименование</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td>Бюджетные кредиты</td>
 <td>0</td>
 </tr>
 <tr>
-<td colspan="5">Категория Наименование</td>
-<td rowspan="4">Сумма, тысяч тенге</td>
+<td colspan="5">Категория</td>
+<td rowspan="5">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
@@ -4209,13 +4322,19 @@ source: https://zan.gov.kz/client/#!/doc/128754/rus/10.10.2019
 <tr>
 <td></td>
 <td></td>
-<td colspan="3">Подкласс</td>
+<td colspan="3">Под класс</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Программа</td>
+<td colspan="2">Специфика</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Наименование</td>
 </tr>
 <tr>
 <td></td>
@@ -4234,8 +4353,8 @@ source: https://zan.gov.kz/client/#!/doc/128754/rus/10.10.2019
 <td>0</td>
 </tr>
 <tr>
-<td colspan="5">Функциональная группа Наименование</td>
-<td rowspan="4">Сумма, тысяч тенге</td>
+<td colspan="5">Функциональная группа</td>
+<td rowspan="6">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
@@ -4256,13 +4375,25 @@ source: https://zan.gov.kz/client/#!/doc/128754/rus/10.10.2019
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2">Подпрограмма</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Наименование</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td>Приобретение финансовых активов</td>
 <td>0</td>
 </tr>
 <tr>
-<td colspan="5">Категория Наименование</td>
-<td rowspan="4">Сумма, тысяч тенге</td>
+<td colspan="5">Категория</td>
+<td rowspan="5">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
@@ -4271,13 +4402,19 @@ source: https://zan.gov.kz/client/#!/doc/128754/rus/10.10.2019
 <tr>
 <td></td>
 <td></td>
-<td colspan="3">Подкласс</td>
+<td colspan="3">Под класс</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Программа</td>
+<td colspan="2">Специфика</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Наименование</td>
 </tr>
 <tr>
 <td></td>
@@ -4293,7 +4430,7 @@ source: https://zan.gov.kz/client/#!/doc/128754/rus/10.10.2019
 <td></td>
 <td></td>
 <td>5. Дефицит (профицит) бюджета</td>
-<td>- 3 071</td>
+<td>-3 071</td>
 </tr>
 <tr>
 <td></td>
@@ -4304,8 +4441,8 @@ source: https://zan.gov.kz/client/#!/doc/128754/rus/10.10.2019
 <td>3 071</td>
 </tr>
 <tr>
-<td colspan="5">Категория Наименование</td>
-<td rowspan="4">Сумма, тысяч тенге</td>
+<td colspan="5">Категория</td>
+<td rowspan="5">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
@@ -4314,13 +4451,19 @@ source: https://zan.gov.kz/client/#!/doc/128754/rus/10.10.2019
 <tr>
 <td></td>
 <td></td>
-<td colspan="3">Подкласс</td>
+<td colspan="3">Под класс</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Программа</td>
+<td colspan="2">Специфика</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Наименование</td>
 </tr>
 <tr>
 <td></td>
@@ -4331,8 +4474,8 @@ source: https://zan.gov.kz/client/#!/doc/128754/rus/10.10.2019
 <td>0</td>
 </tr>
 <tr>
-<td colspan="5">Функциональная группа Наименование</td>
-<td rowspan="4">Сумма, тысяч тенге</td>
+<td colspan="5">Функциональная группа</td>
+<td rowspan="6">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
@@ -4353,13 +4496,25 @@ source: https://zan.gov.kz/client/#!/doc/128754/rus/10.10.2019
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2">Подпрограмма</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Наименование</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td>Погашение займов</td>
 <td>0</td>
 </tr>
 <tr>
-<td colspan="5">Категория Наименование</td>
-<td rowspan="4">Сумма, тысяч тенге</td>
+<td colspan="5">Категория</td>
+<td rowspan="5">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
@@ -4368,13 +4523,19 @@ source: https://zan.gov.kz/client/#!/doc/128754/rus/10.10.2019
 <tr>
 <td></td>
 <td></td>
-<td colspan="3">Подкласс</td>
+<td colspan="3">Под класс</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Программа</td>
+<td colspan="2">Специфика</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Наименование</td>
 </tr>
 <tr>
 <td></td>
