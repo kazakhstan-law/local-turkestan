@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/128349/kaz/25.09.2019
+source: https://zan.gov.kz/client/#!/doc/128349/kaz/29.11.2019
 ---
 
 > *Арыс қалалық*  
@@ -444,9 +444,9 @@ source: https://zan.gov.kz/client/#!/doc/128349/kaz/25.09.2019
 > *№31/220-VI шешіміне*  
 > *16-қосымша*
 
-# 2019 жылға арналған Монтайтас ауылдық округінің бюджеті
+## 2019 жылға арналған Монтайтас ауылдық округінің бюджеті
 
-> *Ескерту. 16-қосымша жаңа редакцияда - Түркістан облысы Арыс қалалық мәслихатының 25.09.2019 № 40/287-VI (01.01.2019 бастап қолданысқа енгізіледі) шешімімен.*
+> *Ескерту. 16-қосымша жаңа редакцияда - Түркістан облысы Арыс қалалық мәслихатының 25.09.2019 № 40/287-VI (01.01.2019 бастап қолданысқа енгізіледі); жаңа редакцияда - Түркістан облысы Арыс қалалық мәслихатының 29.11.2019 № 42/294-VI (01.01.2019 бастап қолданысқа енгізіледі) шешімдерімен.*
 
 <table>
 <tr>
@@ -460,7 +460,7 @@ source: https://zan.gov.kz/client/#!/doc/128349/kaz/25.09.2019
 <tr>
 <td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="6">Iшкi сыныбы</td>
+<td colspan="6">Кіші сыныбы</td>
 </tr>
 <tr>
 <td colspan="7">1</td>
@@ -473,8 +473,8 @@ source: https://zan.gov.kz/client/#!/doc/128349/kaz/25.09.2019
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2">Кірістер</td>
-<td>46831</td>
+<td colspan="2">1. Кірістер</td>
+<td>46337</td>
 </tr>
 <tr>
 <td colspan="2">1</td>
@@ -514,7 +514,7 @@ source: https://zan.gov.kz/client/#!/doc/128349/kaz/25.09.2019
 <td colspan="2">1</td>
 <td colspan="2"></td>
 <td colspan="2">Мүлiкке салынатын салықтар</td>
-<td>323</td>
+<td>423</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -522,7 +522,7 @@ source: https://zan.gov.kz/client/#!/doc/128349/kaz/25.09.2019
 <td colspan="2">3</td>
 <td colspan="2"></td>
 <td colspan="2">Жер салығы</td>
-<td>412</td>
+<td>312</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -554,7 +554,7 @@ source: https://zan.gov.kz/client/#!/doc/128349/kaz/25.09.2019
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Трансферттер түсімі</td>
-<td>39476</td>
+<td>38982</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -562,7 +562,7 @@ source: https://zan.gov.kz/client/#!/doc/128349/kaz/25.09.2019
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td>39476</td>
+<td>38982</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -570,7 +570,7 @@ source: https://zan.gov.kz/client/#!/doc/128349/kaz/25.09.2019
 <td colspan="2">3</td>
 <td colspan="2"></td>
 <td colspan="2">Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td>39476</td>
+<td>38982</td>
 </tr>
 <tr>
 <td colspan="11">Функционалдық топ Атауы</td>
@@ -601,8 +601,8 @@ source: https://zan.gov.kz/client/#!/doc/128349/kaz/25.09.2019
 <td colspan="3"></td>
 <td colspan="4"></td>
 <td colspan="2"></td>
-<td>Шығындар</td>
-<td>47881</td>
+<td>2. Шығындар</td>
+<td>47387</td>
 </tr>
 <tr>
 <td>01</td>
@@ -610,7 +610,7 @@ source: https://zan.gov.kz/client/#!/doc/128349/kaz/25.09.2019
 <td colspan="4"></td>
 <td colspan="2"></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>29593</td>
+<td>29120</td>
 </tr>
 <tr>
 <td></td>
@@ -618,7 +618,7 @@ source: https://zan.gov.kz/client/#!/doc/128349/kaz/25.09.2019
 <td colspan="4"></td>
 <td colspan="2"></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>29593</td>
+<td>29120</td>
 </tr>
 <tr>
 <td></td>
@@ -626,7 +626,7 @@ source: https://zan.gov.kz/client/#!/doc/128349/kaz/25.09.2019
 <td colspan="4">124</td>
 <td colspan="2"></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>29593</td>
+<td>29120</td>
 </tr>
 <tr>
 <td></td>
@@ -634,7 +634,7 @@ source: https://zan.gov.kz/client/#!/doc/128349/kaz/25.09.2019
 <td colspan="4"></td>
 <td colspan="2">001</td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>29187</td>
+<td>28714</td>
 </tr>
 <tr>
 <td></td>
@@ -643,38 +643,6 @@ source: https://zan.gov.kz/client/#!/doc/128349/kaz/25.09.2019
 <td colspan="2">022</td>
 <td>Мемлекеттік органның күрделі шығыстары</td>
 <td>406</td>
-</tr>
-<tr>
-<td>05</td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td>Денсаулық сақтау</td>
-<td>21</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3">9</td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td>Денсаулық сақтау саласындағы өзге де қызметтер</td>
-<td>21</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3"></td>
-<td colspan="4">124</td>
-<td colspan="2"></td>
-<td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>21</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="2">002</td>
-<td>Шұғыл жағдайларда науқасы ауыр адамдарды дәрігерлік көмек көрсететін жақын жердегі денсаулық сақтау ұйымына жеткізуді ұйымдастыру</td>
-<td>21</td>
 </tr>
 <tr>
 <td>07</td>
@@ -777,7 +745,7 @@ source: https://zan.gov.kz/client/#!/doc/128349/kaz/25.09.2019
 <td colspan="3"></td>
 <td colspan="4"></td>
 <td colspan="2"></td>
-<td>Таза бюджеттік кредиттеу</td>
+<td>3. Таза бюджеттік кредиттеу</td>
 <td>0</td>
 </tr>
 <tr>
@@ -801,7 +769,7 @@ source: https://zan.gov.kz/client/#!/doc/128349/kaz/25.09.2019
 <td colspan="3"></td>
 <td colspan="4"></td>
 <td colspan="2"></td>
-<td>Қаржы активтерімен операциялар бойынша сальдо</td>
+<td>4. . Қаржы активтерімен операциялар бойынша сальдо</td>
 <td>0</td>
 </tr>
 <tr>
@@ -825,7 +793,7 @@ source: https://zan.gov.kz/client/#!/doc/128349/kaz/25.09.2019
 <td colspan="3"></td>
 <td colspan="4"></td>
 <td colspan="2"></td>
-<td>Бюджет тапшылығы (профициті)</td>
+<td>5. Бюджет тапшылығы (профициті)</td>
 <td>-1050</td>
 </tr>
 <tr>
@@ -833,7 +801,7 @@ source: https://zan.gov.kz/client/#!/doc/128349/kaz/25.09.2019
 <td colspan="3"></td>
 <td colspan="4"></td>
 <td colspan="2"></td>
-<td>Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
+<td>6. Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
 <td>1050</td>
 </tr>
 <tr>
@@ -857,7 +825,7 @@ source: https://zan.gov.kz/client/#!/doc/128349/kaz/25.09.2019
 <td colspan="3"></td>
 <td colspan="4"></td>
 <td colspan="2"></td>
-<td>Бюджет қаражатының пайдаланылатын қалдықтары</td>
+<td>Бюджет қаражаттарының пайдаланылатын қалдықтары</td>
 <td>1050</td>
 </tr>
 <tr>
