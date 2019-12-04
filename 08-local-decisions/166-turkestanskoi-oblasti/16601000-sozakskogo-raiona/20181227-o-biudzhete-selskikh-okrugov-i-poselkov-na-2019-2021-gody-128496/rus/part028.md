@@ -1,22 +1,22 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/128496/rus/15.08.2019
+source: https://zan.gov.kz/client/#!/doc/128496/rus/04.12.2019
 ---
 
-> *Приложение 25 к решению*  
+> *Приложение 28 к решению*  
 > *Созакского районного*  
 > *маслихата от 27 декабря*  
 > *2018 года №216*
 
-# Бюджет поселка Таукент на 2019 год
+## Бюджет поселка Таукент на 2019 год
 
-> *Сноска. Приложение 28 - в редакции решения Созакского районного маслихата Туркестанской области от 15.08.2019 № 257 (вводится в действие с 01.01.2019).*
+> *Сноска. Приложение 28 - в редакции решения Созакского районного маслихата Туркестанской области от 15.08.2019 № 257 (вводится в действие с 01.01.2019); в редакции решения Созакского районного маслихата Туркестанской области от 04.12.2019 № 281 (вводится в действие с 01.01.2019).*
 
 <table>
 <tr>
 <td colspan="4"></td>
 <td colspan="11">Категория</td>
-<td rowspan="4">Сумма, тысяч тенге</td>
+<td rowspan="5">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td colspan="4"></td>
@@ -28,6 +28,12 @@ source: https://zan.gov.kz/client/#!/doc/128496/rus/15.08.2019
 <td></td>
 <td colspan="5"></td>
 <td colspan="5">Подкласс</td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td></td>
+<td colspan="5"></td>
+<td colspan="5">Специфика</td>
 </tr>
 <tr>
 <td colspan="4"></td>
@@ -47,7 +53,7 @@ source: https://zan.gov.kz/client/#!/doc/128496/rus/15.08.2019
 <td colspan="3"></td>
 <td colspan="5"></td>
 <td>1. Доходы</td>
-<td>337 338</td>
+<td>334 740</td>
 </tr>
 <tr>
 <td colspan="4"></td>
@@ -63,7 +69,7 @@ source: https://zan.gov.kz/client/#!/doc/128496/rus/15.08.2019
 <td colspan="3">01</td>
 <td colspan="5"></td>
 <td>Подоходный налог</td>
-<td>9 200</td>
+<td>9 240</td>
 </tr>
 <tr>
 <td colspan="4"></td>
@@ -71,7 +77,7 @@ source: https://zan.gov.kz/client/#!/doc/128496/rus/15.08.2019
 <td colspan="3"></td>
 <td colspan="5">2</td>
 <td>Индивидуальный подоходный налог</td>
-<td>9 200</td>
+<td>9 240</td>
 </tr>
 <tr>
 <td colspan="4"></td>
@@ -79,7 +85,7 @@ source: https://zan.gov.kz/client/#!/doc/128496/rus/15.08.2019
 <td colspan="3">04</td>
 <td colspan="5"></td>
 <td>Hалоги на собственность</td>
-<td>35 400</td>
+<td>35 360</td>
 </tr>
 <tr>
 <td colspan="4"></td>
@@ -87,7 +93,7 @@ source: https://zan.gov.kz/client/#!/doc/128496/rus/15.08.2019
 <td colspan="3"></td>
 <td colspan="5">1</td>
 <td>Hалоги на имущество</td>
-<td>382</td>
+<td>342</td>
 </tr>
 <tr>
 <td colspan="4"></td>
@@ -159,7 +165,7 @@ source: https://zan.gov.kz/client/#!/doc/128496/rus/15.08.2019
 <td colspan="3"></td>
 <td colspan="5"></td>
 <td>Поступления трансфертов</td>
-<td>291 672</td>
+<td>289 074</td>
 </tr>
 <tr>
 <td colspan="4"></td>
@@ -167,7 +173,7 @@ source: https://zan.gov.kz/client/#!/doc/128496/rus/15.08.2019
 <td colspan="3">02</td>
 <td colspan="5"></td>
 <td>Трансферты из вышестоящих органов государственного управления</td>
-<td>291 672</td>
+<td>289 074</td>
 </tr>
 <tr>
 <td colspan="4"></td>
@@ -175,7 +181,7 @@ source: https://zan.gov.kz/client/#!/doc/128496/rus/15.08.2019
 <td colspan="3"></td>
 <td colspan="5">3</td>
 <td>Трансферты из районного (города областного значения) бюджета</td>
-<td>291 672</td>
+<td>289 074</td>
 </tr>
 <tr>
 <td colspan="15">Функциональная группа</td>
@@ -209,7 +215,7 @@ source: https://zan.gov.kz/client/#!/doc/128496/rus/15.08.2019
 <td colspan="4"></td>
 <td colspan="3"></td>
 <td>2. Затраты</td>
-<td>341 196</td>
+<td>338 598</td>
 </tr>
 <tr>
 <td colspan="4">01</td>
@@ -241,7 +247,7 @@ source: https://zan.gov.kz/client/#!/doc/128496/rus/15.08.2019
 <td colspan="4"></td>
 <td colspan="3">001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>47 803</td>
+<td>48 053</td>
 </tr>
 <tr>
 <td colspan="4"></td>
@@ -249,7 +255,7 @@ source: https://zan.gov.kz/client/#!/doc/128496/rus/15.08.2019
 <td colspan="4"></td>
 <td colspan="3">022</td>
 <td>Капитальные расходы государственного органа</td>
-<td>1 842</td>
+<td>1 592</td>
 </tr>
 <tr>
 <td colspan="4">04</td>
@@ -257,7 +263,7 @@ source: https://zan.gov.kz/client/#!/doc/128496/rus/15.08.2019
 <td colspan="4"></td>
 <td colspan="3"></td>
 <td>Образование</td>
-<td>279 551</td>
+<td>273 393</td>
 </tr>
 <tr>
 <td colspan="4"></td>
@@ -265,7 +271,7 @@ source: https://zan.gov.kz/client/#!/doc/128496/rus/15.08.2019
 <td colspan="4"></td>
 <td colspan="3"></td>
 <td>Дошкольное воспитание и обучение</td>
-<td>279 551</td>
+<td>273 393</td>
 </tr>
 <tr>
 <td colspan="4"></td>
@@ -273,7 +279,7 @@ source: https://zan.gov.kz/client/#!/doc/128496/rus/15.08.2019
 <td colspan="4">124</td>
 <td colspan="3"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>279 551</td>
+<td>273 393</td>
 </tr>
 <tr>
 <td colspan="4"></td>
@@ -281,7 +287,7 @@ source: https://zan.gov.kz/client/#!/doc/128496/rus/15.08.2019
 <td colspan="4"></td>
 <td colspan="3">004</td>
 <td>Дошкольное воспитание и обучение и организация медицинского обслуживания в организациях дошкольного воспитания и обучения</td>
-<td>279 551</td>
+<td>273 393</td>
 </tr>
 <tr>
 <td colspan="4">07</td>
@@ -289,7 +295,7 @@ source: https://zan.gov.kz/client/#!/doc/128496/rus/15.08.2019
 <td colspan="4"></td>
 <td colspan="3"></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>11 800</td>
+<td>15 360</td>
 </tr>
 <tr>
 <td colspan="4"></td>
@@ -297,7 +303,7 @@ source: https://zan.gov.kz/client/#!/doc/128496/rus/15.08.2019
 <td colspan="4"></td>
 <td colspan="3"></td>
 <td>Благоустройство населенных пунктов</td>
-<td>11 800</td>
+<td>15 360</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -305,7 +311,7 @@ source: https://zan.gov.kz/client/#!/doc/128496/rus/15.08.2019
 <td colspan="4">124</td>
 <td colspan="3"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>11 800</td>
+<td>15 360</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -313,7 +319,7 @@ source: https://zan.gov.kz/client/#!/doc/128496/rus/15.08.2019
 <td colspan="4"></td>
 <td colspan="3">008</td>
 <td>Освещение улиц в населенных пунктах</td>
-<td>200</td>
+<td>3 760</td>
 </tr>
 <tr>
 <td colspan="3"></td>
