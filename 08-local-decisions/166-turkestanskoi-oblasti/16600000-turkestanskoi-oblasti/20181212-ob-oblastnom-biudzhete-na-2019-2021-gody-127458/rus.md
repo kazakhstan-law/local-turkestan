@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/127458/rus/01.11.2019
+source: https://zan.gov.kz/client/#!/doc/127458/rus/09.12.2019
 ---
 
 # Об областном бюджете на 2019-2021 годы

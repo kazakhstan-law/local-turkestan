@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/127458/kaz/01.11.2019
+source: https://zan.gov.kz/client/#!/doc/127458/kaz/09.12.2019
 ---
 
 # 2019-2021 жылдарға арналған облыстық бюджет туралы
