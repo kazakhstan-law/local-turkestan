@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/127761/kaz/19.11.2019
+source: https://zan.gov.kz/client/#!/doc/127761/kaz/13.12.2019
 ---
 
 > *Арыс қалалық*  
