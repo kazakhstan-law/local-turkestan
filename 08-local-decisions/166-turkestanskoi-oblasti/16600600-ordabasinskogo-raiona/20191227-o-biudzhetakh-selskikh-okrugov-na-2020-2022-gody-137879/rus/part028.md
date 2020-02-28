@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/137879/rus/27.12.2019
+source: https://zan.gov.kz/client/#!/doc/137879/rus/28.02.2020
 ---
 
 > *Приложение 28 к решению*  
@@ -9,6 +9,8 @@ source: https://zan.gov.kz/client/#!/doc/137879/rus/27.12.2019
 > *2019 года №55/1*
 
 ## Бюджет сельского округа Шубарсу на 2020 год
+
+> *Сноска. Приложение 28 - в редакции решения Ордабасинского районного маслихата Туркестанской области от 28.02.2020 № 57/1 (вводится в действие с 01.01.2020).*
 
 <table>
 <tr>
@@ -43,7 +45,7 @@ source: https://zan.gov.kz/client/#!/doc/137879/rus/27.12.2019
 <td></td>
 <td></td>
 <td>1. Доходы</td>
-<td>44 310</td>
+<td>50 107</td>
 </tr>
 <tr>
 <td>1</td>
@@ -51,7 +53,23 @@ source: https://zan.gov.kz/client/#!/doc/137879/rus/27.12.2019
 <td></td>
 <td></td>
 <td>Налоговые поступления</td>
-<td>9 544</td>
+<td>15 341</td>
+</tr>
+<tr>
+<td></td>
+<td>01</td>
+<td></td>
+<td></td>
+<td></td>
+<td>3 254</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>3 254</td>
 </tr>
 <tr>
 <td></td>
@@ -59,7 +77,7 @@ source: https://zan.gov.kz/client/#!/doc/137879/rus/27.12.2019
 <td></td>
 <td></td>
 <td>Hалоги на собственность</td>
-<td>9 258</td>
+<td>11 801</td>
 </tr>
 <tr>
 <td></td>
@@ -83,7 +101,7 @@ source: https://zan.gov.kz/client/#!/doc/137879/rus/27.12.2019
 <td>4</td>
 <td></td>
 <td>Hалог на транспортные средства</td>
-<td>1 106</td>
+<td>3 649</td>
 </tr>
 <tr>
 <td></td>
@@ -196,7 +214,7 @@ source: https://zan.gov.kz/client/#!/doc/137879/rus/27.12.2019
 <td></td>
 <td></td>
 <td>2. Затраты</td>
-<td>44 310</td>
+<td>58 459</td>
 </tr>
 <tr>
 <td>01</td>
@@ -204,7 +222,7 @@ source: https://zan.gov.kz/client/#!/doc/137879/rus/27.12.2019
 <td></td>
 <td></td>
 <td>Государственные услуги общего характера</td>
-<td>36 342</td>
+<td>37 142</td>
 </tr>
 <tr>
 <td></td>
@@ -212,7 +230,7 @@ source: https://zan.gov.kz/client/#!/doc/137879/rus/27.12.2019
 <td></td>
 <td></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>36 342</td>
+<td>37 142</td>
 </tr>
 <tr>
 <td></td>
@@ -220,7 +238,7 @@ source: https://zan.gov.kz/client/#!/doc/137879/rus/27.12.2019
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>36 342</td>
+<td>37 142</td>
 </tr>
 <tr>
 <td></td>
@@ -228,7 +246,7 @@ source: https://zan.gov.kz/client/#!/doc/137879/rus/27.12.2019
 <td></td>
 <td>001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>36 057</td>
+<td>36 857</td>
 </tr>
 <tr>
 <td></td>
@@ -535,7 +553,7 @@ source: https://zan.gov.kz/client/#!/doc/137879/rus/27.12.2019
 </tr>
 <tr>
 <td colspan="5">Категория</td>
-<td rowspan="5">Сумма, тысяч тенге</td>
+<td rowspan="5">Сумма, тысячтенге</td>
 </tr>
 <tr>
 <td></td>
@@ -572,7 +590,7 @@ source: https://zan.gov.kz/client/#!/doc/137879/rus/27.12.2019
 <td></td>
 <td></td>
 <td>5. Дефицит (профицит) бюджета</td>
-<td>0</td>
+<td>-8 352</td>
 </tr>
 <tr>
 <td></td>
@@ -580,7 +598,7 @@ source: https://zan.gov.kz/client/#!/doc/137879/rus/27.12.2019
 <td></td>
 <td></td>
 <td>6. Финансирование дефицита (использование профицита) бюджета</td>
-<td>0</td>
+<td>8 352</td>
 </tr>
 <tr>
 <td colspan="5">Категория</td>
@@ -685,7 +703,7 @@ source: https://zan.gov.kz/client/#!/doc/137879/rus/27.12.2019
 <td></td>
 <td></td>
 <td>Используемые остатки бюджетных средств</td>
-<td>0</td>
+<td>8 352</td>
 </tr>
 <tr>
 <td>8</td>
@@ -693,7 +711,23 @@ source: https://zan.gov.kz/client/#!/doc/137879/rus/27.12.2019
 <td></td>
 <td></td>
 <td>Используемые остатки бюджетных средств</td>
-<td>0</td>
+<td>8 352</td>
+</tr>
+<tr>
+<td></td>
+<td>01</td>
+<td></td>
+<td></td>
+<td>Используемые остатки бюджетных средств</td>
+<td>8 352</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>1</td>
+<td></td>
+<td>Остатки бюджетных средств</td>
+<td>8 352</td>
 </tr>
 </table>
 

@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/137879/kaz/27.12.2019
+source: https://zan.gov.kz/client/#!/doc/137879/kaz/28.02.2020
 ---
 
 > *Ордабасы аудандық*  
@@ -9,6 +9,8 @@ source: https://zan.gov.kz/client/#!/doc/137879/kaz/27.12.2019
 > *шешіміне 28-қосымша*
 
 ## 2020 жылға арналған Шұбарсу ауыл округінің бюджеті
+
+> *Ескерту. 28-қосымша жаңа редакцияда - Түркістан облысы Ордабасы аудандық мәслихатының 28.02.2020 № 57/1 (01.01.2020 бастап қолданысқа енгізіледі) шешімімен.*
 
 <table>
 <tr>
@@ -43,7 +45,7 @@ source: https://zan.gov.kz/client/#!/doc/137879/kaz/27.12.2019
 <td></td>
 <td></td>
 <td>1. Кірістер</td>
-<td>44 310</td>
+<td>50 107</td>
 </tr>
 <tr>
 <td>1</td>
@@ -51,7 +53,23 @@ source: https://zan.gov.kz/client/#!/doc/137879/kaz/27.12.2019
 <td></td>
 <td></td>
 <td>Салықтық түсімдер</td>
-<td>9 544</td>
+<td>15 341</td>
+</tr>
+<tr>
+<td></td>
+<td>01</td>
+<td></td>
+<td></td>
+<td>Табыс салығы</td>
+<td>3 254</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>2</td>
+<td></td>
+<td>Жеке табыс салығы</td>
+<td>3 254</td>
 </tr>
 <tr>
 <td></td>
@@ -59,7 +77,7 @@ source: https://zan.gov.kz/client/#!/doc/137879/kaz/27.12.2019
 <td></td>
 <td></td>
 <td>Меншікке салынатын салықтар</td>
-<td>9 258</td>
+<td>11 801</td>
 </tr>
 <tr>
 <td></td>
@@ -83,7 +101,7 @@ source: https://zan.gov.kz/client/#!/doc/137879/kaz/27.12.2019
 <td>4</td>
 <td></td>
 <td>Көлік құралдарына салынатын салық</td>
-<td>1 106</td>
+<td>3 649</td>
 </tr>
 <tr>
 <td></td>
@@ -196,7 +214,7 @@ source: https://zan.gov.kz/client/#!/doc/137879/kaz/27.12.2019
 <td></td>
 <td></td>
 <td>2. Шығындар</td>
-<td>44 310</td>
+<td>58 459</td>
 </tr>
 <tr>
 <td>01</td>
@@ -204,7 +222,7 @@ source: https://zan.gov.kz/client/#!/doc/137879/kaz/27.12.2019
 <td></td>
 <td></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>36 342</td>
+<td>37 142</td>
 </tr>
 <tr>
 <td></td>
@@ -212,7 +230,7 @@ source: https://zan.gov.kz/client/#!/doc/137879/kaz/27.12.2019
 <td></td>
 <td></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>36 342</td>
+<td>37 142</td>
 </tr>
 <tr>
 <td></td>
@@ -220,7 +238,7 @@ source: https://zan.gov.kz/client/#!/doc/137879/kaz/27.12.2019
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>36 342</td>
+<td>37 142</td>
 </tr>
 <tr>
 <td></td>
@@ -228,7 +246,7 @@ source: https://zan.gov.kz/client/#!/doc/137879/kaz/27.12.2019
 <td></td>
 <td>001</td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>36 057</td>
+<td>36 857</td>
 </tr>
 <tr>
 <td></td>
@@ -572,7 +590,7 @@ source: https://zan.gov.kz/client/#!/doc/137879/kaz/27.12.2019
 <td></td>
 <td></td>
 <td>5. Бюджет тапшылығы (профицит)</td>
-<td>0</td>
+<td>- 8 352</td>
 </tr>
 <tr>
 <td></td>
@@ -580,7 +598,7 @@ source: https://zan.gov.kz/client/#!/doc/137879/kaz/27.12.2019
 <td></td>
 <td></td>
 <td>6. Бюджет тапшылығын қаржыландыру (Профицитін пайдалану)</td>
-<td>0</td>
+<td>8 352</td>
 </tr>
 <tr>
 <td colspan="5">Санаты</td>
@@ -685,7 +703,7 @@ source: https://zan.gov.kz/client/#!/doc/137879/kaz/27.12.2019
 <td></td>
 <td></td>
 <td>Бюджет қаражатының пайдаланылатын қалдықтары</td>
-<td>0</td>
+<td>8 352</td>
 </tr>
 <tr>
 <td>8</td>
@@ -693,23 +711,23 @@ source: https://zan.gov.kz/client/#!/doc/137879/kaz/27.12.2019
 <td></td>
 <td></td>
 <td>Бюджет қаражатыны қалдықтарының қозғалысы</td>
-<td>0</td>
+<td>8 352</td>
 </tr>
 <tr>
 <td></td>
-<td>1</td>
+<td>01</td>
 <td></td>
 <td></td>
 <td>Бюджет қаражаты қалдықтары</td>
-<td>0</td>
+<td>8 352</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>001</td>
+<td>1</td>
 <td></td>
 <td>Бюджет қаражатының бос қалдықтары</td>
-<td>0</td>
+<td>8 352</td>
 </tr>
 </table>
 
