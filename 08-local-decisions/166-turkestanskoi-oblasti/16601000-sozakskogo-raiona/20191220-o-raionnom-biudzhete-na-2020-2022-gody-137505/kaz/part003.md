@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/137505/kaz/19.02.2020
+source: https://zan.gov.kz/client/#!/doc/137505/kaz/06.03.2020
 ---
 
 > *Созақ аудандық мәслихатының*  
