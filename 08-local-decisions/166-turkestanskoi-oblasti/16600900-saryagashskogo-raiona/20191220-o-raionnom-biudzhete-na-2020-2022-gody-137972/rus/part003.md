@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/137972/rus/20.12.2019
+source: https://zan.gov.kz/client/#!/doc/137972/rus/06.03.2020
 ---
 
 > *Приложение 3 к решению*  
@@ -9,6 +9,8 @@ source: https://zan.gov.kz/client/#!/doc/137972/rus/20.12.2019
 > *2019 года №46-417-VI*
 
 ## Районный бюджет на 2022 год
+
+> *Сноска. Приложение 3 в редакции решения Сарыагашского районного маслихата Туркестанской области от 06.03.2020 № 48-437-VI (вводится в действие с 01.01.2020).*
 
 <table>
 <tr>
@@ -35,7 +37,7 @@ source: https://zan.gov.kz/client/#!/doc/137972/rus/20.12.2019
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">1. Доходы</td>
-<td colspan="2">32 367 381</td>
+<td colspan="2">32 784 029</td>
 </tr>
 <tr>
 <td colspan="2">1</td>
@@ -210,25 +212,22 @@ source: https://zan.gov.kz/client/#!/doc/137972/rus/20.12.2019
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Поступления трансфертов</td>
-<td colspan="2">28 148 243</td>
+<td colspan="2">28 564 891</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">02</td>
 <td colspan="2"></td>
 <td colspan="2">Трансферты из вышестоящих органов государственного управления</td>
-<td colspan="2">28 148 243</td>
+<td colspan="2">28 564 891</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">2</td>
 <td colspan="2">Трансферты из областного бюджета</td>
-<td colspan="2">28 148 243</td>
+<td colspan="2">28 564 891</td>
 </tr>
-</table>
-
-<table>
 <tr>
 <td colspan="8">Функциональная группа</td>
 <td rowspan="5">сумма, тысяч тенге</td>
@@ -261,7 +260,7 @@ source: https://zan.gov.kz/client/#!/doc/137972/rus/20.12.2019
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>2. Затраты</td>
-<td>32 367 381</td>
+<td>32 784 029</td>
 </tr>
 <tr>
 <td>01</td>
@@ -636,7 +635,7 @@ source: https://zan.gov.kz/client/#!/doc/137972/rus/20.12.2019
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">015</td>
-<td>Ежемесячная выплата денежных средств опекунам (попечителям) на содержание ребенка-сироты (детей-сирот), и ребенка (детей), оставшегося без попечения родителей</td>
+<td>Ежемесячные выплаты денежных средств опекунам (попечителям) на содержание ребенка-сироты (детей-сирот), и ребенка (детей), оставшегося без попечения родителей</td>
 <td>37 630</td>
 </tr>
 <tr>
@@ -1093,7 +1092,7 @@ source: https://zan.gov.kz/client/#!/doc/137972/rus/20.12.2019
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Топливно-энергетический комплекс и недропользование</td>
-<td>1 211 563</td>
+<td>1 628 211</td>
 </tr>
 <tr>
 <td></td>
@@ -1101,7 +1100,7 @@ source: https://zan.gov.kz/client/#!/doc/137972/rus/20.12.2019
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Прочие услуги в области топливно-энергетического комплекса и недропользования</td>
-<td>1 211 563</td>
+<td>1 628 211</td>
 </tr>
 <tr>
 <td></td>
@@ -1109,7 +1108,7 @@ source: https://zan.gov.kz/client/#!/doc/137972/rus/20.12.2019
 <td colspan="2">497</td>
 <td colspan="2"></td>
 <td>Отдел жилищно-коммунального хозяйства района (города областного значения)</td>
-<td>1 211 563</td>
+<td>1 628 211</td>
 </tr>
 <tr>
 <td></td>
@@ -1117,7 +1116,7 @@ source: https://zan.gov.kz/client/#!/doc/137972/rus/20.12.2019
 <td colspan="2"></td>
 <td colspan="2">038</td>
 <td>Развитие газотранспортной системы</td>
-<td>1 211 563</td>
+<td>1 628 211</td>
 </tr>
 <tr>
 <td>10</td>
