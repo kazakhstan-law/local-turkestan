@@ -1,5 +1,5 @@
 ---
-version_id: '137972_450844'
+version_id: '137972_457251'
 act_code: '137972'
 language: rus
 title: «О районном бюджете на 2020-2022 годы»
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '166009000002'
 approval_date: 2019-12-20
-version_date: 2020-03-06
+version_date: 2020-04-16
 registry_number: '137972'
 caused_by:
-  code: '140669'
+  code: '142091'
   title: О внесении изменений в решение Сарыагашского районного маслихата от 20 декабря 2019 года № 46-417-VI «О районном бюджете на 2020-2022 годы»
-  link: https://zan.gov.kz/client/#!/doc/140669/rus
-source: https://zan.gov.kz/client/#!/doc/137972/rus/06.03.2020
+  link: https://zan.gov.kz/client/#!/doc/142091/rus
+source: https://zan.gov.kz/client/#!/doc/137972/rus/16.04.2020
 ---
 
 # «О районном бюджете на 2020-2022 годы»
@@ -61,7 +61,7 @@ source: https://zan.gov.kz/client/#!/doc/137972/rus/06.03.2020
 
       используемые остатки бюджетных средств – 125 317 тысяч тенге.
 
-      > *Сноска. Пункт 1 в редакции решения Сарыагашского районного маслихата Туркестанской области от 06.03.2020 № 48-437-VI (вводится в действие с 01.01.2020).*
+      > *Сноска. Пункт 1 в редакции решения Сарыагашского районного маслихата Туркестанской области от 06.03.2020 № 48-437-VI (вводится в действие с 01.01.2020); в редакции решения Сарыагашского районного маслихата Туркестанской области от 16.04.2020 № 50-443-VI (вводится в действие с 01.01.2020).*
 
 2. Установить на 2020 год норматив распределения общей суммы поступлений индивидуального подоходного налога с доходов, облагаемых у источника выплаты 50 процентов, индивидуального подоходного налога с доходов иностранных граждан, не облагаемых у источника выплаты 50 процентов, социального налога 50 процентов и корпоративный подоходный налог с юридических лиц, за исключением поступления от организации нефтяного сектора 50 процентов в областной бюджет.
 
@@ -189,7 +189,7 @@ source: https://zan.gov.kz/client/#!/doc/137972/rus/06.03.2020
 
 ## Районный бюджет на 2020 год
 
-> *Сноска. Приложение 1 в редакции решения Сарыагашского районного маслихата Туркестанской области от 06.03.2020 № 48-437-VI (вводится в действие с 01.01.2020).*
+> *Сноска. Приложение 1 в редакции решения Сарыагашского районного маслихата Туркестанской области от 06.03.2020 № 48-437-VI (вводится в действие с 01.01.2020); в редакции решения Сарыагашского районного маслихата Туркестанской области от 16.04.2020 № 50-443-VI (вводится в действие с 01.01.2020).*
 
 <table>
 <tr>
@@ -447,7 +447,7 @@ source: https://zan.gov.kz/client/#!/doc/137972/rus/06.03.2020
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Государственные услуги общего характера</td>
-<td>265 112</td>
+<td>299 974</td>
 </tr>
 <tr>
 <td></td>
@@ -511,7 +511,7 @@ source: https://zan.gov.kz/client/#!/doc/137972/rus/06.03.2020
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Финансовая деятельность</td>
-<td>13 790</td>
+<td>20 222</td>
 </tr>
 <tr>
 <td></td>
@@ -519,7 +519,7 @@ source: https://zan.gov.kz/client/#!/doc/137972/rus/06.03.2020
 <td colspan="2">459</td>
 <td colspan="2"></td>
 <td>Отдел экономики и финансов района (города областного значения)</td>
-<td>13 790</td>
+<td>5 000</td>
 </tr>
 <tr>
 <td></td>
@@ -532,16 +532,32 @@ source: https://zan.gov.kz/client/#!/doc/137972/rus/06.03.2020
 <tr>
 <td></td>
 <td colspan="2"></td>
+<td colspan="2">489</td>
 <td colspan="2"></td>
-<td colspan="2">010</td>
-<td>Приватизация, управление коммунальным имуществом, постприватизационная деятельность и регулирование споров, связанных с этим</td>
-<td>2 290</td>
+<td>Отдел государственных активов и закупок района (города областного значения)</td>
+<td>15 222</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2">028</td>
+<td colspan="2">001</td>
+<td>Услуги по реализации государственной политики в области управления государственных активов и закупок на местном уровне</td>
+<td>7362</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">005</td>
+<td>Приватизация, управление коммунальным имуществом, постприватизационная деятельность и регулирование споров, связанных с этим</td>
+<td>1 360</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">007</td>
 <td>Приобретение имущества в коммунальную собственность</td>
 <td>6 500</td>
 </tr>
@@ -551,7 +567,7 @@ source: https://zan.gov.kz/client/#!/doc/137972/rus/06.03.2020
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Прочие государственные услуги общего характера</td>
-<td>86 692</td>
+<td>115 122</td>
 </tr>
 <tr>
 <td></td>
@@ -583,7 +599,7 @@ source: https://zan.gov.kz/client/#!/doc/137972/rus/06.03.2020
 <td colspan="2">459</td>
 <td colspan="2"></td>
 <td>Отдел экономики и финансов района (города областного значения)</td>
-<td>46 268</td>
+<td>74 698</td>
 </tr>
 <tr>
 <td></td>
@@ -591,7 +607,7 @@ source: https://zan.gov.kz/client/#!/doc/137972/rus/06.03.2020
 <td colspan="2"></td>
 <td colspan="2">001</td>
 <td>Услуги по реализации государственной политики в области формирования и развития экономической политики, государственного планирования, исполнения бюджета и управления коммунальной собственностью района (города областного значения)</td>
-<td>35 454</td>
+<td>36 384</td>
 </tr>
 <tr>
 <td></td>
@@ -599,7 +615,7 @@ source: https://zan.gov.kz/client/#!/doc/137972/rus/06.03.2020
 <td colspan="2"></td>
 <td colspan="2">113</td>
 <td>Целевые текущие трансферты нижестоящим бюджетам</td>
-<td>10 814</td>
+<td>38 314</td>
 </tr>
 <tr>
 <td></td>
@@ -623,7 +639,7 @@ source: https://zan.gov.kz/client/#!/doc/137972/rus/06.03.2020
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Оборона</td>
-<td>64 954</td>
+<td>75 954</td>
 </tr>
 <tr>
 <td></td>
@@ -655,7 +671,7 @@ source: https://zan.gov.kz/client/#!/doc/137972/rus/06.03.2020
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Организация работы по чрезвычайным ситуациям</td>
-<td>48 054</td>
+<td>59 054</td>
 </tr>
 <tr>
 <td></td>
@@ -663,7 +679,7 @@ source: https://zan.gov.kz/client/#!/doc/137972/rus/06.03.2020
 <td colspan="2">122</td>
 <td colspan="2"></td>
 <td>Аппарат акима района (города областного значения)</td>
-<td>48 054</td>
+<td>59 054</td>
 </tr>
 <tr>
 <td></td>
@@ -671,7 +687,7 @@ source: https://zan.gov.kz/client/#!/doc/137972/rus/06.03.2020
 <td colspan="2"></td>
 <td colspan="2">006</td>
 <td>Предупреждение и ликвидация чрезвычайных ситуаций масштаба района (города областного значения)</td>
-<td>33 071</td>
+<td>44 071</td>
 </tr>
 <tr>
 <td></td>
@@ -727,7 +743,7 @@ source: https://zan.gov.kz/client/#!/doc/137972/rus/06.03.2020
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Начальное, основное среднее и общее среднее образование</td>
-<td>20 821 351</td>
+<td>20 756 351</td>
 </tr>
 <tr>
 <td></td>
@@ -735,7 +751,7 @@ source: https://zan.gov.kz/client/#!/doc/137972/rus/06.03.2020
 <td colspan="2">464</td>
 <td colspan="2"></td>
 <td>Отдел образования района (города областного значения)</td>
-<td>19 108 426</td>
+<td>19 043 426</td>
 </tr>
 <tr>
 <td></td>
@@ -743,7 +759,7 @@ source: https://zan.gov.kz/client/#!/doc/137972/rus/06.03.2020
 <td colspan="2"></td>
 <td colspan="2">003</td>
 <td>Общеобразовательное обучение</td>
-<td>18 968 709</td>
+<td>18 903 709</td>
 </tr>
 <tr>
 <td></td>
@@ -775,7 +791,7 @@ source: https://zan.gov.kz/client/#!/doc/137972/rus/06.03.2020
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Прочие услуги в области образования</td>
-<td>530 386</td>
+<td>595 386</td>
 </tr>
 <tr>
 <td></td>
@@ -783,7 +799,7 @@ source: https://zan.gov.kz/client/#!/doc/137972/rus/06.03.2020
 <td colspan="2">464</td>
 <td colspan="2"></td>
 <td>Отдел образования района (города областного значения)</td>
-<td>530 386</td>
+<td>595 386</td>
 </tr>
 <tr>
 <td></td>
@@ -823,7 +839,7 @@ source: https://zan.gov.kz/client/#!/doc/137972/rus/06.03.2020
 <td colspan="2"></td>
 <td colspan="2">067</td>
 <td>Капитальные расходы подведомственных государственных учреждений и организаций</td>
-<td>298 351</td>
+<td>363 351</td>
 </tr>
 <tr>
 <td></td>
@@ -839,7 +855,7 @@ source: https://zan.gov.kz/client/#!/doc/137972/rus/06.03.2020
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Социальная помощь и социальное обеспечение</td>
-<td>4 213 379</td>
+<td>4 117 532</td>
 </tr>
 <tr>
 <td></td>
@@ -847,7 +863,7 @@ source: https://zan.gov.kz/client/#!/doc/137972/rus/06.03.2020
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Социальное обеспечение</td>
-<td>2 927 666</td>
+<td>2 831 819</td>
 </tr>
 <tr>
 <td></td>
@@ -855,7 +871,7 @@ source: https://zan.gov.kz/client/#!/doc/137972/rus/06.03.2020
 <td colspan="2">451</td>
 <td colspan="2"></td>
 <td>Отдел занятости и социальных программ района (города областного значения)</td>
-<td>2 911 463</td>
+<td>2 815 616</td>
 </tr>
 <tr>
 <td></td>
@@ -863,7 +879,7 @@ source: https://zan.gov.kz/client/#!/doc/137972/rus/06.03.2020
 <td colspan="2"></td>
 <td colspan="2">005</td>
 <td>Государственная адресная социальная помощь</td>
-<td>2 911 463</td>
+<td>2 815 616</td>
 </tr>
 <tr>
 <td></td>
@@ -1007,7 +1023,7 @@ source: https://zan.gov.kz/client/#!/doc/137972/rus/06.03.2020
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>1 742 725</td>
+<td>1 711 225</td>
 </tr>
 <tr>
 <td></td>
@@ -1015,7 +1031,7 @@ source: https://zan.gov.kz/client/#!/doc/137972/rus/06.03.2020
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Жилищное хозяйство</td>
-<td>312 613</td>
+<td>281 113</td>
 </tr>
 <tr>
 <td></td>
@@ -1055,7 +1071,7 @@ source: https://zan.gov.kz/client/#!/doc/137972/rus/06.03.2020
 <td colspan="2">497</td>
 <td colspan="2"></td>
 <td>Отдел жилищно-коммунального хозяйства района (города областного значения)</td>
-<td>158 401</td>
+<td>126 901</td>
 </tr>
 <tr>
 <td></td>
@@ -1064,14 +1080,6 @@ source: https://zan.gov.kz/client/#!/doc/137972/rus/06.03.2020
 <td colspan="2">001</td>
 <td>Услуги по реализации государственной политики на местном уровне в области жилищно-коммунального хозяйства</td>
 <td>25 987</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">003</td>
-<td>Капитальные расходы государственного органа</td>
-<td>24 000</td>
 </tr>
 <tr>
 <td></td>
@@ -1087,7 +1095,7 @@ source: https://zan.gov.kz/client/#!/doc/137972/rus/06.03.2020
 <td colspan="2"></td>
 <td colspan="2">113</td>
 <td>Целевые текущие трансферты нижестоящим бюджетам</td>
-<td>56 899</td>
+<td>49 399</td>
 </tr>
 <tr>
 <td></td>
@@ -1391,7 +1399,7 @@ source: https://zan.gov.kz/client/#!/doc/137972/rus/06.03.2020
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Сельское, водное, лесное, рыбное хозяйство, особо охраняемые природные территории, охрана окружающей среды и животного мира, земельные отношения</td>
-<td>103 080</td>
+<td>100 065</td>
 </tr>
 <tr>
 <td></td>
@@ -1399,7 +1407,7 @@ source: https://zan.gov.kz/client/#!/doc/137972/rus/06.03.2020
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Сельское хозяйство</td>
-<td>7 007</td>
+<td>3 992</td>
 </tr>
 <tr>
 <td></td>
@@ -1407,7 +1415,7 @@ source: https://zan.gov.kz/client/#!/doc/137972/rus/06.03.2020
 <td colspan="2">473</td>
 <td colspan="2"></td>
 <td>Отдел ветеринарии района (города областного значения)</td>
-<td>7 007</td>
+<td>3 992</td>
 </tr>
 <tr>
 <td></td>
@@ -1415,7 +1423,7 @@ source: https://zan.gov.kz/client/#!/doc/137972/rus/06.03.2020
 <td colspan="2"></td>
 <td colspan="2">001</td>
 <td>Услуги по реализации государственной политики на местном уровне в сфере ветеринарии</td>
-<td>7 007</td>
+<td>3 992</td>
 </tr>
 <tr>
 <td></td>
@@ -1623,7 +1631,7 @@ source: https://zan.gov.kz/client/#!/doc/137972/rus/06.03.2020
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Прочие</td>
-<td>783 926</td>
+<td>868 426</td>
 </tr>
 <tr>
 <td></td>
@@ -1631,7 +1639,7 @@ source: https://zan.gov.kz/client/#!/doc/137972/rus/06.03.2020
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Прочие</td>
-<td>783 926</td>
+<td>868 426</td>
 </tr>
 <tr>
 <td></td>
@@ -1703,7 +1711,7 @@ source: https://zan.gov.kz/client/#!/doc/137972/rus/06.03.2020
 <td colspan="2">497</td>
 <td colspan="2"></td>
 <td>Отдел жилищно-коммунального хозяйства района (города областного значения)</td>
-<td>168 015</td>
+<td>252 515</td>
 </tr>
 <tr>
 <td></td>
@@ -1711,7 +1719,7 @@ source: https://zan.gov.kz/client/#!/doc/137972/rus/06.03.2020
 <td colspan="2"></td>
 <td colspan="2">096</td>
 <td>Выполнение государственных обязательств по проектам государственно-частного партнерства</td>
-<td>168 015</td>
+<td>252 515</td>
 </tr>
 <tr>
 <td>14</td>
@@ -3709,12 +3717,12 @@ source: https://zan.gov.kz/client/#!/doc/137972/rus/06.03.2020
 
 ## Районный бюджет на 2022 год
 
-> *Сноска. Приложение 3 в редакции решения Сарыагашского районного маслихата Туркестанской области от 06.03.2020 № 48-437-VI (вводится в действие с 01.01.2020).*
+> *Сноска. Приложение 3 в редакции решения Сарыагашского районного маслихата Туркестанской области от 06.03.2020 № 48-437-VI (вводится в действие с 01.01.2020); в редакции решения Сарыагашского районного маслихата Туркестанской области от 16.04.2020 № 50-443-VI (вводится в действие с 01.01.2020).*
 
 <table>
 <tr>
 <td colspan="8">Категория</td>
-<td colspan="2" rowspan="4">сумма, тысяч тенге</td>
+<td rowspan="4">сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3736,196 +3744,196 @@ source: https://zan.gov.kz/client/#!/doc/137972/rus/06.03.2020
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">1. Доходы</td>
-<td colspan="2">32 784 029</td>
+<td>32 784 029</td>
 </tr>
 <tr>
 <td colspan="2">1</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Налоговые поступления</td>
-<td colspan="2">4 080 634</td>
+<td>4 080 634</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">01</td>
 <td colspan="2"></td>
 <td colspan="2">Подоходный налог</td>
-<td colspan="2">872 101</td>
+<td>872 101</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">1</td>
 <td colspan="2">Корпоративный подоходный налог с юридических лиц, за исключением поступления от организации нефтяного сектора</td>
-<td colspan="2">237 444</td>
+<td>237 444</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">2</td>
 <td colspan="2">Индивидуальный подоходный налог</td>
-<td colspan="2">634 657</td>
+<td>634 657</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">03</td>
 <td colspan="2"></td>
 <td colspan="2">Социальный налог</td>
-<td colspan="2">585 382</td>
+<td>585 382</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">1</td>
 <td colspan="2">Социальный налог</td>
-<td colspan="2">585 382</td>
+<td>585 382</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">04</td>
 <td colspan="2"></td>
 <td colspan="2">Hалоги на собственность</td>
-<td colspan="2">2 149 538</td>
+<td>2 149 538</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">1</td>
 <td colspan="2">Hалоги на имущество</td>
-<td colspan="2">2 149 538</td>
+<td>2 149 538</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">05</td>
 <td colspan="2"></td>
 <td colspan="2">Внутренние налоги на товары, работы и услуги</td>
-<td colspan="2">384 943</td>
+<td>384 943</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">2</td>
 <td colspan="2">Акцизы</td>
-<td colspan="2">279 243</td>
+<td>279 243</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">3</td>
 <td colspan="2">Поступления за использование природных и других ресурсов</td>
-<td colspan="2">23 244</td>
+<td>23 244</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">4</td>
 <td colspan="2">Сборы за ведение предпринимательской и профессиональной деятельности</td>
-<td colspan="2">76 812</td>
+<td>76 812</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">5</td>
 <td colspan="2">Налог на игорный бизнес</td>
-<td colspan="2">5 644</td>
+<td>5 644</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">08</td>
 <td colspan="2"></td>
 <td colspan="2">Обязательные платежи, взимаемые за совершение юридически значимых действий и (или) выдачу документов уполномоченными на то государственными органами или должностными лицами</td>
-<td colspan="2">88 670</td>
+<td>88 670</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">1</td>
 <td colspan="2">Государственная пошлина</td>
-<td colspan="2">88 670</td>
+<td>88 670</td>
 </tr>
 <tr>
 <td colspan="2">2</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Неналоговые поступления</td>
-<td colspan="2">59 081</td>
+<td>59 081</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">01</td>
 <td colspan="2"></td>
 <td colspan="2">Доходы от государственной собственности</td>
-<td colspan="2">18 049</td>
+<td>18 049</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">1</td>
 <td colspan="2">Поступления части чистого дохода государственных предприятий</td>
-<td colspan="2">1 091</td>
+<td>1 091</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">5</td>
 <td colspan="2">Доходы от аренды имущества, находящегося в государственной собственности</td>
-<td colspan="2">16 958</td>
+<td>16 958</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">06</td>
 <td colspan="2"></td>
 <td colspan="2">Прочие неналоговые поступления</td>
-<td colspan="2">41 032</td>
+<td>41 032</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">1</td>
 <td colspan="2">Прочие неналоговые поступления</td>
-<td colspan="2">41 032</td>
+<td>41 032</td>
 </tr>
 <tr>
 <td colspan="2">3</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Поступления от продажи основного капитала</td>
-<td colspan="2">79 423</td>
+<td>79 423</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">03</td>
 <td colspan="2"></td>
 <td colspan="2">Продажа земли и нематериальных активов</td>
-<td colspan="2">79 423</td>
+<td>79 423</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">1</td>
 <td colspan="2">Продажа земли</td>
-<td colspan="2">79 423</td>
+<td>79 423</td>
 </tr>
 <tr>
 <td colspan="2">4</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Поступления трансфертов</td>
-<td colspan="2">28 564 891</td>
+<td>28 564 891</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">02</td>
 <td colspan="2"></td>
 <td colspan="2">Трансферты из вышестоящих органов государственного управления</td>
-<td colspan="2">28 564 891</td>
+<td>28 564 891</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">2</td>
 <td colspan="2">Трансферты из областного бюджета</td>
-<td colspan="2">28 564 891</td>
+<td>28 564 891</td>
 </tr>
 <tr>
 <td colspan="8">Функциональная группа</td>
