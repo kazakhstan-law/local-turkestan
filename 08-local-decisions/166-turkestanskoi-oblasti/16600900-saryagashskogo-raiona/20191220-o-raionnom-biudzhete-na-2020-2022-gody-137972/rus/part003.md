@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/137972/rus/06.03.2020
+source: https://zan.gov.kz/client/#!/doc/137972/rus/16.04.2020
 ---
 
 > *Приложение 3 к решению*  
@@ -10,12 +10,12 @@ source: https://zan.gov.kz/client/#!/doc/137972/rus/06.03.2020
 
 ## Районный бюджет на 2022 год
 
-> *Сноска. Приложение 3 в редакции решения Сарыагашского районного маслихата Туркестанской области от 06.03.2020 № 48-437-VI (вводится в действие с 01.01.2020).*
+> *Сноска. Приложение 3 в редакции решения Сарыагашского районного маслихата Туркестанской области от 06.03.2020 № 48-437-VI (вводится в действие с 01.01.2020); в редакции решения Сарыагашского районного маслихата Туркестанской области от 16.04.2020 № 50-443-VI (вводится в действие с 01.01.2020).*
 
 <table>
 <tr>
 <td colspan="8">Категория</td>
-<td colspan="2" rowspan="4">сумма, тысяч тенге</td>
+<td rowspan="4">сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -37,196 +37,196 @@ source: https://zan.gov.kz/client/#!/doc/137972/rus/06.03.2020
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">1. Доходы</td>
-<td colspan="2">32 784 029</td>
+<td>32 784 029</td>
 </tr>
 <tr>
 <td colspan="2">1</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Налоговые поступления</td>
-<td colspan="2">4 080 634</td>
+<td>4 080 634</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">01</td>
 <td colspan="2"></td>
 <td colspan="2">Подоходный налог</td>
-<td colspan="2">872 101</td>
+<td>872 101</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">1</td>
 <td colspan="2">Корпоративный подоходный налог с юридических лиц, за исключением поступления от организации нефтяного сектора</td>
-<td colspan="2">237 444</td>
+<td>237 444</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">2</td>
 <td colspan="2">Индивидуальный подоходный налог</td>
-<td colspan="2">634 657</td>
+<td>634 657</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">03</td>
 <td colspan="2"></td>
 <td colspan="2">Социальный налог</td>
-<td colspan="2">585 382</td>
+<td>585 382</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">1</td>
 <td colspan="2">Социальный налог</td>
-<td colspan="2">585 382</td>
+<td>585 382</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">04</td>
 <td colspan="2"></td>
 <td colspan="2">Hалоги на собственность</td>
-<td colspan="2">2 149 538</td>
+<td>2 149 538</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">1</td>
 <td colspan="2">Hалоги на имущество</td>
-<td colspan="2">2 149 538</td>
+<td>2 149 538</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">05</td>
 <td colspan="2"></td>
 <td colspan="2">Внутренние налоги на товары, работы и услуги</td>
-<td colspan="2">384 943</td>
+<td>384 943</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">2</td>
 <td colspan="2">Акцизы</td>
-<td colspan="2">279 243</td>
+<td>279 243</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">3</td>
 <td colspan="2">Поступления за использование природных и других ресурсов</td>
-<td colspan="2">23 244</td>
+<td>23 244</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">4</td>
 <td colspan="2">Сборы за ведение предпринимательской и профессиональной деятельности</td>
-<td colspan="2">76 812</td>
+<td>76 812</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">5</td>
 <td colspan="2">Налог на игорный бизнес</td>
-<td colspan="2">5 644</td>
+<td>5 644</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">08</td>
 <td colspan="2"></td>
 <td colspan="2">Обязательные платежи, взимаемые за совершение юридически значимых действий и (или) выдачу документов уполномоченными на то государственными органами или должностными лицами</td>
-<td colspan="2">88 670</td>
+<td>88 670</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">1</td>
 <td colspan="2">Государственная пошлина</td>
-<td colspan="2">88 670</td>
+<td>88 670</td>
 </tr>
 <tr>
 <td colspan="2">2</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Неналоговые поступления</td>
-<td colspan="2">59 081</td>
+<td>59 081</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">01</td>
 <td colspan="2"></td>
 <td colspan="2">Доходы от государственной собственности</td>
-<td colspan="2">18 049</td>
+<td>18 049</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">1</td>
 <td colspan="2">Поступления части чистого дохода государственных предприятий</td>
-<td colspan="2">1 091</td>
+<td>1 091</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">5</td>
 <td colspan="2">Доходы от аренды имущества, находящегося в государственной собственности</td>
-<td colspan="2">16 958</td>
+<td>16 958</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">06</td>
 <td colspan="2"></td>
 <td colspan="2">Прочие неналоговые поступления</td>
-<td colspan="2">41 032</td>
+<td>41 032</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">1</td>
 <td colspan="2">Прочие неналоговые поступления</td>
-<td colspan="2">41 032</td>
+<td>41 032</td>
 </tr>
 <tr>
 <td colspan="2">3</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Поступления от продажи основного капитала</td>
-<td colspan="2">79 423</td>
+<td>79 423</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">03</td>
 <td colspan="2"></td>
 <td colspan="2">Продажа земли и нематериальных активов</td>
-<td colspan="2">79 423</td>
+<td>79 423</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">1</td>
 <td colspan="2">Продажа земли</td>
-<td colspan="2">79 423</td>
+<td>79 423</td>
 </tr>
 <tr>
 <td colspan="2">4</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Поступления трансфертов</td>
-<td colspan="2">28 564 891</td>
+<td>28 564 891</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">02</td>
 <td colspan="2"></td>
 <td colspan="2">Трансферты из вышестоящих органов государственного управления</td>
-<td colspan="2">28 564 891</td>
+<td>28 564 891</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">2</td>
 <td colspan="2">Трансферты из областного бюджета</td>
-<td colspan="2">28 564 891</td>
+<td>28 564 891</td>
 </tr>
 <tr>
 <td colspan="8">Функциональная группа</td>
