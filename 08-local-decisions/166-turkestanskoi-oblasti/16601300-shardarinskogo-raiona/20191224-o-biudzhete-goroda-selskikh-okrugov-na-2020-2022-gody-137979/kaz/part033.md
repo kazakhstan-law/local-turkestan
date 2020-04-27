@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/137979/kaz/13.03.2020
+source: https://zan.gov.kz/client/#!/doc/137979/kaz/27.04.2020
 ---
 
 > *Шардара аудандық*  
