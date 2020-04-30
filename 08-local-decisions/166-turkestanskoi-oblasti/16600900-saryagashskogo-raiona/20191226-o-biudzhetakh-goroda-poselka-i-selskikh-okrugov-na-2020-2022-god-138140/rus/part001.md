@@ -1,14 +1,16 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/138140/rus/18.03.2020
+source: https://zan.gov.kz/client/#!/doc/138140/rus/30.04.2020
 ---
 
-> *Приложение к решению*  
+> *Приложение 1 к решению*  
 > *Сарыагашского районного*  
 > *маслихата от 26 декабря*  
 > *2019 года №47-432-VI*
 
 ## Бюджет города Сарыагаш на 2020 год
+
+> *Сноска. Приложение 1 в редакции решения Сарыагашского районного маслихата Туркестанской области от 30.04.2020 № 51-447-VI (вводится в действие с 01.01.2020).*
 
 <table>
 <tr>
@@ -35,7 +37,7 @@ source: https://zan.gov.kz/client/#!/doc/138140/rus/18.03.2020
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="4">1. Доходы</td>
-<td colspan="3">2 810 241</td>
+<td colspan="3">915 725</td>
 </tr>
 <tr>
 <td colspan="3">1</td>
@@ -105,25 +107,25 @@ source: https://zan.gov.kz/client/#!/doc/138140/rus/18.03.2020
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="4">Поступления трансфертов</td>
-<td colspan="3">2 707 724</td>
+<td colspan="3">813 208</td>
 </tr>
 <tr>
 <td colspan="3"></td>
 <td colspan="2">02</td>
 <td colspan="2"></td>
 <td colspan="4">Трансферты из вышестоящих органов государственного управления</td>
-<td colspan="3">2 707 724</td>
+<td colspan="3">813 208</td>
 </tr>
 <tr>
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2">3</td>
 <td colspan="4">Трансферты из районного (города областного значения) бюджета</td>
-<td colspan="3">2 707 724</td>
+<td colspan="3">813 208</td>
 </tr>
 <tr>
 <td colspan="11">Функциональная группа</td>
-<td colspan="3" rowspan="4">тысяч тенге</td>
+<td colspan="3" rowspan="5">тысяч тенге</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -146,7 +148,6 @@ source: https://zan.gov.kz/client/#!/doc/138140/rus/18.03.2020
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>Наименование</td>
-<td colspan="3"></td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -154,7 +155,7 @@ source: https://zan.gov.kz/client/#!/doc/138140/rus/18.03.2020
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>2. Затраты</td>
-<td colspan="3">2 810 241</td>
+<td colspan="3">944 216</td>
 </tr>
 <tr>
 <td colspan="3">01</td>
@@ -162,7 +163,7 @@ source: https://zan.gov.kz/client/#!/doc/138140/rus/18.03.2020
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>Государственные услуги общего характера</td>
-<td colspan="3">95 006</td>
+<td colspan="3">123 006</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -170,7 +171,7 @@ source: https://zan.gov.kz/client/#!/doc/138140/rus/18.03.2020
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td colspan="3">95 006</td>
+<td colspan="3">123 006</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -178,7 +179,7 @@ source: https://zan.gov.kz/client/#!/doc/138140/rus/18.03.2020
 <td colspan="3">124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="3">95 006</td>
+<td colspan="3">123 006</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -186,7 +187,7 @@ source: https://zan.gov.kz/client/#!/doc/138140/rus/18.03.2020
 <td colspan="3"></td>
 <td colspan="2">001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="3">95 006</td>
+<td colspan="3">123 006</td>
 </tr>
 <tr>
 <td colspan="3">04</td>
@@ -194,7 +195,7 @@ source: https://zan.gov.kz/client/#!/doc/138140/rus/18.03.2020
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>Образование</td>
-<td colspan="3">2 612 926</td>
+<td colspan="3">683 410</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -202,7 +203,7 @@ source: https://zan.gov.kz/client/#!/doc/138140/rus/18.03.2020
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>Дошкольное воспитание и обучение</td>
-<td colspan="3">2 598 526</td>
+<td colspan="3">669 010</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -210,7 +211,7 @@ source: https://zan.gov.kz/client/#!/doc/138140/rus/18.03.2020
 <td colspan="3">124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="3">2 598 526</td>
+<td colspan="3">669 010</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -218,7 +219,7 @@ source: https://zan.gov.kz/client/#!/doc/138140/rus/18.03.2020
 <td colspan="3"></td>
 <td colspan="2">004</td>
 <td>Дошкольное воспитание и обучение и организация медицинского обслуживания в организациях дошкольного воспитания и обучения</td>
-<td colspan="3">2 598 526</td>
+<td colspan="3">669 010</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -250,7 +251,7 @@ source: https://zan.gov.kz/client/#!/doc/138140/rus/18.03.2020
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td colspan="3">96 000</td>
+<td colspan="3">130 300</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -258,7 +259,7 @@ source: https://zan.gov.kz/client/#!/doc/138140/rus/18.03.2020
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>Благоустройство населенных пунктов</td>
-<td colspan="3">96 000</td>
+<td colspan="3">130 300</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -266,7 +267,7 @@ source: https://zan.gov.kz/client/#!/doc/138140/rus/18.03.2020
 <td colspan="3">124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="3">96 000</td>
+<td colspan="3">130 300</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -290,7 +291,7 @@ source: https://zan.gov.kz/client/#!/doc/138140/rus/18.03.2020
 <td colspan="3"></td>
 <td colspan="2">011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td colspan="3">60 000</td>
+<td colspan="3">94 300</td>
 </tr>
 <tr>
 <td colspan="3">08</td>
@@ -298,7 +299,7 @@ source: https://zan.gov.kz/client/#!/doc/138140/rus/18.03.2020
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>Транспорт и коммуникации</td>
-<td colspan="3">6 309</td>
+<td colspan="3">7 500</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -306,7 +307,7 @@ source: https://zan.gov.kz/client/#!/doc/138140/rus/18.03.2020
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>Автомобильный транспорт</td>
-<td colspan="3">6 309</td>
+<td colspan="3">7 500</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -314,7 +315,7 @@ source: https://zan.gov.kz/client/#!/doc/138140/rus/18.03.2020
 <td colspan="3">124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="3">6 309</td>
+<td colspan="3">7 500</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -322,7 +323,7 @@ source: https://zan.gov.kz/client/#!/doc/138140/rus/18.03.2020
 <td colspan="3"></td>
 <td colspan="2">045</td>
 <td>Капитальный и средний ремонт автомобильных дорог в городах районного значения, селах, поселках, сельских округах</td>
-<td colspan="3">6 309</td>
+<td colspan="3">7 500</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -378,7 +379,7 @@ source: https://zan.gov.kz/client/#!/doc/138140/rus/18.03.2020
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>5. Дефицит (профицит) бюджета</td>
-<td colspan="3">0</td>
+<td colspan="3">-28 491</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -386,7 +387,7 @@ source: https://zan.gov.kz/client/#!/doc/138140/rus/18.03.2020
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>6. Финансирование дефицита (использование профицита) бюджета</td>
-<td colspan="3">0</td>
+<td colspan="3">28 491</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -417,21 +418,21 @@ source: https://zan.gov.kz/client/#!/doc/138140/rus/18.03.2020
 <td colspan="2"></td>
 <td colspan="5"></td>
 <td>Используемые остатки бюджетных средств</td>
-<td colspan="3">0</td>
+<td colspan="3">28 491</td>
 </tr>
 <tr>
 <td colspan="3"></td>
 <td colspan="2">01</td>
 <td colspan="5"></td>
 <td>Остатки бюджетных средств</td>
-<td colspan="3">0</td>
+<td colspan="3">28 491</td>
 </tr>
 <tr>
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="5">1</td>
 <td>Свободные остатки бюджетных средств</td>
-<td colspan="3">0</td>
+<td colspan="3">28 491</td>
 </tr>
 </table>
 
@@ -1233,6 +1234,8 @@ source: https://zan.gov.kz/client/#!/doc/138140/rus/18.03.2020
 
 ## Бюджет поселка Коктерек на 2020 год
 
+> *Сноска. Приложение 4 в редакции решения Сарыагашского районного маслихата Туркестанской области от 30.04.2020 № 51-447-VI (вводится в действие с 01.01.2020).*
+
 <table>
 <tr>
 <td colspan="8">Категория</td>
@@ -1258,7 +1261,7 @@ source: https://zan.gov.kz/client/#!/doc/138140/rus/18.03.2020
 <td></td>
 <td colspan="4"></td>
 <td colspan="2">1. Доходы</td>
-<td>269 359</td>
+<td>126 319</td>
 </tr>
 <tr>
 <td>1</td>
@@ -1328,21 +1331,21 @@ source: https://zan.gov.kz/client/#!/doc/138140/rus/18.03.2020
 <td></td>
 <td colspan="4"></td>
 <td colspan="2">Поступления трансфертов</td>
-<td>264 838</td>
+<td>121 798</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td colspan="4"></td>
 <td colspan="2">Трансферты из вышестоящих органов государственного управления</td>
-<td>264 838</td>
+<td>121 798</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="4">3</td>
 <td colspan="2">Трансферты из районного (города областного значения) бюджета</td>
-<td>264 838</td>
+<td>121 798</td>
 </tr>
 <tr>
 <td colspan="8">Функциональная группа</td>
@@ -1376,7 +1379,7 @@ source: https://zan.gov.kz/client/#!/doc/138140/rus/18.03.2020
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">2. Затраты</td>
-<td>269 359</td>
+<td>128 632</td>
 </tr>
 <tr>
 <td>01</td>
@@ -1416,7 +1419,7 @@ source: https://zan.gov.kz/client/#!/doc/138140/rus/18.03.2020
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Образование</td>
-<td>227 178</td>
+<td>59 444</td>
 </tr>
 <tr>
 <td></td>
@@ -1424,7 +1427,7 @@ source: https://zan.gov.kz/client/#!/doc/138140/rus/18.03.2020
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Дошкольное воспитание и обучение</td>
-<td>227 178</td>
+<td>59 444</td>
 </tr>
 <tr>
 <td></td>
@@ -1432,7 +1435,7 @@ source: https://zan.gov.kz/client/#!/doc/138140/rus/18.03.2020
 <td colspan="2">124</td>
 <td colspan="2"></td>
 <td colspan="2">Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>227 178</td>
+<td>59 444</td>
 </tr>
 <tr>
 <td></td>
@@ -1440,7 +1443,7 @@ source: https://zan.gov.kz/client/#!/doc/138140/rus/18.03.2020
 <td colspan="2"></td>
 <td colspan="2">004</td>
 <td colspan="2">Дошкольное воспитание и обучение и организация медицинского обслуживания в организациях дошкольного воспитания и обучения</td>
-<td>227 178</td>
+<td>59 444</td>
 </tr>
 <tr>
 <td>07</td>
@@ -1448,7 +1451,7 @@ source: https://zan.gov.kz/client/#!/doc/138140/rus/18.03.2020
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Жилищно-коммунальное хозяйство</td>
-<td>8 810</td>
+<td>35 817</td>
 </tr>
 <tr>
 <td></td>
@@ -1456,7 +1459,7 @@ source: https://zan.gov.kz/client/#!/doc/138140/rus/18.03.2020
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Благоустройство населенных пунктов</td>
-<td>8 810</td>
+<td>35 817</td>
 </tr>
 <tr>
 <td></td>
@@ -1464,7 +1467,7 @@ source: https://zan.gov.kz/client/#!/doc/138140/rus/18.03.2020
 <td colspan="2">124</td>
 <td colspan="2"></td>
 <td colspan="2">Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>8 810</td>
+<td>35 817</td>
 </tr>
 <tr>
 <td></td>
@@ -1480,7 +1483,7 @@ source: https://zan.gov.kz/client/#!/doc/138140/rus/18.03.2020
 <td colspan="2"></td>
 <td colspan="2">011</td>
 <td colspan="2">Благоустройство и озеленение населенных пунктов</td>
-<td>5 810</td>
+<td>32 817</td>
 </tr>
 <tr>
 <td></td>
@@ -1536,7 +1539,7 @@ source: https://zan.gov.kz/client/#!/doc/138140/rus/18.03.2020
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">5. Дефицит (профицит) бюджета</td>
-<td>0</td>
+<td>- 2 313</td>
 </tr>
 <tr>
 <td></td>
@@ -1544,7 +1547,7 @@ source: https://zan.gov.kz/client/#!/doc/138140/rus/18.03.2020
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">6. Финансирование дефицита (использование профицита) бюджета</td>
-<td>0</td>
+<td>2 313</td>
 </tr>
 <tr>
 <td></td>
@@ -1575,21 +1578,21 @@ source: https://zan.gov.kz/client/#!/doc/138140/rus/18.03.2020
 <td></td>
 <td colspan="4"></td>
 <td colspan="2">Используемые остатки бюджетных средств</td>
-<td>0</td>
+<td>2 313</td>
 </tr>
 <tr>
 <td></td>
 <td>01</td>
 <td colspan="4"></td>
 <td colspan="2">Остатки бюджетных средств</td>
-<td>0</td>
+<td>2 313</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="4">1</td>
 <td colspan="2">Свободные остатки бюджетных средств</td>
-<td>0</td>
+<td>2 313</td>
 </tr>
 </table>
 
@@ -2334,6 +2337,8 @@ source: https://zan.gov.kz/client/#!/doc/138140/rus/18.03.2020
 
 ## Бюджет сельского округа Жемисти на 2020 год
 
+> *Сноска. Приложение 7 в редакции решения Сарыагашского районного маслихата Туркестанской области от 30.04.2020 № 51-447-VI (вводится в действие с 01.01.2020).*
+
 <table>
 <tr>
 <td colspan="5">Категория</td>
@@ -2359,7 +2364,7 @@ source: https://zan.gov.kz/client/#!/doc/138140/rus/18.03.2020
 <td></td>
 <td colspan="2"></td>
 <td>1. Доходы</td>
-<td>222 489</td>
+<td>91 949</td>
 </tr>
 <tr>
 <td>1</td>
@@ -2415,21 +2420,21 @@ source: https://zan.gov.kz/client/#!/doc/138140/rus/18.03.2020
 <td></td>
 <td colspan="2"></td>
 <td>Поступления трансфертов</td>
-<td>219 485</td>
+<td>88 945</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td colspan="2"></td>
 <td>Трансферты из вышестоящих органов государственного управления</td>
-<td>219 485</td>
+<td>88 945</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="2">3</td>
 <td>Трансферты из районного (города областного значения) бюджета</td>
-<td>219 485</td>
+<td>88 945</td>
 </tr>
 <tr>
 <td colspan="5">Функциональная группа</td>
@@ -2463,7 +2468,7 @@ source: https://zan.gov.kz/client/#!/doc/138140/rus/18.03.2020
 <td></td>
 <td></td>
 <td>2. Затраты</td>
-<td>222 489</td>
+<td>93 033</td>
 </tr>
 <tr>
 <td>01</td>
@@ -2503,7 +2508,7 @@ source: https://zan.gov.kz/client/#!/doc/138140/rus/18.03.2020
 <td></td>
 <td></td>
 <td>Образование</td>
-<td>187 643</td>
+<td>49 393</td>
 </tr>
 <tr>
 <td></td>
@@ -2511,7 +2516,7 @@ source: https://zan.gov.kz/client/#!/doc/138140/rus/18.03.2020
 <td></td>
 <td></td>
 <td>Дошкольное воспитание и обучение</td>
-<td>187 643</td>
+<td>49 393</td>
 </tr>
 <tr>
 <td></td>
@@ -2519,7 +2524,7 @@ source: https://zan.gov.kz/client/#!/doc/138140/rus/18.03.2020
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>187 643</td>
+<td>49 393</td>
 </tr>
 <tr>
 <td></td>
@@ -2527,7 +2532,7 @@ source: https://zan.gov.kz/client/#!/doc/138140/rus/18.03.2020
 <td></td>
 <td>004</td>
 <td>Дошкольное воспитание и обучение и организация медицинского обслуживания в организациях дошкольного воспитания и обучения</td>
-<td>187 643</td>
+<td>49 393</td>
 </tr>
 <tr>
 <td>07</td>
@@ -2535,7 +2540,7 @@ source: https://zan.gov.kz/client/#!/doc/138140/rus/18.03.2020
 <td></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>8 897</td>
+<td>17 691</td>
 </tr>
 <tr>
 <td></td>
@@ -2543,7 +2548,7 @@ source: https://zan.gov.kz/client/#!/doc/138140/rus/18.03.2020
 <td></td>
 <td></td>
 <td>Благоустройство населенных пунктов</td>
-<td>8 897</td>
+<td>17 691</td>
 </tr>
 <tr>
 <td></td>
@@ -2551,7 +2556,7 @@ source: https://zan.gov.kz/client/#!/doc/138140/rus/18.03.2020
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>8 897</td>
+<td>17 691</td>
 </tr>
 <tr>
 <td></td>
@@ -2567,7 +2572,7 @@ source: https://zan.gov.kz/client/#!/doc/138140/rus/18.03.2020
 <td></td>
 <td>011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td>3 820</td>
+<td>12 614</td>
 </tr>
 <tr>
 <td></td>
@@ -2623,7 +2628,7 @@ source: https://zan.gov.kz/client/#!/doc/138140/rus/18.03.2020
 <td></td>
 <td></td>
 <td>5. Дефицит (профицит) бюджета</td>
-<td>0</td>
+<td>-1 084</td>
 </tr>
 <tr>
 <td></td>
@@ -2631,7 +2636,7 @@ source: https://zan.gov.kz/client/#!/doc/138140/rus/18.03.2020
 <td></td>
 <td></td>
 <td>6. Финансирование дефицита (использование профицита) бюджета</td>
-<td>0</td>
+<td>1 084</td>
 </tr>
 <tr>
 <td></td>
@@ -2662,21 +2667,21 @@ source: https://zan.gov.kz/client/#!/doc/138140/rus/18.03.2020
 <td></td>
 <td colspan="2"></td>
 <td>Используемые остатки бюджетных средств</td>
-<td>0</td>
+<td>1 084</td>
 </tr>
 <tr>
 <td></td>
 <td>01</td>
 <td colspan="2"></td>
 <td>Остатки бюджетных средств</td>
-<td>0</td>
+<td>1 084</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="2">1</td>
 <td>Свободные остатки бюджетных средств</td>
-<td>0</td>
+<td>1 084</td>
 </tr>
 </table>
 
@@ -3393,6 +3398,8 @@ source: https://zan.gov.kz/client/#!/doc/138140/rus/18.03.2020
 
 ## Бюджет сельского округа Кызылжар на 2020 год
 
+> *Сноска. Приложение 10 в редакции решения Сарыагашского районного маслихата Туркестанской области от 30.04.2020 № 51-447-VI (вводится в действие с 01.01.2020).*
+
 <table>
 <tr>
 <td colspan="5">Категория</td>
@@ -3418,7 +3425,7 @@ source: https://zan.gov.kz/client/#!/doc/138140/rus/18.03.2020
 <td></td>
 <td colspan="2"></td>
 <td>1. Доходы</td>
-<td>396 653</td>
+<td>99 312</td>
 </tr>
 <tr>
 <td>1</td>
@@ -3474,21 +3481,21 @@ source: https://zan.gov.kz/client/#!/doc/138140/rus/18.03.2020
 <td></td>
 <td colspan="2"></td>
 <td>Поступления трансфертов</td>
-<td>393 172</td>
+<td>95 831</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td colspan="2"></td>
 <td>Трансферты из вышестоящих органов государственного управления</td>
-<td>393 172</td>
+<td>95 831</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="2">3</td>
 <td>Трансферты из районного (города областного значения) бюджета</td>
-<td>393 172</td>
+<td>95 831</td>
 </tr>
 <tr>
 <td colspan="5">Функциональная группа</td>
@@ -3522,7 +3529,7 @@ source: https://zan.gov.kz/client/#!/doc/138140/rus/18.03.2020
 <td></td>
 <td></td>
 <td>2. Затраты</td>
-<td>396 653</td>
+<td>101 003</td>
 </tr>
 <tr>
 <td>01</td>
@@ -3530,7 +3537,7 @@ source: https://zan.gov.kz/client/#!/doc/138140/rus/18.03.2020
 <td></td>
 <td></td>
 <td>Государственные услуги общего характера</td>
-<td>28 800</td>
+<td>29 667</td>
 </tr>
 <tr>
 <td></td>
@@ -3538,7 +3545,7 @@ source: https://zan.gov.kz/client/#!/doc/138140/rus/18.03.2020
 <td></td>
 <td></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>28 800</td>
+<td>29 667</td>
 </tr>
 <tr>
 <td></td>
@@ -3546,7 +3553,7 @@ source: https://zan.gov.kz/client/#!/doc/138140/rus/18.03.2020
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>28 800</td>
+<td>29 667</td>
 </tr>
 <tr>
 <td></td>
@@ -3554,7 +3561,7 @@ source: https://zan.gov.kz/client/#!/doc/138140/rus/18.03.2020
 <td></td>
 <td>001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>28 800</td>
+<td>29 667</td>
 </tr>
 <tr>
 <td>04</td>
@@ -3562,7 +3569,7 @@ source: https://zan.gov.kz/client/#!/doc/138140/rus/18.03.2020
 <td></td>
 <td></td>
 <td>Образование</td>
-<td>362 051</td>
+<td>64 710</td>
 </tr>
 <tr>
 <td></td>
@@ -3570,7 +3577,7 @@ source: https://zan.gov.kz/client/#!/doc/138140/rus/18.03.2020
 <td></td>
 <td></td>
 <td>Дошкольное воспитание и обучение</td>
-<td>362 051</td>
+<td>64 710</td>
 </tr>
 <tr>
 <td></td>
@@ -3578,7 +3585,7 @@ source: https://zan.gov.kz/client/#!/doc/138140/rus/18.03.2020
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>362 051</td>
+<td>64 710</td>
 </tr>
 <tr>
 <td></td>
@@ -3586,7 +3593,7 @@ source: https://zan.gov.kz/client/#!/doc/138140/rus/18.03.2020
 <td></td>
 <td>004</td>
 <td>Дошкольное воспитание и обучение и организация медицинского обслуживания в организациях дошкольного воспитания и обучения</td>
-<td>362 051</td>
+<td>64 710</td>
 </tr>
 <tr>
 <td>07</td>
@@ -3594,7 +3601,7 @@ source: https://zan.gov.kz/client/#!/doc/138140/rus/18.03.2020
 <td></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>5 802</td>
+<td>6 626</td>
 </tr>
 <tr>
 <td></td>
@@ -3602,7 +3609,7 @@ source: https://zan.gov.kz/client/#!/doc/138140/rus/18.03.2020
 <td></td>
 <td></td>
 <td>Благоустройство населенных пунктов</td>
-<td>5 802</td>
+<td>6 626</td>
 </tr>
 <tr>
 <td></td>
@@ -3610,7 +3617,7 @@ source: https://zan.gov.kz/client/#!/doc/138140/rus/18.03.2020
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>5 802</td>
+<td>6 626</td>
 </tr>
 <tr>
 <td></td>
@@ -3626,7 +3633,7 @@ source: https://zan.gov.kz/client/#!/doc/138140/rus/18.03.2020
 <td></td>
 <td>011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td>3 802</td>
+<td>4 626</td>
 </tr>
 <tr>
 <td></td>
@@ -3682,7 +3689,7 @@ source: https://zan.gov.kz/client/#!/doc/138140/rus/18.03.2020
 <td></td>
 <td></td>
 <td>5. Дефицит (профицит) бюджета</td>
-<td>0</td>
+<td>- 1 691</td>
 </tr>
 <tr>
 <td></td>
@@ -3690,7 +3697,7 @@ source: https://zan.gov.kz/client/#!/doc/138140/rus/18.03.2020
 <td></td>
 <td></td>
 <td>6. Финансирование дефицита (использование профицита) бюджета</td>
-<td>0</td>
+<td>1 691</td>
 </tr>
 <tr>
 <td></td>
@@ -3721,21 +3728,21 @@ source: https://zan.gov.kz/client/#!/doc/138140/rus/18.03.2020
 <td></td>
 <td colspan="2"></td>
 <td>Используемые остатки бюджетных средств</td>
-<td>0</td>
+<td>1 691</td>
 </tr>
 <tr>
 <td></td>
 <td>01</td>
 <td colspan="2"></td>
 <td>Остатки бюджетных средств</td>
-<td>0</td>
+<td>1 691</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="2">1</td>
 <td>Свободные остатки бюджетных средств</td>
-<td>0</td>
+<td>1 691</td>
 </tr>
 </table>
 
@@ -4452,6 +4459,8 @@ source: https://zan.gov.kz/client/#!/doc/138140/rus/18.03.2020
 
 ## Бюджет сельского округа Дарбаза на 2020 год
 
+> *Сноска. Приложение 13 в редакции решения Сарыагашского районного маслихата Туркестанской области от 30.04.2020 № 51-447-VI (вводится в действие с 01.01.2020).*
+
 <table>
 <tr>
 <td colspan="5">Категория</td>
@@ -4477,7 +4486,7 @@ source: https://zan.gov.kz/client/#!/doc/138140/rus/18.03.2020
 <td></td>
 <td colspan="2"></td>
 <td>1. Доходы</td>
-<td>232 115</td>
+<td>100 279</td>
 </tr>
 <tr>
 <td>1</td>
@@ -4533,21 +4542,21 @@ source: https://zan.gov.kz/client/#!/doc/138140/rus/18.03.2020
 <td></td>
 <td colspan="2"></td>
 <td>Поступления трансфертов</td>
-<td>227 244</td>
+<td>95 408</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td colspan="2"></td>
 <td>Трансферты из вышестоящих органов государственного управления</td>
-<td>227 244</td>
+<td>95 408</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="2">3</td>
 <td>Трансферты из районного (города областного значения) бюджета</td>
-<td>227 244</td>
+<td>95 408</td>
 </tr>
 <tr>
 <td colspan="5">Функциональная группа</td>
@@ -4581,7 +4590,7 @@ source: https://zan.gov.kz/client/#!/doc/138140/rus/18.03.2020
 <td></td>
 <td></td>
 <td>2. Затраты</td>
-<td>232 115</td>
+<td>101 943</td>
 </tr>
 <tr>
 <td>01</td>
@@ -4589,7 +4598,7 @@ source: https://zan.gov.kz/client/#!/doc/138140/rus/18.03.2020
 <td></td>
 <td></td>
 <td>Государственные услуги общего характера</td>
-<td>30 276</td>
+<td>30 459</td>
 </tr>
 <tr>
 <td></td>
@@ -4597,7 +4606,7 @@ source: https://zan.gov.kz/client/#!/doc/138140/rus/18.03.2020
 <td></td>
 <td></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>30 276</td>
+<td>30 459</td>
 </tr>
 <tr>
 <td></td>
@@ -4605,7 +4614,7 @@ source: https://zan.gov.kz/client/#!/doc/138140/rus/18.03.2020
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>30 276</td>
+<td>30 459</td>
 </tr>
 <tr>
 <td></td>
@@ -4613,7 +4622,7 @@ source: https://zan.gov.kz/client/#!/doc/138140/rus/18.03.2020
 <td></td>
 <td>001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>30 276</td>
+<td>30 459</td>
 </tr>
 <tr>
 <td>04</td>
@@ -4621,7 +4630,7 @@ source: https://zan.gov.kz/client/#!/doc/138140/rus/18.03.2020
 <td></td>
 <td></td>
 <td>Образование</td>
-<td>194 958</td>
+<td>63 122</td>
 </tr>
 <tr>
 <td></td>
@@ -4629,7 +4638,7 @@ source: https://zan.gov.kz/client/#!/doc/138140/rus/18.03.2020
 <td></td>
 <td></td>
 <td>Дошкольное воспитание и обучение</td>
-<td>192 406</td>
+<td>60 570</td>
 </tr>
 <tr>
 <td></td>
@@ -4637,7 +4646,7 @@ source: https://zan.gov.kz/client/#!/doc/138140/rus/18.03.2020
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>192 406</td>
+<td>60 570</td>
 </tr>
 <tr>
 <td></td>
@@ -4645,7 +4654,7 @@ source: https://zan.gov.kz/client/#!/doc/138140/rus/18.03.2020
 <td></td>
 <td>004</td>
 <td>Дошкольное воспитание и обучение и организация медицинского обслуживания в организациях дошкольного воспитания и обучения</td>
-<td>192 406</td>
+<td>60 570</td>
 </tr>
 <tr>
 <td></td>
@@ -4677,7 +4686,7 @@ source: https://zan.gov.kz/client/#!/doc/138140/rus/18.03.2020
 <td></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>6 881</td>
+<td>8 362</td>
 </tr>
 <tr>
 <td></td>
@@ -4685,7 +4694,7 @@ source: https://zan.gov.kz/client/#!/doc/138140/rus/18.03.2020
 <td></td>
 <td></td>
 <td>Благоустройство населенных пунктов</td>
-<td>6 881</td>
+<td>8 362</td>
 </tr>
 <tr>
 <td></td>
@@ -4693,7 +4702,7 @@ source: https://zan.gov.kz/client/#!/doc/138140/rus/18.03.2020
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>6 881</td>
+<td>8 362</td>
 </tr>
 <tr>
 <td></td>
@@ -4709,7 +4718,7 @@ source: https://zan.gov.kz/client/#!/doc/138140/rus/18.03.2020
 <td></td>
 <td>011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td>3 000</td>
+<td>4 481</td>
 </tr>
 <tr>
 <td></td>
@@ -4765,7 +4774,7 @@ source: https://zan.gov.kz/client/#!/doc/138140/rus/18.03.2020
 <td></td>
 <td></td>
 <td>5. Дефицит (профицит) бюджета</td>
-<td>0</td>
+<td>- 1 664</td>
 </tr>
 <tr>
 <td></td>
@@ -4773,7 +4782,7 @@ source: https://zan.gov.kz/client/#!/doc/138140/rus/18.03.2020
 <td></td>
 <td></td>
 <td>6. Финансирование дефицита (использование профицита) бюджета</td>
-<td>0</td>
+<td>1 664</td>
 </tr>
 <tr>
 <td></td>
@@ -4804,21 +4813,21 @@ source: https://zan.gov.kz/client/#!/doc/138140/rus/18.03.2020
 <td></td>
 <td colspan="2"></td>
 <td>Используемые остатки бюджетных средств</td>
-<td>0</td>
+<td>1 664</td>
 </tr>
 <tr>
 <td></td>
 <td>01</td>
 <td colspan="2"></td>
 <td>Остатки бюджетных средств</td>
-<td>0</td>
+<td>1 664</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="2">1</td>
 <td>Свободные остатки бюджетных средств</td>
-<td>0</td>
+<td>1 664</td>
 </tr>
 </table>
 
