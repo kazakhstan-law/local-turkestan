@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/137978/kaz/26.03.2020
+source: https://zan.gov.kz/client/#!/doc/137978/kaz/25.06.2020
 ---
 
 > *Кентау қалалық*  
@@ -788,7 +788,7 @@ source: https://zan.gov.kz/client/#!/doc/137978/kaz/26.03.2020
 
 ## Жаңа Иқан ауылдық округының 2020 жылға арналған бюджеті
 
-> *Ескерту. 31-қосымша жаңа редакцияда - Түркiстан облысы Кентау қалалық мәслихатының 26.03.2020 № 350 (01.01.2020 бастап қолданысқа енгiзiледі) шешiмiмен.*
+> *Ескерту. 31-қосымша жаңа редакцияда - Түркiстан облысы Кентау қалалық мәслихатының 26.03.2020 № 350 (01.01.2020 бастап қолданысқа енгiзiледі); жаңа редакцияда - Түркiстан облысы Кентау қалалық мәслихатының 25.06.2020 № 369 (01.01.2020 бастап қолданысқа енгiзiледі) шешiмдерiмен.*
 
 <table>
 <tr>
@@ -809,7 +809,7 @@ source: https://zan.gov.kz/client/#!/doc/137978/kaz/26.03.2020
 <td></td>
 <td colspan="2"></td>
 <td>1. Кірістер</td>
-<td colspan="2">142 791</td>
+<td colspan="2">122 788</td>
 </tr>
 <tr>
 <td>1</td>
@@ -920,8 +920,8 @@ source: https://zan.gov.kz/client/#!/doc/137978/kaz/26.03.2020
 <td></td>
 <td></td>
 <td colspan="2"></td>
-<td>Трансферттердің түсімдері</td>
-<td colspan="2">139 672</td>
+<td>Трансферттер түсімі</td>
+<td colspan="2">119 669</td>
 </tr>
 <tr>
 <td></td>
@@ -929,7 +929,7 @@ source: https://zan.gov.kz/client/#!/doc/137978/kaz/26.03.2020
 <td></td>
 <td colspan="2"></td>
 <td>Мемлекеттік басқарудың жоғары тұрған органдарынан түсетін трансферттер</td>
-<td colspan="2">139 672</td>
+<td colspan="2">119 669</td>
 </tr>
 <tr>
 <td></td>
@@ -937,7 +937,7 @@ source: https://zan.gov.kz/client/#!/doc/137978/kaz/26.03.2020
 <td>3</td>
 <td colspan="2"></td>
 <td>Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td colspan="2">139 672</td>
+<td colspan="2">119 669</td>
 </tr>
 <tr>
 <td colspan="6">Функционалдық топ</td>
@@ -969,7 +969,7 @@ source: https://zan.gov.kz/client/#!/doc/137978/kaz/26.03.2020
 <td></td>
 <td colspan="2"></td>
 <td>2. Шығындар</td>
-<td colspan="2">143 384</td>
+<td colspan="2">123 381</td>
 </tr>
 <tr>
 <td>01</td>
@@ -1017,7 +1017,7 @@ source: https://zan.gov.kz/client/#!/doc/137978/kaz/26.03.2020
 <td></td>
 <td colspan="2"></td>
 <td>Бiлiм беру</td>
-<td colspan="2">75 862</td>
+<td colspan="2">38 478</td>
 </tr>
 <tr>
 <td></td>
@@ -1025,7 +1025,7 @@ source: https://zan.gov.kz/client/#!/doc/137978/kaz/26.03.2020
 <td></td>
 <td colspan="2"></td>
 <td>Мектепке дейiнгi тәрбие және оқыту</td>
-<td colspan="2">75 862</td>
+<td colspan="2">38 478</td>
 </tr>
 <tr>
 <td></td>
@@ -1033,7 +1033,7 @@ source: https://zan.gov.kz/client/#!/doc/137978/kaz/26.03.2020
 <td>124</td>
 <td colspan="2"></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td colspan="2">75 862</td>
+<td colspan="2">38 478</td>
 </tr>
 <tr>
 <td></td>
@@ -1041,7 +1041,7 @@ source: https://zan.gov.kz/client/#!/doc/137978/kaz/26.03.2020
 <td></td>
 <td colspan="2">004</td>
 <td>Мектепке дейінгі тәрбиелеу және оқыту және мектепке дейінгі тәрбиелеу және оқыту ұйымдарында медициналық қызмет көрсетуді ұйымдастыру</td>
-<td colspan="2">75 862</td>
+<td colspan="2">38 478</td>
 </tr>
 <tr>
 <td>05</td>
@@ -1257,7 +1257,7 @@ source: https://zan.gov.kz/client/#!/doc/137978/kaz/26.03.2020
 <td></td>
 <td colspan="2"></td>
 <td>Басқалар</td>
-<td colspan="2">18 420</td>
+<td colspan="2">35 801</td>
 </tr>
 <tr>
 <td></td>
@@ -1265,7 +1265,7 @@ source: https://zan.gov.kz/client/#!/doc/137978/kaz/26.03.2020
 <td></td>
 <td colspan="2"></td>
 <td>Басқалар</td>
-<td colspan="2">18 420</td>
+<td colspan="2">35 801</td>
 </tr>
 <tr>
 <td></td>
@@ -1273,15 +1273,15 @@ source: https://zan.gov.kz/client/#!/doc/137978/kaz/26.03.2020
 <td>124</td>
 <td colspan="2"></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td colspan="2">18 420</td>
+<td colspan="2">35 801</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">040</td>
-<td>Өңірлерді дамытудың 2020 жылға дейінгі бағдарламасы шеңберінде өңірлерді экономикалық дамытуға жәрдемдесу бойынша шараларды іске асыруға ауылдық елді мекендерді жайластыруды шешуге арналған іс-шараларды іске асыру</td>
-<td colspan="2">18 420</td>
+<td>Өңірлерді дамытудың 2025 жылға дейінгі бағдарламасы шеңберінде өңірлерді экономикалық дамытуға жәрдемдесу бойынша шараларды іске асыруға ауылдық елді мекендерді жайластыруды шешуге арналған іс-шараларды іске асыру</td>
+<td colspan="2">35 801</td>
 </tr>
 <tr>
 <td>15</td>
@@ -1342,7 +1342,7 @@ source: https://zan.gov.kz/client/#!/doc/137978/kaz/26.03.2020
 <tr>
 <td></td>
 <td></td>
-<td colspan="4">Iшкi сыныбы</td>
+<td colspan="4">Кіші сыныбы</td>
 </tr>
 <tr>
 <td></td>
@@ -1402,7 +1402,7 @@ source: https://zan.gov.kz/client/#!/doc/137978/kaz/26.03.2020
 <tr>
 <td></td>
 <td></td>
-<td colspan="4">Iшкi сыныбы</td>
+<td colspan="4">Кіші сыныбы</td>
 </tr>
 <tr>
 <td></td>
@@ -1447,7 +1447,7 @@ source: https://zan.gov.kz/client/#!/doc/137978/kaz/26.03.2020
 <td></td>
 <td></td>
 <td colspan="2"></td>
-<td>Қарыздар түсімі</td>
+<td>Қарыздар түсімдері</td>
 <td colspan="2">0</td>
 </tr>
 <tr>
@@ -1504,7 +1504,7 @@ source: https://zan.gov.kz/client/#!/doc/137978/kaz/26.03.2020
 <tr>
 <td></td>
 <td></td>
-<td colspan="4">Iшкi сыныбы</td>
+<td colspan="4">Кіші сыныбы</td>
 </tr>
 <tr>
 <td></td>
@@ -3071,7 +3071,7 @@ source: https://zan.gov.kz/client/#!/doc/137978/kaz/26.03.2020
 
 ## Шорнақ ауылдық округының 2020 жылға арналған бюджеті
 
-> *Ескерту. 34-қосымша жаңа редакцияда - Түркiстан облысы Кентау қалалық мәслихатының 26.03.2020 № 350 (01.01.2020 бастап қолданысқа енгiзiледі) шешiмiмен.*
+> *Ескерту. 34-қосымша жаңа редакцияда - Түркiстан облысы Кентау қалалық мәслихатының 26.03.2020 № 350 (01.01.2020 бастап қолданысқа енгiзiледі); жаңа редакцияда - Түркiстан облысы Кентау қалалық мәслихатының 25.06.2020 № 369 (01.01.2020 бастап қолданысқа енгiзiледі) шешiмдерiмен.*
 
 <table>
 <tr>
@@ -3092,7 +3092,7 @@ source: https://zan.gov.kz/client/#!/doc/137978/kaz/26.03.2020
 <td></td>
 <td colspan="2"></td>
 <td>1. Кірістер</td>
-<td colspan="2">249 185</td>
+<td colspan="2">213 946</td>
 </tr>
 <tr>
 <td>1</td>
@@ -3187,8 +3187,8 @@ source: https://zan.gov.kz/client/#!/doc/137978/kaz/26.03.2020
 <td></td>
 <td></td>
 <td colspan="2"></td>
-<td>Трансферттердің түсімдері</td>
-<td colspan="2">243 677</td>
+<td>Трансферттер түсімі</td>
+<td colspan="2">208 438</td>
 </tr>
 <tr>
 <td></td>
@@ -3196,7 +3196,7 @@ source: https://zan.gov.kz/client/#!/doc/137978/kaz/26.03.2020
 <td></td>
 <td colspan="2"></td>
 <td>Мемлекеттік басқарудың жоғары тұрған органдарынан түсетін трансферттер</td>
-<td colspan="2">243 677</td>
+<td colspan="2">208 438</td>
 </tr>
 <tr>
 <td></td>
@@ -3204,7 +3204,7 @@ source: https://zan.gov.kz/client/#!/doc/137978/kaz/26.03.2020
 <td>3</td>
 <td colspan="2"></td>
 <td>Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td colspan="2">243 677</td>
+<td colspan="2">208 438</td>
 </tr>
 <tr>
 <td colspan="6">Функционалдық топ</td>
@@ -3236,7 +3236,7 @@ source: https://zan.gov.kz/client/#!/doc/137978/kaz/26.03.2020
 <td></td>
 <td colspan="2"></td>
 <td>2. Шығындар</td>
-<td colspan="2">251 182</td>
+<td colspan="2">215 943</td>
 </tr>
 <tr>
 <td>01</td>
@@ -3284,7 +3284,7 @@ source: https://zan.gov.kz/client/#!/doc/137978/kaz/26.03.2020
 <td></td>
 <td colspan="2"></td>
 <td>Бiлiм беру</td>
-<td colspan="2">140 091</td>
+<td colspan="2">84 755</td>
 </tr>
 <tr>
 <td></td>
@@ -3292,7 +3292,7 @@ source: https://zan.gov.kz/client/#!/doc/137978/kaz/26.03.2020
 <td></td>
 <td colspan="2"></td>
 <td>Мектепке дейiнгi тәрбие және оқыту</td>
-<td colspan="2">140 091</td>
+<td colspan="2">84 755</td>
 </tr>
 <tr>
 <td></td>
@@ -3300,7 +3300,7 @@ source: https://zan.gov.kz/client/#!/doc/137978/kaz/26.03.2020
 <td>124</td>
 <td colspan="2"></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td colspan="2">140 091</td>
+<td colspan="2">84 755</td>
 </tr>
 <tr>
 <td></td>
@@ -3308,7 +3308,7 @@ source: https://zan.gov.kz/client/#!/doc/137978/kaz/26.03.2020
 <td></td>
 <td colspan="2">004</td>
 <td>Мектепке дейінгі тәрбиелеу және оқыту және мектепке дейінгі тәрбиелеу және оқыту ұйымдарында медициналық қызмет көрсетуді ұйымдастыру</td>
-<td colspan="2">140 091</td>
+<td colspan="2">84 755</td>
 </tr>
 <tr>
 <td>05</td>
@@ -3524,7 +3524,7 @@ source: https://zan.gov.kz/client/#!/doc/137978/kaz/26.03.2020
 <td></td>
 <td colspan="2"></td>
 <td>Басқалар</td>
-<td colspan="2">57 616</td>
+<td colspan="2">77 713</td>
 </tr>
 <tr>
 <td></td>
@@ -3532,7 +3532,7 @@ source: https://zan.gov.kz/client/#!/doc/137978/kaz/26.03.2020
 <td></td>
 <td colspan="2"></td>
 <td>Басқалар</td>
-<td colspan="2">57 616</td>
+<td colspan="2">77 713</td>
 </tr>
 <tr>
 <td></td>
@@ -3540,15 +3540,15 @@ source: https://zan.gov.kz/client/#!/doc/137978/kaz/26.03.2020
 <td>124</td>
 <td colspan="2"></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td colspan="2">57 616</td>
+<td colspan="2">77 713</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">040</td>
-<td>Өңірлерді дамытудың 2020 жылға дейінгі бағдарламасы шеңберінде өңірлерді экономикалық дамытуға жәрдемдесу бойынша шараларды іске асыруға ауылдық елді мекендерді жайластыруды шешуге арналған іс-шараларды іске асыру</td>
-<td colspan="2">57 616</td>
+<td>Өңірлерді дамытудың 2025 жылға дейінгі бағдарламасы шеңберінде өңірлерді экономикалық дамытуға жәрдемдесу бойынша шараларды іске асыруға ауылдық елді мекендерді жайластыруды шешуге арналған іс-шараларды іске асыру</td>
+<td colspan="2">77 713</td>
 </tr>
 <tr>
 <td>15</td>
@@ -3609,7 +3609,7 @@ source: https://zan.gov.kz/client/#!/doc/137978/kaz/26.03.2020
 <tr>
 <td></td>
 <td></td>
-<td colspan="4">Iшкi сыныбы</td>
+<td colspan="4">Кіші сыныбы</td>
 </tr>
 <tr>
 <td></td>
@@ -3669,7 +3669,7 @@ source: https://zan.gov.kz/client/#!/doc/137978/kaz/26.03.2020
 <tr>
 <td></td>
 <td></td>
-<td colspan="4">Iшкi сыныбы</td>
+<td colspan="4">Кіші сыныбы</td>
 </tr>
 <tr>
 <td></td>
@@ -3714,7 +3714,7 @@ source: https://zan.gov.kz/client/#!/doc/137978/kaz/26.03.2020
 <td></td>
 <td></td>
 <td colspan="2"></td>
-<td>Қарыздар түсімі</td>
+<td>Қарыздар түсімдері</td>
 <td colspan="2">0</td>
 </tr>
 <tr>
@@ -3771,7 +3771,7 @@ source: https://zan.gov.kz/client/#!/doc/137978/kaz/26.03.2020
 <tr>
 <td></td>
 <td></td>
-<td colspan="4">Iшкi сыныбы</td>
+<td colspan="4">Кіші сыныбы</td>
 </tr>
 <tr>
 <td></td>
