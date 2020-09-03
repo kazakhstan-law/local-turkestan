@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/137702/kaz/10.06.2020
+source: https://zan.gov.kz/client/#!/doc/137702/kaz/03.09.2020
 ---
 
 > *Жетісай аудандық мәслихатының*  
