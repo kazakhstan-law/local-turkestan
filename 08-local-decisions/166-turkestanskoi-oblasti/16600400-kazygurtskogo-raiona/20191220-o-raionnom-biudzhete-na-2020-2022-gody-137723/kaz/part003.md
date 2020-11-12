@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/137723/kaz/28.08.2020
+source: https://zan.gov.kz/client/#!/doc/137723/kaz/12.11.2020
 ---
 
 > *Қазығұрт аудандық*  
