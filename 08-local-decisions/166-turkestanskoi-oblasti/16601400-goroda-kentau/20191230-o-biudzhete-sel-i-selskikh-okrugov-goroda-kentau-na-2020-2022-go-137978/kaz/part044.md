@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/137978/kaz/28.10.2020
+source: https://zan.gov.kz/client/#!/doc/137978/kaz/27.11.2020
 ---
 
 > *Кентау қалалық*  
@@ -1600,7 +1600,7 @@ source: https://zan.gov.kz/client/#!/doc/137978/kaz/28.10.2020
 
 ## Жібек Жолы ауылдық округының 2020 жылға арналған бюджеті
 
-> *Ескерту. 46-қосымша жаңа редакцияда - Түркiстан облысы Кентау қалалық мәслихатының 26.03.2020 № 350 (01.01.2020 бастап қолданысқа енгiзiледі); жаңа редакцияда - Түркiстан облысы Кентау қалалық мәслихатының 25.06.2020 № 369 (01.01.2020 бастап қолданысқа енгiзiледі); жаңа редакцияда - Түркiстан облысы Кентау қалалық мәслихатының 25.09.2020 № 375 (01.01.2020 бастап қолданысқа енгiзiледі) шешiмдерiмен.*
+> *Ескерту. 46-қосымша жаңа редакцияда - Түркiстан облысы Кентау қалалық мәслихатының 26.03.2020 № 350 (01.01.2020 бастап қолданысқа енгiзiледі); жаңа редакцияда - Түркiстан облысы Кентау қалалық мәслихатының 25.06.2020 № 369 (01.01.2020 бастап қолданысқа енгiзiледі); жаңа редакцияда - Түркiстан облысы Кентау қалалық мәслихатының 25.09.2020 № 375 (01.01.2020 бастап қолданысқа енгiзiледі); жаңа редакцияда - Түркiстан облысы Кентау қалалық мәслихатының 27.11.2020 № 402 (01.01.2020 бастап қолданысқа енгiзiледі) шешiмдерiмен.*
 
 <table>
 <tr>
@@ -1621,7 +1621,7 @@ source: https://zan.gov.kz/client/#!/doc/137978/kaz/28.10.2020
 <td></td>
 <td colspan="2"></td>
 <td>1. Кірістер</td>
-<td colspan="2">107 715</td>
+<td colspan="2">107 846</td>
 </tr>
 <tr>
 <td>1</td>
@@ -1765,7 +1765,7 @@ source: https://zan.gov.kz/client/#!/doc/137978/kaz/28.10.2020
 <td></td>
 <td colspan="2"></td>
 <td>Трансферттер түсімі</td>
-<td colspan="2">105 630</td>
+<td colspan="2">105 761</td>
 </tr>
 <tr>
 <td></td>
@@ -1773,7 +1773,7 @@ source: https://zan.gov.kz/client/#!/doc/137978/kaz/28.10.2020
 <td></td>
 <td colspan="2"></td>
 <td>Мемлекеттік басқарудың жоғары тұрған органдарынан түсетін трансферттер</td>
-<td colspan="2">105 630</td>
+<td colspan="2">105 761</td>
 </tr>
 <tr>
 <td></td>
@@ -1781,7 +1781,7 @@ source: https://zan.gov.kz/client/#!/doc/137978/kaz/28.10.2020
 <td>3</td>
 <td colspan="2"></td>
 <td>Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td colspan="2">105 630</td>
+<td colspan="2">105 761</td>
 </tr>
 <tr>
 <td colspan="6">Функционалдық топ</td>
@@ -1813,7 +1813,7 @@ source: https://zan.gov.kz/client/#!/doc/137978/kaz/28.10.2020
 <td></td>
 <td colspan="2"></td>
 <td>2. Шығындар</td>
-<td colspan="2">108 137</td>
+<td colspan="2">108 268</td>
 </tr>
 <tr>
 <td>01</td>
@@ -1821,7 +1821,7 @@ source: https://zan.gov.kz/client/#!/doc/137978/kaz/28.10.2020
 <td></td>
 <td colspan="2"></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td colspan="2">24 200</td>
+<td colspan="2">24 325</td>
 </tr>
 <tr>
 <td></td>
@@ -1829,7 +1829,7 @@ source: https://zan.gov.kz/client/#!/doc/137978/kaz/28.10.2020
 <td></td>
 <td colspan="2"></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td colspan="2">24 200</td>
+<td colspan="2">24 325</td>
 </tr>
 <tr>
 <td></td>
@@ -1837,7 +1837,7 @@ source: https://zan.gov.kz/client/#!/doc/137978/kaz/28.10.2020
 <td>124</td>
 <td colspan="2"></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td colspan="2">24 200</td>
+<td colspan="2">24 325</td>
 </tr>
 <tr>
 <td></td>
@@ -1845,7 +1845,7 @@ source: https://zan.gov.kz/client/#!/doc/137978/kaz/28.10.2020
 <td></td>
 <td colspan="2">001</td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td colspan="2">23 465</td>
+<td colspan="2">23 590</td>
 </tr>
 <tr>
 <td></td>
@@ -1893,7 +1893,7 @@ source: https://zan.gov.kz/client/#!/doc/137978/kaz/28.10.2020
 <td></td>
 <td colspan="2"></td>
 <td>Денсаулық сақтау</td>
-<td colspan="2">50</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td></td>
@@ -1901,7 +1901,7 @@ source: https://zan.gov.kz/client/#!/doc/137978/kaz/28.10.2020
 <td></td>
 <td colspan="2"></td>
 <td>Денсаулық сақтау саласындағы өзге де қызметтер</td>
-<td colspan="2">50</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td></td>
@@ -1909,7 +1909,7 @@ source: https://zan.gov.kz/client/#!/doc/137978/kaz/28.10.2020
 <td>124</td>
 <td colspan="2"></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td colspan="2">50</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td></td>
@@ -1917,7 +1917,7 @@ source: https://zan.gov.kz/client/#!/doc/137978/kaz/28.10.2020
 <td></td>
 <td colspan="2">002</td>
 <td>Шұғыл жағдайларда науқасы ауыр адамдарды дәрігерлік көмек көрсететін жақын жердегі денсаулық сақтау ұйымына жеткізуді ұйымдастыру</td>
-<td colspan="2">50</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td>06</td>
@@ -1925,7 +1925,7 @@ source: https://zan.gov.kz/client/#!/doc/137978/kaz/28.10.2020
 <td></td>
 <td colspan="2"></td>
 <td>Әлеуметтiк көмек және әлеуметтiк қамсыздандыру</td>
-<td colspan="2">2 089</td>
+<td colspan="2">2 258</td>
 </tr>
 <tr>
 <td></td>
@@ -1933,18 +1933,15 @@ source: https://zan.gov.kz/client/#!/doc/137978/kaz/28.10.2020
 <td></td>
 <td colspan="2"></td>
 <td>Әлеуметтiк көмек</td>
-<td colspan="2">2 089</td>
+<td colspan="2">2 258</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>124</td>
 <td colspan="2"></td>
-<td>
-Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ
-әкімінің аппараты
-</td>
-<td colspan="2">2 089</td>
+<td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округәкімінің аппараты</td>
+<td colspan="2">2 258</td>
 </tr>
 <tr>
 <td></td>
@@ -1952,7 +1949,7 @@ source: https://zan.gov.kz/client/#!/doc/137978/kaz/28.10.2020
 <td></td>
 <td colspan="2">003</td>
 <td>Мұқтаж азаматтарға үйінде әлеуметтік көмек көрсету</td>
-<td colspan="2">2 089</td>
+<td colspan="2">2 258</td>
 </tr>
 <tr>
 <td>07</td>
@@ -1960,7 +1957,7 @@ source: https://zan.gov.kz/client/#!/doc/137978/kaz/28.10.2020
 <td></td>
 <td colspan="2"></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td colspan="2">1 593</td>
+<td colspan="2">2 083</td>
 </tr>
 <tr>
 <td></td>
@@ -1968,7 +1965,7 @@ source: https://zan.gov.kz/client/#!/doc/137978/kaz/28.10.2020
 <td></td>
 <td colspan="2"></td>
 <td>Елді-мекендерді көркейту</td>
-<td colspan="2">1 593</td>
+<td colspan="2">2 083</td>
 </tr>
 <tr>
 <td></td>
@@ -1976,7 +1973,7 @@ source: https://zan.gov.kz/client/#!/doc/137978/kaz/28.10.2020
 <td>124</td>
 <td colspan="2"></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td colspan="2">1 593</td>
+<td colspan="2">2 083</td>
 </tr>
 <tr>
 <td></td>
@@ -1992,7 +1989,7 @@ source: https://zan.gov.kz/client/#!/doc/137978/kaz/28.10.2020
 <td></td>
 <td colspan="2">009</td>
 <td>Елді мекендердің санитариясын қамтамасыз ету</td>
-<td colspan="2">315</td>
+<td colspan="2">665</td>
 </tr>
 <tr>
 <td></td>
@@ -2000,7 +1997,7 @@ source: https://zan.gov.kz/client/#!/doc/137978/kaz/28.10.2020
 <td></td>
 <td colspan="2">010</td>
 <td>Жерлеу орындарын ұстау және туыстары жоқ адамдарды жерлеу</td>
-<td colspan="2">60</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td></td>
@@ -2008,7 +2005,7 @@ source: https://zan.gov.kz/client/#!/doc/137978/kaz/28.10.2020
 <td></td>
 <td colspan="2">011</td>
 <td>Елді мекендерді абаттандыру мен көгалдандыру</td>
-<td colspan="2">268</td>
+<td colspan="2">468</td>
 </tr>
 <tr>
 <td>08</td>
@@ -2104,7 +2101,7 @@ source: https://zan.gov.kz/client/#!/doc/137978/kaz/28.10.2020
 <td></td>
 <td colspan="2"></td>
 <td>Басқалар</td>
-<td colspan="2">52 103</td>
+<td colspan="2">51 500</td>
 </tr>
 <tr>
 <td></td>
@@ -2112,7 +2109,7 @@ source: https://zan.gov.kz/client/#!/doc/137978/kaz/28.10.2020
 <td></td>
 <td colspan="2"></td>
 <td>Басқалар</td>
-<td colspan="2">52 103</td>
+<td colspan="2">51 500</td>
 </tr>
 <tr>
 <td></td>
@@ -2120,7 +2117,7 @@ source: https://zan.gov.kz/client/#!/doc/137978/kaz/28.10.2020
 <td>124</td>
 <td colspan="2"></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td colspan="2">52 103</td>
+<td colspan="2">51 500</td>
 </tr>
 <tr>
 <td></td>
@@ -2128,7 +2125,7 @@ source: https://zan.gov.kz/client/#!/doc/137978/kaz/28.10.2020
 <td></td>
 <td colspan="2">040</td>
 <td>Өңірлерді дамытудың 2025 жылға дейінгі мемлекеттік бағдарламасы шеңберінде өңірлерді экономикалық дамытуға жәрдемдесу бойынша шараларды іске асыруға ауылдық елді мекендерді жайластыруды шешуге арналған іс-шараларды іске асыру</td>
-<td colspan="2">52 103</td>
+<td colspan="2">51 500</td>
 </tr>
 <tr>
 <td>15</td>
