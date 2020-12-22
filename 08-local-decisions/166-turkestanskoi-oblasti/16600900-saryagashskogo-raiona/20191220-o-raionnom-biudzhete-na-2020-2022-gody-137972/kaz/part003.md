@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/137972/kaz/16.11.2020
+source: https://zan.gov.kz/client/#!/doc/137972/kaz/22.12.2020
 ---
 
 > *Сарыағаш аудандық*  
