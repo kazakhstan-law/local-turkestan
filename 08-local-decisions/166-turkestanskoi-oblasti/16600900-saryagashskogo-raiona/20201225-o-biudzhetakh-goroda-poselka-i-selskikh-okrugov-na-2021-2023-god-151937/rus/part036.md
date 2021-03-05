@@ -1,7 +1,657 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/151937/rus/25.12.2020
+source: https://zan.gov.kz/client/#!/doc/151937/rus/05.03.2021
 ---
+
+> *Приложение 36 к решению*  
+> *Сарыагашского районного*  
+> *маслихата от 25 декабря*  
+> *2020 года №60-534-VI*
+
+## Бюджет сельского округа Жилга на 2023 год
+
+<table>
+<tr>
+<td colspan="8">Категория</td>
+<td rowspan="4">Сумма тысяч тенге</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="7">Класс</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="6">Подкласс</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="5">Наименование</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="5">1. Доходы</td>
+<td>27 423</td>
+</tr>
+<tr>
+<td>1</td>
+<td></td>
+<td></td>
+<td colspan="5">Налоговые поступления</td>
+<td>12 356</td>
+</tr>
+<tr>
+<td></td>
+<td>04</td>
+<td></td>
+<td colspan="5">Hалоги на собственность</td>
+<td>12 356</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>1</td>
+<td colspan="5">Hалоги на имущество</td>
+<td>57</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>3</td>
+<td colspan="5">Земельный налог</td>
+<td>245</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>4</td>
+<td colspan="5">Hалог на транспортные средства</td>
+<td>12 054</td>
+</tr>
+<tr>
+<td>2</td>
+<td></td>
+<td></td>
+<td colspan="5">Неналоговые поступления</td>
+<td>0</td>
+</tr>
+<tr>
+<td>3</td>
+<td></td>
+<td></td>
+<td colspan="5">Поступления от продажи основного капитала</td>
+<td>0</td>
+</tr>
+<tr>
+<td>4</td>
+<td></td>
+<td></td>
+<td colspan="5">Поступления трансфертов</td>
+<td>15 067</td>
+</tr>
+<tr>
+<td></td>
+<td>02</td>
+<td></td>
+<td colspan="5">Трансферты из вышестоящих органов государственного управления</td>
+<td>15 067</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>3</td>
+<td colspan="5">Трансферты из районного (города областного значения) бюджета</td>
+<td>15 067</td>
+</tr>
+<tr>
+<td colspan="8">Функциональная группа</td>
+<td rowspan="5">Сумма тысяч тенге</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="7">Функциональная подгруппа</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="6">Администратор бюджетных программ</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="4">Программа</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Наименование</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">2. Затраты</td>
+<td>27 423</td>
+</tr>
+<tr>
+<td>01</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Государственные услуги общего характера</td>
+<td>26 423</td>
+</tr>
+<tr>
+<td></td>
+<td>1</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
+<td>26 423</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2">124</td>
+<td colspan="2"></td>
+<td colspan="2">Аппарат акима города районного значения, села, поселка, сельского округа</td>
+<td>26 423</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">001</td>
+<td colspan="2">Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
+<td>26 423</td>
+</tr>
+<tr>
+<td>07</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Жилищно-коммунальное хозяйство</td>
+<td>1 000</td>
+</tr>
+<tr>
+<td></td>
+<td>3</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Благоустройство населенных пунктов</td>
+<td>1 000</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2">124</td>
+<td colspan="2"></td>
+<td colspan="2">Аппарат акима города районного значения, села, поселка, сельского округа</td>
+<td>1 000</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">011</td>
+<td colspan="2">Благоустройство и озеленение населенных пунктов</td>
+<td>1 000</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">3. Чистое бюджетное кредитование</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Бюджетные кредиты</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Погашение бюджетных кредитов</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">4. Сальдо по операциям с финансовыми активами</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Приобретение финансовых активов</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Поступление от продажи финансовых активов государства</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">5. Дефицит (профицит) бюджета</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">6. Финансирование дефицита (использование профицита) бюджета</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Поступление займов</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Погашение займов</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Используемые остатки бюджетных средств</td>
+<td>0</td>
+</tr>
+<tr>
+<td>8</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Используемые остатки бюджетных средств</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td>01</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Остатки бюджетных средств</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2">1</td>
+<td colspan="2"></td>
+<td colspan="2">Свободные остатки бюджетных средств</td>
+<td>0</td>
+</tr>
+</table>
+
+> *Приложение 37 к решению*  
+> *Сарыагашского районного*  
+> *маслихата от 25 декабря*  
+> *2020 года №60-534-VI*
+
+## Бюджет сельского округа Жарты тобе на 2021 год
+
+> *Сноска. Приложение 37 в редакции решения Сарыагашского районного маслихата Туркестанской области от 05.03.2021 № 3-18-VII (вводится в действие с 01.01.2021).*
+
+<table>
+<tr>
+<td colspan="6">Категория</td>
+<td rowspan="4">Сумма тысяч тенге</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="5">Класс</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="4">Подкласс</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Наименование</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">1. Доходы</td>
+<td>56 638</td>
+</tr>
+<tr>
+<td>1</td>
+<td></td>
+<td></td>
+<td colspan="3">Налоговые поступления</td>
+<td>24 954</td>
+</tr>
+<tr>
+<td></td>
+<td>04</td>
+<td></td>
+<td colspan="3">Hалоги на собственность</td>
+<td>24 954</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>1</td>
+<td colspan="3">Hалоги на имущество</td>
+<td>780</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>3</td>
+<td colspan="3">Земельный налог</td>
+<td>1 412</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>4</td>
+<td colspan="3">Hалог на транспортные средства</td>
+<td>22 762</td>
+</tr>
+<tr>
+<td>2</td>
+<td></td>
+<td></td>
+<td colspan="3">Неналоговые поступления</td>
+<td>0</td>
+</tr>
+<tr>
+<td>3</td>
+<td></td>
+<td></td>
+<td colspan="3">Поступления от продажи основного капитала</td>
+<td>0</td>
+</tr>
+<tr>
+<td>4</td>
+<td></td>
+<td></td>
+<td colspan="3">Поступления трансфертов</td>
+<td>31 684</td>
+</tr>
+<tr>
+<td></td>
+<td>02</td>
+<td></td>
+<td colspan="3">Трансферты из вышестоящих органов государственного управления</td>
+<td>31 684</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>3</td>
+<td colspan="3">Трансферты из районного (города областного значения) бюджета</td>
+<td>31 684</td>
+</tr>
+<tr>
+<td colspan="6">Функциональная группа</td>
+<td rowspan="5">Сумма тысяч тенге</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="5">Функциональная подгруппа</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="4">Администратор бюджетных программ</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Программа</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Наименование</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">2. Затраты</td>
+<td>61 220</td>
+</tr>
+<tr>
+<td>01</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Государственные услуги общего характера</td>
+<td>40 022</td>
+</tr>
+<tr>
+<td></td>
+<td>1</td>
+<td></td>
+<td></td>
+<td colspan="2">Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
+<td>40 022</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>124</td>
+<td></td>
+<td colspan="2">Аппарат акима города районного значения, села, поселка, сельского округа</td>
+<td>40 022</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>001</td>
+<td colspan="2">Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
+<td>40 022</td>
+</tr>
+<tr>
+<td>07</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Жилищно-коммунальное хозяйство</td>
+<td>21 198</td>
+</tr>
+<tr>
+<td></td>
+<td>3</td>
+<td></td>
+<td></td>
+<td colspan="2">Благоустройство населенных пунктов</td>
+<td>21 198</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>124</td>
+<td></td>
+<td colspan="2">Аппарат акима города районного значения, села, поселка, сельского округа</td>
+<td>21 198</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>008</td>
+<td colspan="2">Освещение улиц в населенных пунктах</td>
+<td>4 583</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>009</td>
+<td colspan="2">Обеспечение санитарии населенных пунктов</td>
+<td>8 456</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>011</td>
+<td colspan="2">Благоустройство и озеленение населенных пунктов</td>
+<td>8 159</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">3. Чистое бюджетное кредитование</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Бюджетные кредиты</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Погашение бюджетных кредитов</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">4. Сальдо по операциям с финансовыми активами</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Приобретение финансовых активов</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Поступление от продажи финансовых активов государства</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">5. Дефицит (профицит) бюджета</td>
+<td>-4 582</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">6. Финансирование дефицита (использование профицита) бюджета</td>
+<td>4 582</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Поступление займов</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Погашение займов</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Используемые остатки бюджетных средств</td>
+<td>4 582</td>
+</tr>
+<tr>
+<td>8</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Используемые остатки бюджетных средств</td>
+<td>4 582</td>
+</tr>
+<tr>
+<td></td>
+<td>01</td>
+<td></td>
+<td></td>
+<td colspan="2">Остатки бюджетных средств</td>
+<td>4 582</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>1</td>
+<td></td>
+<td colspan="2">Свободные остатки бюджетных средств</td>
+<td>4 582</td>
+</tr>
+</table>
 
 > *Приложение 38 к решению*  
 > *Сарыагашского районного*  
@@ -658,6 +1308,8 @@ source: https://zan.gov.kz/client/#!/doc/151937/rus/25.12.2020
 
 ## Бюджет сельского округа Алимтау на 2021 год
 
+> *Сноска. Приложение 40 в редакции решения Сарыагашского районного маслихата Туркестанской области от 05.03.2021 № 3-18-VII (вводится в действие с 01.01.2021).*
+
 <table>
 <tr>
 <td colspan="6">Категория</td>
@@ -683,7 +1335,7 @@ source: https://zan.gov.kz/client/#!/doc/151937/rus/25.12.2020
 <td></td>
 <td></td>
 <td colspan="3">1. Доходы</td>
-<td>18 460</td>
+<td>43 867</td>
 </tr>
 <tr>
 <td>1</td>
@@ -739,21 +1391,21 @@ source: https://zan.gov.kz/client/#!/doc/151937/rus/25.12.2020
 <td></td>
 <td></td>
 <td colspan="3">Поступления трансфертов</td>
-<td>15 473</td>
+<td>40 880</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td colspan="3">Трансферты из вышестоящих органов государственного управления</td>
-<td>15 473</td>
+<td>40 880</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td colspan="3">Трансферты из районного (города областного значения) бюджета</td>
-<td>15 473</td>
+<td>40 880</td>
 </tr>
 <tr>
 <td colspan="6">Функциональная группа</td>
@@ -787,7 +1439,7 @@ source: https://zan.gov.kz/client/#!/doc/151937/rus/25.12.2020
 <td></td>
 <td></td>
 <td colspan="2">2. Затраты</td>
-<td>18 460</td>
+<td>44 397</td>
 </tr>
 <tr>
 <td>01</td>
@@ -795,7 +1447,7 @@ source: https://zan.gov.kz/client/#!/doc/151937/rus/25.12.2020
 <td></td>
 <td></td>
 <td colspan="2">Государственные услуги общего характера</td>
-<td>17 660</td>
+<td>18 190</td>
 </tr>
 <tr>
 <td></td>
@@ -803,7 +1455,7 @@ source: https://zan.gov.kz/client/#!/doc/151937/rus/25.12.2020
 <td></td>
 <td></td>
 <td colspan="2">Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>17 660</td>
+<td>18 190</td>
 </tr>
 <tr>
 <td></td>
@@ -811,7 +1463,7 @@ source: https://zan.gov.kz/client/#!/doc/151937/rus/25.12.2020
 <td>124</td>
 <td></td>
 <td colspan="2">Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>17 660</td>
+<td>18 190</td>
 </tr>
 <tr>
 <td></td>
@@ -819,7 +1471,7 @@ source: https://zan.gov.kz/client/#!/doc/151937/rus/25.12.2020
 <td></td>
 <td>001</td>
 <td colspan="2">Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>17 660</td>
+<td>18 190</td>
 </tr>
 <tr>
 <td>07</td>
@@ -827,7 +1479,7 @@ source: https://zan.gov.kz/client/#!/doc/151937/rus/25.12.2020
 <td></td>
 <td></td>
 <td colspan="2">Жилищно-коммунальное хозяйство</td>
-<td>800</td>
+<td>2 006</td>
 </tr>
 <tr>
 <td></td>
@@ -835,7 +1487,7 @@ source: https://zan.gov.kz/client/#!/doc/151937/rus/25.12.2020
 <td></td>
 <td></td>
 <td colspan="2">Благоустройство населенных пунктов</td>
-<td>800</td>
+<td>2 006</td>
 </tr>
 <tr>
 <td></td>
@@ -843,7 +1495,15 @@ source: https://zan.gov.kz/client/#!/doc/151937/rus/25.12.2020
 <td>124</td>
 <td></td>
 <td colspan="2">Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>800</td>
+<td>2 006</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>009</td>
+<td colspan="2">Обеспечение санитарии населенных пунктов</td>
+<td>1 206</td>
 </tr>
 <tr>
 <td></td>
@@ -852,6 +1512,38 @@ source: https://zan.gov.kz/client/#!/doc/151937/rus/25.12.2020
 <td>011</td>
 <td colspan="2">Благоустройство и озеленение населенных пунктов</td>
 <td>800</td>
+</tr>
+<tr>
+<td>12</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Транспорт и коммуникации</td>
+<td>24 201</td>
+</tr>
+<tr>
+<td></td>
+<td>1</td>
+<td></td>
+<td></td>
+<td colspan="2">Автомобильный транспорт</td>
+<td>24 201</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>124</td>
+<td></td>
+<td colspan="2">Аппарат акима города районного значения, села, поселка, сельского округа</td>
+<td>24 201</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>013</td>
+<td colspan="2">Обеспечение функционирования автомобильных дорог в городах районного значения, селах, поселках, сельских округах</td>
+<td>24 201</td>
 </tr>
 <tr>
 <td></td>
@@ -907,7 +1599,7 @@ source: https://zan.gov.kz/client/#!/doc/151937/rus/25.12.2020
 <td></td>
 <td></td>
 <td colspan="2">5. Дефицит (профицит) бюджета</td>
-<td>0</td>
+<td>-530</td>
 </tr>
 <tr>
 <td></td>
@@ -915,7 +1607,7 @@ source: https://zan.gov.kz/client/#!/doc/151937/rus/25.12.2020
 <td></td>
 <td></td>
 <td colspan="2">6. Финансирование дефицита (использование профицита) бюджета</td>
-<td>0</td>
+<td>530</td>
 </tr>
 <tr>
 <td></td>
@@ -939,7 +1631,7 @@ source: https://zan.gov.kz/client/#!/doc/151937/rus/25.12.2020
 <td></td>
 <td></td>
 <td colspan="2">Используемые остатки бюджетных средств</td>
-<td>0</td>
+<td>530</td>
 </tr>
 <tr>
 <td>8</td>
@@ -947,7 +1639,7 @@ source: https://zan.gov.kz/client/#!/doc/151937/rus/25.12.2020
 <td></td>
 <td></td>
 <td colspan="2">Используемые остатки бюджетных средств</td>
-<td>0</td>
+<td>530</td>
 </tr>
 <tr>
 <td></td>
@@ -955,7 +1647,7 @@ source: https://zan.gov.kz/client/#!/doc/151937/rus/25.12.2020
 <td></td>
 <td></td>
 <td colspan="2">Остатки бюджетных средств</td>
-<td>0</td>
+<td>530</td>
 </tr>
 <tr>
 <td></td>
@@ -963,7 +1655,7 @@ source: https://zan.gov.kz/client/#!/doc/151937/rus/25.12.2020
 <td>1</td>
 <td></td>
 <td colspan="2">Свободные остатки бюджетных средств</td>
-<td>0</td>
+<td>530</td>
 </tr>
 </table>
 
