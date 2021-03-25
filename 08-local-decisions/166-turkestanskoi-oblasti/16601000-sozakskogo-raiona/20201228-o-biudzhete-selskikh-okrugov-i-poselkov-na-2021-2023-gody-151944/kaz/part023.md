@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/151944/kaz/28.12.2020
+source: https://zan.gov.kz/client/#!/doc/151944/kaz/25.03.2021
 ---
 
 > *Созақ аудандық мәслихатының*  
@@ -1007,6 +1007,8 @@ source: https://zan.gov.kz/client/#!/doc/151944/kaz/28.12.2020
 
 ## Шу ауылдық округінің 2021 жылға арналған бюджеті
 
+> *Ескерту. 25-қосымша жаңа редакцияда - Түркістан облысы Созақ аудандық мәслихатының 25.03.2021 № 18 (01.01.2021 бастап қолданысқа енгізіледі) шешiмiмен.*
+
 <table>
 <tr>
 <td colspan="10">Санаты Атауы</td>
@@ -1138,7 +1140,7 @@ source: https://zan.gov.kz/client/#!/doc/151944/kaz/28.12.2020
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td>2. Шығындар</td>
-<td>24 372</td>
+<td>24 723</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
@@ -1146,7 +1148,7 @@ source: https://zan.gov.kz/client/#!/doc/151944/kaz/28.12.2020
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>23 372</td>
+<td>23 723</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1154,7 +1156,7 @@ source: https://zan.gov.kz/client/#!/doc/151944/kaz/28.12.2020
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>23 372</td>
+<td>23 723</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1162,7 +1164,7 @@ source: https://zan.gov.kz/client/#!/doc/151944/kaz/28.12.2020
 <td colspan="3">124</td>
 <td colspan="3"></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>23 372</td>
+<td>23 723</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1178,7 +1180,7 @@ source: https://zan.gov.kz/client/#!/doc/151944/kaz/28.12.2020
 <td colspan="3"></td>
 <td colspan="3">022</td>
 <td>Мемлекеттік органның күрделі шығыстары</td>
-<td>250</td>
+<td>601</td>
 </tr>
 <tr>
 <td colspan="2">07</td>
@@ -1369,7 +1371,7 @@ source: https://zan.gov.kz/client/#!/doc/151944/kaz/28.12.2020
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2">5. Бюджет тапшылығы (профициті)</td>
-<td>0</td>
+<td>-351</td>
 </tr>
 <tr>
 <td></td>
@@ -1377,14 +1379,14 @@ source: https://zan.gov.kz/client/#!/doc/151944/kaz/28.12.2020
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2">6. Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
-<td>0</td>
+<td>351</td>
 </tr>
 <tr>
 <td>7</td>
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2">Қарыздар түсімі</td>
+<td colspan="2">Қарыздар түсімдері</td>
 <td>0</td>
 </tr>
 <tr>
@@ -1448,7 +1450,7 @@ source: https://zan.gov.kz/client/#!/doc/151944/kaz/28.12.2020
 <td colspan="4"></td>
 <td></td>
 <td colspan="2">Бюджет қаражатының пайдаланылатын қалдықтары</td>
-<td>0</td>
+<td>351</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1456,7 +1458,7 @@ source: https://zan.gov.kz/client/#!/doc/151944/kaz/28.12.2020
 <td colspan="4"></td>
 <td></td>
 <td colspan="2">Бюджет қаражаты қалдықтары</td>
-<td>0</td>
+<td>351</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1464,7 +1466,7 @@ source: https://zan.gov.kz/client/#!/doc/151944/kaz/28.12.2020
 <td colspan="4">1</td>
 <td></td>
 <td colspan="2">Бюджет қаражатының бос қалдықтары</td>
-<td>0</td>
+<td>351</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1472,7 +1474,7 @@ source: https://zan.gov.kz/client/#!/doc/151944/kaz/28.12.2020
 <td colspan="4"></td>
 <td>01</td>
 <td colspan="2">Бюджет қаражатының бос қалдықтары</td>
-<td>0</td>
+<td>351</td>
 </tr>
 </table>
 
@@ -2432,6 +2434,8 @@ source: https://zan.gov.kz/client/#!/doc/151944/kaz/28.12.2020
 
 ## Қыземшек кентінің 2021 жылға арналған бюджеті
 
+> *Ескерту. 28-қосымша жаңа редакцияда - Түркістан облысы Созақ аудандық мәслихатының 25.03.2021 № 18 (01.01.2021 бастап қолданысқа енгізіледі) шешiмiмен.*
+
 <table>
 <tr>
 <td colspan="10">Санаты Атауы</td>
@@ -2595,7 +2599,7 @@ source: https://zan.gov.kz/client/#!/doc/151944/kaz/28.12.2020
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td>2. Шығындар</td>
-<td>44 630</td>
+<td>53 128</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
@@ -2635,7 +2639,7 @@ source: https://zan.gov.kz/client/#!/doc/151944/kaz/28.12.2020
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>5 000</td>
+<td>13 498</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2643,7 +2647,7 @@ source: https://zan.gov.kz/client/#!/doc/151944/kaz/28.12.2020
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td>Елді-мекендерді көркейту</td>
-<td>5 000</td>
+<td>13 498</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2651,7 +2655,7 @@ source: https://zan.gov.kz/client/#!/doc/151944/kaz/28.12.2020
 <td colspan="3">124</td>
 <td colspan="3"></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>5 000</td>
+<td>13 498</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2659,7 +2663,7 @@ source: https://zan.gov.kz/client/#!/doc/151944/kaz/28.12.2020
 <td colspan="3"></td>
 <td colspan="3">008</td>
 <td>Елді мекендердегі көшелерді жарықтандыру</td>
-<td>0</td>
+<td>10 630</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2675,7 +2679,7 @@ source: https://zan.gov.kz/client/#!/doc/151944/kaz/28.12.2020
 <td colspan="3"></td>
 <td colspan="3">011</td>
 <td>Елді мекендерді абаттандыру мен көгалдандыру</td>
-<td>5 000</td>
+<td>2 868</td>
 </tr>
 <tr>
 <td colspan="2">08</td>
@@ -2826,7 +2830,7 @@ source: https://zan.gov.kz/client/#!/doc/151944/kaz/28.12.2020
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2">5. Бюджет тапшылығы (профициті)</td>
-<td>0</td>
+<td>-8 498</td>
 </tr>
 <tr>
 <td></td>
@@ -2834,14 +2838,14 @@ source: https://zan.gov.kz/client/#!/doc/151944/kaz/28.12.2020
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2">6. Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
-<td>0</td>
+<td>8 498</td>
 </tr>
 <tr>
 <td>7</td>
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2">Қарыздар түсімі</td>
+<td colspan="2">Қарыздар түсімдері</td>
 <td>0</td>
 </tr>
 <tr>
@@ -2905,7 +2909,7 @@ source: https://zan.gov.kz/client/#!/doc/151944/kaz/28.12.2020
 <td colspan="4"></td>
 <td></td>
 <td colspan="2">Бюджет қаражатының пайдаланылатын қалдықтары</td>
-<td>0</td>
+<td>8 498</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2913,7 +2917,7 @@ source: https://zan.gov.kz/client/#!/doc/151944/kaz/28.12.2020
 <td colspan="4"></td>
 <td></td>
 <td colspan="2">Бюджет қаражаты қалдықтары</td>
-<td>0</td>
+<td>8 498</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2921,7 +2925,7 @@ source: https://zan.gov.kz/client/#!/doc/151944/kaz/28.12.2020
 <td colspan="4">1</td>
 <td></td>
 <td colspan="2">Бюджет қаражатының бос қалдықтары</td>
-<td>0</td>
+<td>8 498</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2929,7 +2933,7 @@ source: https://zan.gov.kz/client/#!/doc/151944/kaz/28.12.2020
 <td colspan="4"></td>
 <td>01</td>
 <td colspan="2">Бюджет қаражатының бос қалдықтары</td>
-<td>0</td>
+<td>8 498</td>
 </tr>
 </table>
 
@@ -3969,6 +3973,8 @@ source: https://zan.gov.kz/client/#!/doc/151944/kaz/28.12.2020
 
 ## Таукент кентінің 2021 жылға арналған бюджеті
 
+> *Ескерту. 31-қосымша жаңа редакцияда - Түркістан облысы Созақ аудандық мәслихатының 25.03.2021 № 18 (01.01.2021 бастап қолданысқа енгізіледі) шешiмiмен.*
+
 <table>
 <tr>
 <td colspan="10">Санаты Атауы</td>
@@ -4132,7 +4138,7 @@ source: https://zan.gov.kz/client/#!/doc/151944/kaz/28.12.2020
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td>2. Шығындар</td>
-<td>49 770</td>
+<td>63 271</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
@@ -4140,7 +4146,7 @@ source: https://zan.gov.kz/client/#!/doc/151944/kaz/28.12.2020
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>35 260</td>
+<td>45 410</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -4148,7 +4154,7 @@ source: https://zan.gov.kz/client/#!/doc/151944/kaz/28.12.2020
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>35 260</td>
+<td>45 410</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -4156,7 +4162,7 @@ source: https://zan.gov.kz/client/#!/doc/151944/kaz/28.12.2020
 <td colspan="3">124</td>
 <td colspan="3"></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>35 260</td>
+<td>45 410</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -4164,7 +4170,15 @@ source: https://zan.gov.kz/client/#!/doc/151944/kaz/28.12.2020
 <td colspan="3"></td>
 <td colspan="3">001</td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>35 260</td>
+<td>44 610</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="3">022</td>
+<td>Мемлекеттік органның күрделі шығыстары</td>
+<td>800</td>
 </tr>
 <tr>
 <td colspan="2">07</td>
@@ -4172,7 +4186,7 @@ source: https://zan.gov.kz/client/#!/doc/151944/kaz/28.12.2020
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>14 310</td>
+<td>17 661</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -4180,7 +4194,7 @@ source: https://zan.gov.kz/client/#!/doc/151944/kaz/28.12.2020
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td>Елді-мекендерді көркейту</td>
-<td>14 310</td>
+<td>17 661</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -4188,7 +4202,7 @@ source: https://zan.gov.kz/client/#!/doc/151944/kaz/28.12.2020
 <td colspan="3">124</td>
 <td colspan="3"></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>14 310</td>
+<td>17 661</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -4196,7 +4210,7 @@ source: https://zan.gov.kz/client/#!/doc/151944/kaz/28.12.2020
 <td colspan="3"></td>
 <td colspan="3">008</td>
 <td>Елді мекендердегі көшелерді жарықтандыру</td>
-<td>8 310</td>
+<td>11 661</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -4363,7 +4377,7 @@ source: https://zan.gov.kz/client/#!/doc/151944/kaz/28.12.2020
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2">5. Бюджет тапшылығы (профициті)</td>
-<td>0</td>
+<td>-13 501</td>
 </tr>
 <tr>
 <td></td>
@@ -4371,14 +4385,14 @@ source: https://zan.gov.kz/client/#!/doc/151944/kaz/28.12.2020
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2">6. Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
-<td>0</td>
+<td>13 501</td>
 </tr>
 <tr>
 <td>7</td>
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2">Қарыздар түсімі</td>
+<td colspan="2">Қарыздар түсімдері</td>
 <td>0</td>
 </tr>
 <tr>
@@ -4442,7 +4456,7 @@ source: https://zan.gov.kz/client/#!/doc/151944/kaz/28.12.2020
 <td colspan="4"></td>
 <td></td>
 <td colspan="2">Бюджет қаражатының пайдаланылатын қалдықтары</td>
-<td>0</td>
+<td>13 501</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -4450,7 +4464,7 @@ source: https://zan.gov.kz/client/#!/doc/151944/kaz/28.12.2020
 <td colspan="4"></td>
 <td></td>
 <td colspan="2">Бюджет қаражаты қалдықтары</td>
-<td>0</td>
+<td>13 501</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -4458,7 +4472,7 @@ source: https://zan.gov.kz/client/#!/doc/151944/kaz/28.12.2020
 <td colspan="4">1</td>
 <td></td>
 <td colspan="2">Бюджет қаражатының бос қалдықтары</td>
-<td>0</td>
+<td>13 501</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -4466,7 +4480,7 @@ source: https://zan.gov.kz/client/#!/doc/151944/kaz/28.12.2020
 <td colspan="4"></td>
 <td>01</td>
 <td colspan="2">Бюджет қаражатының бос қалдықтары</td>
-<td>0</td>
+<td>13 501</td>
 </tr>
 </table>
 
