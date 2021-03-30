@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/151237/kaz/28.12.2020
+source: https://zan.gov.kz/client/#!/doc/151237/kaz/30.03.2021
 ---
 
 > *Түлкібас аудандық*  
@@ -884,471 +884,473 @@ source: https://zan.gov.kz/client/#!/doc/151237/kaz/28.12.2020
 </table>
 
 > *Түлкібас аудандық*  
-> *мәслихаттың 2020 жылғы*  
-> *28 желтоқсандағы № 65/1-06*  
-> *шешіміне 31- қосымша*
+> *мәслихатының 2020 жылғы*  
+> *28 желтоқсандағы №65/1-06*  
+> *шешіміне 31-қосымша*
 
 ## Рысқұлов ауылдық округінің 2021 жылға арналған бюджеті
+
+> *Ескерту. 31-қосымша жаңа редакцияда - Түркістан облысы Түлкібас аудандық мәслихатының 30.03.2021 № 5/1-07 (01.01.2021 бастап қолданысқа енгізілсін) шешімімен.*
 
 <table>
 <tr>
 <td>Санаты</td>
-<td>Сыныбы</td>
-<td colspan="2">Кіші сыныбы</td>
-<td>Атауы</td>
-<td>Сомасы, мың теңге</td>
+<td colspan="2">Сыныбы</td>
+<td colspan="3">Кіші сыныбы</td>
+<td colspan="2">Атауы</td>
+<td colspan="2">Сомасы, мың теңге</td>
 </tr>
 <tr>
-<td colspan="4">1</td>
-<td>2</td>
-<td>3</td>
+<td colspan="6">1</td>
+<td colspan="2">2</td>
+<td colspan="2">3</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td colspan="2"></td>
-<td>1. Кірістер</td>
-<td>52 389</td>
+<td colspan="3"></td>
+<td colspan="2">1. Кірістер</td>
+<td colspan="2">52 389</td>
 </tr>
 <tr>
 <td>1</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2">Салықтық түсімдер</td>
+<td colspan="2">18 203</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">04</td>
+<td colspan="3"></td>
+<td colspan="2">Меншiкке салынатын салықтар</td>
+<td colspan="2">18 153</td>
+</tr>
+<tr>
 <td></td>
 <td colspan="2"></td>
-<td>Салықтық түсімдер</td>
-<td>18 203</td>
+<td colspan="3">1</td>
+<td colspan="2">Мүлiкке салынатын салықтар</td>
+<td colspan="2">88</td>
 </tr>
 <tr>
 <td></td>
-<td>04</td>
 <td colspan="2"></td>
-<td>Меншiкке салынатын салықтар</td>
-<td>18 153</td>
+<td colspan="3">3</td>
+<td colspan="2">Жер салығы</td>
+<td colspan="2">765</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td colspan="2">1</td>
-<td>Мүлiкке салынатын салықтар</td>
-<td>88</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td colspan="2">3</td>
-<td>Жер салығы</td>
-<td>765</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td colspan="2">4</td>
-<td>Көлiк құралдарына салынатын салық</td>
-<td>17 300</td>
-</tr>
-<tr>
-<td></td>
-<td>05</td>
 <td colspan="2"></td>
-<td>Тауарларға, жұмыстарға және қызметтерге салынатын iшкi салықтар</td>
-<td>50</td>
+<td colspan="3">4</td>
+<td colspan="2">Көлiк құралдарына салынатын салық</td>
+<td colspan="2">17 300</td>
 </tr>
 <tr>
 <td></td>
+<td colspan="2">05</td>
+<td colspan="3"></td>
+<td colspan="2">Тауарларға, жұмыстарға және қызметтерге салынатын iшкi салықтар</td>
+<td colspan="2">50</td>
+</tr>
+<tr>
 <td></td>
-<td colspan="2">3</td>
-<td>Жер учаскелерін пайдаланғаны үшін төлем</td>
-<td>50</td>
+<td colspan="2"></td>
+<td colspan="3">3</td>
+<td colspan="2">Жер учаскелерін пайдаланғаны үшін төлем</td>
+<td colspan="2">50</td>
 </tr>
 <tr>
 <td>2</td>
-<td></td>
 <td colspan="2"></td>
-<td>Салықтық емес түсiмдер</td>
-<td>160</td>
+<td colspan="3"></td>
+<td colspan="2">Салықтық емес түсiмдер</td>
+<td colspan="2">160</td>
 </tr>
 <tr>
 <td></td>
-<td>01</td>
-<td colspan="2"></td>
-<td>Мемлекеттік меншiктен түсетiн кірістер</td>
-<td>160</td>
+<td colspan="2">01</td>
+<td colspan="3"></td>
+<td colspan="2">Мемлекеттік меншiктен түсетiн кірістер</td>
+<td colspan="2">160</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td colspan="2">5</td>
-<td>Мемлекет меншiгіндегі мүлікті жалға беруден түсетiн кірістер</td>
-<td>160</td>
+<td colspan="2"></td>
+<td colspan="3">5</td>
+<td colspan="2">Мемлекет меншiгіндегі мүлікті жалға беруден түсетiн кірістер</td>
+<td colspan="2">160</td>
 </tr>
 <tr>
 <td>3</td>
-<td></td>
 <td colspan="2"></td>
-<td>Негізгі капиталды сатудан түсетін түсімдер</td>
-<td>0</td>
+<td colspan="3"></td>
+<td colspan="2">Негізгі капиталды сатудан түсетін түсімдер</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td>4</td>
-<td></td>
 <td colspan="2"></td>
-<td>Трансферттер түсімі</td>
-<td>34 026</td>
+<td colspan="3"></td>
+<td colspan="2">Трансферттер түсімі</td>
+<td colspan="2">34 026</td>
 </tr>
 <tr>
 <td></td>
-<td>02</td>
-<td colspan="2"></td>
-<td>Мемлекеттік басқарудың жоғары тұрған органдарынан түсетін трансферттер</td>
-<td>34 026</td>
+<td colspan="2">02</td>
+<td colspan="3"></td>
+<td colspan="2">Мемлекеттік басқарудың жоғары тұрған органдарынан түсетін трансферттер</td>
+<td colspan="2">34 026</td>
 </tr>
 <tr>
 <td></td>
+<td colspan="2"></td>
+<td colspan="3">3</td>
+<td colspan="2">Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
+<td colspan="2">34 026</td>
+</tr>
+<tr>
+<td colspan="6">Функционалдық топ</td>
+<td colspan="2">Атауы</td>
+<td colspan="2" rowspan="4">Сомасы, мың теңге</td>
+</tr>
+<tr>
 <td></td>
+<td colspan="7">Кіші функция</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="5">Бюджеттік бағдарламалардың әкiмшiсi</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">Бағдарлама</td>
+</tr>
+<tr>
+<td colspan="6">1</td>
+<td colspan="2">2</td>
 <td colspan="2">3</td>
-<td>Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td>34 026</td>
-</tr>
-<tr>
-<td colspan="4">Функционалдық топ</td>
-<td>Атауы</td>
-<td rowspan="4">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="4">Кіші функция</td>
-</tr>
-<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td colspan="3">Бюджеттік бағдарламалардың әкiмшiсi</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2">Бағдарлама</td>
-</tr>
-<tr>
-<td colspan="4">1</td>
-<td>2</td>
-<td>3</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>2. Шығындар</td>
-<td>52 389</td>
+<td colspan="2">2. Шығындар</td>
+<td colspan="2">57584</td>
 </tr>
 <tr>
 <td>01</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>34 026</td>
+<td colspan="2">Жалпы сипаттағы мемлекеттiк қызметтер</td>
+<td colspan="2">35 324</td>
 </tr>
 <tr>
 <td></td>
-<td>1</td>
+<td colspan="2">1</td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>34 026</td>
+<td colspan="2">Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
+<td colspan="2">35 324</td>
 </tr>
 <tr>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2">124</td>
 <td></td>
-<td>124</td>
-<td></td>
-<td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>34 026</td>
+<td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
+<td colspan="2">35 324</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>001</td>
-<td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>34 026</td>
+<td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
+<td colspan="2">35 324</td>
 </tr>
 <tr>
 <td>07</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>18 363</td>
+<td colspan="2">Тұрғын үй-коммуналдық шаруашылық</td>
+<td colspan="2">22 260</td>
 </tr>
 <tr>
 <td></td>
-<td>3</td>
+<td colspan="2">3</td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td>Елді-мекендерді абаттандыру</td>
-<td>18 363</td>
+<td colspan="2">Елді-мекендерді абаттандыру</td>
+<td colspan="2">22 260</td>
 </tr>
 <tr>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2">124</td>
 <td></td>
-<td>124</td>
-<td></td>
-<td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>18 363</td>
+<td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
+<td colspan="2">22 260</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>008</td>
-<td>Елді мекендердегі көшелерді жарықтандыру</td>
-<td>11 140</td>
+<td colspan="2">Елді мекендердегі көшелерді жарықтандыру</td>
+<td colspan="2">12 439</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>009</td>
-<td>Елді мекендердің санитариясын қамтамасыз ету</td>
-<td>1 100</td>
+<td colspan="2">Елді мекендердің санитариясын қамтамасыз ету</td>
+<td colspan="2">2 399</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>011</td>
-<td>Елді мекендерді абаттандыру мен көгалдандыру</td>
-<td>6 123</td>
+<td colspan="2">Елді мекендерді абаттандыру мен көгалдандыру</td>
+<td colspan="2">7 422</td>
 </tr>
 <tr>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td>3. Таза бюджеттік кредиттеу</td>
-<td>0</td>
+<td colspan="2">3. Таза бюджеттік кредиттеу</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td>Бюджеттік кредиттер</td>
-<td>0</td>
+<td colspan="2">Бюджеттік кредиттер</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
-<td colspan="4">Санаты</td>
-<td>Атауы</td>
-<td rowspan="3">Сомасы, мың теңге</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="4">Сыныбы</td>
+<td colspan="6">Санаты</td>
+<td colspan="2">Атауы</td>
+<td colspan="2" rowspan="3">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td colspan="3">Кіші сыныбы</td>
+<td colspan="7">Сыныбы</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="2">Ерекшелігі</td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="5">Кіші сыныбы</td>
 </tr>
 <tr>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">Ерекшелігі</td>
+<td colspan="2"></td>
+</tr>
+<tr>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td>Бюджеттік кредиттерді өтеу</td>
-<td>0</td>
+<td colspan="2">Бюджеттік кредиттерді өтеу</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td>5</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td>Бюджеттік кредиттерді өтеу</td>
-<td>0</td>
+<td colspan="2">Бюджеттік кредиттерді өтеу</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td></td>
-<td>01</td>
+<td colspan="2">01</td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td>Бюджеттік кредиттерді өтеу</td>
-<td>0</td>
+<td colspan="2">Бюджеттік кредиттерді өтеу</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2">1</td>
 <td></td>
-<td>1</td>
-<td></td>
-<td>Мемлекеттік бюджеттен берілген бюджеттік кредиттерді өтеу</td>
-<td>0</td>
+<td colspan="2">Мемлекеттік бюджеттен берілген бюджеттік кредиттерді өтеу</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td>4. Қаржы активтерімен жасалатын операциялар бойынша сальдо</td>
-<td>0</td>
+<td colspan="2">4. Қаржы активтерімен жасалатын операциялар бойынша сальдо</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td>Қаржы активтерін сатып алу</td>
-<td>0</td>
+<td colspan="2">Қаржы активтерін сатып алу</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td>Мемлекеттің қаржы активтерін сатудан түсетін түсімдер</td>
-<td>0</td>
+<td colspan="2">Мемлекеттің қаржы активтерін сатудан түсетін түсімдер</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td>5. Бюджет тапшылығы (профициті)</td>
-<td>0</td>
+<td colspan="2">5. Бюджет тапшылығы (профициті)</td>
+<td colspan="2">-5195</td>
 </tr>
 <tr>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td>6. Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
-<td>0</td>
+<td colspan="2">6. Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
+<td colspan="2">5195</td>
 </tr>
 <tr>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td>Қарыздар түсімі</td>
-<td>0</td>
+<td colspan="2">Қарыздар түсімі</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td>7</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td>Қарыздар түсімі</td>
-<td>0</td>
+<td colspan="2">Қарыздар түсімі</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
-<td colspan="4">Функционалдық топ</td>
-<td>Атауы</td>
-<td rowspan="4">Сомасы, мың теңге</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="4">Кіші функция</td>
+<td colspan="6">Функционалдық топ</td>
+<td colspan="2">Атауы</td>
+<td colspan="2" rowspan="4">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td colspan="3">Бюджеттік бағдарламалардың әкiмшiсi</td>
+<td colspan="7">Кіші функция</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="2">Бағдарлама</td>
+<td colspan="2"></td>
+<td colspan="5">Бюджеттік бағдарламалардың әкiмшiсi</td>
 </tr>
 <tr>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">Бағдарлама</td>
+</tr>
+<tr>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td>Қарыздарды өтеу</td>
-<td>0</td>
+<td colspan="2">Қарыздарды өтеу</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td>16</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td>Қарыздарды өтеу</td>
-<td>0</td>
+<td colspan="2">Қарыздарды өтеу</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td></td>
-<td>1</td>
+<td colspan="2">1</td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td>Қарыздарды өтеу</td>
-<td>0</td>
+<td colspan="2">Қарыздарды өтеу</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
-<td colspan="4">Санаты</td>
-<td>Атауы</td>
-<td rowspan="4">Сомасы, мың теңге</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="4">Сыныбы</td>
+<td colspan="6">Санаты</td>
+<td colspan="2">Атауы</td>
+<td colspan="2" rowspan="4">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td colspan="3">Кіші сыныбы</td>
+<td colspan="7">Сыныбы</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="2">Ерекшелігі</td>
+<td colspan="2"></td>
+<td colspan="5">Кіші сыныбы</td>
 </tr>
 <tr>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">Ерекшелігі</td>
+</tr>
+<tr>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td>Бюджет қаражатының пайдаланылатын қалдықтары</td>
-<td>0</td>
+<td colspan="2">Бюджет қаражатының пайдаланылатын қалдықтары</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td>8</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td>Бюджет қаражатының пайдаланылатын қалдықтары</td>
-<td>0</td>
+<td colspan="2">Бюджет қаражатының пайдаланылатын қалдықтары</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td></td>
+<td colspan="2">01</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2">Бюджет қаражаты қалдықтары</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">1</td>
+<td></td>
+<td colspan="2">Бюджет қаражатының бос қалдықтары</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>01</td>
-<td></td>
-<td></td>
-<td>Бюджет қаражаты қалдықтары</td>
-<td>0</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>1</td>
-<td></td>
-<td>Бюджет қаражатының бос қалдықтары</td>
-<td>0</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>01</td>
-<td>Бюджет қаражатының бос қалдықтары</td>
-<td>0</td>
+<td colspan="2">Бюджет қаражатының бос қалдықтары</td>
+<td colspan="2">5195</td>
 </tr>
 </table>
 
@@ -2291,167 +2293,169 @@ source: https://zan.gov.kz/client/#!/doc/151237/kaz/28.12.2020
 </table>
 
 > *Түлкібас аудандық*  
-> *мәслихаттың 2020 жылғы*  
-> *28 желтоқсандағы № 65/1-06*  
-> *шешіміне 34- қосымша*
+> *мәслихатының 2020 жылғы*  
+> *28 желтоқсандағы №65/1-06*  
+> *шешіміне 34-қосымша*
 
 ## Састөбе кентінің 2021 жылға арналған бюджеті
+
+> *Ескерту. 34-қосымша жаңа редакцияда - Түркістан облысы Түлкібас аудандық мәслихатының 30.03.2021 № 5/1-07 (01.01.2021 бастап қолданысқа енгізілсін) шешімімен.*
 
 <table>
 <tr>
 <td colspan="2">Санаты</td>
 <td>Сыныбы</td>
-<td colspan="2">Кіші сыныбы</td>
+<td colspan="3">Кіші сыныбы</td>
 <td colspan="2">Атауы</td>
 <td>Сомасы, мың теңге</td>
 </tr>
 <tr>
-<td colspan="5">1</td>
+<td colspan="6">1</td>
 <td colspan="2">2</td>
 <td>3</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2">1. Кірістер</td>
 <td>46 032</td>
 </tr>
 <tr>
 <td colspan="2">1</td>
 <td></td>
-<td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2">Салықтық түсімдер</td>
 <td>13 918</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td>04</td>
-<td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2">Меншiкке салынатын салықтар</td>
 <td>13 878</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2">1</td>
+<td colspan="3">1</td>
 <td colspan="2">Мүлiкке салынатын салықтар</td>
 <td>123</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2">3</td>
+<td colspan="3">3</td>
 <td colspan="2">Жер салығы</td>
 <td>1 255</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2">4</td>
+<td colspan="3">4</td>
 <td colspan="2">Көлiк құралдарына салынатын салық</td>
 <td>12 500</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td>05</td>
-<td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2">Тауарларға, жұмыстарға және қызметтерге салынатын iшкi салықтар</td>
 <td>40</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2">3</td>
+<td colspan="3">3</td>
 <td colspan="2">Жер учаскелерін пайдаланғаны үшін төлем</td>
 <td>40</td>
 </tr>
 <tr>
 <td colspan="2">2</td>
 <td></td>
-<td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2">Салықтық емес түсiмдер</td>
 <td>100</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td>01</td>
-<td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2">Мемлекеттік меншiктен түсетiн кірістер</td>
 <td>100</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2">5</td>
+<td colspan="3">5</td>
 <td colspan="2">Мемлекет меншiгіндегі мүлікті жалға беруден түсетiн кірістер</td>
 <td>100</td>
 </tr>
 <tr>
 <td colspan="2">3</td>
 <td></td>
-<td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2">Негізгі капиталды сатудан түсетін түсімдер</td>
 <td>0</td>
 </tr>
 <tr>
 <td colspan="2">4</td>
 <td></td>
-<td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2">Трансферттер түсімі</td>
 <td>32 014</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td>02</td>
-<td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2">Мемлекеттік басқарудың жоғары тұрған органдарынан түсетін трансферттер</td>
 <td>32 014</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2">3</td>
+<td colspan="3">3</td>
 <td colspan="2">Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
 <td>32 014</td>
 </tr>
 <tr>
-<td colspan="5">Функционалдық топ</td>
+<td colspan="6">Функционалдық топ</td>
 <td colspan="2">Атауы</td>
 <td rowspan="4">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="5">Кіші функция</td>
+<td colspan="6">Кіші функция</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
-<td colspan="4">Бюджеттік бағдарламалардың әкiмшiсi</td>
+<td colspan="5">Бюджеттік бағдарламалардың әкiмшiсi</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td colspan="3">Бағдарлама</td>
 </tr>
 <tr>
-<td colspan="5">1</td>
+<td colspan="6">1</td>
 <td colspan="2">2</td>
 <td>3</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td>2. Шығындар</td>
-<td>46 032</td>
+<td>50 397</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
 <td>32 014</td>
@@ -2459,7 +2463,7 @@ source: https://zan.gov.kz/client/#!/doc/151237/kaz/28.12.2020
 <tr>
 <td colspan="2"></td>
 <td>1</td>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
 <td>32 014</td>
@@ -2467,7 +2471,7 @@ source: https://zan.gov.kz/client/#!/doc/151237/kaz/28.12.2020
 <tr>
 <td colspan="2"></td>
 <td></td>
-<td>124</td>
+<td colspan="2">124</td>
 <td colspan="2"></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
 <td>32 014</td>
@@ -2475,7 +2479,7 @@ source: https://zan.gov.kz/client/#!/doc/151237/kaz/28.12.2020
 <tr>
 <td colspan="2"></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2">001</td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
 <td>32 014</td>
@@ -2483,55 +2487,55 @@ source: https://zan.gov.kz/client/#!/doc/151237/kaz/28.12.2020
 <tr>
 <td colspan="2">07</td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>14 018</td>
+<td>18 383</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td>3</td>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td>Елді-мекендерді абаттандыру</td>
-<td>14 018</td>
+<td>18 383</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
-<td>124</td>
+<td colspan="2">124</td>
 <td colspan="2"></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>14 018</td>
+<td>18 383</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2">008</td>
 <td>Елді мекендердегі көшелерді жарықтандыру</td>
-<td>9 480</td>
+<td>10 935</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2">009</td>
 <td>Елді мекендердің санитариясын қамтамасыз ету</td>
-<td>2 200</td>
+<td>3 655</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2">011</td>
 <td>Елді мекендерді абаттандыру мен көгалдандыру</td>
-<td>2 338</td>
+<td>3793</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td>3. Таза бюджеттік кредиттеу</td>
 <td>0</td>
@@ -2539,37 +2543,37 @@ source: https://zan.gov.kz/client/#!/doc/151237/kaz/28.12.2020
 <tr>
 <td colspan="2"></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td>Бюджеттік кредиттер</td>
 <td>0</td>
 </tr>
 <tr>
-<td colspan="5">Санаты</td>
+<td colspan="6">Санаты</td>
 <td colspan="2">Атауы</td>
 <td rowspan="4">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="5">Сыныбы</td>
+<td colspan="6">Сыныбы</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
-<td>Кіші сыныбы</td>
+<td colspan="2">Кіші сыныбы</td>
 <td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td colspan="3">Ерекшелігі</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td>Бюджеттік кредиттерді өтеу</td>
 <td>0</td>
@@ -2577,7 +2581,7 @@ source: https://zan.gov.kz/client/#!/doc/151237/kaz/28.12.2020
 <tr>
 <td colspan="2">5</td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td>Бюджеттік кредиттерді өтеу</td>
 <td>0</td>
@@ -2585,7 +2589,7 @@ source: https://zan.gov.kz/client/#!/doc/151237/kaz/28.12.2020
 <tr>
 <td colspan="2"></td>
 <td>01</td>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td>Бюджеттік кредиттерді өтеу</td>
 <td>0</td>
@@ -2593,7 +2597,7 @@ source: https://zan.gov.kz/client/#!/doc/151237/kaz/28.12.2020
 <tr>
 <td colspan="2"></td>
 <td></td>
-<td>1</td>
+<td colspan="2">1</td>
 <td colspan="2"></td>
 <td>Мемлекеттік бюджеттен берілген бюджеттік кредиттерді өтеу</td>
 <td>0</td>
@@ -2601,7 +2605,7 @@ source: https://zan.gov.kz/client/#!/doc/151237/kaz/28.12.2020
 <tr>
 <td colspan="2"></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td>4. Қаржы активтерімен жасалатын операциялар бойынша сальдо</td>
 <td>0</td>
@@ -2609,7 +2613,7 @@ source: https://zan.gov.kz/client/#!/doc/151237/kaz/28.12.2020
 <tr>
 <td colspan="2"></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td>Қаржы активтерін сатып алу</td>
 <td>0</td>
@@ -2617,7 +2621,7 @@ source: https://zan.gov.kz/client/#!/doc/151237/kaz/28.12.2020
 <tr>
 <td colspan="2"></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td>Мемлекеттің қаржы активтерін сатудан түсетін түсімдер</td>
 <td>0</td>
@@ -2625,23 +2629,23 @@ source: https://zan.gov.kz/client/#!/doc/151237/kaz/28.12.2020
 <tr>
 <td colspan="2"></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td>5. Бюджет тапшылығы (профициті)</td>
-<td>0</td>
+<td>-4365</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td>6. Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
-<td>0</td>
+<td>4365</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td>Қарыздар түсімі</td>
 <td>0</td>
@@ -2649,35 +2653,35 @@ source: https://zan.gov.kz/client/#!/doc/151237/kaz/28.12.2020
 <tr>
 <td colspan="2">7</td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td>Қарыздар түсімі</td>
 <td>0</td>
 </tr>
 <tr>
-<td colspan="5">Функционалдық топ</td>
+<td colspan="6">Функционалдық топ</td>
 <td colspan="2">Атауы</td>
 <td rowspan="4">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="5">Кіші функция</td>
+<td colspan="6">Кіші функция</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
-<td colspan="4">Бюджеттік бағдарламалардың әкiмшiсi</td>
+<td colspan="5">Бюджеттік бағдарламалардың әкiмшiсi</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td colspan="3">Бағдарлама</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td>Қарыздарды өтеу</td>
 <td>0</td>
@@ -2685,7 +2689,7 @@ source: https://zan.gov.kz/client/#!/doc/151237/kaz/28.12.2020
 <tr>
 <td colspan="2">16</td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td>Қарыздарды өтеу</td>
 <td>0</td>
@@ -2693,35 +2697,35 @@ source: https://zan.gov.kz/client/#!/doc/151237/kaz/28.12.2020
 <tr>
 <td colspan="2"></td>
 <td>1</td>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td>Қарыздарды өтеу</td>
 <td>0</td>
 </tr>
 <tr>
-<td colspan="5">Санаты</td>
+<td colspan="6">Санаты</td>
 <td colspan="2">Атауы</td>
 <td rowspan="4">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="5">Сыныбы</td>
+<td colspan="6">Сыныбы</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
-<td colspan="4">Кіші сыныбы</td>
+<td colspan="5">Кіші сыныбы</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td colspan="3">Ерекшелігі</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td>Бюджет қаражатының пайдаланылатын қалдықтары</td>
 <td>0</td>
@@ -2729,7 +2733,7 @@ source: https://zan.gov.kz/client/#!/doc/151237/kaz/28.12.2020
 <tr>
 <td colspan="2">8</td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td>Бюджет қаражатының пайдаланылатын қалдықтары</td>
 <td>0</td>
@@ -2737,7 +2741,7 @@ source: https://zan.gov.kz/client/#!/doc/151237/kaz/28.12.2020
 <tr>
 <td colspan="2"></td>
 <td>01</td>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td>Бюджет қаражаты қалдықтары</td>
 <td>0</td>
@@ -2745,7 +2749,7 @@ source: https://zan.gov.kz/client/#!/doc/151237/kaz/28.12.2020
 <tr>
 <td colspan="2"></td>
 <td></td>
-<td>1</td>
+<td colspan="2">1</td>
 <td colspan="2"></td>
 <td>Бюджет қаражатының бос қалдықтары</td>
 <td>0</td>
@@ -2753,10 +2757,10 @@ source: https://zan.gov.kz/client/#!/doc/151237/kaz/28.12.2020
 <tr>
 <td colspan="2"></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2">01</td>
 <td>Бюджет қаражатының бос қалдықтары</td>
-<td>0</td>
+<td>4365</td>
 </tr>
 </table>
 
@@ -3706,11 +3710,13 @@ source: https://zan.gov.kz/client/#!/doc/151237/kaz/28.12.2020
 </table>
 
 > *Түлкібас аудандық*  
-> *мәслихаттың 2020 жылғы*  
-> *28 желтоқсандағы № 65/1-06*  
-> *шешіміне 37- қосымша*
+> *мәслихатының 2020 жылғы*  
+> *28 желтоқсандағы №65/1-06*  
+> *шешіміне 37-қосымша*
 
 ## Түлкібас кентінің 2021 жылға арналған бюджеті
+
+> *Ескерту. 37-қосымша жаңа редакцияда - Түркістан облысы Түлкібас аудандық мәслихатының 30.03.2021 № 5/1-07 (01.01.2021 бастап қолданысқа енгізілсін) шешімімен.*
 
 <table>
 <tr>
@@ -3841,7 +3847,7 @@ source: https://zan.gov.kz/client/#!/doc/151237/kaz/28.12.2020
 <td></td>
 <td></td>
 <td>2. Шығындар</td>
-<td>60 858</td>
+<td>62 057</td>
 </tr>
 <tr>
 <td>01</td>
@@ -3881,7 +3887,7 @@ source: https://zan.gov.kz/client/#!/doc/151237/kaz/28.12.2020
 <td></td>
 <td></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>19 437</td>
+<td>20 636</td>
 </tr>
 <tr>
 <td></td>
@@ -3889,7 +3895,7 @@ source: https://zan.gov.kz/client/#!/doc/151237/kaz/28.12.2020
 <td></td>
 <td></td>
 <td>Елді-мекендерді абаттандыру</td>
-<td>19 437</td>
+<td>20 636</td>
 </tr>
 <tr>
 <td></td>
@@ -3897,7 +3903,7 @@ source: https://zan.gov.kz/client/#!/doc/151237/kaz/28.12.2020
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>19 437</td>
+<td>20 636</td>
 </tr>
 <tr>
 <td></td>
@@ -3921,7 +3927,7 @@ source: https://zan.gov.kz/client/#!/doc/151237/kaz/28.12.2020
 <td></td>
 <td>011</td>
 <td>Елді мекендерді абаттандыру мен көгалдандыру</td>
-<td>13 978</td>
+<td>15 177</td>
 </tr>
 <tr>
 <td></td>
@@ -4021,7 +4027,7 @@ source: https://zan.gov.kz/client/#!/doc/151237/kaz/28.12.2020
 <td></td>
 <td></td>
 <td>5. Бюджет тапшылығы (профициті)</td>
-<td>0</td>
+<td>-1199</td>
 </tr>
 <tr>
 <td></td>
@@ -4029,7 +4035,7 @@ source: https://zan.gov.kz/client/#!/doc/151237/kaz/28.12.2020
 <td></td>
 <td></td>
 <td>6. Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
-<td>0</td>
+<td>1199</td>
 </tr>
 <tr>
 <td></td>
@@ -4149,7 +4155,7 @@ source: https://zan.gov.kz/client/#!/doc/151237/kaz/28.12.2020
 <td></td>
 <td>01</td>
 <td>Бюджет қаражатының бос қалдықтары</td>
-<td>0</td>
+<td>1199</td>
 </tr>
 </table>
 
@@ -5050,11 +5056,13 @@ source: https://zan.gov.kz/client/#!/doc/151237/kaz/28.12.2020
 </table>
 
 > *Түлкібас аудандық*  
-> *мәслихаттың 2020 жылғы*  
-> *28 желтоқсандағы № 65/1-06*  
-> *шешіміне 40- қосымша*
+> *мәслихатының 2020 жылғы*  
+> *28 желтоқсандағы №65/1-06*  
+> *шешіміне 40-қосымша*
 
 ## Тастұмсық ауылдық округінің 2021 жылға арналған бюджеті
+
+> *Ескерту. 40-қосымша жаңа редакцияда - Түркістан облысы Түлкібас аудандық мәслихатының 30.03.2021 № 5/1-07 (01.01.2021 бастап қолданысқа енгізілсін) шешімімен.*
 
 <table>
 <tr>
@@ -5191,7 +5199,7 @@ source: https://zan.gov.kz/client/#!/doc/151237/kaz/28.12.2020
 <td></td>
 <td></td>
 <td colspan="3">2. Шығындар</td>
-<td>34 075</td>
+<td>35 246</td>
 </tr>
 <tr>
 <td>01</td>
@@ -5231,7 +5239,7 @@ source: https://zan.gov.kz/client/#!/doc/151237/kaz/28.12.2020
 <td></td>
 <td></td>
 <td colspan="3">Тұрғын үй-коммуналдық шаруашылық</td>
-<td>10 365</td>
+<td>11 536</td>
 </tr>
 <tr>
 <td></td>
@@ -5239,7 +5247,7 @@ source: https://zan.gov.kz/client/#!/doc/151237/kaz/28.12.2020
 <td></td>
 <td></td>
 <td colspan="3">Елді-мекендерді абаттандыру</td>
-<td>10 365</td>
+<td>11 536</td>
 </tr>
 <tr>
 <td></td>
@@ -5247,7 +5255,7 @@ source: https://zan.gov.kz/client/#!/doc/151237/kaz/28.12.2020
 <td>124</td>
 <td></td>
 <td colspan="3">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>10 365</td>
+<td>11 536</td>
 </tr>
 <tr>
 <td></td>
@@ -5271,7 +5279,7 @@ source: https://zan.gov.kz/client/#!/doc/151237/kaz/28.12.2020
 <td></td>
 <td>011</td>
 <td colspan="3">Елді мекендерді абаттандыру мен көгалдандыру</td>
-<td>3 826</td>
+<td>4 997</td>
 </tr>
 <tr>
 <td></td>
@@ -5371,7 +5379,7 @@ source: https://zan.gov.kz/client/#!/doc/151237/kaz/28.12.2020
 <td></td>
 <td></td>
 <td colspan="3">5. Бюджет тапшылығы (профициті)</td>
-<td>0</td>
+<td>-1171</td>
 </tr>
 <tr>
 <td></td>
@@ -5379,7 +5387,7 @@ source: https://zan.gov.kz/client/#!/doc/151237/kaz/28.12.2020
 <td></td>
 <td></td>
 <td colspan="3">6. Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
-<td>0</td>
+<td>1171</td>
 </tr>
 <tr>
 <td></td>
@@ -5499,7 +5507,7 @@ source: https://zan.gov.kz/client/#!/doc/151237/kaz/28.12.2020
 <td></td>
 <td>01</td>
 <td colspan="3">Бюджет қаражатының бос қалдықтары</td>
-<td>0</td>
+<td>1171</td>
 </tr>
 </table>
 

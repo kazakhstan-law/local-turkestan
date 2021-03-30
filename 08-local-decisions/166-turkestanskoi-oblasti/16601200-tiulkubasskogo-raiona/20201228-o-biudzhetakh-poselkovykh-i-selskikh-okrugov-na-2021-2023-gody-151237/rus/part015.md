@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/151237/rus/28.12.2020
+source: https://zan.gov.kz/client/#!/doc/151237/rus/30.03.2021
 ---
 
 > *Приложение 15*  
@@ -448,9 +448,11 @@ source: https://zan.gov.kz/client/#!/doc/151237/rus/28.12.2020
 > *к решению Тюлькубасского*  
 > *районного маслихата*  
 > *от 28 декабря 2020 года*  
-> *№ 65/1-06*
+> *№65/1-06*
 
 ## Бюджет Келтемашатского сельского округа на 2021 год
+
+> *Сноска. Приложение 16 в редакции решения Тюлькубасского районного маслихата Туркестанской области от 30.03.2021 № 5/1-07 (вводится в действие с 01.01.2021).*
 
 <table>
 <tr>
@@ -573,7 +575,7 @@ source: https://zan.gov.kz/client/#!/doc/151237/rus/28.12.2020
 <td></td>
 <td></td>
 <td>2. Затраты</td>
-<td colspan="2">37 702</td>
+<td colspan="2">38 968</td>
 </tr>
 <tr>
 <td>01</td>
@@ -613,7 +615,7 @@ source: https://zan.gov.kz/client/#!/doc/151237/rus/28.12.2020
 <td></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td colspan="2">8 133</td>
+<td colspan="2">9 399</td>
 </tr>
 <tr>
 <td></td>
@@ -621,7 +623,7 @@ source: https://zan.gov.kz/client/#!/doc/151237/rus/28.12.2020
 <td></td>
 <td></td>
 <td>Благоустройство населенных пунктов</td>
-<td colspan="2">8 133</td>
+<td colspan="2">9 399</td>
 </tr>
 <tr>
 <td></td>
@@ -629,7 +631,7 @@ source: https://zan.gov.kz/client/#!/doc/151237/rus/28.12.2020
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">8 133</td>
+<td colspan="2">9 399</td>
 </tr>
 <tr>
 <td></td>
@@ -653,7 +655,7 @@ source: https://zan.gov.kz/client/#!/doc/151237/rus/28.12.2020
 <td></td>
 <td>011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td colspan="2">4 033</td>
+<td colspan="2">5299</td>
 </tr>
 <tr>
 <td></td>
@@ -753,7 +755,7 @@ source: https://zan.gov.kz/client/#!/doc/151237/rus/28.12.2020
 <td></td>
 <td></td>
 <td>5. Дефицит(профицит) бюджета</td>
-<td colspan="2">0</td>
+<td colspan="2">-1266</td>
 </tr>
 <tr>
 <td></td>
@@ -761,7 +763,7 @@ source: https://zan.gov.kz/client/#!/doc/151237/rus/28.12.2020
 <td></td>
 <td></td>
 <td>6. Финансирование дефицита( использование профицита) бюджета</td>
-<td colspan="2">0</td>
+<td colspan="2">1266</td>
 </tr>
 <tr>
 <td></td>
@@ -881,7 +883,7 @@ source: https://zan.gov.kz/client/#!/doc/151237/rus/28.12.2020
 <td></td>
 <td>01</td>
 <td>Свободные остатки бюджетных средств</td>
-<td colspan="2">0</td>
+<td colspan="2">1266</td>
 </tr>
 </table>
 
@@ -1771,9 +1773,11 @@ source: https://zan.gov.kz/client/#!/doc/151237/rus/28.12.2020
 > *к решению Тюлькубасского*  
 > *районного маслихата*  
 > *от 28 декабря 2020 года*  
-> *№ 65/1-06*
+> *№65/1-06*
 
 ## Бюджет Кемербастауского сельского округа на 2021 год
+
+> *Сноска. Приложение 19 в редакции решения Тюлькубасского районного маслихата Туркестанской области от 30.03.2021 № 5/1-07 (вводится в действие с 01.01.2021).*
 
 <table>
 <tr>
@@ -1910,7 +1914,7 @@ source: https://zan.gov.kz/client/#!/doc/151237/rus/28.12.2020
 <td></td>
 <td></td>
 <td>2. Затраты</td>
-<td>36 793</td>
+<td>37 798</td>
 </tr>
 <tr>
 <td>01</td>
@@ -1950,7 +1954,7 @@ source: https://zan.gov.kz/client/#!/doc/151237/rus/28.12.2020
 <td></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>7 785</td>
+<td>8 790</td>
 </tr>
 <tr>
 <td></td>
@@ -1958,7 +1962,7 @@ source: https://zan.gov.kz/client/#!/doc/151237/rus/28.12.2020
 <td></td>
 <td></td>
 <td>Благоустройство населенных пунктов</td>
-<td>7 785</td>
+<td>8 790</td>
 </tr>
 <tr>
 <td></td>
@@ -1966,7 +1970,7 @@ source: https://zan.gov.kz/client/#!/doc/151237/rus/28.12.2020
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>7 785</td>
+<td>8 790</td>
 </tr>
 <tr>
 <td></td>
@@ -1990,7 +1994,7 @@ source: https://zan.gov.kz/client/#!/doc/151237/rus/28.12.2020
 <td></td>
 <td>011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td>2 655</td>
+<td>3660</td>
 </tr>
 <tr>
 <td></td>
@@ -2090,7 +2094,7 @@ source: https://zan.gov.kz/client/#!/doc/151237/rus/28.12.2020
 <td></td>
 <td></td>
 <td>5. Дефицит (профицит) бюджета</td>
-<td>0</td>
+<td>-1005</td>
 </tr>
 <tr>
 <td></td>
@@ -2098,7 +2102,7 @@ source: https://zan.gov.kz/client/#!/doc/151237/rus/28.12.2020
 <td></td>
 <td></td>
 <td>6. Финансирование дефицита (использование профицита) бюджета</td>
-<td>0</td>
+<td>1005</td>
 </tr>
 <tr>
 <td></td>
@@ -2218,7 +2222,7 @@ source: https://zan.gov.kz/client/#!/doc/151237/rus/28.12.2020
 <td></td>
 <td>01</td>
 <td>Свободные остатки бюджетных средств</td>
-<td>0</td>
+<td>1005</td>
 </tr>
 </table>
 
@@ -3136,9 +3140,11 @@ source: https://zan.gov.kz/client/#!/doc/151237/rus/28.12.2020
 > *к решению Тюлькубасского*  
 > *районного маслихата*  
 > *от 28 декабря 2020 года*  
-> *№ 65/1-06*
+> *№65/1-06*
 
 ## Бюджет Майлыкентского сельского округа на 2021 год
+
+> *Сноска. Приложение 22 в редакции решения Тюлькубасского районного маслихата Туркестанской области от 30.03.2021 № 5/1-07 (вводится в действие с 01.01.2021).*
 
 <table>
 <tr>
@@ -3289,7 +3295,7 @@ source: https://zan.gov.kz/client/#!/doc/151237/rus/28.12.2020
 <td></td>
 <td></td>
 <td>2. Затраты</td>
-<td>109 813</td>
+<td>115658</td>
 </tr>
 <tr>
 <td>01</td>
@@ -3297,7 +3303,7 @@ source: https://zan.gov.kz/client/#!/doc/151237/rus/28.12.2020
 <td></td>
 <td></td>
 <td>Государственные услуги общего характера</td>
-<td>54 894</td>
+<td>56 193</td>
 </tr>
 <tr>
 <td></td>
@@ -3305,7 +3311,7 @@ source: https://zan.gov.kz/client/#!/doc/151237/rus/28.12.2020
 <td></td>
 <td></td>
 <td>Представительные, исполнительные и органы, выполняющие общие функции государственного управления</td>
-<td>54 894</td>
+<td>56 193</td>
 </tr>
 <tr>
 <td></td>
@@ -3313,7 +3319,7 @@ source: https://zan.gov.kz/client/#!/doc/151237/rus/28.12.2020
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>54 894</td>
+<td>56 193</td>
 </tr>
 <tr>
 <td></td>
@@ -3321,7 +3327,7 @@ source: https://zan.gov.kz/client/#!/doc/151237/rus/28.12.2020
 <td></td>
 <td>001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>54 894</td>
+<td>56 193</td>
 </tr>
 <tr>
 <td>07</td>
@@ -3329,7 +3335,7 @@ source: https://zan.gov.kz/client/#!/doc/151237/rus/28.12.2020
 <td></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>54 919</td>
+<td>59 465</td>
 </tr>
 <tr>
 <td></td>
@@ -3337,7 +3343,7 @@ source: https://zan.gov.kz/client/#!/doc/151237/rus/28.12.2020
 <td></td>
 <td></td>
 <td>Благоустройство населенных пунктов</td>
-<td>54 919</td>
+<td>59 465</td>
 </tr>
 <tr>
 <td></td>
@@ -3345,7 +3351,7 @@ source: https://zan.gov.kz/client/#!/doc/151237/rus/28.12.2020
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>54 919</td>
+<td>59 465</td>
 </tr>
 <tr>
 <td></td>
@@ -3353,7 +3359,7 @@ source: https://zan.gov.kz/client/#!/doc/151237/rus/28.12.2020
 <td></td>
 <td>008</td>
 <td>Освещение улиц населенных пунктов</td>
-<td>23 890</td>
+<td>24 864</td>
 </tr>
 <tr>
 <td></td>
@@ -3361,7 +3367,7 @@ source: https://zan.gov.kz/client/#!/doc/151237/rus/28.12.2020
 <td></td>
 <td>009</td>
 <td>Обеспечение санитарии населенных пунктов</td>
-<td>13 690</td>
+<td>14 664</td>
 </tr>
 <tr>
 <td></td>
@@ -3369,7 +3375,7 @@ source: https://zan.gov.kz/client/#!/doc/151237/rus/28.12.2020
 <td></td>
 <td>011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td>17 339</td>
+<td>19 937</td>
 </tr>
 <tr>
 <td></td>
@@ -3469,7 +3475,7 @@ source: https://zan.gov.kz/client/#!/doc/151237/rus/28.12.2020
 <td></td>
 <td></td>
 <td>5. Дефицит (профицит) бюджета</td>
-<td>0</td>
+<td>-5845</td>
 </tr>
 <tr>
 <td></td>
@@ -3477,7 +3483,7 @@ source: https://zan.gov.kz/client/#!/doc/151237/rus/28.12.2020
 <td></td>
 <td></td>
 <td>6. Финансирование дефицита (использование профицита) бюджета</td>
-<td>0</td>
+<td>5845</td>
 </tr>
 <tr>
 <td></td>
@@ -3597,7 +3603,7 @@ source: https://zan.gov.kz/client/#!/doc/151237/rus/28.12.2020
 <td></td>
 <td>01</td>
 <td>Свободные остатки бюджетных средств</td>
-<td>0</td>
+<td>5845</td>
 </tr>
 </table>
 
@@ -4543,9 +4549,11 @@ source: https://zan.gov.kz/client/#!/doc/151237/rus/28.12.2020
 > *к решению Тюлькубасского*  
 > *районного маслихата*  
 > *от 28 декабря 2020 года*  
-> *№ 65/1-06*
+> *№65/1-06*
 
 ## Бюджет Машатского сельского округа на 2021 год
+
+> *Сноска. Приложение 25 в редакции решения Тюлькубасского районного маслихата Туркестанской области от 30.03.2021 № 5/1-07 (вводится в действие с 01.01.2021).*
 
 <table>
 <tr>
@@ -4669,7 +4677,7 @@ source: https://zan.gov.kz/client/#!/doc/151237/rus/28.12.2020
 <td></td>
 <td></td>
 <td>2. Затраты</td>
-<td>36 841</td>
+<td>37 769</td>
 </tr>
 <tr>
 <td>01</td>
@@ -4709,7 +4717,7 @@ source: https://zan.gov.kz/client/#!/doc/151237/rus/28.12.2020
 <td></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>5 773</td>
+<td>6 701</td>
 </tr>
 <tr>
 <td></td>
@@ -4717,7 +4725,7 @@ source: https://zan.gov.kz/client/#!/doc/151237/rus/28.12.2020
 <td></td>
 <td></td>
 <td>Благоустройство населенных пунктов</td>
-<td>5 773</td>
+<td>6 701</td>
 </tr>
 <tr>
 <td></td>
@@ -4725,7 +4733,7 @@ source: https://zan.gov.kz/client/#!/doc/151237/rus/28.12.2020
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>5 773</td>
+<td>6 701</td>
 </tr>
 <tr>
 <td></td>
@@ -4749,7 +4757,7 @@ source: https://zan.gov.kz/client/#!/doc/151237/rus/28.12.2020
 <td></td>
 <td>011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td>3 173</td>
+<td>4101</td>
 </tr>
 <tr>
 <td></td>
@@ -4849,7 +4857,7 @@ source: https://zan.gov.kz/client/#!/doc/151237/rus/28.12.2020
 <td></td>
 <td></td>
 <td>5. Дефицит (профицит) бюджета</td>
-<td>0</td>
+<td>-928</td>
 </tr>
 <tr>
 <td></td>
@@ -4857,7 +4865,7 @@ source: https://zan.gov.kz/client/#!/doc/151237/rus/28.12.2020
 <td></td>
 <td></td>
 <td>6. Финансирование дефицита (использование профицита) бюджета</td>
-<td>0</td>
+<td>928</td>
 </tr>
 <tr>
 <td></td>
@@ -4977,7 +4985,7 @@ source: https://zan.gov.kz/client/#!/doc/151237/rus/28.12.2020
 <td></td>
 <td>01</td>
 <td>Свободные остатки бюджетных средств</td>
-<td>0</td>
+<td>928</td>
 </tr>
 </table>
 
@@ -5869,9 +5877,11 @@ source: https://zan.gov.kz/client/#!/doc/151237/rus/28.12.2020
 > *к решению Тюлькубасского*  
 > *районного маслихата*  
 > *от 28 декабря 2020 года*  
-> *№ 65/1-06*
+> *№65/1-06*
 
 ## Бюджет Мичуринского сельского округа на 2021 год
+
+> *Сноска. Приложение 28 в редакции решения Тюлькубасского районного маслихата Туркестанской области от 30.03.2021 № 5/1-07 (вводится в действие с 01.01.2021).*
 
 <table>
 <tr>
@@ -5879,94 +5889,94 @@ source: https://zan.gov.kz/client/#!/doc/151237/rus/28.12.2020
 <td>Класс</td>
 <td colspan="2">Подкласс</td>
 <td>Наименование</td>
-<td>Сумма, тысяч тенге</td>
+<td colspan="2">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td colspan="4">1</td>
 <td>2</td>
-<td>3</td>
+<td colspan="2">3</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="2"></td>
 <td>1. Доходы</td>
-<td>40 443</td>
+<td colspan="2">40 443</td>
 </tr>
 <tr>
 <td>1</td>
 <td></td>
 <td colspan="2"></td>
 <td>Налоговые поступления</td>
-<td>10 368</td>
+<td colspan="2">10 368</td>
 </tr>
 <tr>
 <td></td>
 <td>04</td>
 <td colspan="2"></td>
 <td>Hалоги на собственность</td>
-<td>10 368</td>
+<td colspan="2">10 368</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="2">1</td>
 <td>Hалоги на имущество</td>
-<td>123</td>
+<td colspan="2">123</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="2">3</td>
 <td>Земельный налог</td>
-<td>555</td>
+<td colspan="2">555</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="2">4</td>
 <td>Hалог на транспортные средства</td>
-<td>9 690</td>
+<td colspan="2">9 690</td>
 </tr>
 <tr>
 <td>2</td>
 <td></td>
 <td colspan="2"></td>
 <td>Неналоговые поступления</td>
-<td>0</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td>3</td>
 <td></td>
 <td colspan="2"></td>
 <td>Поступления от продажи основного капитала</td>
-<td>0</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td>4</td>
 <td></td>
 <td colspan="2"></td>
 <td>Поступления трансфертов</td>
-<td>30 075</td>
+<td colspan="2">30 075</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td colspan="2"></td>
 <td>Трансферты из вышестоящих органов государственного управления</td>
-<td>30 075</td>
+<td colspan="2">30 075</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="2">3</td>
 <td>Трансферты из районного (города областного значения) бюджета</td>
-<td>30 075</td>
+<td colspan="2">30 075</td>
 </tr>
 <tr>
 <td colspan="4">Функциональная группа</td>
 <td>Наименование</td>
-<td rowspan="4">Сумма, тысяч тенге</td>
+<td colspan="2" rowspan="4">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
@@ -5986,7 +5996,7 @@ source: https://zan.gov.kz/client/#!/doc/151237/rus/28.12.2020
 <tr>
 <td colspan="4">1</td>
 <td>2</td>
-<td>3</td>
+<td colspan="2">3</td>
 </tr>
 <tr>
 <td></td>
@@ -5994,7 +6004,7 @@ source: https://zan.gov.kz/client/#!/doc/151237/rus/28.12.2020
 <td></td>
 <td></td>
 <td>2. Затраты</td>
-<td>40 443</td>
+<td colspan="2">41 769</td>
 </tr>
 <tr>
 <td>01</td>
@@ -6002,7 +6012,7 @@ source: https://zan.gov.kz/client/#!/doc/151237/rus/28.12.2020
 <td></td>
 <td></td>
 <td>Государственные услуги общего характера</td>
-<td>31 219</td>
+<td colspan="2">31 219</td>
 </tr>
 <tr>
 <td></td>
@@ -6010,7 +6020,7 @@ source: https://zan.gov.kz/client/#!/doc/151237/rus/28.12.2020
 <td></td>
 <td></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>31 219</td>
+<td colspan="2">31 219</td>
 </tr>
 <tr>
 <td></td>
@@ -6018,7 +6028,7 @@ source: https://zan.gov.kz/client/#!/doc/151237/rus/28.12.2020
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>31 219</td>
+<td colspan="2">31 219</td>
 </tr>
 <tr>
 <td></td>
@@ -6026,7 +6036,7 @@ source: https://zan.gov.kz/client/#!/doc/151237/rus/28.12.2020
 <td></td>
 <td>001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>31 219</td>
+<td colspan="2">31 219</td>
 </tr>
 <tr>
 <td>07</td>
@@ -6034,7 +6044,7 @@ source: https://zan.gov.kz/client/#!/doc/151237/rus/28.12.2020
 <td></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>9 224</td>
+<td colspan="2">10 550</td>
 </tr>
 <tr>
 <td></td>
@@ -6042,7 +6052,7 @@ source: https://zan.gov.kz/client/#!/doc/151237/rus/28.12.2020
 <td></td>
 <td></td>
 <td>Благоустройство населенных пунктов</td>
-<td>9 224</td>
+<td colspan="2">10 550</td>
 </tr>
 <tr>
 <td></td>
@@ -6050,7 +6060,7 @@ source: https://zan.gov.kz/client/#!/doc/151237/rus/28.12.2020
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>9 224</td>
+<td colspan="2">10 550</td>
 </tr>
 <tr>
 <td></td>
@@ -6058,7 +6068,7 @@ source: https://zan.gov.kz/client/#!/doc/151237/rus/28.12.2020
 <td></td>
 <td>008</td>
 <td>Освещение улиц населенных пунктов</td>
-<td>2 466</td>
+<td colspan="2">2 466</td>
 </tr>
 <tr>
 <td></td>
@@ -6066,7 +6076,7 @@ source: https://zan.gov.kz/client/#!/doc/151237/rus/28.12.2020
 <td></td>
 <td>009</td>
 <td>Обеспечение санитарии населенных пунктов</td>
-<td>974</td>
+<td colspan="2">974</td>
 </tr>
 <tr>
 <td></td>
@@ -6074,7 +6084,7 @@ source: https://zan.gov.kz/client/#!/doc/151237/rus/28.12.2020
 <td></td>
 <td>011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td>5 784</td>
+<td colspan="2">7110</td>
 </tr>
 <tr>
 <td></td>
@@ -6082,7 +6092,7 @@ source: https://zan.gov.kz/client/#!/doc/151237/rus/28.12.2020
 <td></td>
 <td></td>
 <td>3. Чистое бюджетное кредитование</td>
-<td>0</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td></td>
@@ -6090,12 +6100,12 @@ source: https://zan.gov.kz/client/#!/doc/151237/rus/28.12.2020
 <td></td>
 <td></td>
 <td>Бюджетные кредиты</td>
-<td>0</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td colspan="4">Категория</td>
 <td>Наименование</td>
-<td rowspan="4">Сумма, тысяч тенге</td>
+<td colspan="2" rowspan="4">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
@@ -6118,7 +6128,7 @@ source: https://zan.gov.kz/client/#!/doc/151237/rus/28.12.2020
 <td></td>
 <td></td>
 <td>Погашение бюджетных кредитов</td>
-<td>0</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td>5</td>
@@ -6126,7 +6136,7 @@ source: https://zan.gov.kz/client/#!/doc/151237/rus/28.12.2020
 <td></td>
 <td></td>
 <td>Погашение бюджетных кредитов</td>
-<td>0</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td></td>
@@ -6134,7 +6144,7 @@ source: https://zan.gov.kz/client/#!/doc/151237/rus/28.12.2020
 <td></td>
 <td></td>
 <td>Погашение бюджетных кредитов</td>
-<td>0</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td></td>
@@ -6142,7 +6152,7 @@ source: https://zan.gov.kz/client/#!/doc/151237/rus/28.12.2020
 <td>1</td>
 <td></td>
 <td>Погашение бюджетных кредитов, выданных из государственного бюджета</td>
-<td>0</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td></td>
@@ -6150,7 +6160,7 @@ source: https://zan.gov.kz/client/#!/doc/151237/rus/28.12.2020
 <td></td>
 <td></td>
 <td>4. Сальдо по операциям с финансовыми активами</td>
-<td>0</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td></td>
@@ -6158,7 +6168,7 @@ source: https://zan.gov.kz/client/#!/doc/151237/rus/28.12.2020
 <td></td>
 <td></td>
 <td>Приобретение финансовых активов</td>
-<td>0</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td></td>
@@ -6166,7 +6176,7 @@ source: https://zan.gov.kz/client/#!/doc/151237/rus/28.12.2020
 <td></td>
 <td></td>
 <td>Поступление от продажи финансовых активов государства</td>
-<td>0</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td></td>
@@ -6174,7 +6184,7 @@ source: https://zan.gov.kz/client/#!/doc/151237/rus/28.12.2020
 <td></td>
 <td></td>
 <td>5. Дефицит (профицит) бюджета</td>
-<td>0</td>
+<td colspan="2">-1326</td>
 </tr>
 <tr>
 <td></td>
@@ -6182,7 +6192,7 @@ source: https://zan.gov.kz/client/#!/doc/151237/rus/28.12.2020
 <td></td>
 <td></td>
 <td>6. Финансирование дефицита (использование профицита) бюджета</td>
-<td>0</td>
+<td colspan="2">1326</td>
 </tr>
 <tr>
 <td></td>
@@ -6190,7 +6200,7 @@ source: https://zan.gov.kz/client/#!/doc/151237/rus/28.12.2020
 <td></td>
 <td></td>
 <td>Поступление займов</td>
-<td>0</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td>7</td>
@@ -6198,12 +6208,12 @@ source: https://zan.gov.kz/client/#!/doc/151237/rus/28.12.2020
 <td></td>
 <td></td>
 <td>Поступление займов</td>
-<td>0</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td colspan="4">Функциональная группа</td>
 <td>Наименование</td>
-<td rowspan="4">Сумма, тысяч тенге</td>
+<td colspan="2" rowspan="4">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
@@ -6226,7 +6236,7 @@ source: https://zan.gov.kz/client/#!/doc/151237/rus/28.12.2020
 <td></td>
 <td></td>
 <td>Погашение займов</td>
-<td>0</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td>16</td>
@@ -6234,7 +6244,7 @@ source: https://zan.gov.kz/client/#!/doc/151237/rus/28.12.2020
 <td></td>
 <td></td>
 <td>Погашение займов</td>
-<td>0</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td></td>
@@ -6242,12 +6252,12 @@ source: https://zan.gov.kz/client/#!/doc/151237/rus/28.12.2020
 <td></td>
 <td></td>
 <td>Погашение займов</td>
-<td>0</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td colspan="4">Категория</td>
 <td>Наименование</td>
-<td rowspan="4">Сумма, тысяч тенге</td>
+<td colspan="2" rowspan="4">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
@@ -6270,7 +6280,7 @@ source: https://zan.gov.kz/client/#!/doc/151237/rus/28.12.2020
 <td></td>
 <td></td>
 <td>Используемые остатки бюджетных средств</td>
-<td>0</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td>8</td>
@@ -6278,7 +6288,7 @@ source: https://zan.gov.kz/client/#!/doc/151237/rus/28.12.2020
 <td></td>
 <td></td>
 <td>Используемые остатки бюджетных средств</td>
-<td>0</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td></td>
@@ -6286,7 +6296,7 @@ source: https://zan.gov.kz/client/#!/doc/151237/rus/28.12.2020
 <td></td>
 <td></td>
 <td>Остатки бюджетных средств</td>
-<td>0</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td></td>
@@ -6294,7 +6304,7 @@ source: https://zan.gov.kz/client/#!/doc/151237/rus/28.12.2020
 <td>1</td>
 <td></td>
 <td>Свободные остатки бюджетных средств</td>
-<td>0</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td></td>
@@ -6302,6 +6312,6 @@ source: https://zan.gov.kz/client/#!/doc/151237/rus/28.12.2020
 <td></td>
 <td>01</td>
 <td>Свободные остатки бюджетных средств</td>
-<td>0</td>
+<td colspan="2">1326</td>
 </tr>
 </table>
