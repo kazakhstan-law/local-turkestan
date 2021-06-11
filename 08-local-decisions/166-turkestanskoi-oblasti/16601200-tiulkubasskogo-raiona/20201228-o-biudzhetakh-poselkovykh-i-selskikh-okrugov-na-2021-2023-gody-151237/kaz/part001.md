@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/151237/kaz/30.03.2021
+source: https://zan.gov.kz/client/#!/doc/151237/kaz/11.06.2021
 ---
 
 > *Түлкібас аудандық*  
@@ -10,7 +10,7 @@ source: https://zan.gov.kz/client/#!/doc/151237/kaz/30.03.2021
 
 ## Акбиік ауылдық округінің 2021 жылға арналған бюджеті
 
-> *Ескерту. 1-қосымша жаңа редакцияда - Түркістан облысы Түлкібас аудандық мәслихатының 30.03.2021 № 5/1-07 (01.01.2021 бастап қолданысқа енгізілсін) шешімімен.*
+> *Ескерту. 1-қосымша жаңа редакцияда - Түркістан облысы Түлкібас аудандық мәслихатының 30.03.2021 № 5/1-07 (01.01.2021 бастап қолданысқа енгізілсін); 11.06.2021 № 8/1-07 (01.01.2021 бастап қолданысқа енгізілсін) шешімдерімен.*
 
 <table>
 <tr>
@@ -1338,7 +1338,7 @@ source: https://zan.gov.kz/client/#!/doc/151237/kaz/30.03.2021
 
 ## Арыс ауылдық округінің 2021 жылға арналған бюджеті
 
-> *Ескерту. 4-қосымша жаңа редакцияда - Түркістан облысы Түлкібас аудандық мәслихатының 30.03.2021 № 5/1-07 (01.01.2021 бастап қолданысқа енгізілсін) шешімімен.*
+> *Ескерту. 4-қосымша жаңа редакцияда - Түркістан облысы Түлкібас аудандық мәслихатының 30.03.2021 № 5/1-07 (01.01.2021 бастап қолданысқа енгізілсін); 11.06.2021 № 8/1-07 (01.01.2021 бастап қолданысқа енгізілсін) шешімдерімен.*
 
 <table>
 <tr>
@@ -1358,14 +1358,28 @@ source: https://zan.gov.kz/client/#!/doc/151237/kaz/30.03.2021
 <td></td>
 <td colspan="2"></td>
 <td>1. Кірістер</td>
-<td>30 405</td>
+<td>30 623</td>
 </tr>
 <tr>
 <td>1</td>
 <td></td>
 <td colspan="2"></td>
 <td>Салықтық түсімдер</td>
-<td>5 298</td>
+<td>5 516</td>
+</tr>
+<tr>
+<td></td>
+<td>01</td>
+<td colspan="2"></td>
+<td>Табыс салығы</td>
+<td>218</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2">2</td>
+<td>Жеке табыс салығы</td>
+<td>218</td>
 </tr>
 <tr>
 <td></td>
@@ -1461,7 +1475,7 @@ source: https://zan.gov.kz/client/#!/doc/151237/kaz/30.03.2021
 <td></td>
 <td></td>
 <td>2. Шығындар</td>
-<td>31 103</td>
+<td>31 321</td>
 </tr>
 <tr>
 <td>01</td>
@@ -1469,7 +1483,7 @@ source: https://zan.gov.kz/client/#!/doc/151237/kaz/30.03.2021
 <td></td>
 <td></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>25 107</td>
+<td>25 325</td>
 </tr>
 <tr>
 <td></td>
@@ -1477,7 +1491,7 @@ source: https://zan.gov.kz/client/#!/doc/151237/kaz/30.03.2021
 <td></td>
 <td></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>25 107</td>
+<td>25 325</td>
 </tr>
 <tr>
 <td></td>
@@ -1485,7 +1499,7 @@ source: https://zan.gov.kz/client/#!/doc/151237/kaz/30.03.2021
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>25 107</td>
+<td>25 325</td>
 </tr>
 <tr>
 <td></td>
@@ -1493,7 +1507,7 @@ source: https://zan.gov.kz/client/#!/doc/151237/kaz/30.03.2021
 <td></td>
 <td>001</td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>25 107</td>
+<td>25 325</td>
 </tr>
 <tr>
 <td>07</td>
@@ -1541,7 +1555,7 @@ source: https://zan.gov.kz/client/#!/doc/151237/kaz/30.03.2021
 <td></td>
 <td>011</td>
 <td>Елді мекендерді абаттандыру мен көгалдандыру</td>
-<td>2096</td>
+<td>2 096</td>
 </tr>
 <tr>
 <td></td>
@@ -2660,7 +2674,7 @@ source: https://zan.gov.kz/client/#!/doc/151237/kaz/30.03.2021
 
 ## Балықты ауылдық округінің 2021 жылға арналған бюджеті
 
-> *Ескерту. 7-қосымша жаңа редакцияда - Түркістан облысы Түлкібас аудандық мәслихатының 30.03.2021 № 5/1-07 (01.01.2021 бастап қолданысқа енгізілсін) шешімімен.*
+> *Ескерту. 7-қосымша жаңа редакцияда - Түркістан облысы Түлкібас аудандық мәслихатының 30.03.2021 № 5/1-07 (01.01.2021 бастап қолданысқа енгізілсін); 11.06.2021 № 8/1-07 (01.01.2021 бастап қолданысқа енгізілсін) шешімдерімен.*
 
 <table>
 <tr>
@@ -2791,7 +2805,7 @@ source: https://zan.gov.kz/client/#!/doc/151237/kaz/30.03.2021
 <td></td>
 <td colspan="2"></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>34 155</td>
+<td>35 555</td>
 </tr>
 <tr>
 <td></td>
@@ -2799,7 +2813,7 @@ source: https://zan.gov.kz/client/#!/doc/151237/kaz/30.03.2021
 <td></td>
 <td colspan="2"></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>34 155</td>
+<td>35 555</td>
 </tr>
 <tr>
 <td></td>
@@ -2807,7 +2821,7 @@ source: https://zan.gov.kz/client/#!/doc/151237/kaz/30.03.2021
 <td>124</td>
 <td colspan="2"></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>34 155</td>
+<td>35 555</td>
 </tr>
 <tr>
 <td></td>
@@ -2815,7 +2829,7 @@ source: https://zan.gov.kz/client/#!/doc/151237/kaz/30.03.2021
 <td></td>
 <td colspan="2">001</td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>34 155</td>
+<td>35 555</td>
 </tr>
 <tr>
 <td>07</td>
@@ -2823,7 +2837,7 @@ source: https://zan.gov.kz/client/#!/doc/151237/kaz/30.03.2021
 <td></td>
 <td colspan="2"></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>17 618</td>
+<td>16 218</td>
 </tr>
 <tr>
 <td></td>
@@ -2831,7 +2845,7 @@ source: https://zan.gov.kz/client/#!/doc/151237/kaz/30.03.2021
 <td></td>
 <td colspan="2"></td>
 <td>Елді-мекендерді абаттандыру</td>
-<td>17 618</td>
+<td>16 218</td>
 </tr>
 <tr>
 <td></td>
@@ -2839,7 +2853,7 @@ source: https://zan.gov.kz/client/#!/doc/151237/kaz/30.03.2021
 <td>124</td>
 <td colspan="2"></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>17 618</td>
+<td>16 218</td>
 </tr>
 <tr>
 <td></td>
@@ -2863,7 +2877,7 @@ source: https://zan.gov.kz/client/#!/doc/151237/kaz/30.03.2021
 <td></td>
 <td colspan="2">011</td>
 <td>Елді мекендерді абаттандыру мен көгалдандыру</td>
-<td>9115</td>
+<td>7 715</td>
 </tr>
 <tr>
 <td></td>
@@ -3982,7 +3996,7 @@ source: https://zan.gov.kz/client/#!/doc/151237/kaz/30.03.2021
 
 ## Жабағылы ауылдық округінің 2021 жылға арналған бюджеті
 
-> *Ескерту. 10-қосымша жаңа редакцияда - Түркістан облысы Түлкібас аудандық мәслихатының 30.03.2021 № 5/1-07 (01.01.2021 бастап қолданысқа енгізілсін) шешімімен.*
+> *Ескерту. 10-қосымша жаңа редакцияда - Түркістан облысы Түлкібас аудандық мәслихатының 30.03.2021 № 5/1-07 (01.01.2021 бастап қолданысқа енгізілсін); 11.06.2021 № 8/1-07 (01.01.2021 бастап қолданысқа енгізілсін) шешімдерімен.*
 
 <table>
 <tr>
@@ -4127,7 +4141,7 @@ source: https://zan.gov.kz/client/#!/doc/151237/kaz/30.03.2021
 <td></td>
 <td></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td colspan="2">31 846</td>
+<td colspan="2">30 846</td>
 </tr>
 <tr>
 <td></td>
@@ -4135,7 +4149,7 @@ source: https://zan.gov.kz/client/#!/doc/151237/kaz/30.03.2021
 <td></td>
 <td></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td colspan="2">31 846</td>
+<td colspan="2">30 846</td>
 </tr>
 <tr>
 <td></td>
@@ -4143,7 +4157,7 @@ source: https://zan.gov.kz/client/#!/doc/151237/kaz/30.03.2021
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td colspan="2">31 846</td>
+<td colspan="2">30 846</td>
 </tr>
 <tr>
 <td></td>
@@ -4151,7 +4165,7 @@ source: https://zan.gov.kz/client/#!/doc/151237/kaz/30.03.2021
 <td></td>
 <td>001</td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td colspan="2">31 846</td>
+<td colspan="2">30 846</td>
 </tr>
 <tr>
 <td>07</td>
@@ -4159,7 +4173,7 @@ source: https://zan.gov.kz/client/#!/doc/151237/kaz/30.03.2021
 <td></td>
 <td></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td colspan="2">8 913</td>
+<td colspan="2">9 913</td>
 </tr>
 <tr>
 <td></td>
@@ -4167,7 +4181,7 @@ source: https://zan.gov.kz/client/#!/doc/151237/kaz/30.03.2021
 <td></td>
 <td></td>
 <td>Елді-мекендерді абаттандыру</td>
-<td colspan="2">8 913</td>
+<td colspan="2">9 913</td>
 </tr>
 <tr>
 <td></td>
@@ -4175,7 +4189,7 @@ source: https://zan.gov.kz/client/#!/doc/151237/kaz/30.03.2021
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td colspan="2">8 913</td>
+<td colspan="2">9 913</td>
 </tr>
 <tr>
 <td></td>
@@ -4199,7 +4213,7 @@ source: https://zan.gov.kz/client/#!/doc/151237/kaz/30.03.2021
 <td></td>
 <td>011</td>
 <td>Елді мекендерді абаттандыру мен көгалдандыру</td>
-<td colspan="2">7113</td>
+<td colspan="2">8 113</td>
 </tr>
 <tr>
 <td></td>
@@ -5346,7 +5360,7 @@ source: https://zan.gov.kz/client/#!/doc/151237/kaz/30.03.2021
 
 ## Жаскешу ауылдық округінің 2021 жылға арналған бюджеті
 
-> *Ескерту. 13-қосымша жаңа редакцияда - Түркістан облысы Түлкібас аудандық мәслихатының 30.03.2021 № 5/1-07 (01.01.2021 бастап қолданысқа енгізілсін) шешімімен.*
+> *Ескерту. 13-қосымша жаңа редакцияда - Түркістан облысы Түлкібас аудандық мәслихатының 30.03.2021 № 5/1-07 (01.01.2021 бастап қолданысқа енгізілсін); 11.06.2021 № 8/1-07 (01.01.2021 бастап қолданысқа енгізілсін) шешімдерімен.*
 
 <table>
 <tr>
@@ -5778,445 +5792,5 @@ source: https://zan.gov.kz/client/#!/doc/151237/kaz/30.03.2021
 <td>01</td>
 <td colspan="2">Бюджет қаражатының бос қалдықтары</td>
 <td colspan="3">1437</td>
-</tr>
-</table>
-
-> *Түлкібас аудандық*  
-> *мәслихаттың 2020 жылғы*  
-> *28 желтоқсандағы № 65/1-06*  
-> *шешіміне 14- қосымша*
-
-## Жаскешу ауылдық округінің 2022 жылға арналған бюджеті
-
-<table>
-<tr>
-<td>Санаты</td>
-<td colspan="2">Сыныбы</td>
-<td colspan="3">Кіші сыныбы</td>
-<td colspan="2">Атауы</td>
-<td colspan="2">Сомасы, мың теңге</td>
-</tr>
-<tr>
-<td colspan="6">1</td>
-<td colspan="2">2</td>
-<td colspan="2">3</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2">1. Кірістер</td>
-<td colspan="2">51 426</td>
-</tr>
-<tr>
-<td>1</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2">Салықтық түсімдер</td>
-<td colspan="2">14 653</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2">04</td>
-<td colspan="3"></td>
-<td colspan="2">Меншiкке салынатын салықтар</td>
-<td colspan="2">14 653</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="3">1</td>
-<td colspan="2">Мүлiкке салынатын салықтар</td>
-<td colspan="2">73</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="3">3</td>
-<td colspan="2">Жер салығы</td>
-<td colspan="2">780</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="3">4</td>
-<td colspan="2">Көлiк құралдарына салынатын салық</td>
-<td colspan="2">13 800</td>
-</tr>
-<tr>
-<td>2</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2">Салықтық емес түсiмдер</td>
-<td colspan="2">0</td>
-</tr>
-<tr>
-<td>3</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2">Негізгі капиталды сатудан түсетін түсімдер</td>
-<td colspan="2">0</td>
-</tr>
-<tr>
-<td>4</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2">Трансферттер түсімі</td>
-<td colspan="2">36 773</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2">02</td>
-<td colspan="3"></td>
-<td colspan="2">Мемлекеттік басқарудың жоғары тұрған органдарынан түсетін трансферттер</td>
-<td colspan="2">36 773</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="3">3</td>
-<td colspan="2">Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td colspan="2">36 773</td>
-</tr>
-<tr>
-<td colspan="6">Функционалдық топ</td>
-<td colspan="2">Атауы</td>
-<td colspan="2" rowspan="4">Сомасы, мың теңге</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="7">Кіші функция</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="5">Бюджеттік бағдарламалардың әкiмшiсi</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3">Бағдарлама</td>
-</tr>
-<tr>
-<td colspan="6">1</td>
-<td colspan="2">2</td>
-<td colspan="2">3</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2">2. Шығындар</td>
-<td colspan="2">51 426</td>
-</tr>
-<tr>
-<td>01</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2">Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td colspan="2">36 773</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2">1</td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2">Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td colspan="2">36 773</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2">124</td>
-<td></td>
-<td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td colspan="2">36 773</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>001</td>
-<td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td colspan="2">36 773</td>
-</tr>
-<tr>
-<td>07</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2">Тұрғын үй-коммуналдық шаруашылық</td>
-<td colspan="2">14 653</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2">3</td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2">Елді-мекендерді абаттандыру</td>
-<td colspan="2">14 653</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2">124</td>
-<td></td>
-<td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td colspan="2">14 653</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>008</td>
-<td colspan="2">Елді мекендердегі көшелерді жарықтандыру</td>
-<td colspan="2">3 500</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>009</td>
-<td colspan="2">Елді мекендердің санитариясын қамтамасыз ету</td>
-<td colspan="2">4 000</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>011</td>
-<td colspan="2">Елді мекендерді абаттандыру мен көгалдандыру</td>
-<td colspan="2">7 153</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2">3. Таза бюджеттік кредиттеу</td>
-<td colspan="2">0</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2">Бюджеттік кредиттер</td>
-<td colspan="2">0</td>
-</tr>
-<tr>
-<td colspan="6">Санаты</td>
-<td colspan="2">Атауы</td>
-<td colspan="2" rowspan="4">Сомасы, мың теңге</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="7">Сыныбы</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="5">Кіші сыныбы</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3">Ерекшелігі</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2">Бюджеттік кредиттерді өтеу</td>
-<td colspan="2">0</td>
-</tr>
-<tr>
-<td>5</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2">Бюджеттік кредиттерді өтеу</td>
-<td colspan="2">0</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2">01</td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2">Бюджеттік кредиттерді өтеу</td>
-<td colspan="2">0</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2">1</td>
-<td></td>
-<td colspan="2">Мемлекеттік бюджеттен берілген бюджеттік кредиттерді өтеу</td>
-<td colspan="2">0</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2">4. Қаржы активтерімен жасалатын операциялар бойынша сальдо</td>
-<td colspan="2">0</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2">Қаржы активтерін сатып алу</td>
-<td colspan="2">0</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2">Мемлекеттің қаржы активтерін сатудан түсетін түсімдер</td>
-<td colspan="2">0</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2">5. Бюджет тапшылығы (профициті)</td>
-<td colspan="2">0</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2">6. Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
-<td colspan="2">0</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2">Қарыздар түсімі</td>
-<td colspan="2">0</td>
-</tr>
-<tr>
-<td>7</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2">Қарыздар түсімі</td>
-<td colspan="2">0</td>
-</tr>
-<tr>
-<td colspan="6">Функционалдық топ</td>
-<td colspan="2">Атауы</td>
-<td colspan="2" rowspan="4">Сомасы, мың теңге</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="7">Кіші функция</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="5">Бюджеттік бағдарламалардың әкiмшiсi</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3">Бағдарлама</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2">Қарыздарды өтеу</td>
-<td colspan="2">0</td>
-</tr>
-<tr>
-<td>16</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2">Қарыздарды өтеу</td>
-<td colspan="2">0</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2">1</td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2">Қарыздарды өтеу</td>
-<td colspan="2">0</td>
-</tr>
-<tr>
-<td colspan="6">Санаты</td>
-<td colspan="2">Атауы</td>
-<td colspan="2" rowspan="4">Сомасы, мың теңге</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="7">Сыныбы</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="5">Кіші сыныбы</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3">Ерекшелігі</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2">Бюджет қаражатының пайдаланылатын қалдықтары</td>
-<td colspan="2">0</td>
-</tr>
-<tr>
-<td>8</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2">Бюджет қаражатының пайдаланылатын қалдықтары</td>
-<td colspan="2">0</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2">01</td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2">Бюджет қаражаты қалдықтары</td>
-<td colspan="2">0</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2">1</td>
-<td></td>
-<td colspan="2">Бюджет қаражатының бос қалдықтары</td>
-<td colspan="2">0</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>01</td>
-<td colspan="2">Бюджет қаражатының бос қалдықтары</td>
-<td colspan="2">0</td>
 </tr>
 </table>
