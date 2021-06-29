@@ -1,15 +1,15 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/152262/kaz/26.03.2021
+source: https://zan.gov.kz/client/#!/doc/152262/kaz/29.06.2021
 ---
 
 > *Сайрам аудандық мәслихатының*  
 > *2020 жылғы 29 желтоқсандағы*  
-> *№ 65-386/VI шешіміне 31 қосымша*
+> *№/VІ шешіміне 31 қосымша*
 
 ## Манкент ауылдық округінің 2021 жылға арналған бюджеті
 
-> *Ескерту. 31-қосымша жаңа редакцияда - Түркістан облысы Сайрам аудандық мәслихатының 26.03.2021 № 3-17/VII (01.01.2021 бастап қолданысқа енгізіледі) шешiмiмен.*
+> *Ескерту. 31-қосымша жаңа редакцияда - Түркістан облысы Сайрам аудандық мәслихатының 26.03.2021 № 3-17/VII (01.01.2021 бастап қолданысқа енгізіледі); 29.06.2021 № 5-33/VII (01.01.2021 бастап қолданысқа енгізіледі) шешімдерімен.*
 
 <table>
 <tr>
@@ -35,7 +35,7 @@ source: https://zan.gov.kz/client/#!/doc/152262/kaz/26.03.2021
 <td colspan="4"></td>
 <td colspan="2"></td>
 <td>1. Кірістер</td>
-<td>138 501</td>
+<td>168 429</td>
 </tr>
 <tr>
 <td colspan="2">1</td>
@@ -131,7 +131,7 @@ source: https://zan.gov.kz/client/#!/doc/152262/kaz/26.03.2021
 <td colspan="4"></td>
 <td colspan="2"></td>
 <td>Трансферттердің түсімдері</td>
-<td>48 725</td>
+<td>78 653</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -139,7 +139,7 @@ source: https://zan.gov.kz/client/#!/doc/152262/kaz/26.03.2021
 <td colspan="4">02</td>
 <td colspan="2"></td>
 <td>Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td>48 725</td>
+<td>78 653</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -147,7 +147,7 @@ source: https://zan.gov.kz/client/#!/doc/152262/kaz/26.03.2021
 <td colspan="4"></td>
 <td colspan="2">3</td>
 <td>Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td>48 725</td>
+<td>78 653</td>
 </tr>
 <tr>
 <td colspan="12">Функционалдық топ Атауы</td>
@@ -174,7 +174,7 @@ source: https://zan.gov.kz/client/#!/doc/152262/kaz/26.03.2021
 <td colspan="4"></td>
 <td colspan="4"></td>
 <td>2. Шығындар</td>
-<td>162 008</td>
+<td>191 936</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
@@ -182,7 +182,7 @@ source: https://zan.gov.kz/client/#!/doc/152262/kaz/26.03.2021
 <td colspan="4"></td>
 <td colspan="4"></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>46 236</td>
+<td>47 051</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -190,7 +190,7 @@ source: https://zan.gov.kz/client/#!/doc/152262/kaz/26.03.2021
 <td colspan="4"></td>
 <td colspan="4"></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>46 236</td>
+<td>47 051</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -198,7 +198,7 @@ source: https://zan.gov.kz/client/#!/doc/152262/kaz/26.03.2021
 <td colspan="4">124</td>
 <td colspan="4"></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>46 236</td>
+<td>47 051</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -206,7 +206,7 @@ source: https://zan.gov.kz/client/#!/doc/152262/kaz/26.03.2021
 <td colspan="4"></td>
 <td colspan="4">001</td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>45 469</td>
+<td>46 284</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -222,7 +222,7 @@ source: https://zan.gov.kz/client/#!/doc/152262/kaz/26.03.2021
 <td colspan="4"></td>
 <td colspan="4"></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>105 233</td>
+<td>104 418</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -230,7 +230,7 @@ source: https://zan.gov.kz/client/#!/doc/152262/kaz/26.03.2021
 <td colspan="4"></td>
 <td colspan="4"></td>
 <td>Елді-мекендерді көркейту</td>
-<td>105 233</td>
+<td>104 418</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -238,7 +238,7 @@ source: https://zan.gov.kz/client/#!/doc/152262/kaz/26.03.2021
 <td colspan="4">124</td>
 <td colspan="4"></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>105 233</td>
+<td>104 418</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -262,7 +262,7 @@ source: https://zan.gov.kz/client/#!/doc/152262/kaz/26.03.2021
 <td colspan="4"></td>
 <td colspan="4">011</td>
 <td>Елді мекендерді абаттандыру мен көгалдандыру</td>
-<td>50 671</td>
+<td>49 856</td>
 </tr>
 <tr>
 <td colspan="2">08</td>
@@ -270,7 +270,7 @@ source: https://zan.gov.kz/client/#!/doc/152262/kaz/26.03.2021
 <td colspan="4"></td>
 <td colspan="4"></td>
 <td>Мәдениет, спорт, туризм және ақпараттық кеңістiк</td>
-<td>6 308</td>
+<td>36 236</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -278,7 +278,7 @@ source: https://zan.gov.kz/client/#!/doc/152262/kaz/26.03.2021
 <td colspan="4"></td>
 <td colspan="4"></td>
 <td>Мәдениет саласындағы қызмет</td>
-<td>6 308</td>
+<td>36 236</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -286,7 +286,7 @@ source: https://zan.gov.kz/client/#!/doc/152262/kaz/26.03.2021
 <td colspan="4">124</td>
 <td colspan="4"></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>6 308</td>
+<td>36 236</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -294,7 +294,7 @@ source: https://zan.gov.kz/client/#!/doc/152262/kaz/26.03.2021
 <td colspan="4"></td>
 <td colspan="4">006</td>
 <td>Жергілікті деңгейде мәдени-демалыс жұмысын қолдау</td>
-<td>6 308</td>
+<td>36 236</td>
 </tr>
 <tr>
 <td colspan="2">12</td>

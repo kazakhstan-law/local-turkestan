@@ -1,16 +1,16 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/152262/rus/26.03.2021
+source: https://zan.gov.kz/client/#!/doc/152262/rus/29.06.2021
 ---
 
 > *Приложение 31 к решению*  
 > *Сайрамского районного*  
 > *маслихата от 29 декабря*  
-> *2020 года № 65-386/VI*
+> *2020 года №65-386/VI*
 
 ## Бюджет Манкентского сельского округа на 2021 год
 
-> *Сноска. Приложение 31 в редакции решения Сайрамского районного маслихата Туркестанской области от 26.03.2021 № 3-17/VII (вводится в действие с 01.01.2021).*
+> *Сноска. Приложение 31 в редакции решений Сайрамского районного маслихата Туркестанской области от 26.03.2021 № 3-17/VII (вводится в действие с 01.01.2021); от 29.06.2021 № 5-33/VII (вводится в действие с 01.01.2021).*
 
 <table>
 <tr>
@@ -39,7 +39,7 @@ source: https://zan.gov.kz/client/#!/doc/152262/rus/26.03.2021
 <td colspan="5"></td>
 <td colspan="2"></td>
 <td>1. Доходы</td>
-<td>138 501</td>
+<td>168 429</td>
 </tr>
 <tr>
 <td colspan="4">1</td>
@@ -135,7 +135,7 @@ source: https://zan.gov.kz/client/#!/doc/152262/rus/26.03.2021
 <td colspan="5"></td>
 <td colspan="2"></td>
 <td>Поступления трансфертов</td>
-<td>48 725</td>
+<td>78 653</td>
 </tr>
 <tr>
 <td colspan="4"></td>
@@ -143,7 +143,7 @@ source: https://zan.gov.kz/client/#!/doc/152262/rus/26.03.2021
 <td colspan="5"></td>
 <td colspan="2"></td>
 <td>Трансферты из вышестоящих органов государственного управления</td>
-<td>48 725</td>
+<td>78 653</td>
 </tr>
 <tr>
 <td colspan="4"></td>
@@ -151,7 +151,7 @@ source: https://zan.gov.kz/client/#!/doc/152262/rus/26.03.2021
 <td colspan="5">3</td>
 <td colspan="2"></td>
 <td>Трансферты из районного (города областного значения) бюджета</td>
-<td>48 725</td>
+<td>78 653</td>
 </tr>
 <tr>
 <td colspan="18">Функциональная группа Наименование</td>
@@ -178,7 +178,7 @@ source: https://zan.gov.kz/client/#!/doc/152262/rus/26.03.2021
 <td colspan="5"></td>
 <td colspan="6"></td>
 <td>2. Затраты</td>
-<td>162 008</td>
+<td>191 936</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
@@ -186,7 +186,7 @@ source: https://zan.gov.kz/client/#!/doc/152262/rus/26.03.2021
 <td colspan="5"></td>
 <td colspan="6"></td>
 <td>Государственные услуги общего характера</td>
-<td>46 236</td>
+<td>47 051</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -194,7 +194,7 @@ source: https://zan.gov.kz/client/#!/doc/152262/rus/26.03.2021
 <td colspan="5"></td>
 <td colspan="6"></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>46 236</td>
+<td>47 051</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -202,7 +202,7 @@ source: https://zan.gov.kz/client/#!/doc/152262/rus/26.03.2021
 <td colspan="5">124</td>
 <td colspan="6"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>46 236</td>
+<td>47 051</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -210,7 +210,7 @@ source: https://zan.gov.kz/client/#!/doc/152262/rus/26.03.2021
 <td colspan="5"></td>
 <td colspan="6">001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>45 469</td>
+<td>46 284</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -218,7 +218,7 @@ source: https://zan.gov.kz/client/#!/doc/152262/rus/26.03.2021
 <td colspan="5"></td>
 <td colspan="6">022</td>
 <td>Капитальные расходы государственных органов</td>
-<td></td>
+<td>767</td>
 </tr>
 <tr>
 <td colspan="2">07</td>
@@ -226,7 +226,7 @@ source: https://zan.gov.kz/client/#!/doc/152262/rus/26.03.2021
 <td colspan="5"></td>
 <td colspan="6"></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>105 233</td>
+<td>104 418</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -234,7 +234,7 @@ source: https://zan.gov.kz/client/#!/doc/152262/rus/26.03.2021
 <td colspan="5"></td>
 <td colspan="6"></td>
 <td>Благоустройство населенных пунктов</td>
-<td>105 233</td>
+<td>104 418</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -242,7 +242,7 @@ source: https://zan.gov.kz/client/#!/doc/152262/rus/26.03.2021
 <td colspan="5">124</td>
 <td colspan="6"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>105 233</td>
+<td>104 418</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -266,7 +266,7 @@ source: https://zan.gov.kz/client/#!/doc/152262/rus/26.03.2021
 <td colspan="5"></td>
 <td colspan="6">011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td>50 671</td>
+<td>49 856</td>
 </tr>
 <tr>
 <td colspan="3">08</td>
@@ -274,7 +274,7 @@ source: https://zan.gov.kz/client/#!/doc/152262/rus/26.03.2021
 <td colspan="5"></td>
 <td colspan="6"></td>
 <td>Культура, спорт, туризм и информационные пространство</td>
-<td>6 308</td>
+<td>36 236</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -282,7 +282,7 @@ source: https://zan.gov.kz/client/#!/doc/152262/rus/26.03.2021
 <td colspan="5"></td>
 <td colspan="6"></td>
 <td>Деятельность в области культуры</td>
-<td>6 308</td>
+<td>36 236</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -290,7 +290,7 @@ source: https://zan.gov.kz/client/#!/doc/152262/rus/26.03.2021
 <td colspan="5">124</td>
 <td colspan="6"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>6 308</td>
+<td>36 236</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -298,7 +298,7 @@ source: https://zan.gov.kz/client/#!/doc/152262/rus/26.03.2021
 <td colspan="5"></td>
 <td colspan="6">006</td>
 <td>Поддержка культурно-досуговой работы на местном уровне</td>
-<td>6 308</td>
+<td>36 236</td>
 </tr>
 <tr>
 <td colspan="3">12</td>
@@ -415,12 +415,12 @@ source: https://zan.gov.kz/client/#!/doc/152262/rus/26.03.2021
 <td colspan="17">Подфункция</td>
 </tr>
 <tr>
-<td></td>
-<td colspan="6"></td>
+<td rowspan="2"></td>
+<td colspan="6" rowspan="2"></td>
 <td colspan="11">Администратор бюджетных программ</td>
 </tr>
 <tr>
-<td colspan="18">Программа</td>
+<td colspan="11">Программа</td>
 </tr>
 <tr>
 <td colspan="2"></td>
