@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/151940/kaz/10.03.2021
+source: https://zan.gov.kz/client/#!/doc/151940/kaz/16.07.2021
 ---
 
 > *Кентау қалалық*  
