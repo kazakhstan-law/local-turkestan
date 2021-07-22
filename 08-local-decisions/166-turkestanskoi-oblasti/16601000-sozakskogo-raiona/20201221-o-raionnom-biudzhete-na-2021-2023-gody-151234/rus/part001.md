@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/151234/rus/06.05.2021
+source: https://zan.gov.kz/client/#!/doc/151234/rus/22.07.2021
 ---
 
 > *Приложение 1 к решению*  
@@ -10,7 +10,7 @@ source: https://zan.gov.kz/client/#!/doc/151234/rus/06.05.2021
 
 ## Районный бюджет на 2021 год
 
-> *Сноска. Приложение 1 в редакции решения Созакского районного маслихата Туркестанской области от 09.03.2021 № 12 (вводится в действие с 01.01.2021); от 06.05.2021 № 21 (вводится в действие с 01.01.2021).*
+> *Сноска. Приложение 1 в редакции решений Созакского районного маслихата Туркестанской области от 09.03.2021 № 12 (вводится в действие с 01.01.2021); от 06.05.2021 № 21 (вводится в действие с 01.01.2021); от 22.07.2021 № 41 (вводится в действие с 01.01.2021).*
 
 <table>
 <tr>
@@ -39,21 +39,21 @@ source: https://zan.gov.kz/client/#!/doc/151234/rus/06.05.2021
 <td colspan="6"></td>
 <td colspan="5"></td>
 <td colspan="6">1. Доходы</td>
-<td>15 828 619</td>
+<td>16 523 185</td>
 </tr>
 <tr>
 <td colspan="3">1</td>
 <td colspan="6"></td>
 <td colspan="5"></td>
 <td colspan="6">Налоговые поступления</td>
-<td>4 136 977</td>
+<td>4 425 134</td>
 </tr>
 <tr>
 <td colspan="3"></td>
 <td colspan="6">01</td>
 <td colspan="5"></td>
 <td colspan="6">Подоходный налог</td>
-<td>84 389</td>
+<td>372 546</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -67,7 +67,7 @@ source: https://zan.gov.kz/client/#!/doc/151234/rus/06.05.2021
 <td colspan="6"></td>
 <td colspan="5">2</td>
 <td colspan="6">Индивидуальный подоходный налог</td>
-<td>48 289</td>
+<td>336 446</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -193,21 +193,21 @@ source: https://zan.gov.kz/client/#!/doc/151234/rus/06.05.2021
 <td colspan="6"></td>
 <td colspan="5"></td>
 <td colspan="6">Поступления трансфертов</td>
-<td>11 680 307</td>
+<td>12 086 716</td>
 </tr>
 <tr>
 <td colspan="3"></td>
 <td colspan="6">02</td>
 <td colspan="5"></td>
 <td colspan="6">Трансферты из вышестоящих органов государственного управления</td>
-<td>11 680 307</td>
+<td>12 086 716</td>
 </tr>
 <tr>
 <td colspan="3"></td>
 <td colspan="6"></td>
 <td colspan="5">2</td>
 <td colspan="6">Трансферты из областного бюджета</td>
-<td>11 680 307</td>
+<td>12 086 716</td>
 </tr>
 <tr>
 <td colspan="20">Функциональная группа</td>
@@ -233,7 +233,7 @@ source: https://zan.gov.kz/client/#!/doc/151234/rus/06.05.2021
 <td colspan="6"></td>
 <td colspan="3"></td>
 <td colspan="7">2. Затраты</td>
-<td>16 034 145</td>
+<td>16 728 711</td>
 </tr>
 <tr>
 <td>01</td>
@@ -521,7 +521,7 @@ source: https://zan.gov.kz/client/#!/doc/151234/rus/06.05.2021
 <td colspan="6"></td>
 <td colspan="3"></td>
 <td colspan="7">Социальная помощь и социальное обеспечение</td>
-<td>2 289 225</td>
+<td>2 353 027</td>
 </tr>
 <tr>
 <td></td>
@@ -553,7 +553,7 @@ source: https://zan.gov.kz/client/#!/doc/151234/rus/06.05.2021
 <td colspan="6"></td>
 <td colspan="3"></td>
 <td colspan="7">Социальная помощь</td>
-<td>1 073 682</td>
+<td>1 137 484</td>
 </tr>
 <tr>
 <td></td>
@@ -561,7 +561,7 @@ source: https://zan.gov.kz/client/#!/doc/151234/rus/06.05.2021
 <td colspan="6">451</td>
 <td colspan="3"></td>
 <td colspan="7">Отдел занятости и социальных программ района (города областного значения)</td>
-<td>1 073 682</td>
+<td>1 137 484</td>
 </tr>
 <tr>
 <td></td>
@@ -609,7 +609,7 @@ source: https://zan.gov.kz/client/#!/doc/151234/rus/06.05.2021
 <td colspan="6"></td>
 <td colspan="3">015</td>
 <td colspan="7">Территориальные центры социального обслуживания пенсионеров и инвалидов</td>
-<td>166 217</td>
+<td>212 521</td>
 </tr>
 <tr>
 <td></td>
@@ -625,7 +625,7 @@ source: https://zan.gov.kz/client/#!/doc/151234/rus/06.05.2021
 <td colspan="6"></td>
 <td colspan="3">023</td>
 <td colspan="7">Обеспечение деятельности центров занятости населения</td>
-<td>68 429</td>
+<td>85 927</td>
 </tr>
 <tr>
 <td></td>
@@ -676,7 +676,7 @@ source: https://zan.gov.kz/client/#!/doc/151234/rus/06.05.2021
 <td colspan="6"></td>
 <td colspan="3"></td>
 <td colspan="7">Жилищно-коммунальное хозяйство</td>
-<td>565 064</td>
+<td>853 221</td>
 </tr>
 <tr>
 <td></td>
@@ -724,7 +724,7 @@ source: https://zan.gov.kz/client/#!/doc/151234/rus/06.05.2021
 <td colspan="6"></td>
 <td colspan="3"></td>
 <td colspan="7">Коммунальное хозяйство</td>
-<td>125 110</td>
+<td>413 267</td>
 </tr>
 <tr>
 <td></td>
@@ -732,7 +732,15 @@ source: https://zan.gov.kz/client/#!/doc/151234/rus/06.05.2021
 <td colspan="6">458</td>
 <td colspan="3"></td>
 <td colspan="7">Отдел жилищно-коммунального хозяйства, пассажирского транспорта и автомобильных дорог района (города областного значения)</td>
-<td>122 610</td>
+<td>410 767</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="6"></td>
+<td colspan="3">011</td>
+<td colspan="7">Обеспечение бесперебойного теплоснабжения малых городов</td>
+<td>288 157</td>
 </tr>
 <tr>
 <td></td>
@@ -1284,7 +1292,7 @@ source: https://zan.gov.kz/client/#!/doc/151234/rus/06.05.2021
 <td colspan="6"></td>
 <td colspan="3"></td>
 <td colspan="7">Прочие</td>
-<td>417 927</td>
+<td>760 534</td>
 </tr>
 <tr>
 <td></td>
@@ -1316,7 +1324,7 @@ source: https://zan.gov.kz/client/#!/doc/151234/rus/06.05.2021
 <td colspan="6"></td>
 <td colspan="3"></td>
 <td colspan="7">Прочие</td>
-<td>384 357</td>
+<td>726 964</td>
 </tr>
 <tr>
 <td></td>
@@ -1324,7 +1332,7 @@ source: https://zan.gov.kz/client/#!/doc/151234/rus/06.05.2021
 <td colspan="6">458</td>
 <td colspan="3"></td>
 <td colspan="7">Отдел жилищно-коммунального хозяйства, пассажирского транспорта и автомобильных дорог района (города областного значения)</td>
-<td>280 357</td>
+<td>622 964</td>
 </tr>
 <tr>
 <td></td>
@@ -1332,7 +1340,7 @@ source: https://zan.gov.kz/client/#!/doc/151234/rus/06.05.2021
 <td colspan="6"></td>
 <td colspan="3">062</td>
 <td colspan="7">Реализация мероприятий по социальной и инженерной инфраструктуре в сельских населенных пунктах в рамках проекта «Ауыл-Ел бесігі»</td>
-<td>157 537</td>
+<td>500 144</td>
 </tr>
 <tr>
 <td></td>

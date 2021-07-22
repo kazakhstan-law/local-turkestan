@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/151234/kaz/06.05.2021
+source: https://zan.gov.kz/client/#!/doc/151234/kaz/22.07.2021
 ---
 
 > *Созақ аудандық мәслихатының*  
@@ -9,7 +9,7 @@ source: https://zan.gov.kz/client/#!/doc/151234/kaz/06.05.2021
 
 ## 2021 жылға арналған аудандық бюджет
 
-> *Ескерту. 1-қосымша жаңа редакцияда - Түркістан облысы Созақ аудандық мәслихатының 09.03.2021 № 12 (01.01.2021 бастап қолданысқа енгізіледі); 06.05.2021 № 21 (01.01.2021 бастап қолданысқа енгізіледі) шешiмдерiмен.*
+> *Ескерту. 1-қосымша жаңа редакцияда - Түркістан облысы Созақ аудандық мәслихатының 09.03.2021 № 12 (01.01.2021 бастап қолданысқа енгізіледі); 06.05.2021 № 21 (01.01.2021 бастап қолданысқа енгізіледі); 22.07.2021 № 41 (01.01.2021 бастап қолданысқа енгізіледі) шешiмдерiмен.*
 
 <table>
 <tr>
@@ -35,21 +35,21 @@ source: https://zan.gov.kz/client/#!/doc/151234/kaz/06.05.2021
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">1. Кірістер</td>
-<td>15 828 619</td>
+<td>16 523 185</td>
 </tr>
 <tr>
 <td colspan="2">1</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Салықтық түсімдер</td>
-<td>4 136 977</td>
+<td>4 425 134</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">01</td>
 <td colspan="2"></td>
 <td colspan="2">Табыс салығы</td>
-<td>84 389</td>
+<td>372 546</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -63,7 +63,7 @@ source: https://zan.gov.kz/client/#!/doc/151234/kaz/06.05.2021
 <td colspan="2"></td>
 <td colspan="2">2</td>
 <td colspan="2">Жеке табыс салығы</td>
-<td>48 289</td>
+<td>336 446</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -189,21 +189,21 @@ source: https://zan.gov.kz/client/#!/doc/151234/kaz/06.05.2021
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Трансферттердің түсімдері</td>
-<td>11 680 307</td>
+<td>12 086 716</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">02</td>
 <td colspan="2"></td>
 <td colspan="2">Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td>11 680 307</td>
+<td>12 086 716</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">2</td>
 <td colspan="2">Облыстық бюджеттен түсетiн трансферттер</td>
-<td>11 680 307</td>
+<td>12 086 716</td>
 </tr>
 <tr>
 <td colspan="8">Функционалдық топ</td>
@@ -229,7 +229,7 @@ source: https://zan.gov.kz/client/#!/doc/151234/kaz/06.05.2021
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>2. Шығындар</td>
-<td>16 034 145</td>
+<td>16 728 711</td>
 </tr>
 <tr>
 <td>01</td>
@@ -523,7 +523,7 @@ source: https://zan.gov.kz/client/#!/doc/151234/kaz/06.05.2021
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Әлеуметтiк көмек және әлеуметтiк қамсыздандыру</td>
-<td>2 289 225</td>
+<td>2 353 027</td>
 </tr>
 <tr>
 <td></td>
@@ -555,7 +555,7 @@ source: https://zan.gov.kz/client/#!/doc/151234/kaz/06.05.2021
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Әлеуметтiк көмек</td>
-<td>1 073 682</td>
+<td>1 137 484</td>
 </tr>
 <tr>
 <td></td>
@@ -563,7 +563,7 @@ source: https://zan.gov.kz/client/#!/doc/151234/kaz/06.05.2021
 <td colspan="2">451</td>
 <td colspan="2"></td>
 <td>Ауданның (облыстық маңызы бар қаланың) жұмыспен қамту және әлеуметтік бағдарламалар бөлімі</td>
-<td>1 073 682</td>
+<td>1 137 484</td>
 </tr>
 <tr>
 <td></td>
@@ -611,7 +611,7 @@ source: https://zan.gov.kz/client/#!/doc/151234/kaz/06.05.2021
 <td colspan="2"></td>
 <td colspan="2">015</td>
 <td>Зейнеткерлер мен мүгедектерге әлеуметтiк қызмет көрсету аумақтық орталығы</td>
-<td>166 217</td>
+<td>212 521</td>
 </tr>
 <tr>
 <td></td>
@@ -627,7 +627,7 @@ source: https://zan.gov.kz/client/#!/doc/151234/kaz/06.05.2021
 <td colspan="2"></td>
 <td colspan="2">023</td>
 <td>Жұмыспен қамту орталықтарының қызметін қамтамасыз ету</td>
-<td>68 429</td>
+<td>85 927</td>
 </tr>
 <tr>
 <td></td>
@@ -675,7 +675,7 @@ source: https://zan.gov.kz/client/#!/doc/151234/kaz/06.05.2021
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>565 064</td>
+<td>853 221</td>
 </tr>
 <tr>
 <td></td>
@@ -723,7 +723,7 @@ source: https://zan.gov.kz/client/#!/doc/151234/kaz/06.05.2021
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Коммуналдық шаруашылық</td>
-<td>125 110</td>
+<td>413 267</td>
 </tr>
 <tr>
 <td></td>
@@ -731,7 +731,15 @@ source: https://zan.gov.kz/client/#!/doc/151234/kaz/06.05.2021
 <td colspan="2">458</td>
 <td colspan="2"></td>
 <td>Ауданның (облыстық маңызы бар қаланың) тұрғын үй-коммуналдық шаруашылығы, жолаушылар көлігі және автомобиль жолдары бөлімі</td>
-<td>122 610</td>
+<td>410 767</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">011</td>
+<td>Шағын қалаларды жылумен жабдықтауды үздіксіз қамтамасыз ету</td>
+<td>288 157</td>
 </tr>
 <tr>
 <td></td>
@@ -1283,7 +1291,7 @@ source: https://zan.gov.kz/client/#!/doc/151234/kaz/06.05.2021
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Басқалар</td>
-<td>417 927</td>
+<td>760 534</td>
 </tr>
 <tr>
 <td></td>
@@ -1315,7 +1323,7 @@ source: https://zan.gov.kz/client/#!/doc/151234/kaz/06.05.2021
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Басқалар</td>
-<td>384 357</td>
+<td>726 964</td>
 </tr>
 <tr>
 <td></td>
@@ -1323,7 +1331,7 @@ source: https://zan.gov.kz/client/#!/doc/151234/kaz/06.05.2021
 <td colspan="2">458</td>
 <td colspan="2"></td>
 <td>Ауданның (облыстық маңызы бар қаланың) тұрғын үй-коммуналдық шаруашылығы, жолаушылар көлігі және автомобиль жолдары бөлімі</td>
-<td>280 357</td>
+<td>622 964</td>
 </tr>
 <tr>
 <td></td>
@@ -1331,7 +1339,7 @@ source: https://zan.gov.kz/client/#!/doc/151234/kaz/06.05.2021
 <td colspan="2"></td>
 <td colspan="2">062</td>
 <td>«Ауыл-Ел бесігі» жобасы шеңберінде ауылдық елді мекендердегі әлеуметтік және инженерлік инфрақұрылым бойынша іс-шараларды іске асыру</td>
-<td>157 537</td>
+<td>500 144</td>
 </tr>
 <tr>
 <td></td>
@@ -1708,10 +1716,7 @@ source: https://zan.gov.kz/client/#!/doc/151234/kaz/06.05.2021
 Кішi сыныбы
 Ерекшелігі Атауы
 </td>
-<td>
-Сомасы,
-мың теңге
-</td>
+<td>Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td colspan="7">1</td>
