@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/151333/kaz/13.05.2021
+source: https://zan.gov.kz/client/#!/doc/151333/kaz/28.07.2021
 ---
 
 > *Мақтаарал аудандық*  
@@ -565,7 +565,7 @@ source: https://zan.gov.kz/client/#!/doc/151333/kaz/13.05.2021
 
 ## Жаңажол ауылдық округінің 2021 жылға арналған бюджеті
 
-> *Ескерту. 16-қосымша жаңа редакцияда - Түркістан облысы Мақтаарал аудандық мәслихатының 13.05.2021 № 6-35-VII (01.01.2021 бастап қолданысқа енгізіледі) шешiмiмен.*
+> *Ескерту. 16-қосымша жаңа редакцияда - Түркістан облысы Мақтаарал аудандық мәслихатының 13.05.2021 № 6-35-VII (01.01.2021 бастап қолданысқа енгізіледі); 28.07.2021 № 10-52-VII (01.01.2021 бастап қолданысқа енгізіледі) шешiмдерiмен.*
 
 <table>
 <tr>
@@ -603,7 +603,7 @@ source: https://zan.gov.kz/client/#!/doc/151333/kaz/13.05.2021
 <td></td>
 <td></td>
 <td>1.Кірістер</td>
-<td>34 908</td>
+<td>39 766</td>
 </tr>
 <tr>
 <td>1</td>
@@ -611,7 +611,7 @@ source: https://zan.gov.kz/client/#!/doc/151333/kaz/13.05.2021
 <td></td>
 <td></td>
 <td>Салықтық түсімдер</td>
-<td>8 200</td>
+<td>11 058</td>
 </tr>
 <tr>
 <td></td>
@@ -634,7 +634,7 @@ source: https://zan.gov.kz/client/#!/doc/151333/kaz/13.05.2021
 <td></td>
 <td></td>
 <td>Меншiкке салынатын салықтар</td>
-<td>8 200</td>
+<td>11 058</td>
 </tr>
 <tr>
 <td></td>
@@ -655,7 +655,7 @@ source: https://zan.gov.kz/client/#!/doc/151333/kaz/13.05.2021
 <td></td>
 <td colspan="2">4</td>
 <td>Көлiк құралдарына салынатын салық</td>
-<td>7 000</td>
+<td>9 858</td>
 </tr>
 <tr>
 <td>2</td>
@@ -724,7 +724,7 @@ source: https://zan.gov.kz/client/#!/doc/151333/kaz/13.05.2021
 <td></td>
 <td></td>
 <td>Трансферттер түсімі</td>
-<td>26 708</td>
+<td>28 708</td>
 </tr>
 <tr>
 <td></td>
@@ -732,14 +732,14 @@ source: https://zan.gov.kz/client/#!/doc/151333/kaz/13.05.2021
 <td></td>
 <td></td>
 <td>Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td>26 708</td>
+<td>28 708</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="2">3</td>
 <td>Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td>26 708</td>
+<td>28 708</td>
 </tr>
 <tr>
 <td colspan="4">Функционалдық топ</td>
@@ -773,7 +773,7 @@ source: https://zan.gov.kz/client/#!/doc/151333/kaz/13.05.2021
 <td></td>
 <td></td>
 <td>2.Шығындар</td>
-<td>36 959</td>
+<td>41 817</td>
 </tr>
 <tr>
 <td>01</td>
@@ -781,7 +781,7 @@ source: https://zan.gov.kz/client/#!/doc/151333/kaz/13.05.2021
 <td></td>
 <td></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>29 980</td>
+<td>34 838</td>
 </tr>
 <tr>
 <td></td>
@@ -789,7 +789,7 @@ source: https://zan.gov.kz/client/#!/doc/151333/kaz/13.05.2021
 <td></td>
 <td></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>29 980</td>
+<td>34 838</td>
 </tr>
 <tr>
 <td></td>
@@ -797,7 +797,7 @@ source: https://zan.gov.kz/client/#!/doc/151333/kaz/13.05.2021
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>29 980</td>
+<td>34 838</td>
 </tr>
 <tr>
 <td></td>
@@ -805,7 +805,7 @@ source: https://zan.gov.kz/client/#!/doc/151333/kaz/13.05.2021
 <td></td>
 <td>001</td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>29 700</td>
+<td>34 558</td>
 </tr>
 <tr>
 <td></td>
@@ -2360,7 +2360,7 @@ source: https://zan.gov.kz/client/#!/doc/151333/kaz/13.05.2021
 
 ## Иіржар ауылдық округінің 2021 жылға арналған бюджеті
 
-> *Ескерту. 20-қосымша жаңа редакцияда - Түркістан облысы Мақтаарал аудандық мәслихатының 13.05.2021 № 6-35-VII (01.01.2021 бастап қолданысқа енгізіледі) шешiмiмен.*
+> *Ескерту. 20-қосымша жаңа редакцияда - Түркістан облысы Мақтаарал аудандық мәслихатының 13.05.2021 № 6-35-VII (01.01.2021 бастап қолданысқа енгізіледі); 28.07.2021 № 10-52-VII (01.01.2021 бастап қолданысқа енгізіледі) шешiмдерiмен.*
 
 <table>
 <tr>
@@ -2398,7 +2398,7 @@ source: https://zan.gov.kz/client/#!/doc/151333/kaz/13.05.2021
 <td></td>
 <td></td>
 <td>1.Кірістер</td>
-<td>48 388</td>
+<td>51 713</td>
 </tr>
 <tr>
 <td>1</td>
@@ -2406,7 +2406,7 @@ source: https://zan.gov.kz/client/#!/doc/151333/kaz/13.05.2021
 <td></td>
 <td></td>
 <td>Салықтық түсімдер</td>
-<td>7 100</td>
+<td>10 425</td>
 </tr>
 <tr>
 <td></td>
@@ -2414,7 +2414,7 @@ source: https://zan.gov.kz/client/#!/doc/151333/kaz/13.05.2021
 <td></td>
 <td></td>
 <td>Меншiкке салынатын салықтар</td>
-<td>7 100</td>
+<td>10 425</td>
 </tr>
 <tr>
 <td></td>
@@ -2435,7 +2435,7 @@ source: https://zan.gov.kz/client/#!/doc/151333/kaz/13.05.2021
 <td></td>
 <td colspan="2">4</td>
 <td>Көлiк құралдарына салынатын салық</td>
-<td>5 600</td>
+<td>8 925</td>
 </tr>
 <tr>
 <td>2</td>
@@ -2555,7 +2555,7 @@ source: https://zan.gov.kz/client/#!/doc/151333/kaz/13.05.2021
 <td></td>
 <td></td>
 <td>2.Шығындар</td>
-<td>50 589</td>
+<td>53 914</td>
 </tr>
 <tr>
 <td>01</td>
@@ -2563,7 +2563,7 @@ source: https://zan.gov.kz/client/#!/doc/151333/kaz/13.05.2021
 <td></td>
 <td></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>41 689</td>
+<td>45 014</td>
 </tr>
 <tr>
 <td></td>
@@ -2571,7 +2571,7 @@ source: https://zan.gov.kz/client/#!/doc/151333/kaz/13.05.2021
 <td></td>
 <td></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>41 689</td>
+<td>45 014</td>
 </tr>
 <tr>
 <td></td>
@@ -2579,7 +2579,7 @@ source: https://zan.gov.kz/client/#!/doc/151333/kaz/13.05.2021
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>41 689</td>
+<td>45 014</td>
 </tr>
 <tr>
 <td></td>
@@ -2587,7 +2587,7 @@ source: https://zan.gov.kz/client/#!/doc/151333/kaz/13.05.2021
 <td></td>
 <td>001</td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>41 689</td>
+<td>45 014</td>
 </tr>
 <tr>
 <td></td>
@@ -4118,7 +4118,7 @@ source: https://zan.gov.kz/client/#!/doc/151333/kaz/13.05.2021
 
 ## Ж.Нұрлыбаев ауылдық округінің 2021 жылға арналған бюджеті
 
-> *Ескерту. 24-қосымша жаңа редакцияда - Түркістан облысы Мақтаарал аудандық мәслихатының 13.05.2021 № 6-35-VII (01.01.2021 бастап қолданысқа енгізіледі) шешiмiмен.*
+> *Ескерту. 24-қосымша жаңа редакцияда - Түркістан облысы Мақтаарал аудандық мәслихатының 13.05.2021 № 6-35-VII (01.01.2021 бастап қолданысқа енгізіледі); 28.07.2021 № 10-52-VII (01.01.2021 бастап қолданысқа енгізіледі) шешiмдерiмен.*
 
 <table>
 <tr>
@@ -4157,7 +4157,7 @@ source: https://zan.gov.kz/client/#!/doc/151333/kaz/13.05.2021
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td>1.Кірістер</td>
-<td colspan="2">58 937</td>
+<td colspan="2">61 340</td>
 </tr>
 <tr>
 <td colspan="2">1</td>
@@ -4165,7 +4165,7 @@ source: https://zan.gov.kz/client/#!/doc/151333/kaz/13.05.2021
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td>Салықтық түсімдер</td>
-<td colspan="2">6 850</td>
+<td colspan="2">9 253</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -4173,7 +4173,7 @@ source: https://zan.gov.kz/client/#!/doc/151333/kaz/13.05.2021
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td>Меншiкке салынатын салықтар</td>
-<td colspan="2">6 850</td>
+<td colspan="2">9 253</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -4194,7 +4194,7 @@ source: https://zan.gov.kz/client/#!/doc/151333/kaz/13.05.2021
 <td colspan="2"></td>
 <td colspan="5">4</td>
 <td>Көлiк құралдарына салынатын салық</td>
-<td colspan="2">5 500</td>
+<td colspan="2">7 903</td>
 </tr>
 <tr>
 <td colspan="2">2</td>
@@ -4312,7 +4312,7 @@ source: https://zan.gov.kz/client/#!/doc/151333/kaz/13.05.2021
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td>2.Шығындар</td>
-<td colspan="2">60 624</td>
+<td colspan="2">63 027</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
@@ -4320,7 +4320,7 @@ source: https://zan.gov.kz/client/#!/doc/151333/kaz/13.05.2021
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td colspan="2">38 024</td>
+<td colspan="2">40 427</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -4328,7 +4328,7 @@ source: https://zan.gov.kz/client/#!/doc/151333/kaz/13.05.2021
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td colspan="2">38 024</td>
+<td colspan="2">40 427</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -4336,7 +4336,7 @@ source: https://zan.gov.kz/client/#!/doc/151333/kaz/13.05.2021
 <td colspan="2">124</td>
 <td colspan="3"></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td colspan="2">38 024</td>
+<td colspan="2">40 427</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -4344,7 +4344,7 @@ source: https://zan.gov.kz/client/#!/doc/151333/kaz/13.05.2021
 <td colspan="2"></td>
 <td colspan="3">001</td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td colspan="2">38 008</td>
+<td colspan="2">40 411</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -4408,7 +4408,7 @@ source: https://zan.gov.kz/client/#!/doc/151333/kaz/13.05.2021
 <td colspan="2"></td>
 <td colspan="3">008</td>
 <td>Елді мекендердегі көшелерді жарықтандыру</td>
-<td colspan="2">0</td>
+<td colspan="2">1 400</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -4424,7 +4424,7 @@ source: https://zan.gov.kz/client/#!/doc/151333/kaz/13.05.2021
 <td colspan="2"></td>
 <td colspan="3">011</td>
 <td>Елді мекендерді абаттандыру мен көгалдандыру</td>
-<td colspan="2">15 000</td>
+<td colspan="2">13 600</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -5899,7 +5899,7 @@ source: https://zan.gov.kz/client/#!/doc/151333/kaz/13.05.2021
 
 ## Атакент кентінің 2021 жылға арналған бюджеті
 
-> *Ескерту. 28-қосымша жаңа редакцияда - Түркістан облысы Мақтаарал аудандық мәслихатының 13.05.2021 № 6-35-VII (01.01.2021 бастап қолданысқа енгізіледі) шешiмiмен.*
+> *Ескерту. 28-қосымша жаңа редакцияда - Түркістан облысы Мақтаарал аудандық мәслихатының 13.05.2021 № 6-35-VII (01.01.2021 бастап қолданысқа енгізіледі); 28.07.2021 № 10-52-VII (01.01.2021 бастап қолданысқа енгізіледі) шешiмдерiмен.*
 
 <table>
 <tr>
@@ -5938,7 +5938,7 @@ source: https://zan.gov.kz/client/#!/doc/151333/kaz/13.05.2021
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="4">1.Кірістер</td>
-<td colspan="2">48 787</td>
+<td colspan="2">72 423</td>
 </tr>
 <tr>
 <td>1</td>
@@ -5946,7 +5946,23 @@ source: https://zan.gov.kz/client/#!/doc/151333/kaz/13.05.2021
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="4">Салықтық түсімдер</td>
-<td colspan="2">31 105</td>
+<td colspan="2">60 241</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">01</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="4">Табыс салығы</td>
+<td colspan="2">27 636</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">2</td>
+<td colspan="2"></td>
+<td colspan="4">Жеке табыс салығы</td>
+<td colspan="2">27 636</td>
 </tr>
 <tr>
 <td></td>
@@ -5954,7 +5970,7 @@ source: https://zan.gov.kz/client/#!/doc/151333/kaz/13.05.2021
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="4">Меншiкке салынатын салықтар</td>
-<td colspan="2">31 025</td>
+<td colspan="2">32 525</td>
 </tr>
 <tr>
 <td></td>
@@ -5975,7 +5991,7 @@ source: https://zan.gov.kz/client/#!/doc/151333/kaz/13.05.2021
 <td colspan="2"></td>
 <td colspan="4">4</td>
 <td colspan="4">Көлiк құралдарына салынатын салық</td>
-<td colspan="2">26 410</td>
+<td colspan="2">27 910</td>
 </tr>
 <tr>
 <td></td>
@@ -6059,7 +6075,7 @@ source: https://zan.gov.kz/client/#!/doc/151333/kaz/13.05.2021
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="4">Трансферттер түсімі</td>
-<td colspan="2">17 682</td>
+<td colspan="2">12 182</td>
 </tr>
 <tr>
 <td></td>
@@ -6067,14 +6083,14 @@ source: https://zan.gov.kz/client/#!/doc/151333/kaz/13.05.2021
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="4">Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td colspan="2">17 682</td>
+<td colspan="2">12 182</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="4">3</td>
 <td colspan="4">Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td colspan="2">17 682</td>
+<td colspan="2">12 182</td>
 </tr>
 <tr>
 <td colspan="7">Функционалдық топ</td>
@@ -6108,7 +6124,7 @@ source: https://zan.gov.kz/client/#!/doc/151333/kaz/13.05.2021
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">2.Шығындар</td>
-<td colspan="2">57 889</td>
+<td colspan="2">81 525</td>
 </tr>
 <tr>
 <td>01</td>
@@ -6116,7 +6132,7 @@ source: https://zan.gov.kz/client/#!/doc/151333/kaz/13.05.2021
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td colspan="2">45 998</td>
+<td colspan="2">47 668</td>
 </tr>
 <tr>
 <td></td>
@@ -6124,7 +6140,7 @@ source: https://zan.gov.kz/client/#!/doc/151333/kaz/13.05.2021
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td colspan="2">45 998</td>
+<td colspan="2">47 668</td>
 </tr>
 <tr>
 <td></td>
@@ -6132,7 +6148,7 @@ source: https://zan.gov.kz/client/#!/doc/151333/kaz/13.05.2021
 <td colspan="2">124</td>
 <td colspan="3"></td>
 <td colspan="3">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td colspan="2">45 998</td>
+<td colspan="2">47 668</td>
 </tr>
 <tr>
 <td></td>
@@ -6140,7 +6156,7 @@ source: https://zan.gov.kz/client/#!/doc/151333/kaz/13.05.2021
 <td colspan="2"></td>
 <td colspan="3">001</td>
 <td colspan="3">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td colspan="2">45 366</td>
+<td colspan="2">46 916</td>
 </tr>
 <tr>
 <td></td>
@@ -6148,7 +6164,7 @@ source: https://zan.gov.kz/client/#!/doc/151333/kaz/13.05.2021
 <td colspan="2"></td>
 <td colspan="3">022</td>
 <td colspan="3">Мемлекеттік органның күрделі шығыстары</td>
-<td colspan="2">632</td>
+<td colspan="2">752</td>
 </tr>
 <tr>
 <td>07</td>
@@ -6156,7 +6172,7 @@ source: https://zan.gov.kz/client/#!/doc/151333/kaz/13.05.2021
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">Тұрғын үй-коммуналдық шаруашылық</td>
-<td colspan="2">11 891</td>
+<td colspan="2">33 857</td>
 </tr>
 <tr>
 <td></td>
@@ -6164,7 +6180,7 @@ source: https://zan.gov.kz/client/#!/doc/151333/kaz/13.05.2021
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">Елді-мекендерді көркейту</td>
-<td colspan="2">11 891</td>
+<td colspan="2">33 857</td>
 </tr>
 <tr>
 <td></td>
@@ -6172,7 +6188,7 @@ source: https://zan.gov.kz/client/#!/doc/151333/kaz/13.05.2021
 <td colspan="2">124</td>
 <td colspan="3"></td>
 <td colspan="3">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td colspan="2">11 891</td>
+<td colspan="2">33 857</td>
 </tr>
 <tr>
 <td></td>
@@ -6196,7 +6212,7 @@ source: https://zan.gov.kz/client/#!/doc/151333/kaz/13.05.2021
 <td colspan="2"></td>
 <td colspan="3">011</td>
 <td colspan="3">Елді мекендерді абаттандыру мен көгалдандыру</td>
-<td colspan="2">5 391</td>
+<td colspan="2">27 357</td>
 </tr>
 <tr>
 <td></td>
