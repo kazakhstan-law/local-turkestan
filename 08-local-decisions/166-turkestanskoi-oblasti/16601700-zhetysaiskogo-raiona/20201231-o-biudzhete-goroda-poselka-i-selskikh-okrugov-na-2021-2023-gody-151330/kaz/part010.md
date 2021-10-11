@@ -1,26 +1,29 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/151330/kaz/21.06.2021
+source: https://zan.gov.kz/client/#!/doc/151330/kaz/11.10.2021
 ---
 
-> *Жетісай аудандық мәслихатының 2020*  
-> *жылғы 31 желтоқсандағы №41-221-VI*  
+> *Жетісай аудандық*  
+> *мәслихатының 2020 жылғы*  
+> *31 желтоқсандағы №41-221-VI*  
 > *шешіміне 10-қосымша*
 
 ## Қазыбек би ауылдық округінің 2021 жылға арналған бюджеті
 
-> *Ескерту. 10-қосымша жаңа редакцияда - Түркістан облысы Жетісай аудандық мәслихатының 04.03.2021 № 4-23-VII (01.01.2021 бастап қолданысқа енгізіледі); 21.06.2021 № 8-50-VII (01.01.2021 бастап қолданысқа енгізіледі) шешiмдерiмен.*
+> *Ескерту. 10-қосымша жаңа редакцияда - Түркістан облысы Жетісай аудандық мәслихатының 04.03.2021 № 4-23-VII (01.01.2021 бастап қолданысқа енгізіледі); 21.06.2021 № 8-50-VII (01.01.2021 бастап қолданысқа енгізіледі); 11.10.2021 № 12-80-VII (01.01.2021 бастап қолданысқа енгізіледі) шешiмдерiмен.*
 
 <table>
 <tr>
-<td colspan="3">Санаты</td>
+<td colspan="2">Санаты</td>
+<td></td>
 <td></td>
 <td>Атауы</td>
 <td rowspan="3">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">Сыныбы</td>
+<td colspan="2">Сыныбы</td>
+<td></td>
 <td></td>
 </tr>
 <tr>
@@ -29,9 +32,9 @@ source: https://zan.gov.kz/client/#!/doc/151330/kaz/21.06.2021
 <td colspan="3">Кіші сыныбы</td>
 </tr>
 <tr>
-<td colspan="4">1</td>
-<td>2</td>
-<td>3</td>
+<th colspan="4">1</th>
+<th>2</th>
+<th>3</th>
 </tr>
 <tr>
 <td></td>
@@ -39,7 +42,7 @@ source: https://zan.gov.kz/client/#!/doc/151330/kaz/21.06.2021
 <td></td>
 <td></td>
 <td>1.Кірістер</td>
-<td>32 541</td>
+<td>39 894</td>
 </tr>
 <tr>
 <td>1</td>
@@ -47,7 +50,7 @@ source: https://zan.gov.kz/client/#!/doc/151330/kaz/21.06.2021
 <td></td>
 <td></td>
 <td>Салықтық түсімдер</td>
-<td>16 677</td>
+<td>20 772</td>
 </tr>
 <tr>
 <td></td>
@@ -55,14 +58,14 @@ source: https://zan.gov.kz/client/#!/doc/151330/kaz/21.06.2021
 <td></td>
 <td></td>
 <td>Табыс салығы</td>
-<td>500</td>
+<td>550</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="2">2</td>
 <td>Жеке табыс салығы</td>
-<td>500</td>
+<td>550</td>
 </tr>
 <tr>
 <td></td>
@@ -70,14 +73,14 @@ source: https://zan.gov.kz/client/#!/doc/151330/kaz/21.06.2021
 <td></td>
 <td></td>
 <td>Меншiкке салынатын салықтар</td>
-<td>16 177</td>
+<td>20 222</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="2">1</td>
 <td>Мүлiкке салынатын салықтар</td>
-<td>550</td>
+<td>595</td>
 </tr>
 <tr>
 <td></td>
@@ -91,7 +94,7 @@ source: https://zan.gov.kz/client/#!/doc/151330/kaz/21.06.2021
 <td></td>
 <td colspan="2">4</td>
 <td>Көлiк құралдарына салынатын салық</td>
-<td>14 650</td>
+<td>18 650</td>
 </tr>
 <tr>
 <td>2</td>
@@ -162,7 +165,7 @@ source: https://zan.gov.kz/client/#!/doc/151330/kaz/21.06.2021
 <td></td>
 <td></td>
 <td>Трансферттер түсімі</td>
-<td>15 864</td>
+<td>19 122</td>
 </tr>
 <tr>
 <td></td>
@@ -170,17 +173,18 @@ source: https://zan.gov.kz/client/#!/doc/151330/kaz/21.06.2021
 <td></td>
 <td></td>
 <td>Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td>15 864</td>
+<td>19 122</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="2">3</td>
 <td>Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td>15 864</td>
+<td>19 122</td>
 </tr>
 <tr>
-<td colspan="5">Функционалдық топ</td>
+<td colspan="4">Функционалдық топ</td>
+<td></td>
 <td rowspan="4">Сомасы, мың теңге</td>
 </tr>
 <tr>
@@ -200,9 +204,9 @@ source: https://zan.gov.kz/client/#!/doc/151330/kaz/21.06.2021
 <td colspan="2">Бағдарлама</td>
 </tr>
 <tr>
-<td colspan="4">1</td>
-<td>2</td>
-<td>3</td>
+<th colspan="4">1</th>
+<th>2</th>
+<th>3</th>
 </tr>
 <tr>
 <td></td>
@@ -210,7 +214,7 @@ source: https://zan.gov.kz/client/#!/doc/151330/kaz/21.06.2021
 <td></td>
 <td></td>
 <td>2.Шығындар</td>
-<td>38 084</td>
+<td>45 437</td>
 </tr>
 <tr>
 <td>01</td>
@@ -218,7 +222,7 @@ source: https://zan.gov.kz/client/#!/doc/151330/kaz/21.06.2021
 <td></td>
 <td></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>35 984</td>
+<td>43 537</td>
 </tr>
 <tr>
 <td></td>
@@ -226,7 +230,7 @@ source: https://zan.gov.kz/client/#!/doc/151330/kaz/21.06.2021
 <td></td>
 <td></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>35 984</td>
+<td>43 537</td>
 </tr>
 <tr>
 <td></td>
@@ -234,7 +238,7 @@ source: https://zan.gov.kz/client/#!/doc/151330/kaz/21.06.2021
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>35 984</td>
+<td>43 537</td>
 </tr>
 <tr>
 <td></td>
@@ -242,7 +246,7 @@ source: https://zan.gov.kz/client/#!/doc/151330/kaz/21.06.2021
 <td></td>
 <td>001</td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>35 484</td>
+<td>43 037</td>
 </tr>
 <tr>
 <td></td>
@@ -258,7 +262,7 @@ source: https://zan.gov.kz/client/#!/doc/151330/kaz/21.06.2021
 <td></td>
 <td></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>2 100</td>
+<td>1 900</td>
 </tr>
 <tr>
 <td></td>
@@ -281,7 +285,7 @@ source: https://zan.gov.kz/client/#!/doc/151330/kaz/21.06.2021
 <td></td>
 <td></td>
 <td>014</td>
-<td>Елді мекендерді сумен жабдықтауды ұйымдастыру</td>
+<td>Елді мекендердегі көшелерді жарықтандыру</td>
 <td>500</td>
 </tr>
 <tr>
@@ -290,7 +294,7 @@ source: https://zan.gov.kz/client/#!/doc/151330/kaz/21.06.2021
 <td></td>
 <td></td>
 <td>Елді-мекендерді көркейту</td>
-<td>1 600</td>
+<td>1 400</td>
 </tr>
 <tr>
 <td></td>
@@ -298,7 +302,7 @@ source: https://zan.gov.kz/client/#!/doc/151330/kaz/21.06.2021
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>1 600</td>
+<td>1 400</td>
 </tr>
 <tr>
 <td></td>
@@ -314,7 +318,7 @@ source: https://zan.gov.kz/client/#!/doc/151330/kaz/21.06.2021
 <td></td>
 <td>009</td>
 <td>Елді мекендердің санитариясын қамтамасыз ету</td>
-<td>1 600</td>
+<td>1 400</td>
 </tr>
 <tr>
 <td></td>
@@ -421,7 +425,8 @@ source: https://zan.gov.kz/client/#!/doc/151330/kaz/21.06.2021
 <td>0</td>
 </tr>
 <tr>
-<td colspan="5">Функционалдық топ</td>
+<td colspan="4">Функционалдық топ</td>
+<td></td>
 <td rowspan="4">Сомасы, мың теңге</td>
 </tr>
 <tr>
@@ -441,9 +446,9 @@ source: https://zan.gov.kz/client/#!/doc/151330/kaz/21.06.2021
 <td colspan="2">Бағдарлама</td>
 </tr>
 <tr>
-<td colspan="4">1</td>
-<td>2</td>
-<td>3</td>
+<th colspan="4">1</th>
+<th>2</th>
+<th>3</th>
 </tr>
 <tr>
 <td></td>
@@ -454,14 +459,16 @@ source: https://zan.gov.kz/client/#!/doc/151330/kaz/21.06.2021
 <td>0</td>
 </tr>
 <tr>
-<td colspan="3">Санаты</td>
+<td colspan="2">Санаты</td>
+<td></td>
 <td></td>
 <td>Атауы</td>
 <td rowspan="3">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">Сыныбы</td>
+<td colspan="2">Сыныбы</td>
+<td></td>
 <td></td>
 </tr>
 <tr>
@@ -470,9 +477,9 @@ source: https://zan.gov.kz/client/#!/doc/151330/kaz/21.06.2021
 <td colspan="3">Кіші сыныбы</td>
 </tr>
 <tr>
-<td colspan="4">1</td>
-<td>2</td>
-<td>3</td>
+<th colspan="4">1</th>
+<th>2</th>
+<th>3</th>
 </tr>
 <tr>
 <td></td>
@@ -538,14 +545,16 @@ source: https://zan.gov.kz/client/#!/doc/151330/kaz/21.06.2021
 <td>5 543</td>
 </tr>
 <tr>
-<td colspan="3">Санаты</td>
+<td colspan="2">Санаты</td>
+<td></td>
 <td></td>
 <td>Атауы</td>
 <td rowspan="3">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">Сыныбы</td>
+<td colspan="2">Сыныбы</td>
+<td></td>
 <td></td>
 </tr>
 <tr>
@@ -554,9 +563,9 @@ source: https://zan.gov.kz/client/#!/doc/151330/kaz/21.06.2021
 <td colspan="3">Кіші сыныбы</td>
 </tr>
 <tr>
-<td colspan="4">1</td>
-<td>2</td>
-<td>3</td>
+<th colspan="4">1</th>
+<th>2</th>
+<th>3</th>
 </tr>
 <tr>
 <td></td>
@@ -587,7 +596,8 @@ source: https://zan.gov.kz/client/#!/doc/151330/kaz/21.06.2021
 <td>0</td>
 </tr>
 <tr>
-<td colspan="5">Функционалдық топ</td>
+<td colspan="4">Функционалдық топ</td>
+<td></td>
 <td rowspan="4">Сомасы, мың теңге</td>
 </tr>
 <tr>
@@ -607,9 +617,9 @@ source: https://zan.gov.kz/client/#!/doc/151330/kaz/21.06.2021
 <td colspan="2">Бағдарлама</td>
 </tr>
 <tr>
-<td colspan="4">1</td>
-<td>2</td>
-<td>3</td>
+<th colspan="4">1</th>
+<th>2</th>
+<th>3</th>
 </tr>
 <tr>
 <td></td>
@@ -636,14 +646,16 @@ source: https://zan.gov.kz/client/#!/doc/151330/kaz/21.06.2021
 <td>0</td>
 </tr>
 <tr>
-<td colspan="3">Санаты</td>
+<td colspan="2">Санаты</td>
+<td></td>
 <td></td>
 <td>Атауы</td>
 <td rowspan="3">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">Сыныбы</td>
+<td colspan="2">Сыныбы</td>
+<td></td>
 <td></td>
 </tr>
 <tr>
@@ -652,9 +664,9 @@ source: https://zan.gov.kz/client/#!/doc/151330/kaz/21.06.2021
 <td colspan="3">Кіші сыныбы</td>
 </tr>
 <tr>
-<td colspan="4">1</td>
-<td>2</td>
-<td>3</td>
+<th colspan="4">1</th>
+<th>2</th>
+<th>3</th>
 </tr>
 <tr>
 <td></td>
@@ -683,6 +695,14 @@ source: https://zan.gov.kz/client/#!/doc/151330/kaz/21.06.2021
 <td colspan="2">1</td>
 <td>Бюджет қаражатының бос қалдықтары</td>
 <td>5 543</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 </table>
 
@@ -2000,24 +2020,27 @@ source: https://zan.gov.kz/client/#!/doc/151330/kaz/21.06.2021
 </tr>
 </table>
 
-> *Жетісай аудандық мәслихатының 2020*  
-> *жылғы 31 желтоқсандағы№41-221-VI*  
+> *Жетісай аудандық*  
+> *мәслихатының 2020 жылғы*  
+> *31 желтоқсандағы №41-221-VI*  
 > *шешіміне 13-қосымша*
 
 ## Қарақай ауылдық округінің 2021 жылға арналған бюджеті
 
-> *Ескерту. 13-қосымша жаңа редакцияда - Түркістан облысы Жетісай аудандық мәслихатының 04.03.2021 № 4-23-VII (01.01.2021 бастап қолданысқа енгізіледі); 21.06.2021 № 8-50-VII (01.01.2021 бастап қолданысқа енгізіледі) шешiмдерiмен.*
+> *Ескерту. 13-қосымша жаңа редакцияда - Түркістан облысы Жетісай аудандық мәслихатының 04.03.2021 № 4-23-VII (01.01.2021 бастап қолданысқа енгізіледі); 21.06.2021 № 8-50-VII (01.01.2021 бастап қолданысқа енгізіледі); 11.10.2021 № 12-80-VII (01.01.2021 бастап қолданысқа енгізіледі) шешiмдерiмен.*
 
 <table>
 <tr>
-<td colspan="3">Санаты</td>
+<td colspan="2">Санаты</td>
+<td></td>
 <td></td>
 <td>Атауы</td>
 <td rowspan="3">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">Сыныбы</td>
+<td colspan="2">Сыныбы</td>
+<td></td>
 <td></td>
 </tr>
 <tr>
@@ -2026,9 +2049,9 @@ source: https://zan.gov.kz/client/#!/doc/151330/kaz/21.06.2021
 <td colspan="3">Кіші сыныбы</td>
 </tr>
 <tr>
-<td colspan="4">1</td>
-<td>2</td>
-<td>3</td>
+<th colspan="4">1</th>
+<th>2</th>
+<th>3</th>
 </tr>
 <tr>
 <td></td>
@@ -2036,7 +2059,7 @@ source: https://zan.gov.kz/client/#!/doc/151330/kaz/21.06.2021
 <td></td>
 <td></td>
 <td>1.Кірістер</td>
-<td>26 554</td>
+<td>27 733</td>
 </tr>
 <tr>
 <td>1</td>
@@ -2044,7 +2067,7 @@ source: https://zan.gov.kz/client/#!/doc/151330/kaz/21.06.2021
 <td></td>
 <td></td>
 <td>Салықтық түсімдер</td>
-<td>7 520</td>
+<td>8 315</td>
 </tr>
 <tr>
 <td></td>
@@ -2067,7 +2090,7 @@ source: https://zan.gov.kz/client/#!/doc/151330/kaz/21.06.2021
 <td></td>
 <td></td>
 <td>Меншiкке салынатын салықтар</td>
-<td>7 320</td>
+<td>8 115</td>
 </tr>
 <tr>
 <td></td>
@@ -2088,7 +2111,7 @@ source: https://zan.gov.kz/client/#!/doc/151330/kaz/21.06.2021
 <td></td>
 <td colspan="2">4</td>
 <td>Көлiк құралдарына салынатын салық</td>
-<td>6 100</td>
+<td>6 895</td>
 </tr>
 <tr>
 <td>2</td>
@@ -2159,7 +2182,7 @@ source: https://zan.gov.kz/client/#!/doc/151330/kaz/21.06.2021
 <td></td>
 <td></td>
 <td>Трансферттер түсімі</td>
-<td>19 034</td>
+<td>19 418</td>
 </tr>
 <tr>
 <td></td>
@@ -2167,17 +2190,18 @@ source: https://zan.gov.kz/client/#!/doc/151330/kaz/21.06.2021
 <td></td>
 <td></td>
 <td>Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td>19 034</td>
+<td>19 418</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="2">3</td>
 <td>Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td>19 034</td>
+<td>19 418</td>
 </tr>
 <tr>
-<td colspan="5">Функционалдық топ</td>
+<td colspan="4">Функционалдық топ</td>
+<td></td>
 <td rowspan="4">Сомасы, мың теңге</td>
 </tr>
 <tr>
@@ -2197,9 +2221,9 @@ source: https://zan.gov.kz/client/#!/doc/151330/kaz/21.06.2021
 <td colspan="2">Бағдарлама</td>
 </tr>
 <tr>
-<td colspan="4">1</td>
-<td>2</td>
-<td>3</td>
+<th colspan="4">1</th>
+<th>2</th>
+<th>3</th>
 </tr>
 <tr>
 <td></td>
@@ -2207,7 +2231,7 @@ source: https://zan.gov.kz/client/#!/doc/151330/kaz/21.06.2021
 <td></td>
 <td></td>
 <td>2.Шығындар</td>
-<td>29 015</td>
+<td>30 194</td>
 </tr>
 <tr>
 <td>01</td>
@@ -2215,7 +2239,7 @@ source: https://zan.gov.kz/client/#!/doc/151330/kaz/21.06.2021
 <td></td>
 <td></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>26 189</td>
+<td>27 368</td>
 </tr>
 <tr>
 <td></td>
@@ -2223,7 +2247,7 @@ source: https://zan.gov.kz/client/#!/doc/151330/kaz/21.06.2021
 <td></td>
 <td></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>26 189</td>
+<td>27 368</td>
 </tr>
 <tr>
 <td></td>
@@ -2231,7 +2255,7 @@ source: https://zan.gov.kz/client/#!/doc/151330/kaz/21.06.2021
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>26 189</td>
+<td>27 368</td>
 </tr>
 <tr>
 <td></td>
@@ -2239,7 +2263,7 @@ source: https://zan.gov.kz/client/#!/doc/151330/kaz/21.06.2021
 <td></td>
 <td>001</td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>25 689</td>
+<td>26 868</td>
 </tr>
 <tr>
 <td></td>
@@ -2394,7 +2418,8 @@ source: https://zan.gov.kz/client/#!/doc/151330/kaz/21.06.2021
 <td>0</td>
 </tr>
 <tr>
-<td colspan="5">Функционалдық топ</td>
+<td colspan="4">Функционалдық топ</td>
+<td></td>
 <td rowspan="4">Сомасы, мың теңге</td>
 </tr>
 <tr>
@@ -2414,9 +2439,9 @@ source: https://zan.gov.kz/client/#!/doc/151330/kaz/21.06.2021
 <td colspan="2">Бағдарлама</td>
 </tr>
 <tr>
-<td colspan="4">1</td>
-<td>2</td>
-<td>3</td>
+<th colspan="4">1</th>
+<th>2</th>
+<th>3</th>
 </tr>
 <tr>
 <td></td>
@@ -2427,14 +2452,16 @@ source: https://zan.gov.kz/client/#!/doc/151330/kaz/21.06.2021
 <td>0</td>
 </tr>
 <tr>
-<td colspan="3">Санаты</td>
+<td colspan="2">Санаты</td>
+<td></td>
 <td></td>
 <td>Атауы</td>
 <td rowspan="3">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">Сыныбы</td>
+<td colspan="2">Сыныбы</td>
+<td></td>
 <td></td>
 </tr>
 <tr>
@@ -2443,9 +2470,9 @@ source: https://zan.gov.kz/client/#!/doc/151330/kaz/21.06.2021
 <td colspan="3">Кіші сыныбы</td>
 </tr>
 <tr>
-<td colspan="4">1</td>
-<td>2</td>
-<td>3</td>
+<th colspan="4">1</th>
+<th>2</th>
+<th>3</th>
 </tr>
 <tr>
 <td></td>
@@ -2511,14 +2538,16 @@ source: https://zan.gov.kz/client/#!/doc/151330/kaz/21.06.2021
 <td>2 461</td>
 </tr>
 <tr>
-<td colspan="3">Санаты</td>
+<td colspan="2">Санаты</td>
+<td></td>
 <td></td>
 <td>Атауы</td>
 <td rowspan="3">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">Сыныбы</td>
+<td colspan="2">Сыныбы</td>
+<td></td>
 <td></td>
 </tr>
 <tr>
@@ -2527,9 +2556,9 @@ source: https://zan.gov.kz/client/#!/doc/151330/kaz/21.06.2021
 <td colspan="3">Кіші сыныбы</td>
 </tr>
 <tr>
-<td colspan="4">1</td>
-<td>2</td>
-<td>3</td>
+<th colspan="4">1</th>
+<th>2</th>
+<th>3</th>
 </tr>
 <tr>
 <td></td>
@@ -2560,7 +2589,8 @@ source: https://zan.gov.kz/client/#!/doc/151330/kaz/21.06.2021
 <td>0</td>
 </tr>
 <tr>
-<td colspan="5">Функционалдық топ</td>
+<td colspan="4">Функционалдық топ</td>
+<td></td>
 <td rowspan="4">Сомасы, мың теңге</td>
 </tr>
 <tr>
@@ -2580,9 +2610,9 @@ source: https://zan.gov.kz/client/#!/doc/151330/kaz/21.06.2021
 <td colspan="2">Бағдарлама</td>
 </tr>
 <tr>
-<td colspan="4">1</td>
-<td>2</td>
-<td>3</td>
+<th colspan="4">1</th>
+<th>2</th>
+<th>3</th>
 </tr>
 <tr>
 <td></td>
@@ -2609,14 +2639,16 @@ source: https://zan.gov.kz/client/#!/doc/151330/kaz/21.06.2021
 <td>0</td>
 </tr>
 <tr>
-<td colspan="3">Санаты</td>
+<td colspan="2">Санаты</td>
+<td></td>
 <td></td>
 <td>Атауы</td>
 <td rowspan="3">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">Сыныбы</td>
+<td colspan="2">Сыныбы</td>
+<td></td>
 <td></td>
 </tr>
 <tr>
@@ -2625,9 +2657,9 @@ source: https://zan.gov.kz/client/#!/doc/151330/kaz/21.06.2021
 <td colspan="3">Кіші сыныбы</td>
 </tr>
 <tr>
-<td colspan="4">1</td>
-<td>2</td>
-<td>3</td>
+<th colspan="4">1</th>
+<th>2</th>
+<th>3</th>
 </tr>
 <tr>
 <td></td>
@@ -3973,24 +4005,27 @@ source: https://zan.gov.kz/client/#!/doc/151330/kaz/21.06.2021
 </tr>
 </table>
 
-> *Жетісай аудандық мәслихатының 2020*  
-> *жылғы 31 желтоқсандағы №41-221-VI*  
+> *Жетісай аудандық*  
+> *мәслихатының 2020 жылғы*  
+> *31 желтоқсандағы №41-221-VI*  
 > *шешіміне 16-қосымша*
 
 ## Асықата кентінің 2021 жылға арналған бюджеті
 
-> *Ескерту. 16-қосымша жаңа редакцияда - Түркістан облысы Жетісай аудандық мәслихатының 04.03.2021 № 4-23-VII (01.01.2021 бастап қолданысқа енгізіледі); 21.06.2021 № 8-50-VII (01.01.2021 бастап қолданысқа енгізіледі) шешiмдерiмен.*
+> *Ескерту. 16-қосымша жаңа редакцияда - Түркістан облысы Жетісай аудандық мәслихатының 04.03.2021 № 4-23-VII (01.01.2021 бастап қолданысқа енгізіледі); 21.06.2021 № 8-50-VII (01.01.2021 бастап қолданысқа енгізіледі); 11.10.2021 № 12-80-VII (01.01.2021 бастап қолданысқа енгізіледі) шешiмдерiмен.*
 
 <table>
 <tr>
-<td colspan="3">Санаты</td>
+<td colspan="2">Санаты</td>
+<td></td>
 <td></td>
 <td>Атауы</td>
 <td rowspan="3">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">Сыныбы</td>
+<td colspan="2">Сыныбы</td>
+<td></td>
 <td></td>
 </tr>
 <tr>
@@ -3999,9 +4034,9 @@ source: https://zan.gov.kz/client/#!/doc/151330/kaz/21.06.2021
 <td colspan="3">Кіші сыныбы</td>
 </tr>
 <tr>
-<td colspan="4">1</td>
-<td>2</td>
-<td>3</td>
+<th colspan="4">1</th>
+<th>2</th>
+<th>3</th>
 </tr>
 <tr>
 <td></td>
@@ -4009,7 +4044,7 @@ source: https://zan.gov.kz/client/#!/doc/151330/kaz/21.06.2021
 <td></td>
 <td></td>
 <td>1.Кірістер</td>
-<td>60 211</td>
+<td>68 544</td>
 </tr>
 <tr>
 <td>1</td>
@@ -4017,7 +4052,7 @@ source: https://zan.gov.kz/client/#!/doc/151330/kaz/21.06.2021
 <td></td>
 <td></td>
 <td>Салықтық түсімдер</td>
-<td>30 557</td>
+<td>32 570</td>
 </tr>
 <tr>
 <td></td>
@@ -4025,14 +4060,14 @@ source: https://zan.gov.kz/client/#!/doc/151330/kaz/21.06.2021
 <td></td>
 <td></td>
 <td>Табыс салығы</td>
-<td>2 211</td>
+<td>3 311</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="2">2</td>
 <td>Жеке табыс салығы</td>
-<td>2 211</td>
+<td>3 311</td>
 </tr>
 <tr>
 <td></td>
@@ -4040,7 +4075,7 @@ source: https://zan.gov.kz/client/#!/doc/151330/kaz/21.06.2021
 <td></td>
 <td></td>
 <td>Меншiкке салынатын салықтар</td>
-<td>28 296</td>
+<td>29 209</td>
 </tr>
 <tr>
 <td></td>
@@ -4054,14 +4089,14 @@ source: https://zan.gov.kz/client/#!/doc/151330/kaz/21.06.2021
 <td></td>
 <td colspan="2">3</td>
 <td>Жер салығы</td>
-<td>1 300</td>
+<td>1 350</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="2">4</td>
 <td>Көлiк құралдарына салынатын салық</td>
-<td>25 197</td>
+<td>26 060</td>
 </tr>
 <tr>
 <td></td>
@@ -4147,7 +4182,7 @@ source: https://zan.gov.kz/client/#!/doc/151330/kaz/21.06.2021
 <td></td>
 <td></td>
 <td>Трансферттер түсімі</td>
-<td>29 654</td>
+<td>35 974</td>
 </tr>
 <tr>
 <td></td>
@@ -4155,17 +4190,18 @@ source: https://zan.gov.kz/client/#!/doc/151330/kaz/21.06.2021
 <td></td>
 <td></td>
 <td>Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td>29 654</td>
+<td>35 974</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="2">3</td>
 <td>Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td>29 654</td>
+<td>35 974</td>
 </tr>
 <tr>
-<td colspan="5">Функционалдық топ</td>
+<td colspan="4">Функционалдық топ</td>
+<td></td>
 <td rowspan="4">Сомасы, мың теңге</td>
 </tr>
 <tr>
@@ -4185,9 +4221,9 @@ source: https://zan.gov.kz/client/#!/doc/151330/kaz/21.06.2021
 <td colspan="2">Бағдарлама</td>
 </tr>
 <tr>
-<td colspan="4">1</td>
-<td>2</td>
-<td>3</td>
+<th colspan="4">1</th>
+<th>2</th>
+<th>3</th>
 </tr>
 <tr>
 <td></td>
@@ -4195,7 +4231,7 @@ source: https://zan.gov.kz/client/#!/doc/151330/kaz/21.06.2021
 <td></td>
 <td></td>
 <td>2.Шығындар</td>
-<td>65 779</td>
+<td>74 112</td>
 </tr>
 <tr>
 <td>01</td>
@@ -4203,7 +4239,7 @@ source: https://zan.gov.kz/client/#!/doc/151330/kaz/21.06.2021
 <td></td>
 <td></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>60 211</td>
+<td>65 022</td>
 </tr>
 <tr>
 <td></td>
@@ -4211,7 +4247,7 @@ source: https://zan.gov.kz/client/#!/doc/151330/kaz/21.06.2021
 <td></td>
 <td></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>60 211</td>
+<td>65 022</td>
 </tr>
 <tr>
 <td></td>
@@ -4219,7 +4255,7 @@ source: https://zan.gov.kz/client/#!/doc/151330/kaz/21.06.2021
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>60 211</td>
+<td>65 022</td>
 </tr>
 <tr>
 <td></td>
@@ -4227,7 +4263,7 @@ source: https://zan.gov.kz/client/#!/doc/151330/kaz/21.06.2021
 <td></td>
 <td>001</td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>58 503</td>
+<td>63 314</td>
 </tr>
 <tr>
 <td></td>
@@ -4238,20 +4274,12 @@ source: https://zan.gov.kz/client/#!/doc/151330/kaz/21.06.2021
 <td>1 708</td>
 </tr>
 <tr>
-<td>07</td>
+<td></td>
+<td>2</td>
 <td></td>
 <td></td>
-<td></td>
-<td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>5 568</td>
-</tr>
-<tr>
-<td></td>
-<td>3</td>
-<td></td>
-<td></td>
-<td>Елді-мекендерді көркейту</td>
-<td>5 568</td>
+<td>Қаржылық қызмет</td>
+<td>1 124</td>
 </tr>
 <tr>
 <td></td>
@@ -4259,7 +4287,39 @@ source: https://zan.gov.kz/client/#!/doc/151330/kaz/21.06.2021
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>5 568</td>
+<td>1 124</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>053</td>
+<td>Аудандық маңызы бар қаланың, ауылдың, кенттің, ауылдық округтің коммуналдық мүлкін басқару</td>
+<td>1 124</td>
+</tr>
+<tr>
+<td>07</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Тұрғын үй-коммуналдық шаруашылық</td>
+<td>7 966</td>
+</tr>
+<tr>
+<td></td>
+<td>3</td>
+<td></td>
+<td></td>
+<td>Елді-мекендерді көркейту</td>
+<td>7 966</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>124</td>
+<td></td>
+<td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
+<td>7 966</td>
 </tr>
 <tr>
 <td></td>
@@ -4283,7 +4343,7 @@ source: https://zan.gov.kz/client/#!/doc/151330/kaz/21.06.2021
 <td></td>
 <td>011</td>
 <td>Елді мекендерді абаттандыру мен көгалдандыру</td>
-<td>0</td>
+<td>2 398</td>
 </tr>
 <tr>
 <td>08</td>
@@ -4382,7 +4442,8 @@ source: https://zan.gov.kz/client/#!/doc/151330/kaz/21.06.2021
 <td>0</td>
 </tr>
 <tr>
-<td colspan="5">Функционалдық топ</td>
+<td colspan="4">Функционалдық топ</td>
+<td></td>
 <td rowspan="4">Сомасы, мың теңге</td>
 </tr>
 <tr>
@@ -4402,9 +4463,9 @@ source: https://zan.gov.kz/client/#!/doc/151330/kaz/21.06.2021
 <td colspan="2">Бағдарлама</td>
 </tr>
 <tr>
-<td colspan="4">1</td>
-<td>2</td>
-<td>3</td>
+<th colspan="4">1</th>
+<th>2</th>
+<th>3</th>
 </tr>
 <tr>
 <td></td>
@@ -4415,14 +4476,16 @@ source: https://zan.gov.kz/client/#!/doc/151330/kaz/21.06.2021
 <td>0</td>
 </tr>
 <tr>
-<td colspan="3">Санаты</td>
+<td colspan="2">Санаты</td>
+<td></td>
 <td></td>
 <td>Атауы</td>
 <td rowspan="3">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">Сыныбы</td>
+<td colspan="2">Сыныбы</td>
+<td></td>
 <td></td>
 </tr>
 <tr>
@@ -4431,9 +4494,9 @@ source: https://zan.gov.kz/client/#!/doc/151330/kaz/21.06.2021
 <td colspan="3">Кіші сыныбы</td>
 </tr>
 <tr>
-<td colspan="4">1</td>
-<td>2</td>
-<td>3</td>
+<th colspan="4">1</th>
+<th>2</th>
+<th>3</th>
 </tr>
 <tr>
 <td></td>
@@ -4499,14 +4562,16 @@ source: https://zan.gov.kz/client/#!/doc/151330/kaz/21.06.2021
 <td>5 568</td>
 </tr>
 <tr>
-<td colspan="3">Санаты</td>
+<td colspan="2">Санаты</td>
+<td></td>
 <td></td>
 <td>Атауы</td>
 <td rowspan="3">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">Сыныбы</td>
+<td colspan="2">Сыныбы</td>
+<td></td>
 <td></td>
 </tr>
 <tr>
@@ -4515,9 +4580,9 @@ source: https://zan.gov.kz/client/#!/doc/151330/kaz/21.06.2021
 <td colspan="3">Кіші сыныбы</td>
 </tr>
 <tr>
-<td colspan="4">1</td>
-<td>2</td>
-<td>3</td>
+<th colspan="4">1</th>
+<th>2</th>
+<th>3</th>
 </tr>
 <tr>
 <td></td>
@@ -4548,7 +4613,8 @@ source: https://zan.gov.kz/client/#!/doc/151330/kaz/21.06.2021
 <td>0</td>
 </tr>
 <tr>
-<td colspan="5">Функционалдық топ</td>
+<td colspan="4">Функционалдық топ</td>
+<td></td>
 <td rowspan="4">Сомасы, мың теңге</td>
 </tr>
 <tr>
@@ -4568,9 +4634,9 @@ source: https://zan.gov.kz/client/#!/doc/151330/kaz/21.06.2021
 <td colspan="2">Бағдарлама</td>
 </tr>
 <tr>
-<td colspan="4">1</td>
-<td>2</td>
-<td>3</td>
+<th colspan="4">1</th>
+<th>2</th>
+<th>3</th>
 </tr>
 <tr>
 <td></td>
@@ -4597,14 +4663,16 @@ source: https://zan.gov.kz/client/#!/doc/151330/kaz/21.06.2021
 <td>0</td>
 </tr>
 <tr>
-<td colspan="3">Санаты</td>
+<td colspan="2">Санаты</td>
+<td></td>
 <td></td>
 <td>Атауы</td>
 <td rowspan="3">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">Сыныбы</td>
+<td colspan="2">Сыныбы</td>
+<td></td>
 <td></td>
 </tr>
 <tr>
@@ -4613,9 +4681,9 @@ source: https://zan.gov.kz/client/#!/doc/151330/kaz/21.06.2021
 <td colspan="3">Кіші сыныбы</td>
 </tr>
 <tr>
-<td colspan="4">1</td>
-<td>2</td>
-<td>3</td>
+<th colspan="4">1</th>
+<th>2</th>
+<th>3</th>
 </tr>
 <tr>
 <td></td>
@@ -5991,24 +6059,27 @@ source: https://zan.gov.kz/client/#!/doc/151330/kaz/21.06.2021
 </tr>
 </table>
 
-> *Жетісай аудандық мәслихатының 2020*  
-> *жылғы 31 желтоқсандағы №41-221-VI*  
+> *Жетісай аудандық*  
+> *мәслихатының 2020 жылғы*  
+> *31 желтоқсандағы №41-221-VI*  
 > *шешіміне 19-қосымша*
 
 ## Абай ауылдық округінің 2021 жылға арналған бюджеті
 
-> *Ескерту. 19-қосымша жаңа редакцияда - Түркістан облысы Жетісай аудандық мәслихатының 04.03.2021 № 4-23-VII (01.01.2021 бастап қолданысқа енгізіледі); 21.06.2021 № 8-50-VII (01.01.2021 бастап қолданысқа енгізіледі) шешiмдерiмен.*
+> *Ескерту. 19-қосымша жаңа редакцияда - Түркістан облысы Жетісай аудандық мәслихатының 04.03.2021 № 4-23-VII (01.01.2021 бастап қолданысқа енгізіледі); 21.06.2021 № 8-50-VII (01.01.2021 бастап қолданысқа енгізіледі); 11.10.2021 № 12-80-VII (01.01.2021 бастап қолданысқа енгізіледі) шешiмдерiмен.*
 
 <table>
 <tr>
-<td colspan="3">Санаты</td>
+<td colspan="2">Санаты</td>
+<td></td>
 <td></td>
 <td>Атауы</td>
 <td rowspan="3">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">Сыныбы</td>
+<td colspan="2">Сыныбы</td>
+<td></td>
 <td></td>
 </tr>
 <tr>
@@ -6017,9 +6088,9 @@ source: https://zan.gov.kz/client/#!/doc/151330/kaz/21.06.2021
 <td colspan="3">Кіші сыныбы</td>
 </tr>
 <tr>
-<td colspan="4">1</td>
-<td>2</td>
-<td>3</td>
+<th colspan="4">1</th>
+<th>2</th>
+<th>3</th>
 </tr>
 <tr>
 <td></td>
@@ -6027,7 +6098,7 @@ source: https://zan.gov.kz/client/#!/doc/151330/kaz/21.06.2021
 <td></td>
 <td></td>
 <td>1.Кірістер</td>
-<td>76 680</td>
+<td>49 476</td>
 </tr>
 <tr>
 <td>1</td>
@@ -6035,7 +6106,7 @@ source: https://zan.gov.kz/client/#!/doc/151330/kaz/21.06.2021
 <td></td>
 <td></td>
 <td>Салықтық түсімдер</td>
-<td>11 274</td>
+<td>12 069</td>
 </tr>
 <tr>
 <td></td>
@@ -6058,14 +6129,14 @@ source: https://zan.gov.kz/client/#!/doc/151330/kaz/21.06.2021
 <td></td>
 <td></td>
 <td>Меншiкке салынатын салықтар</td>
-<td>11 274</td>
+<td>12 069</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="2">1</td>
 <td>Мүлiкке салынатын салықтар</td>
-<td>2 030</td>
+<td>2 180</td>
 </tr>
 <tr>
 <td></td>
@@ -6079,7 +6150,7 @@ source: https://zan.gov.kz/client/#!/doc/151330/kaz/21.06.2021
 <td></td>
 <td colspan="2">4</td>
 <td>Көлiк құралдарына салынатын салық</td>
-<td>8 634</td>
+<td>9 279</td>
 </tr>
 <tr>
 <td>2</td>
@@ -6150,7 +6221,7 @@ source: https://zan.gov.kz/client/#!/doc/151330/kaz/21.06.2021
 <td></td>
 <td></td>
 <td>Трансферттер түсімі</td>
-<td>65 406</td>
+<td>37 407</td>
 </tr>
 <tr>
 <td></td>
@@ -6158,17 +6229,18 @@ source: https://zan.gov.kz/client/#!/doc/151330/kaz/21.06.2021
 <td></td>
 <td></td>
 <td>Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td>65 406</td>
+<td>37 407</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="2">3</td>
 <td>Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td>65 406</td>
+<td>37 407</td>
 </tr>
 <tr>
-<td colspan="5">Функционалдық топ</td>
+<td colspan="4">Функционалдық топ</td>
+<td></td>
 <td rowspan="4">Сомасы, мың теңге</td>
 </tr>
 <tr>
@@ -6188,9 +6260,9 @@ source: https://zan.gov.kz/client/#!/doc/151330/kaz/21.06.2021
 <td colspan="2">Бағдарлама</td>
 </tr>
 <tr>
-<td colspan="4">1</td>
-<td>2</td>
-<td>3</td>
+<th colspan="4">1</th>
+<th>2</th>
+<th>3</th>
 </tr>
 <tr>
 <td></td>
@@ -6198,7 +6270,7 @@ source: https://zan.gov.kz/client/#!/doc/151330/kaz/21.06.2021
 <td></td>
 <td></td>
 <td>2.Шығындар</td>
-<td>79 103</td>
+<td>51 899</td>
 </tr>
 <tr>
 <td>01</td>
@@ -6206,7 +6278,7 @@ source: https://zan.gov.kz/client/#!/doc/151330/kaz/21.06.2021
 <td></td>
 <td></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>58 468</td>
+<td>29 450</td>
 </tr>
 <tr>
 <td></td>
@@ -6214,7 +6286,7 @@ source: https://zan.gov.kz/client/#!/doc/151330/kaz/21.06.2021
 <td></td>
 <td></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>58 468</td>
+<td>29 450</td>
 </tr>
 <tr>
 <td></td>
@@ -6222,7 +6294,7 @@ source: https://zan.gov.kz/client/#!/doc/151330/kaz/21.06.2021
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>58 468</td>
+<td>29 450</td>
 </tr>
 <tr>
 <td></td>
@@ -6230,7 +6302,7 @@ source: https://zan.gov.kz/client/#!/doc/151330/kaz/21.06.2021
 <td></td>
 <td>001</td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>27 968</td>
+<td>28 763</td>
 </tr>
 <tr>
 <td></td>
@@ -6238,7 +6310,7 @@ source: https://zan.gov.kz/client/#!/doc/151330/kaz/21.06.2021
 <td></td>
 <td>022</td>
 <td>Мемлекеттік органның күрделі шығыстары</td>
-<td>30 500</td>
+<td>687</td>
 </tr>
 <tr>
 <td>07</td>
@@ -6246,7 +6318,7 @@ source: https://zan.gov.kz/client/#!/doc/151330/kaz/21.06.2021
 <td></td>
 <td></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>20 635</td>
+<td>22 449</td>
 </tr>
 <tr>
 <td></td>
@@ -6254,7 +6326,7 @@ source: https://zan.gov.kz/client/#!/doc/151330/kaz/21.06.2021
 <td></td>
 <td></td>
 <td>Елді-мекендерді көркейту</td>
-<td>20 635</td>
+<td>22 449</td>
 </tr>
 <tr>
 <td></td>
@@ -6262,7 +6334,7 @@ source: https://zan.gov.kz/client/#!/doc/151330/kaz/21.06.2021
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>20 635</td>
+<td>22 449</td>
 </tr>
 <tr>
 <td></td>
@@ -6286,7 +6358,7 @@ source: https://zan.gov.kz/client/#!/doc/151330/kaz/21.06.2021
 <td></td>
 <td>011</td>
 <td>Елді мекендерді абаттандыру мен көгалдандыру</td>
-<td>19 235</td>
+<td>21 049</td>
 </tr>
 <tr>
 <td>08</td>
@@ -6417,7 +6489,8 @@ source: https://zan.gov.kz/client/#!/doc/151330/kaz/21.06.2021
 <td>0</td>
 </tr>
 <tr>
-<td colspan="5">Функционалдық топ</td>
+<td colspan="4">Функционалдық топ</td>
+<td></td>
 <td rowspan="4">Сомасы, мың теңге</td>
 </tr>
 <tr>
@@ -6437,9 +6510,9 @@ source: https://zan.gov.kz/client/#!/doc/151330/kaz/21.06.2021
 <td colspan="2">Бағдарлама</td>
 </tr>
 <tr>
-<td colspan="4">1</td>
-<td>2</td>
-<td>3</td>
+<th colspan="4">1</th>
+<th>2</th>
+<th>3</th>
 </tr>
 <tr>
 <td></td>
@@ -6450,14 +6523,16 @@ source: https://zan.gov.kz/client/#!/doc/151330/kaz/21.06.2021
 <td>0</td>
 </tr>
 <tr>
-<td colspan="3">Санаты</td>
+<td colspan="2">Санаты</td>
+<td></td>
 <td></td>
 <td>Атауы</td>
 <td rowspan="3">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">Сыныбы</td>
+<td colspan="2">Сыныбы</td>
+<td></td>
 <td></td>
 </tr>
 <tr>
@@ -6466,9 +6541,9 @@ source: https://zan.gov.kz/client/#!/doc/151330/kaz/21.06.2021
 <td colspan="3">Кіші сыныбы</td>
 </tr>
 <tr>
-<td colspan="4">1</td>
-<td>2</td>
-<td>3</td>
+<th colspan="4">1</th>
+<th>2</th>
+<th>3</th>
 </tr>
 <tr>
 <td></td>
@@ -6534,14 +6609,16 @@ source: https://zan.gov.kz/client/#!/doc/151330/kaz/21.06.2021
 <td>2 423</td>
 </tr>
 <tr>
-<td colspan="3">Санаты</td>
+<td colspan="2">Санаты</td>
+<td></td>
 <td></td>
 <td>Атауы</td>
 <td rowspan="3">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">Сыныбы</td>
+<td colspan="2">Сыныбы</td>
+<td></td>
 <td></td>
 </tr>
 <tr>
@@ -6550,9 +6627,9 @@ source: https://zan.gov.kz/client/#!/doc/151330/kaz/21.06.2021
 <td colspan="3">Кіші сыныбы</td>
 </tr>
 <tr>
-<td colspan="4">1</td>
-<td>2</td>
-<td>3</td>
+<th colspan="4">1</th>
+<th>2</th>
+<th>3</th>
 </tr>
 <tr>
 <td></td>
@@ -6583,7 +6660,8 @@ source: https://zan.gov.kz/client/#!/doc/151330/kaz/21.06.2021
 <td>0</td>
 </tr>
 <tr>
-<td colspan="5">Функционалдық топ</td>
+<td colspan="4">Функционалдық топ</td>
+<td></td>
 <td rowspan="4">Сомасы, мың теңге</td>
 </tr>
 <tr>
@@ -6603,9 +6681,9 @@ source: https://zan.gov.kz/client/#!/doc/151330/kaz/21.06.2021
 <td colspan="2">Бағдарлама</td>
 </tr>
 <tr>
-<td colspan="4">1</td>
-<td>2</td>
-<td>3</td>
+<th colspan="4">1</th>
+<th>2</th>
+<th>3</th>
 </tr>
 <tr>
 <td></td>
@@ -6632,14 +6710,16 @@ source: https://zan.gov.kz/client/#!/doc/151330/kaz/21.06.2021
 <td>0</td>
 </tr>
 <tr>
-<td colspan="3">Санаты</td>
+<td colspan="2">Санаты</td>
+<td></td>
 <td></td>
 <td>Атауы</td>
 <td rowspan="3">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">Сыныбы</td>
+<td colspan="2">Сыныбы</td>
+<td></td>
 <td></td>
 </tr>
 <tr>
@@ -6648,9 +6728,9 @@ source: https://zan.gov.kz/client/#!/doc/151330/kaz/21.06.2021
 <td colspan="3">Кіші сыныбы</td>
 </tr>
 <tr>
-<td colspan="4">1</td>
-<td>2</td>
-<td>3</td>
+<th colspan="4">1</th>
+<th>2</th>
+<th>3</th>
 </tr>
 <tr>
 <td></td>
