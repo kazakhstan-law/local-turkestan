@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/151333/rus/06.10.2021
+source: https://zan.gov.kz/client/#!/doc/151333/rus/08.12.2021
 ---
 
 > *Приложение 39 к решению*  
