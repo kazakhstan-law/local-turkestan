@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/163129/rus/30.12.2021
+source: https://zan.gov.kz/client/#!/doc/163129/rus/20.04.2022
 ---
 
 > *Приложение 17 к решению*  
@@ -740,9 +740,11 @@ source: https://zan.gov.kz/client/#!/doc/163129/rus/30.12.2021
 > *Приложение 19 к решению*  
 > *Сарыагашского районного*  
 > *маслихата от 30 декабря*  
-> *2021 года №17-117-VII*
+> *2021года №17-117-VII*
 
 ## Бюджет сельского округа Куркелес на 2022 год
+
+> *Сноска. Приложение 19 в редакции решением Сарыагашского районного маслихата Туркестанской области от 20.04.2022 № 20-141-VII (вводится в действие с 01.01.2022).*
 
 <table>
 <tr>
@@ -769,7 +771,7 @@ source: https://zan.gov.kz/client/#!/doc/163129/rus/30.12.2021
 <td></td>
 <td></td>
 <td colspan="5">1. Доходы</td>
-<td>101 008</td>
+<td>152 756</td>
 </tr>
 <tr>
 <td>1</td>
@@ -860,21 +862,21 @@ source: https://zan.gov.kz/client/#!/doc/163129/rus/30.12.2021
 <td></td>
 <td></td>
 <td colspan="5">Поступления трансфертов</td>
-<td>31 449</td>
+<td>83 197</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td colspan="5">Трансферты из вышестоящих органов государственного управления</td>
-<td>31 449</td>
+<td>83 197</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td colspan="5">Трансферты из районного (города областного значения) бюджета</td>
-<td>31 449</td>
+<td>83 197</td>
 </tr>
 <tr>
 <td colspan="8">Функциональная группа</td>
@@ -908,7 +910,7 @@ source: https://zan.gov.kz/client/#!/doc/163129/rus/30.12.2021
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">2. Затраты</td>
-<td>101 008</td>
+<td>161 199</td>
 </tr>
 <tr>
 <td>01</td>
@@ -916,7 +918,7 @@ source: https://zan.gov.kz/client/#!/doc/163129/rus/30.12.2021
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Государственные услуги общего характера</td>
-<td>69 782</td>
+<td>75 275</td>
 </tr>
 <tr>
 <td></td>
@@ -924,7 +926,7 @@ source: https://zan.gov.kz/client/#!/doc/163129/rus/30.12.2021
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>69 782</td>
+<td>75 275</td>
 </tr>
 <tr>
 <td></td>
@@ -932,7 +934,7 @@ source: https://zan.gov.kz/client/#!/doc/163129/rus/30.12.2021
 <td colspan="2">124</td>
 <td colspan="2"></td>
 <td colspan="2">Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>69 782</td>
+<td>75 275</td>
 </tr>
 <tr>
 <td></td>
@@ -940,7 +942,7 @@ source: https://zan.gov.kz/client/#!/doc/163129/rus/30.12.2021
 <td colspan="2"></td>
 <td colspan="2">001</td>
 <td colspan="2">Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>69 782</td>
+<td>75 275</td>
 </tr>
 <tr>
 <td>07</td>
@@ -948,7 +950,7 @@ source: https://zan.gov.kz/client/#!/doc/163129/rus/30.12.2021
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Жилищно-коммунальное хозяйство</td>
-<td>31 226</td>
+<td>85 924</td>
 </tr>
 <tr>
 <td></td>
@@ -956,7 +958,7 @@ source: https://zan.gov.kz/client/#!/doc/163129/rus/30.12.2021
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Благоустройство населенных пунктов</td>
-<td>31 226</td>
+<td>85 924</td>
 </tr>
 <tr>
 <td></td>
@@ -964,7 +966,7 @@ source: https://zan.gov.kz/client/#!/doc/163129/rus/30.12.2021
 <td colspan="2">124</td>
 <td colspan="2"></td>
 <td colspan="2">Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>31 226</td>
+<td>85 924</td>
 </tr>
 <tr>
 <td></td>
@@ -980,7 +982,7 @@ source: https://zan.gov.kz/client/#!/doc/163129/rus/30.12.2021
 <td colspan="2"></td>
 <td colspan="2">009</td>
 <td colspan="2">Обеспечение санитарии населенных пунктов</td>
-<td>7 500</td>
+<td>9 000</td>
 </tr>
 <tr>
 <td></td>
@@ -988,7 +990,7 @@ source: https://zan.gov.kz/client/#!/doc/163129/rus/30.12.2021
 <td colspan="2"></td>
 <td colspan="2">011</td>
 <td colspan="2">Благоустройство и озеленение населенных пунктов</td>
-<td>10 916</td>
+<td>64 114</td>
 </tr>
 <tr>
 <td></td>
@@ -1044,7 +1046,7 @@ source: https://zan.gov.kz/client/#!/doc/163129/rus/30.12.2021
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">5. Дефицит (профицит) бюджета</td>
-<td>0</td>
+<td>-8 443</td>
 </tr>
 <tr>
 <td></td>
@@ -1052,7 +1054,7 @@ source: https://zan.gov.kz/client/#!/doc/163129/rus/30.12.2021
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">6. Финансирование дефицита (использование профицита) бюджета</td>
-<td>0</td>
+<td>8 443</td>
 </tr>
 <tr>
 <td></td>
@@ -1076,7 +1078,7 @@ source: https://zan.gov.kz/client/#!/doc/163129/rus/30.12.2021
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Используемые остатки бюджетных средств</td>
-<td>0</td>
+<td>8 443</td>
 </tr>
 <tr>
 <td>8</td>
@@ -1084,7 +1086,7 @@ source: https://zan.gov.kz/client/#!/doc/163129/rus/30.12.2021
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Используемые остатки бюджетных средств</td>
-<td>0</td>
+<td>8 443</td>
 </tr>
 <tr>
 <td></td>
@@ -1092,7 +1094,7 @@ source: https://zan.gov.kz/client/#!/doc/163129/rus/30.12.2021
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Остатки бюджетных средств</td>
-<td>0</td>
+<td>8 443</td>
 </tr>
 <tr>
 <td></td>
@@ -1100,7 +1102,7 @@ source: https://zan.gov.kz/client/#!/doc/163129/rus/30.12.2021
 <td colspan="2">1</td>
 <td colspan="2"></td>
 <td colspan="2">Свободные остатки бюджетных средств</td>
-<td>0</td>
+<td>8 443</td>
 </tr>
 </table>
 
@@ -1873,6 +1875,8 @@ source: https://zan.gov.kz/client/#!/doc/163129/rus/30.12.2021
 
 ## Бюджет сельского округа Дербисек на 2022 год
 
+> *Сноска. Приложение 22 в редакции решением Сарыагашского районного маслихата Туркестанской области от 20.04.2022 № 20-141-VII (вводится в действие с 01.01.2022).*
+
 <table>
 <tr>
 <td colspan="6">Категория</td>
@@ -1898,7 +1902,7 @@ source: https://zan.gov.kz/client/#!/doc/163129/rus/30.12.2021
 <td></td>
 <td></td>
 <td colspan="3">1. Доходы</td>
-<td>63 796</td>
+<td>66 178</td>
 </tr>
 <tr>
 <td>1</td>
@@ -1975,21 +1979,21 @@ source: https://zan.gov.kz/client/#!/doc/163129/rus/30.12.2021
 <td></td>
 <td></td>
 <td colspan="3">Поступления трансфертов</td>
-<td>29 190</td>
+<td>31 572</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td colspan="3">Трансферты из вышестоящих органов государственного управления</td>
-<td>29 190</td>
+<td>31 572</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td colspan="3">Трансферты из районного (города областного значения) бюджета</td>
-<td>29 190</td>
+<td>31 572</td>
 </tr>
 <tr>
 <td colspan="6">Функциональная группа</td>
@@ -2023,7 +2027,7 @@ source: https://zan.gov.kz/client/#!/doc/163129/rus/30.12.2021
 <td></td>
 <td></td>
 <td colspan="2">2. Затраты</td>
-<td>63 796</td>
+<td>66 996</td>
 </tr>
 <tr>
 <td>01</td>
@@ -2031,7 +2035,7 @@ source: https://zan.gov.kz/client/#!/doc/163129/rus/30.12.2021
 <td></td>
 <td></td>
 <td colspan="2">Государственные услуги общего характера</td>
-<td>44 990</td>
+<td>46 452</td>
 </tr>
 <tr>
 <td></td>
@@ -2039,7 +2043,7 @@ source: https://zan.gov.kz/client/#!/doc/163129/rus/30.12.2021
 <td></td>
 <td></td>
 <td colspan="2">Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>44 990</td>
+<td>46 452</td>
 </tr>
 <tr>
 <td></td>
@@ -2047,7 +2051,7 @@ source: https://zan.gov.kz/client/#!/doc/163129/rus/30.12.2021
 <td>124</td>
 <td></td>
 <td colspan="2">Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>44 990</td>
+<td>46 452</td>
 </tr>
 <tr>
 <td></td>
@@ -2055,7 +2059,7 @@ source: https://zan.gov.kz/client/#!/doc/163129/rus/30.12.2021
 <td></td>
 <td>001</td>
 <td colspan="2">Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>44 990</td>
+<td>46 452</td>
 </tr>
 <tr>
 <td>07</td>
@@ -2063,7 +2067,7 @@ source: https://zan.gov.kz/client/#!/doc/163129/rus/30.12.2021
 <td></td>
 <td></td>
 <td colspan="2">Жилищно-коммунальное хозяйство</td>
-<td>18 806</td>
+<td>20 544</td>
 </tr>
 <tr>
 <td></td>
@@ -2071,7 +2075,7 @@ source: https://zan.gov.kz/client/#!/doc/163129/rus/30.12.2021
 <td></td>
 <td></td>
 <td colspan="2">Благоустройство населенных пунктов</td>
-<td>18 806</td>
+<td>20 544</td>
 </tr>
 <tr>
 <td></td>
@@ -2079,7 +2083,7 @@ source: https://zan.gov.kz/client/#!/doc/163129/rus/30.12.2021
 <td>124</td>
 <td></td>
 <td colspan="2">Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>18 806</td>
+<td>20 544</td>
 </tr>
 <tr>
 <td></td>
@@ -2095,7 +2099,7 @@ source: https://zan.gov.kz/client/#!/doc/163129/rus/30.12.2021
 <td></td>
 <td>009</td>
 <td colspan="2">Обеспечение санитарии населенных пунктов</td>
-<td>2 762</td>
+<td>4 500</td>
 </tr>
 <tr>
 <td></td>
@@ -2159,7 +2163,7 @@ source: https://zan.gov.kz/client/#!/doc/163129/rus/30.12.2021
 <td></td>
 <td></td>
 <td colspan="2">5. Дефицит (профицит) бюджета</td>
-<td>0</td>
+<td>-818</td>
 </tr>
 <tr>
 <td></td>
@@ -2167,7 +2171,7 @@ source: https://zan.gov.kz/client/#!/doc/163129/rus/30.12.2021
 <td></td>
 <td></td>
 <td colspan="2">6. Финансирование дефицита (использование профицита) бюджета</td>
-<td>0</td>
+<td>818</td>
 </tr>
 <tr>
 <td></td>
@@ -2215,7 +2219,7 @@ source: https://zan.gov.kz/client/#!/doc/163129/rus/30.12.2021
 <td>1</td>
 <td></td>
 <td colspan="2">Свободные остатки бюджетных средств</td>
-<td>0</td>
+<td>818</td>
 </tr>
 </table>
 
@@ -2956,9 +2960,11 @@ source: https://zan.gov.kz/client/#!/doc/163129/rus/30.12.2021
 > *Приложение 25 к решению*  
 > *Сарыагашского районного*  
 > *маслихата от 30 декабря*  
-> *2021 года №17-117-VII*
+> *2021года №17-117-VII*
 
 ## Бюджет сельского округа Акжар на 2022 год
+
+> *Сноска. Приложение 25 в редакции решением Сарыагашского районного маслихата Туркестанской области от 20.04.2022 № 20-141-VII (вводится в действие с 01.01.2022).*
 
 <table>
 <tr>
@@ -2985,7 +2991,7 @@ source: https://zan.gov.kz/client/#!/doc/163129/rus/30.12.2021
 <td></td>
 <td></td>
 <td colspan="3">1. Доходы</td>
-<td>46 365</td>
+<td>46 715</td>
 </tr>
 <tr>
 <td>1</td>
@@ -3062,21 +3068,21 @@ source: https://zan.gov.kz/client/#!/doc/163129/rus/30.12.2021
 <td></td>
 <td></td>
 <td colspan="3">Поступления трансфертов</td>
-<td>33 772</td>
+<td>34 122</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td colspan="3">Трансферты из вышестоящих органов государственного управления</td>
-<td>33 772</td>
+<td>34 122</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td colspan="3">Трансферты из районного (города областного значения) бюджета</td>
-<td>33 772</td>
+<td>34 122</td>
 </tr>
 <tr>
 <td colspan="6">Функциональная группа</td>
@@ -3110,7 +3116,7 @@ source: https://zan.gov.kz/client/#!/doc/163129/rus/30.12.2021
 <td></td>
 <td></td>
 <td colspan="2">2. Затраты</td>
-<td>46 365</td>
+<td>49 901</td>
 </tr>
 <tr>
 <td>01</td>
@@ -3150,7 +3156,7 @@ source: https://zan.gov.kz/client/#!/doc/163129/rus/30.12.2021
 <td></td>
 <td></td>
 <td colspan="2">Жилищно-коммунальное хозяйство</td>
-<td>6 424</td>
+<td>9 960</td>
 </tr>
 <tr>
 <td></td>
@@ -3158,7 +3164,7 @@ source: https://zan.gov.kz/client/#!/doc/163129/rus/30.12.2021
 <td></td>
 <td></td>
 <td colspan="2">Благоустройство населенных пунктов</td>
-<td>6 424</td>
+<td>9 960</td>
 </tr>
 <tr>
 <td></td>
@@ -3166,7 +3172,7 @@ source: https://zan.gov.kz/client/#!/doc/163129/rus/30.12.2021
 <td>124</td>
 <td></td>
 <td colspan="2">Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>6 424</td>
+<td>9 960</td>
 </tr>
 <tr>
 <td></td>
@@ -3190,7 +3196,7 @@ source: https://zan.gov.kz/client/#!/doc/163129/rus/30.12.2021
 <td></td>
 <td>011</td>
 <td colspan="2">Благоустройство и озеленение населенных пунктов</td>
-<td>3 900</td>
+<td>7 436</td>
 </tr>
 <tr>
 <td></td>
@@ -3246,7 +3252,7 @@ source: https://zan.gov.kz/client/#!/doc/163129/rus/30.12.2021
 <td></td>
 <td></td>
 <td colspan="2">5. Дефицит (профицит) бюджета</td>
-<td>0</td>
+<td>- 3 186</td>
 </tr>
 <tr>
 <td></td>
@@ -3254,7 +3260,7 @@ source: https://zan.gov.kz/client/#!/doc/163129/rus/30.12.2021
 <td></td>
 <td></td>
 <td colspan="2">6. Финансирование дефицита (использование профицита) бюджета</td>
-<td>0</td>
+<td>3 186</td>
 </tr>
 <tr>
 <td></td>
@@ -3278,7 +3284,7 @@ source: https://zan.gov.kz/client/#!/doc/163129/rus/30.12.2021
 <td></td>
 <td></td>
 <td colspan="2">Используемые остатки бюджетных средств</td>
-<td>0</td>
+<td>3 186</td>
 </tr>
 <tr>
 <td>8</td>
@@ -3286,7 +3292,7 @@ source: https://zan.gov.kz/client/#!/doc/163129/rus/30.12.2021
 <td></td>
 <td></td>
 <td colspan="2">Используемые остатки бюджетных средств</td>
-<td>0</td>
+<td>3 186</td>
 </tr>
 <tr>
 <td></td>
@@ -3294,7 +3300,7 @@ source: https://zan.gov.kz/client/#!/doc/163129/rus/30.12.2021
 <td></td>
 <td></td>
 <td colspan="2">Остатки бюджетных средств</td>
-<td>0</td>
+<td>3 186</td>
 </tr>
 <tr>
 <td></td>
@@ -3302,7 +3308,7 @@ source: https://zan.gov.kz/client/#!/doc/163129/rus/30.12.2021
 <td>1</td>
 <td></td>
 <td colspan="2">Свободные остатки бюджетных средств</td>
-<td>0</td>
+<td>3 186</td>
 </tr>
 </table>
 
@@ -4043,9 +4049,11 @@ source: https://zan.gov.kz/client/#!/doc/163129/rus/30.12.2021
 > *Приложение 28 к решению*  
 > *Сарыагашского районного*  
 > *маслихата от 30 декабря*  
-> *2021 года №17-117-VII*
+> *2021года №17-117-VII*
 
 ## Бюджет сельского округа Кабланбек на 2022 год
+
+> *Сноска. Приложение 28 в редакции решением Сарыагашского районного маслихата Туркестанской области от 20.04.2022 № 20-141-VII (вводится в действие с 01.01.2022).*
 
 <table>
 <tr>
@@ -4072,7 +4080,7 @@ source: https://zan.gov.kz/client/#!/doc/163129/rus/30.12.2021
 <td></td>
 <td></td>
 <td colspan="3">1. Доходы</td>
-<td>73 116</td>
+<td>82 034</td>
 </tr>
 <tr>
 <td>1</td>
@@ -4163,21 +4171,21 @@ source: https://zan.gov.kz/client/#!/doc/163129/rus/30.12.2021
 <td></td>
 <td></td>
 <td colspan="3">Поступления трансфертов</td>
-<td>37 978</td>
+<td>46 896</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td colspan="3">Трансферты из вышестоящих органов государственного управления</td>
-<td>37 978</td>
+<td>46 896</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td colspan="3">Трансферты из районного (города областного значения) бюджета</td>
-<td>37 978</td>
+<td>46 896</td>
 </tr>
 <tr>
 <td colspan="6">Функциональная группа</td>
@@ -4211,7 +4219,7 @@ source: https://zan.gov.kz/client/#!/doc/163129/rus/30.12.2021
 <td></td>
 <td></td>
 <td colspan="2">2. Затраты</td>
-<td>73 116</td>
+<td>84 816</td>
 </tr>
 <tr>
 <td>01</td>
@@ -4219,7 +4227,7 @@ source: https://zan.gov.kz/client/#!/doc/163129/rus/30.12.2021
 <td></td>
 <td></td>
 <td colspan="2">Государственные услуги общего характера</td>
-<td>65 783</td>
+<td>72 373</td>
 </tr>
 <tr>
 <td></td>
@@ -4227,7 +4235,7 @@ source: https://zan.gov.kz/client/#!/doc/163129/rus/30.12.2021
 <td></td>
 <td></td>
 <td colspan="2">Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>65 783</td>
+<td>72 373</td>
 </tr>
 <tr>
 <td></td>
@@ -4235,7 +4243,7 @@ source: https://zan.gov.kz/client/#!/doc/163129/rus/30.12.2021
 <td>124</td>
 <td></td>
 <td colspan="2">Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>65 783</td>
+<td>72 373</td>
 </tr>
 <tr>
 <td></td>
@@ -4243,7 +4251,15 @@ source: https://zan.gov.kz/client/#!/doc/163129/rus/30.12.2021
 <td></td>
 <td>001</td>
 <td colspan="2">Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>65 783</td>
+<td>66 133</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>022</td>
+<td colspan="2">Капитальные расходы государственного органа</td>
+<td>6 240</td>
 </tr>
 <tr>
 <td>07</td>
@@ -4251,7 +4267,7 @@ source: https://zan.gov.kz/client/#!/doc/163129/rus/30.12.2021
 <td></td>
 <td></td>
 <td colspan="2">Жилищно-коммунальное хозяйство</td>
-<td>7 333</td>
+<td>12 443</td>
 </tr>
 <tr>
 <td></td>
@@ -4259,7 +4275,7 @@ source: https://zan.gov.kz/client/#!/doc/163129/rus/30.12.2021
 <td></td>
 <td></td>
 <td colspan="2">Благоустройство населенных пунктов</td>
-<td>7 333</td>
+<td>12 443</td>
 </tr>
 <tr>
 <td></td>
@@ -4267,7 +4283,7 @@ source: https://zan.gov.kz/client/#!/doc/163129/rus/30.12.2021
 <td>124</td>
 <td></td>
 <td colspan="2">Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>7 333</td>
+<td>12 443</td>
 </tr>
 <tr>
 <td></td>
@@ -4283,7 +4299,15 @@ source: https://zan.gov.kz/client/#!/doc/163129/rus/30.12.2021
 <td></td>
 <td>009</td>
 <td colspan="2">Обеспечение санитарии населенных пунктов</td>
-<td>3 333</td>
+<td>6 333</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>011</td>
+<td colspan="2">Благоустройство и озеленение населенных пунктов</td>
+<td>2 110</td>
 </tr>
 <tr>
 <td></td>
@@ -4339,7 +4363,7 @@ source: https://zan.gov.kz/client/#!/doc/163129/rus/30.12.2021
 <td></td>
 <td></td>
 <td colspan="2">5. Дефицит (профицит) бюджета</td>
-<td>0</td>
+<td>- 2 782</td>
 </tr>
 <tr>
 <td></td>
@@ -4347,7 +4371,7 @@ source: https://zan.gov.kz/client/#!/doc/163129/rus/30.12.2021
 <td></td>
 <td></td>
 <td colspan="2">6. Финансирование дефицита (использование профицита) бюджета</td>
-<td>0</td>
+<td>2 782</td>
 </tr>
 <tr>
 <td></td>
@@ -4371,7 +4395,7 @@ source: https://zan.gov.kz/client/#!/doc/163129/rus/30.12.2021
 <td></td>
 <td></td>
 <td colspan="2">Используемые остатки бюджетных средств</td>
-<td>0</td>
+<td>2 782</td>
 </tr>
 <tr>
 <td>8</td>
@@ -4379,7 +4403,7 @@ source: https://zan.gov.kz/client/#!/doc/163129/rus/30.12.2021
 <td></td>
 <td></td>
 <td colspan="2">Используемые остатки бюджетных средств</td>
-<td>0</td>
+<td>2 782</td>
 </tr>
 <tr>
 <td></td>
@@ -4387,7 +4411,7 @@ source: https://zan.gov.kz/client/#!/doc/163129/rus/30.12.2021
 <td></td>
 <td></td>
 <td colspan="2">Остатки бюджетных средств</td>
-<td>0</td>
+<td>2 782</td>
 </tr>
 <tr>
 <td></td>
@@ -4395,7 +4419,7 @@ source: https://zan.gov.kz/client/#!/doc/163129/rus/30.12.2021
 <td>1</td>
 <td></td>
 <td colspan="2">Свободные остатки бюджетных средств</td>
-<td>0</td>
+<td>2 782</td>
 </tr>
 </table>
 
@@ -5164,9 +5188,11 @@ source: https://zan.gov.kz/client/#!/doc/163129/rus/30.12.2021
 > *Приложение 31 к решению*  
 > *Сарыагашского районного*  
 > *маслихата от 30 декабря*  
-> *2021 года №17-117-VII*
+> *2021года №17-117-VII*
 
 ## Бюджет сельского округа Тегисшил на 2022 год
+
+> *Сноска. Приложение 31 в редакции решением Сарыагашского районного маслихата Туркестанской области от 20.04.2022 № 20-141-VII (вводится в действие с 01.01.2022).*
 
 <table>
 <tr>
@@ -5318,7 +5344,7 @@ source: https://zan.gov.kz/client/#!/doc/163129/rus/30.12.2021
 <td></td>
 <td></td>
 <td colspan="2">2. Затраты</td>
-<td>41 233</td>
+<td>42 259</td>
 </tr>
 <tr>
 <td>01</td>
@@ -5358,7 +5384,7 @@ source: https://zan.gov.kz/client/#!/doc/163129/rus/30.12.2021
 <td></td>
 <td></td>
 <td colspan="2">Жилищно-коммунальное хозяйство</td>
-<td>4 452</td>
+<td>5 478</td>
 </tr>
 <tr>
 <td></td>
@@ -5366,7 +5392,7 @@ source: https://zan.gov.kz/client/#!/doc/163129/rus/30.12.2021
 <td></td>
 <td></td>
 <td colspan="2">Благоустройство населенных пунктов</td>
-<td>4 452</td>
+<td>5 478</td>
 </tr>
 <tr>
 <td></td>
@@ -5374,7 +5400,7 @@ source: https://zan.gov.kz/client/#!/doc/163129/rus/30.12.2021
 <td>124</td>
 <td></td>
 <td colspan="2">Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>4 452</td>
+<td>5 478</td>
 </tr>
 <tr>
 <td></td>
@@ -5390,7 +5416,7 @@ source: https://zan.gov.kz/client/#!/doc/163129/rus/30.12.2021
 <td></td>
 <td>009</td>
 <td colspan="2">Обеспечение санитарии населенных пунктов</td>
-<td>2 189</td>
+<td>3 215</td>
 </tr>
 <tr>
 <td></td>
@@ -5454,7 +5480,7 @@ source: https://zan.gov.kz/client/#!/doc/163129/rus/30.12.2021
 <td></td>
 <td></td>
 <td colspan="2">5. Дефицит (профицит) бюджета</td>
-<td>0</td>
+<td>- 1 026</td>
 </tr>
 <tr>
 <td></td>
@@ -5462,7 +5488,7 @@ source: https://zan.gov.kz/client/#!/doc/163129/rus/30.12.2021
 <td></td>
 <td></td>
 <td colspan="2">6. Финансирование дефицита (использование профицита) бюджета</td>
-<td>0</td>
+<td>1 026</td>
 </tr>
 <tr>
 <td></td>
@@ -5486,7 +5512,7 @@ source: https://zan.gov.kz/client/#!/doc/163129/rus/30.12.2021
 <td></td>
 <td></td>
 <td colspan="2">Используемые остатки бюджетных средств</td>
-<td>0</td>
+<td>1 026</td>
 </tr>
 <tr>
 <td>8</td>
@@ -5494,7 +5520,7 @@ source: https://zan.gov.kz/client/#!/doc/163129/rus/30.12.2021
 <td></td>
 <td></td>
 <td colspan="2">Используемые остатки бюджетных средств</td>
-<td>0</td>
+<td>1 026</td>
 </tr>
 <tr>
 <td></td>
@@ -5502,7 +5528,7 @@ source: https://zan.gov.kz/client/#!/doc/163129/rus/30.12.2021
 <td></td>
 <td></td>
 <td colspan="2">Остатки бюджетных средств</td>
-<td>0</td>
+<td>1 026</td>
 </tr>
 <tr>
 <td></td>
@@ -5510,7 +5536,7 @@ source: https://zan.gov.kz/client/#!/doc/163129/rus/30.12.2021
 <td>1</td>
 <td></td>
 <td colspan="2">Свободные остатки бюджетных средств</td>
-<td>0</td>
+<td>1 026</td>
 </tr>
 </table>
 
@@ -5766,373 +5792,6 @@ source: https://zan.gov.kz/client/#!/doc/163129/rus/30.12.2021
 <td>011</td>
 <td colspan="2">Благоустройство и озеленение населенных пунктов</td>
 <td>5 750</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2">3. Чистое бюджетное кредитование</td>
-<td>0</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2">Бюджетные кредиты</td>
-<td>0</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2">Погашение бюджетных кредитов</td>
-<td>0</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2">4. Сальдо по операциям с финансовыми активами</td>
-<td>0</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2">Приобретение финансовых активов</td>
-<td>0</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2">Поступление от продажи финансовых активов государства</td>
-<td>0</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2">5. Дефицит (профицит) бюджета</td>
-<td>0</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2">6. Финансирование дефицита (использование профицита) бюджета</td>
-<td>0</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2">Поступления займов</td>
-<td>0</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2">Погашение займов</td>
-<td>0</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2">Используемые остатки бюджетных средств</td>
-<td>0</td>
-</tr>
-<tr>
-<td>8</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2">Используемые остатки бюджетных средств</td>
-<td>0</td>
-</tr>
-<tr>
-<td></td>
-<td>01</td>
-<td></td>
-<td></td>
-<td colspan="2">Остатки бюджетных средств</td>
-<td>0</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>1</td>
-<td></td>
-<td colspan="2">Свободные остатки бюджетных средств</td>
-<td>0</td>
-</tr>
-</table>
-
-> *Приложение 33 к решению*  
-> *Сарыагашского районного*  
-> *маслихата от 30 декабря*  
-> *2021 года №17-117-VII*
-
-## Бюджет сельского округа Тегисшил на 2024 год
-
-<table>
-<tr>
-<td colspan="6">Категория</td>
-<td rowspan="4">Сумма тысяч тенге</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="5">Класс</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td colspan="4">Подкласс</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3">Наименование</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3">1. Доходы</td>
-<td>54 136</td>
-</tr>
-<tr>
-<td>1</td>
-<td></td>
-<td></td>
-<td colspan="3">Налоговые поступления</td>
-<td>9 358</td>
-</tr>
-<tr>
-<td></td>
-<td>01</td>
-<td></td>
-<td colspan="3">Подоходный налог</td>
-<td>655</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>2</td>
-<td colspan="3">Индивидуальный подоходный налог</td>
-<td>655</td>
-</tr>
-<tr>
-<td></td>
-<td>04</td>
-<td></td>
-<td colspan="3">Hалоги на собственность</td>
-<td>8 703</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>1</td>
-<td colspan="3">Hалоги на имущество</td>
-<td>194</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>3</td>
-<td colspan="3">Земельный налог</td>
-<td>649</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>4</td>
-<td colspan="3">Hалог на транспортные средства</td>
-<td>7 578</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>5</td>
-<td colspan="3">Единый земельный налог</td>
-<td>282</td>
-</tr>
-<tr>
-<td>2</td>
-<td></td>
-<td></td>
-<td colspan="3">Неналоговые поступления</td>
-<td>0</td>
-</tr>
-<tr>
-<td>3</td>
-<td></td>
-<td></td>
-<td colspan="3">Поступления от продажи основного капитала</td>
-<td>1 500</td>
-</tr>
-<tr>
-<td></td>
-<td>03</td>
-<td></td>
-<td colspan="3">Продажа земли и нематериальных активов</td>
-<td>1 500</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>1</td>
-<td colspan="3">Продажа земли</td>
-<td>1 500</td>
-</tr>
-<tr>
-<td>4</td>
-<td></td>
-<td></td>
-<td colspan="3">Поступления трансфертов</td>
-<td>43 278</td>
-</tr>
-<tr>
-<td></td>
-<td>02</td>
-<td></td>
-<td colspan="3">Трансферты из вышестоящих органов государственного управления</td>
-<td>43 278</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>3</td>
-<td colspan="3">Трансферты из районного (города областного значения) бюджета</td>
-<td>43 278</td>
-</tr>
-<tr>
-<td colspan="6">Функциональная группа</td>
-<td rowspan="5">Сумма тысяч тенге</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="5">Функциональная подгруппа</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td colspan="4">Администратор бюджетных программ</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3">Программа</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2">Наименование</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2">2. Затраты</td>
-<td>54 136</td>
-</tr>
-<tr>
-<td>01</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2">Государственные услуги общего характера</td>
-<td>35 868</td>
-</tr>
-<tr>
-<td></td>
-<td>1</td>
-<td></td>
-<td></td>
-<td colspan="2">Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>35 868</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>124</td>
-<td></td>
-<td colspan="2">Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>35 868</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>001</td>
-<td colspan="2">Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>35 868</td>
-</tr>
-<tr>
-<td>07</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2">Жилищно-коммунальное хозяйство</td>
-<td>18 268</td>
-</tr>
-<tr>
-<td></td>
-<td>3</td>
-<td></td>
-<td></td>
-<td colspan="2">Благоустройство населенных пунктов</td>
-<td>18 268</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>124</td>
-<td></td>
-<td colspan="2">Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>18 268</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>008</td>
-<td colspan="2">Освещение улиц населенных пунктов</td>
-<td>3 665</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>009</td>
-<td colspan="2">Обеспечение санитарии населенных пунктов</td>
-<td>8 623</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>011</td>
-<td colspan="2">Благоустройство и озеленение населенных пунктов</td>
-<td>5 980</td>
 </tr>
 <tr>
 <td></td>

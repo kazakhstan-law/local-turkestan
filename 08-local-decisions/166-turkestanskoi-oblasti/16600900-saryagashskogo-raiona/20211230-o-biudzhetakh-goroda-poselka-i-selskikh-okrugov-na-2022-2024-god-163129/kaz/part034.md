@@ -1,14 +1,15 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/163129/kaz/30.12.2021
+source: https://zan.gov.kz/client/#!/doc/163129/kaz/20.04.2022
 ---
 
-> *Сарыағаш аудандық*  
-> *мәслихатының 2021 жылғы*  
-> *30 желтоқсандағы №17-117-VII*  
+> *Сарыағаш аудандық мәслихатының*  
+> *2021 жылғы 30 желтоқсандағы №17-117-VII*  
 > *шешіміне 34-қосымша*
 
 ## Жылға ауылдық округінің 2022 жылға арналған бюджеті
+
+> *Ескерту. 34-қосымша жаңа редакцияда - Түркістан облысы Сарыағаш аудандық мәслихатының 20.04.2022 № 20-141-VII (01.01.2022 бастап қолданысқа енгізіледі) шешiмiмен.*
 
 <table>
 <tr>
@@ -35,21 +36,21 @@ source: https://zan.gov.kz/client/#!/doc/163129/kaz/30.12.2021
 <td></td>
 <td></td>
 <td colspan="3">1. Кірістер</td>
-<td>42 178</td>
+<td>47 322</td>
 </tr>
 <tr>
 <td>1</td>
 <td></td>
 <td></td>
 <td colspan="3">Салықтық түсімдер</td>
-<td>14 079</td>
+<td>19 223</td>
 </tr>
 <tr>
 <td></td>
 <td>04</td>
 <td></td>
 <td colspan="3">Меншiкке салынатын салықтар</td>
-<td>14 079</td>
+<td>19 223</td>
 </tr>
 <tr>
 <td></td>
@@ -77,7 +78,7 @@ source: https://zan.gov.kz/client/#!/doc/163129/kaz/30.12.2021
 <td></td>
 <td>5</td>
 <td colspan="3">Бірыңғай жер салығы</td>
-<td>113</td>
+<td>5 257</td>
 </tr>
 <tr>
 <td>2</td>
@@ -146,7 +147,7 @@ source: https://zan.gov.kz/client/#!/doc/163129/kaz/30.12.2021
 <td></td>
 <td></td>
 <td colspan="2">2. Шығындар</td>
-<td>42 178</td>
+<td>50 206</td>
 </tr>
 <tr>
 <td>01</td>
@@ -154,7 +155,7 @@ source: https://zan.gov.kz/client/#!/doc/163129/kaz/30.12.2021
 <td></td>
 <td></td>
 <td colspan="2">Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>40 077</td>
+<td>42 098</td>
 </tr>
 <tr>
 <td></td>
@@ -162,7 +163,7 @@ source: https://zan.gov.kz/client/#!/doc/163129/kaz/30.12.2021
 <td></td>
 <td></td>
 <td colspan="2">Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>40 077</td>
+<td>42 098</td>
 </tr>
 <tr>
 <td></td>
@@ -170,7 +171,7 @@ source: https://zan.gov.kz/client/#!/doc/163129/kaz/30.12.2021
 <td>124</td>
 <td></td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>40 077</td>
+<td>42 098</td>
 </tr>
 <tr>
 <td></td>
@@ -178,7 +179,15 @@ source: https://zan.gov.kz/client/#!/doc/163129/kaz/30.12.2021
 <td></td>
 <td>001</td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>40 077</td>
+<td>40 998</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>022</td>
+<td colspan="2">Мемлекеттікорганныңкүрделішығыстары</td>
+<td>1 100</td>
 </tr>
 <tr>
 <td>07</td>
@@ -186,7 +195,7 @@ source: https://zan.gov.kz/client/#!/doc/163129/kaz/30.12.2021
 <td></td>
 <td></td>
 <td colspan="2">Тұрғын үй-коммуналдық шаруашылық</td>
-<td>2 101</td>
+<td>8 108</td>
 </tr>
 <tr>
 <td></td>
@@ -194,7 +203,7 @@ source: https://zan.gov.kz/client/#!/doc/163129/kaz/30.12.2021
 <td></td>
 <td></td>
 <td colspan="2">Елді-мекендерді көркейту</td>
-<td>2 101</td>
+<td>8 108</td>
 </tr>
 <tr>
 <td></td>
@@ -202,7 +211,7 @@ source: https://zan.gov.kz/client/#!/doc/163129/kaz/30.12.2021
 <td>124</td>
 <td></td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>2 101</td>
+<td>8 108</td>
 </tr>
 <tr>
 <td></td>
@@ -210,7 +219,15 @@ source: https://zan.gov.kz/client/#!/doc/163129/kaz/30.12.2021
 <td></td>
 <td>009</td>
 <td colspan="2">Елді мекендердің санитариясын қамтамасыз ету</td>
-<td>2 101</td>
+<td>4 064</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>011</td>
+<td colspan="2">Елді мекендерді абаттандыру мен көгалдандыру</td>
+<td>4 044</td>
 </tr>
 <tr>
 <td></td>
@@ -266,7 +283,7 @@ source: https://zan.gov.kz/client/#!/doc/163129/kaz/30.12.2021
 <td></td>
 <td></td>
 <td colspan="2">5. Бюджет тапшылығы (профициті)</td>
-<td>0</td>
+<td>- 2 884</td>
 </tr>
 <tr>
 <td></td>
@@ -274,7 +291,7 @@ source: https://zan.gov.kz/client/#!/doc/163129/kaz/30.12.2021
 <td></td>
 <td></td>
 <td colspan="2">6. Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
-<td>0</td>
+<td>2 884</td>
 </tr>
 <tr>
 <td></td>
@@ -298,7 +315,7 @@ source: https://zan.gov.kz/client/#!/doc/163129/kaz/30.12.2021
 <td></td>
 <td></td>
 <td colspan="2">Бюджет қаражатының пайдаланылатын қалдықтары</td>
-<td>0</td>
+<td>2 884</td>
 </tr>
 <tr>
 <td>8</td>
@@ -306,7 +323,7 @@ source: https://zan.gov.kz/client/#!/doc/163129/kaz/30.12.2021
 <td></td>
 <td></td>
 <td colspan="2">Бюджет қаражатының пайдаланылатын қалдықтары</td>
-<td>0</td>
+<td>2 884</td>
 </tr>
 <tr>
 <td></td>
@@ -314,7 +331,7 @@ source: https://zan.gov.kz/client/#!/doc/163129/kaz/30.12.2021
 <td></td>
 <td></td>
 <td colspan="2">Бюджет қаражаты қалдықтары</td>
-<td>0</td>
+<td>2 884</td>
 </tr>
 <tr>
 <td></td>
@@ -322,7 +339,7 @@ source: https://zan.gov.kz/client/#!/doc/163129/kaz/30.12.2021
 <td>1</td>
 <td></td>
 <td colspan="2">Бюджет қаражатының бос қалдықтары</td>
-<td>0</td>
+<td>2 884</td>
 </tr>
 </table>
 
@@ -1000,12 +1017,13 @@ source: https://zan.gov.kz/client/#!/doc/163129/kaz/30.12.2021
 </tr>
 </table>
 
-> *Сарыағаш аудандық*  
-> *мәслихатының 2021 жылғы*  
-> *30 желтоқсандағы №17-117-VII*  
+> *Сарыағаш аудандық мәслихатының*  
+> *2021 жылғы 30 желтоқсандағы №17-117-VII*  
 > *шешіміне 37-қосымша*
 
 ## Жарты төбе ауылдық округінің 2022 жылға арналған бюджеті
+
+> *Ескерту. 37-қосымша жаңа редакцияда - Түркістан облысы Сарыағаш аудандық мәслихатының 20.04.2022 № 20-141-VII (01.01.2022 бастап қолданысқа енгізіледі) шешiмiмен.*
 
 <table>
 <tr>
@@ -1123,21 +1141,21 @@ source: https://zan.gov.kz/client/#!/doc/163129/kaz/30.12.2021
 <td></td>
 <td></td>
 <td colspan="5">Трансферттердің түсімдері</td>
-<td>44 290</td>
+<td>46 355</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td colspan="5">Мемлекеттік басқарудың жоғары тұрған органдарынан түсетін трансферттер</td>
-<td>44 290</td>
+<td>46 355</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td colspan="5">Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td>44 290</td>
+<td>46 355</td>
 </tr>
 <tr>
 <td colspan="8">Функционалдық топ</td>
@@ -1171,7 +1189,7 @@ source: https://zan.gov.kz/client/#!/doc/163129/kaz/30.12.2021
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">2. Шығындар</td>
-<td>78 722</td>
+<td>79 863</td>
 </tr>
 <tr>
 <td>01</td>
@@ -1211,7 +1229,7 @@ source: https://zan.gov.kz/client/#!/doc/163129/kaz/30.12.2021
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Тұрғын үй-коммуналдық шаруашылық</td>
-<td>12 075</td>
+<td>13216</td>
 </tr>
 <tr>
 <td></td>
@@ -1219,7 +1237,7 @@ source: https://zan.gov.kz/client/#!/doc/163129/kaz/30.12.2021
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Елді-мекендерді көркейту</td>
-<td>12 075</td>
+<td>13 216</td>
 </tr>
 <tr>
 <td></td>
@@ -1227,7 +1245,7 @@ source: https://zan.gov.kz/client/#!/doc/163129/kaz/30.12.2021
 <td colspan="2">124</td>
 <td colspan="2"></td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>12 075</td>
+<td>13 216</td>
 </tr>
 <tr>
 <td></td>
@@ -1243,7 +1261,7 @@ source: https://zan.gov.kz/client/#!/doc/163129/kaz/30.12.2021
 <td colspan="2"></td>
 <td colspan="2">009</td>
 <td colspan="2">Елді мекендердің санитариясын қамтамасыз ету</td>
-<td>3 699</td>
+<td>4 840</td>
 </tr>
 <tr>
 <td></td>
@@ -1307,7 +1325,7 @@ source: https://zan.gov.kz/client/#!/doc/163129/kaz/30.12.2021
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">5. Бюджет тапшылығы (профициті)</td>
-<td>0</td>
+<td>- 1 141</td>
 </tr>
 <tr>
 <td></td>
@@ -1315,7 +1333,7 @@ source: https://zan.gov.kz/client/#!/doc/163129/kaz/30.12.2021
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">6. Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
-<td>0</td>
+<td>1 141</td>
 </tr>
 <tr>
 <td></td>
@@ -1339,7 +1357,7 @@ source: https://zan.gov.kz/client/#!/doc/163129/kaz/30.12.2021
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Бюджет қаражатының пайдаланылатын қалдықтары</td>
-<td>0</td>
+<td>1 141</td>
 </tr>
 <tr>
 <td>8</td>
@@ -1347,7 +1365,7 @@ source: https://zan.gov.kz/client/#!/doc/163129/kaz/30.12.2021
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Бюджет қаражатының пайдаланылатын қалдықтары</td>
-<td>0</td>
+<td>1 141</td>
 </tr>
 <tr>
 <td></td>
@@ -1355,7 +1373,7 @@ source: https://zan.gov.kz/client/#!/doc/163129/kaz/30.12.2021
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Бюджет қаражаты қалдықтары</td>
-<td>0</td>
+<td>1 141</td>
 </tr>
 <tr>
 <td></td>
@@ -1363,7 +1381,7 @@ source: https://zan.gov.kz/client/#!/doc/163129/kaz/30.12.2021
 <td colspan="2">1</td>
 <td colspan="2"></td>
 <td colspan="2">Бюджет қаражатының бос қалдықтары</td>
-<td>0</td>
+<td>1 141</td>
 </tr>
 </table>
 
@@ -2129,12 +2147,13 @@ source: https://zan.gov.kz/client/#!/doc/163129/kaz/30.12.2021
 </tr>
 </table>
 
-> *Сарыағаш аудандық*  
-> *мәслихатының 2021 жылғы*  
-> *30 желтоқсандағы №17-117-VII*  
+> *Сарыағаш аудандық мәслихатының*  
+> *2021 жылғы 30 желтоқсандағы №17-117-VII*  
 > *шешіміне 40-қосымша*
 
 ## Әлімтау ауылдық округінің 2022 жылға арналған бюджеті
+
+> *Ескерту. 40-қосымша жаңа редакцияда - Түркістан облысы Сарыағаш аудандық мәслихатының 20.04.2022 № 20-141-VII (01.01.2022 бастап қолданысқа енгізіледі) шешiмiмен.*
 
 <table>
 <tr>
@@ -2272,7 +2291,7 @@ source: https://zan.gov.kz/client/#!/doc/163129/kaz/30.12.2021
 <td></td>
 <td></td>
 <td colspan="2">2. Шығындар</td>
-<td>30 636</td>
+<td>30 883</td>
 </tr>
 <tr>
 <td>01</td>
@@ -2280,7 +2299,7 @@ source: https://zan.gov.kz/client/#!/doc/163129/kaz/30.12.2021
 <td></td>
 <td></td>
 <td colspan="2">Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>28 624</td>
+<td>28 871</td>
 </tr>
 <tr>
 <td></td>
@@ -2288,7 +2307,7 @@ source: https://zan.gov.kz/client/#!/doc/163129/kaz/30.12.2021
 <td></td>
 <td></td>
 <td colspan="2">Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>28 624</td>
+<td>28 871</td>
 </tr>
 <tr>
 <td></td>
@@ -2296,7 +2315,7 @@ source: https://zan.gov.kz/client/#!/doc/163129/kaz/30.12.2021
 <td>124</td>
 <td></td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>28 624</td>
+<td>28 871</td>
 </tr>
 <tr>
 <td></td>
@@ -2304,7 +2323,7 @@ source: https://zan.gov.kz/client/#!/doc/163129/kaz/30.12.2021
 <td></td>
 <td>001</td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>28 624</td>
+<td>28 871</td>
 </tr>
 <tr>
 <td>07</td>
@@ -2408,7 +2427,7 @@ source: https://zan.gov.kz/client/#!/doc/163129/kaz/30.12.2021
 <td></td>
 <td></td>
 <td colspan="2">5. Бюджет тапшылығы (профициті)</td>
-<td>0</td>
+<td>-247</td>
 </tr>
 <tr>
 <td></td>
@@ -2416,7 +2435,7 @@ source: https://zan.gov.kz/client/#!/doc/163129/kaz/30.12.2021
 <td></td>
 <td></td>
 <td colspan="2">6. Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
-<td>0</td>
+<td>247</td>
 </tr>
 <tr>
 <td></td>
@@ -2440,7 +2459,7 @@ source: https://zan.gov.kz/client/#!/doc/163129/kaz/30.12.2021
 <td></td>
 <td></td>
 <td colspan="2">Бюджет қаражатының пайдаланылатын қалдықтары</td>
-<td>0</td>
+<td>247</td>
 </tr>
 <tr>
 <td>8</td>
@@ -2448,7 +2467,7 @@ source: https://zan.gov.kz/client/#!/doc/163129/kaz/30.12.2021
 <td></td>
 <td></td>
 <td colspan="2">Бюджет қаражатының пайдаланылатын қалдықтары</td>
-<td>0</td>
+<td>247</td>
 </tr>
 <tr>
 <td></td>
@@ -2456,7 +2475,7 @@ source: https://zan.gov.kz/client/#!/doc/163129/kaz/30.12.2021
 <td></td>
 <td></td>
 <td colspan="2">Бюджет қаражаты қалдықтары</td>
-<td>0</td>
+<td>247</td>
 </tr>
 <tr>
 <td></td>
@@ -2464,7 +2483,7 @@ source: https://zan.gov.kz/client/#!/doc/163129/kaz/30.12.2021
 <td>1</td>
 <td></td>
 <td colspan="2">Бюджет қаражатының бос қалдықтары</td>
-<td>0</td>
+<td>247</td>
 </tr>
 </table>
 
