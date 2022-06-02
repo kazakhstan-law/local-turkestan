@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/163363/kaz/13.04.2022
+source: https://zan.gov.kz/client/#!/doc/163363/kaz/02.06.2022
 ---
 
 > *Арыс қалалық мәслихатының*  
@@ -10,7 +10,7 @@ source: https://zan.gov.kz/client/#!/doc/163363/kaz/13.04.2022
 
 ## 2022 жылға арналған Ақдала ауылдық округінің бюджеті
 
-> *Ескерту. 1-қосымша жаңа редакцияда - Түркістан облысы Арыс қалалық мәслихатының 13.04.2022 № 22/111-VІІ (01.01.2022 бастап қолданысқа енгізіледі) шешiмiмен.*
+> *Ескерту. 1-қосымша жаңа редакцияда - Түркістан облысы Арыс қалалық мәслихатының 13.04.2022 № 22/111-VІІ (01.01.2022 бастап қолданысқа енгізіледі); 02.06.2022 № 24/116-VІІ (01.01.2022 бастап қолданысқа енгізіледі) шешiмдерiмен.*
 
 <table>
 <tr>
@@ -38,7 +38,7 @@ source: https://zan.gov.kz/client/#!/doc/163363/kaz/13.04.2022
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">1. Кірістер</td>
-<td>34750</td>
+<td>40350</td>
 </tr>
 <tr>
 <td>1</td>
@@ -102,7 +102,7 @@ source: https://zan.gov.kz/client/#!/doc/163363/kaz/13.04.2022
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">Трансферттер түсімі</td>
-<td>23292</td>
+<td>28892</td>
 </tr>
 <tr>
 <td></td>
@@ -110,7 +110,7 @@ source: https://zan.gov.kz/client/#!/doc/163363/kaz/13.04.2022
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн</td>
-<td>23292</td>
+<td>28892</td>
 </tr>
 <tr>
 <td></td>
@@ -118,7 +118,7 @@ source: https://zan.gov.kz/client/#!/doc/163363/kaz/13.04.2022
 <td colspan="2">3</td>
 <td colspan="3"></td>
 <td colspan="3">Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td>23292</td>
+<td>28892</td>
 </tr>
 <tr>
 <td colspan="12">Функционалдық топ Атауы</td>
@@ -150,7 +150,7 @@ source: https://zan.gov.kz/client/#!/doc/163363/kaz/13.04.2022
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">2. Шығындар</td>
-<td>37582</td>
+<td>43182</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
@@ -158,7 +158,7 @@ source: https://zan.gov.kz/client/#!/doc/163363/kaz/13.04.2022
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>25997</td>
+<td>31597</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -166,7 +166,7 @@ source: https://zan.gov.kz/client/#!/doc/163363/kaz/13.04.2022
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>25997</td>
+<td>31597</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -174,7 +174,7 @@ source: https://zan.gov.kz/client/#!/doc/163363/kaz/13.04.2022
 <td colspan="2">124</td>
 <td colspan="3"></td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>25997</td>
+<td>31597</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -182,7 +182,7 @@ source: https://zan.gov.kz/client/#!/doc/163363/kaz/13.04.2022
 <td colspan="2"></td>
 <td colspan="3">001</td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>25997</td>
+<td>31597</td>
 </tr>
 <tr>
 <td colspan="2">05</td>
@@ -1131,7 +1131,7 @@ source: https://zan.gov.kz/client/#!/doc/163363/kaz/13.04.2022
 
 ## 2022 жылға арналған Байырқұм ауылдық округінің бюджеті
 
-> *Ескерту. 4-қосымша жаңа редакцияда - Түркістан облысы Арыс қалалық мәслихатының 13.04.2022 № 22/111-VІІ (01.01.2022 бастап қолданысқа енгізіледі) шешiмiмен.*
+> *Ескерту. 4-қосымша жаңа редакцияда - Түркістан облысы Арыс қалалық мәслихатының 13.04.2022 № 22/111-VІІ (01.01.2022 бастап қолданысқа енгізіледі); 02.06.2022 № 24/116-VІІ (01.01.2022 бастап қолданысқа енгізіледі) шешiмдерiмен.*
 
 <table>
 <tr>
@@ -1159,7 +1159,7 @@ source: https://zan.gov.kz/client/#!/doc/163363/kaz/13.04.2022
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">1. Кірістер</td>
-<td>37258</td>
+<td>42558</td>
 </tr>
 <tr>
 <td>1</td>
@@ -1223,7 +1223,7 @@ source: https://zan.gov.kz/client/#!/doc/163363/kaz/13.04.2022
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">Трансферттер түсімі</td>
-<td>28168</td>
+<td>33468</td>
 </tr>
 <tr>
 <td></td>
@@ -1231,7 +1231,7 @@ source: https://zan.gov.kz/client/#!/doc/163363/kaz/13.04.2022
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн</td>
-<td>28168</td>
+<td>33468</td>
 </tr>
 <tr>
 <td></td>
@@ -1239,7 +1239,7 @@ source: https://zan.gov.kz/client/#!/doc/163363/kaz/13.04.2022
 <td colspan="2">3</td>
 <td colspan="3"></td>
 <td colspan="3">Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td>28168</td>
+<td>33468</td>
 </tr>
 <tr>
 <td colspan="12">Функционалдық топ Атауы</td>
@@ -1271,7 +1271,7 @@ source: https://zan.gov.kz/client/#!/doc/163363/kaz/13.04.2022
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">2. Шығындар</td>
-<td>38676</td>
+<td>43976</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
@@ -1279,7 +1279,7 @@ source: https://zan.gov.kz/client/#!/doc/163363/kaz/13.04.2022
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>30136</td>
+<td>35436</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1287,7 +1287,7 @@ source: https://zan.gov.kz/client/#!/doc/163363/kaz/13.04.2022
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>30136</td>
+<td>35436</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1295,7 +1295,7 @@ source: https://zan.gov.kz/client/#!/doc/163363/kaz/13.04.2022
 <td colspan="2">124</td>
 <td colspan="3"></td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>30136</td>
+<td>35436</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1303,7 +1303,7 @@ source: https://zan.gov.kz/client/#!/doc/163363/kaz/13.04.2022
 <td colspan="2"></td>
 <td colspan="3">001</td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>28936</td>
+<td>34236</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2476,7 +2476,7 @@ source: https://zan.gov.kz/client/#!/doc/163363/kaz/13.04.2022
 
 ## 2022 жылға арналған Дермене ауылдық округінің бюджеті
 
-> *Ескерту. 7-қосымша жаңа редакцияда - Түркістан облысы Арыс қалалық мәслихатының 13.04.2022 № 22/111-VІІ (01.01.2022 бастап қолданысқа енгізіледі) шешiмiмен.*
+> *Ескерту. 7-қосымша жаңа редакцияда - Түркістан облысы Арыс қалалық мәслихатының 13.04.2022 № 22/111-VІІ (01.01.2022 бастап қолданысқа енгізіледі); 02.06.2022 № 24/116-VІІ (01.01.2022 бастап қолданысқа енгізіледі) шешiмдерiмен.*
 
 <table>
 <tr>
@@ -2504,7 +2504,7 @@ source: https://zan.gov.kz/client/#!/doc/163363/kaz/13.04.2022
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">1. Кірістер</td>
-<td>58050</td>
+<td>63650</td>
 </tr>
 <tr>
 <td>1</td>
@@ -2568,7 +2568,7 @@ source: https://zan.gov.kz/client/#!/doc/163363/kaz/13.04.2022
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">Трансферттер түсімі</td>
-<td>47910</td>
+<td>53510</td>
 </tr>
 <tr>
 <td></td>
@@ -2576,7 +2576,7 @@ source: https://zan.gov.kz/client/#!/doc/163363/kaz/13.04.2022
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн</td>
-<td>47910</td>
+<td>53510</td>
 </tr>
 <tr>
 <td></td>
@@ -2584,7 +2584,7 @@ source: https://zan.gov.kz/client/#!/doc/163363/kaz/13.04.2022
 <td colspan="2">3</td>
 <td colspan="3"></td>
 <td colspan="3">Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td>47910</td>
+<td>53510</td>
 </tr>
 <tr>
 <td colspan="12">Функционалдық топ Атауы</td>
@@ -2616,7 +2616,7 @@ source: https://zan.gov.kz/client/#!/doc/163363/kaz/13.04.2022
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">2. Шығындар</td>
-<td>59936</td>
+<td>65536</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
@@ -2624,7 +2624,7 @@ source: https://zan.gov.kz/client/#!/doc/163363/kaz/13.04.2022
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>30296</td>
+<td>35896</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2632,7 +2632,7 @@ source: https://zan.gov.kz/client/#!/doc/163363/kaz/13.04.2022
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>30296</td>
+<td>35896</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2640,7 +2640,7 @@ source: https://zan.gov.kz/client/#!/doc/163363/kaz/13.04.2022
 <td colspan="2">124</td>
 <td colspan="3"></td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>30296</td>
+<td>35896</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2648,7 +2648,7 @@ source: https://zan.gov.kz/client/#!/doc/163363/kaz/13.04.2022
 <td colspan="2"></td>
 <td colspan="3">001</td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>30296</td>
+<td>35896</td>
 </tr>
 <tr>
 <td colspan="2">07</td>
@@ -3653,7 +3653,7 @@ source: https://zan.gov.kz/client/#!/doc/163363/kaz/13.04.2022
 
 ## 2022 жылға арналған Жиделі ауылдық округінің бюджеті
 
-> *Ескерту. 10-қосымша жаңа редакцияда - Түркістан облысы Арыс қалалық мәслихатының 13.04.2022 № 22/111-VІІ (01.01.2022 бастап қолданысқа енгізіледі) шешiмiмен.*
+> *Ескерту. 10-қосымша жаңа редакцияда - Түркістан облысы Арыс қалалық мәслихатының 13.04.2022 № 22/111-VІІ (01.01.2022 бастап қолданысқа енгізіледі); 02.06.2022 № 24/116-VІІ (01.01.2022 бастап қолданысқа енгізіледі) шешiмдерiмен.*
 
 <table>
 <tr>
@@ -3681,7 +3681,7 @@ source: https://zan.gov.kz/client/#!/doc/163363/kaz/13.04.2022
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">1. Кірістер</td>
-<td>42210</td>
+<td>47510</td>
 </tr>
 <tr>
 <td>1</td>
@@ -3769,7 +3769,7 @@ source: https://zan.gov.kz/client/#!/doc/163363/kaz/13.04.2022
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">Трансферттер түсімі</td>
-<td>27997</td>
+<td>33297</td>
 </tr>
 <tr>
 <td></td>
@@ -3777,7 +3777,7 @@ source: https://zan.gov.kz/client/#!/doc/163363/kaz/13.04.2022
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн</td>
-<td>27997</td>
+<td>33297</td>
 </tr>
 <tr>
 <td></td>
@@ -3785,7 +3785,7 @@ source: https://zan.gov.kz/client/#!/doc/163363/kaz/13.04.2022
 <td colspan="2">3</td>
 <td colspan="3"></td>
 <td colspan="3">Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td>27997</td>
+<td>33297</td>
 </tr>
 <tr>
 <td colspan="12">Функционалдық топ Атауы</td>
@@ -3817,7 +3817,7 @@ source: https://zan.gov.kz/client/#!/doc/163363/kaz/13.04.2022
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">2. Шығындар</td>
-<td>42506</td>
+<td>47806</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
@@ -3825,7 +3825,7 @@ source: https://zan.gov.kz/client/#!/doc/163363/kaz/13.04.2022
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>34595</td>
+<td>39895</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3833,7 +3833,7 @@ source: https://zan.gov.kz/client/#!/doc/163363/kaz/13.04.2022
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>34595</td>
+<td>39895</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3841,7 +3841,7 @@ source: https://zan.gov.kz/client/#!/doc/163363/kaz/13.04.2022
 <td colspan="2">124</td>
 <td colspan="3"></td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>34595</td>
+<td>39895</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3849,7 +3849,7 @@ source: https://zan.gov.kz/client/#!/doc/163363/kaz/13.04.2022
 <td colspan="2"></td>
 <td colspan="3">001</td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>33891</td>
+<td>39191</td>
 </tr>
 <tr>
 <td colspan="2"></td>

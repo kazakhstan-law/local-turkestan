@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/163363/kaz/13.04.2022
+source: https://zan.gov.kz/client/#!/doc/163363/kaz/02.06.2022
 ---
 
 > *Арыс қалалық мәслихатының*  
@@ -10,7 +10,7 @@ source: https://zan.gov.kz/client/#!/doc/163363/kaz/13.04.2022
 
 ## 2022 жылға арналған Қожатоғай ауылдық округінің бюджеті
 
-> *Ескерту. 13-қосымша жаңа редакцияда - Түркістан облысы Арыс қалалық мәслихатының 13.04.2022 № 22/111-VІІ (01.01.2022 бастап қолданысқа енгізіледі) шешiмiмен.*
+> *Ескерту. 13-қосымша жаңа редакцияда - Түркістан облысы Арыс қалалық мәслихатының 13.04.2022 № 22/111-VІІ (01.01.2022 бастап қолданысқа енгізіледі); 02.06.2022 № 24/116-VІІ (01.01.2022 бастап қолданысқа енгізіледі) шешiмдерiмен.*
 
 <table>
 <tr>
@@ -38,7 +38,7 @@ source: https://zan.gov.kz/client/#!/doc/163363/kaz/13.04.2022
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">1. Кірістер</td>
-<td>50603</td>
+<td>55958</td>
 </tr>
 <tr>
 <td>1</td>
@@ -102,7 +102,7 @@ source: https://zan.gov.kz/client/#!/doc/163363/kaz/13.04.2022
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">Трансферттер түсімі</td>
-<td>30826</td>
+<td>36181</td>
 </tr>
 <tr>
 <td></td>
@@ -110,7 +110,7 @@ source: https://zan.gov.kz/client/#!/doc/163363/kaz/13.04.2022
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн</td>
-<td>30826</td>
+<td>36181</td>
 </tr>
 <tr>
 <td></td>
@@ -118,7 +118,7 @@ source: https://zan.gov.kz/client/#!/doc/163363/kaz/13.04.2022
 <td colspan="2">3</td>
 <td colspan="3"></td>
 <td colspan="3">Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td>30826</td>
+<td>36181</td>
 </tr>
 <tr>
 <td colspan="12">Функционалдық топ Атауы</td>
@@ -150,7 +150,7 @@ source: https://zan.gov.kz/client/#!/doc/163363/kaz/13.04.2022
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">2. Шығындар</td>
-<td>51984</td>
+<td>57339</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
@@ -158,7 +158,7 @@ source: https://zan.gov.kz/client/#!/doc/163363/kaz/13.04.2022
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>33848</td>
+<td>39203</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -166,7 +166,7 @@ source: https://zan.gov.kz/client/#!/doc/163363/kaz/13.04.2022
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>33848</td>
+<td>39203</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -174,7 +174,7 @@ source: https://zan.gov.kz/client/#!/doc/163363/kaz/13.04.2022
 <td colspan="2">124</td>
 <td colspan="3"></td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>33848</td>
+<td>39203</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -182,7 +182,7 @@ source: https://zan.gov.kz/client/#!/doc/163363/kaz/13.04.2022
 <td colspan="2"></td>
 <td colspan="3">001</td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>33621</td>
+<td>38976</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1323,7 +1323,7 @@ source: https://zan.gov.kz/client/#!/doc/163363/kaz/13.04.2022
 
 ## 2022 жылға арналған Монтайтас ауылдық округінің бюджеті
 
-> *Ескерту. 16-қосымша жаңа редакцияда - Түркістан облысы Арыс қалалық мәслихатының 13.04.2022 № 22/111-VІІ (01.01.2022 бастап қолданысқа енгізіледі) шешiмiмен.*
+> *Ескерту. 16-қосымша жаңа редакцияда - Түркістан облысы Арыс қалалық мәслихатының 13.04.2022 № 22/111-VІІ (01.01.2022 бастап қолданысқа енгізіледі); 02.06.2022 № 24/116-VІІ (01.01.2022 бастап қолданысқа енгізіледі) шешiмдерiмен.*
 
 <table>
 <tr>
@@ -1351,7 +1351,7 @@ source: https://zan.gov.kz/client/#!/doc/163363/kaz/13.04.2022
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">1. Кірістер</td>
-<td>79579</td>
+<td>84279</td>
 </tr>
 <tr>
 <td>1</td>
@@ -1423,7 +1423,7 @@ source: https://zan.gov.kz/client/#!/doc/163363/kaz/13.04.2022
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">Трансферттер түсімі</td>
-<td>65391</td>
+<td>70091</td>
 </tr>
 <tr>
 <td></td>
@@ -1431,7 +1431,7 @@ source: https://zan.gov.kz/client/#!/doc/163363/kaz/13.04.2022
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн</td>
-<td>65391</td>
+<td>70091</td>
 </tr>
 <tr>
 <td></td>
@@ -1439,7 +1439,7 @@ source: https://zan.gov.kz/client/#!/doc/163363/kaz/13.04.2022
 <td colspan="2">3</td>
 <td colspan="3"></td>
 <td colspan="3">Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td>65391</td>
+<td>70091</td>
 </tr>
 <tr>
 <td colspan="12">Функционалдық топ Атауы</td>
@@ -1471,7 +1471,7 @@ source: https://zan.gov.kz/client/#!/doc/163363/kaz/13.04.2022
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">2. Шығындар</td>
-<td>80447</td>
+<td>85147</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
@@ -1479,7 +1479,7 @@ source: https://zan.gov.kz/client/#!/doc/163363/kaz/13.04.2022
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>41915</td>
+<td>46615</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1487,7 +1487,7 @@ source: https://zan.gov.kz/client/#!/doc/163363/kaz/13.04.2022
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>41915</td>
+<td>46615</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1495,7 +1495,7 @@ source: https://zan.gov.kz/client/#!/doc/163363/kaz/13.04.2022
 <td colspan="2">124</td>
 <td colspan="3"></td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>41915</td>
+<td>46615</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1503,7 +1503,7 @@ source: https://zan.gov.kz/client/#!/doc/163363/kaz/13.04.2022
 <td colspan="2"></td>
 <td colspan="3">001</td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>41415</td>
+<td>46115</td>
 </tr>
 <tr>
 <td colspan="2"></td>
