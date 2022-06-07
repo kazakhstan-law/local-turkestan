@@ -1,622 +1,1256 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/163814/rus/19.04.2022
+source: https://zan.gov.kz/client/#!/doc/163814/rus/07.06.2022
 ---
 
-> *Приложение 10 к решению*  
+> *Приложение 9 к решению*  
 > *маслихата района Байдибек*  
 > *от 29 декабря 2021 года*  
 > *№13/85*
 
+## Бюджет сельского округа Алмалы на 2024 год
+
+<table>
+<tr>
+<td>Категория</td>
+<td>Класс</td>
+<td colspan="2">Подкласс</td>
+<td>Наименование</td>
+<td colspan="2">Сумма, тысяч тенге</td>
+</tr>
+<tr>
+<td colspan="4">1</td>
+<td>2</td>
+<td colspan="2">3</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>1. Доходы</td>
+<td colspan="2">42 037</td>
+</tr>
+<tr>
+<td>1</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Налоговые поступления</td>
+<td colspan="2">4 899</td>
+</tr>
+<tr>
+<td></td>
+<td>01</td>
+<td></td>
+<td></td>
+<td>Подоходный налог</td>
+<td colspan="2">1028</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>2</td>
+<td></td>
+<td>Индивидуальный подоходный налог</td>
+<td colspan="2">1028</td>
+</tr>
+<tr>
+<td></td>
+<td>04</td>
+<td></td>
+<td></td>
+<td>Налоги на собственность</td>
+<td colspan="2">3 776</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>1</td>
+<td></td>
+<td>Налоги на имущество</td>
+<td colspan="2">508</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>3</td>
+<td></td>
+<td>Земельный налог</td>
+<td colspan="2">233</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>4</td>
+<td></td>
+<td>Налог на транспортные средства</td>
+<td colspan="2">2567</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>5</td>
+<td></td>
+<td>Единый земельный налог</td>
+<td colspan="2">468</td>
+</tr>
+<tr>
+<td></td>
+<td>05</td>
+<td></td>
+<td></td>
+<td>Внутренние налоги на товары, работы и услуги</td>
+<td colspan="2">109</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>3</td>
+<td></td>
+<td>Налога за использование земельных участков</td>
+<td colspan="2">95</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>4</td>
+<td></td>
+<td>Сборы за ведение предпринимательской и профессиональной деятельности</td>
+<td colspan="2">14</td>
+</tr>
+<tr>
+<td>2</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Неналоговые поступления</td>
+<td colspan="2">27</td>
+</tr>
+<tr>
+<td></td>
+<td>01</td>
+<td></td>
+<td></td>
+<td>Доходы от государственной собственности</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>5</td>
+<td></td>
+<td>Доходы от аренды имущества, находящегося в государственной собственности</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td></td>
+<td>04</td>
+<td></td>
+<td></td>
+<td>Штрафы, пени, санкции, взыскания, налагаемые государственными учреждениями, финансируемыми из государственного бюджета, а также содержащимися и финансируемыми из бюджета (сметы расходов) Национального Банка Республики Казахстан</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>1</td>
+<td></td>
+<td>Штрафы, пени, санкции, взыскания, налагаемые государственными учреждениями, финансируемыми из государственного бюджета, а также содержащимися и финансируемыми из бюджета (сметы расходов) Национального Банка Республики Казахстан, за исключением поступлений от организаций нефтяного сектора</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td></td>
+<td>06</td>
+<td></td>
+<td></td>
+<td>Прочие неналоговые поступления</td>
+<td colspan="2">27</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>01</td>
+<td></td>
+<td>Прочие неналоговые поступления</td>
+<td colspan="2">27</td>
+</tr>
+<tr>
+<td>3</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Поступления от продажи основного капитала</td>
+<td colspan="2">328</td>
+</tr>
+<tr>
+<td></td>
+<td>03</td>
+<td></td>
+<td></td>
+<td>Поступления от продажи земельных участков</td>
+<td colspan="2">328</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>1</td>
+<td></td>
+<td>Поступления от продажи земельных участков</td>
+<td colspan="2">328</td>
+</tr>
+<tr>
+<td>4</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Поступления трансфертов</td>
+<td colspan="2">36 783</td>
+</tr>
+<tr>
+<td></td>
+<td>02</td>
+<td></td>
+<td></td>
+<td>Трансферты из вышестоящих органов государственного управления</td>
+<td colspan="2">36 783</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>3</td>
+<td></td>
+<td>Трансферты из районного (города областного значения) бюджета</td>
+<td colspan="2">36 783</td>
+</tr>
+<tr>
+<td colspan="5">Функциональная группа</td>
+<td colspan="2" rowspan="4">Сумма, тысяч тенге</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="4">Функциональная подпрограмма</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="3">Администратор бюджетных программ</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Программа</td>
+</tr>
+<tr>
+<td colspan="4">1</td>
+<td>2</td>
+<td colspan="2">3</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>2. ЗАТРАТЫ</td>
+<td colspan="2">42 037</td>
+</tr>
+<tr>
+<td>01</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Государственные услуги общего характера</td>
+<td colspan="2">39 479</td>
+</tr>
+<tr>
+<td></td>
+<td>1</td>
+<td></td>
+<td></td>
+<td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
+<td colspan="2">39 479</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>124</td>
+<td></td>
+<td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
+<td colspan="2">39 479</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>001</td>
+<td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
+<td colspan="2">39 479</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>022</td>
+<td>Капитальные расходы государственного органа</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>07</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Жилищно-коммунальное хозяйство</td>
+<td colspan="2">2 558</td>
+</tr>
+<tr>
+<td></td>
+<td>3</td>
+<td></td>
+<td></td>
+<td>Благоустройство населенных пунктов</td>
+<td colspan="2">2 558</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>124</td>
+<td></td>
+<td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
+<td colspan="2">2 558</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>008</td>
+<td>Освещение улиц населенных пунктов</td>
+<td colspan="2">1 150</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>009</td>
+<td>Обеспечение санитарии населенных пунктов</td>
+<td colspan="2">478</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>010</td>
+<td>Содержание мест захоронений и погребение безродных</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>011</td>
+<td>Благоустройство и озеленение населенных пунктов</td>
+<td colspan="2">930</td>
+</tr>
+<tr>
+<td>15</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Трансферты</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td></td>
+<td>1</td>
+<td></td>
+<td></td>
+<td>Трансферты</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>124</td>
+<td></td>
+<td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>043</td>
+<td>Бюджетные изъятия</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>051</td>
+<td>Целевые текущие трансферты из нижестоящего бюджета на компенсацию потерь вышестоящего бюджета в связи с изменением законодательства</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>3. Чистое бюджетное кредитование</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Бюджетные кредиты</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td colspan="5">Категория</td>
+<td colspan="2" rowspan="4">Сумма, тысяч тенге</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="4">Класс</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="3">Подкласс</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Специфика</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Погашение бюджетных кредитов</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>5</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Погашение бюджетных кредитов</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td></td>
+<td>01</td>
+<td></td>
+<td></td>
+<td>Погашение бюджетных кредитов</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>1</td>
+<td></td>
+<td>Погашение бюджетных кредитов, выданных из государственного бюджета</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>4. Сальдо по операциям с финансовыми активами</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td colspan="5">Категория</td>
+<td colspan="2" rowspan="4">Сумма, тысяч тенге</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="4">Класс</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="3">Подкласс</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Специфика</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Приобретение финансовых активов</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Поступление от продажи финансовых активов государства</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>5. Дефицит бюджета</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>6. Финансирование дефицита бюджета</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Поступление займов</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>7</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Поступление займов</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td colspan="5">Функциональная группа</td>
+<td colspan="2" rowspan="4">Сумма, тысяч тенге</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="4">Функциональная подпрограмма</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="3">Администратор бюджетных программ</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Программа</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Погашение займов</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>16</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Погашение займов</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td></td>
+<td>1</td>
+<td></td>
+<td></td>
+<td>Погашение займов</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td colspan="5">Категория</td>
+<td colspan="2" rowspan="4">Сумма, тысяч тенге</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="4">Класс</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="3">Подкласс</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Специфика</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Используемые остатки бюджетных средств</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td>8</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Используемые остатки бюджетных средств</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td></td>
+<td>01</td>
+<td></td>
+<td></td>
+<td>Остатки бюджетных средств</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>1</td>
+<td></td>
+<td>Свободные остатки бюджетных средств</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>01</td>
+<td>Свободные остатки бюджетных средств</td>
+<td colspan="2">0</td>
+</tr>
+</table>
+
+> *Приложение 10 к решению маслихата*  
+> *района Байдибек от 29 декабря 2021*  
+> *года №13/85*
+
 ## Бюджет сельского округа Акбастау на 2022 год
+
+> *Сноска. Приложение 10 в редакции решения Байдибекского районного маслихата Туркестанской области от 07.06.2022 № 19/127 (вводится в действие с 01.01.2022).*
 
 <table>
 <tr>
 <td colspan="2">Категория</td>
 <td colspan="2">Класс</td>
 <td colspan="4">Подкласс</td>
-<td colspan="2">Наименование</td>
-<td colspan="2">Сумма, тысяч тенге</td>
+<td colspan="3">Наименование</td>
+<td colspan="3">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td colspan="8">1</td>
-<td colspan="2">2</td>
-<td colspan="2">3</td>
+<td colspan="3">2</td>
+<td colspan="3">3</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="4"></td>
-<td colspan="2">1. Доходы</td>
-<td colspan="2">58 442</td>
+<td colspan="3">1. Доходы</td>
+<td colspan="3">63 439</td>
 </tr>
 <tr>
 <td colspan="2">1</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2">Налоговые поступления</td>
-<td colspan="2">11 392</td>
+<td colspan="3">Налоговые поступления</td>
+<td colspan="3">14 592</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">01</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2">Подоходный налог</td>
-<td colspan="2">0</td>
+<td colspan="3">Подоходный налог</td>
+<td colspan="3">0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">2</td>
 <td colspan="2"></td>
-<td colspan="2">Индивидуальный подоходный налог</td>
-<td colspan="2">0</td>
+<td colspan="3">Индивидуальный подоходный налог</td>
+<td colspan="3">0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">04</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2">Налоги на собственность</td>
-<td colspan="2">9 387</td>
+<td colspan="3">Налоги на собственность</td>
+<td colspan="3">12 587</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">1</td>
 <td colspan="2"></td>
-<td colspan="2">Налоги на имущество</td>
-<td colspan="2">575</td>
+<td colspan="3">Налоги на имущество</td>
+<td colspan="3">575</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">3</td>
 <td colspan="2"></td>
-<td colspan="2">Земельный налог</td>
-<td colspan="2">200</td>
+<td colspan="3">Земельный налог</td>
+<td colspan="3">200</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">4</td>
 <td colspan="2"></td>
-<td colspan="2">Налог на транспортные средства</td>
-<td colspan="2">8612</td>
+<td colspan="3">Налог на транспортные средства</td>
+<td colspan="3">11 812</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">05</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2">Внутренние налоги на товары, работы и услуги</td>
-<td colspan="2">2005</td>
+<td colspan="3">Внутренние налоги на товары, работы и услуги</td>
+<td colspan="3">2005</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">3</td>
 <td colspan="2"></td>
-<td colspan="2">Налога за использование земельных участков</td>
-<td colspan="2">2005</td>
+<td colspan="3">Налога за использование земельных участков</td>
+<td colspan="3">2005</td>
 </tr>
 <tr>
 <td colspan="2">2</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2">Неналоговые поступления</td>
-<td colspan="2">71</td>
+<td colspan="3">Неналоговые поступления</td>
+<td colspan="3">71</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">01</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2">Доходы от государственной собственности</td>
-<td colspan="2">35</td>
+<td colspan="3">Доходы от государственной собственности</td>
+<td colspan="3">35</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">5</td>
 <td colspan="2"></td>
-<td colspan="2">Доходы от аренды имущества, находящегося в государственной собственности</td>
-<td colspan="2">35</td>
+<td colspan="3">Доходы от аренды имущества, находящегося в государственной собственности</td>
+<td colspan="3">35</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">04</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2">Штрафы, пени, санкции, взыскания, налагаемые государственными учреждениями, финансируемыми из государственного бюджета, а также содержащимися и финансируемыми из бюджета (сметы расходов) Национального Банка Республики Казахстан</td>
-<td colspan="2">0</td>
+<td colspan="3">Штрафы, пени, санкции, взыскания, налагаемые государственными учреждениями, финансируемыми из государственного бюджета, а также содержащимися и финансируемыми из бюджета (сметы расходов) Национального Банка Республики Казахстан</td>
+<td colspan="3">0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">1</td>
 <td colspan="2"></td>
-<td colspan="2">Штрафы, пени, санкции, взыскания, налагаемые государственными учреждениями, финансируемыми из государственного бюджета, а также содержащимися и финансируемыми из бюджета (сметы расходов) Национального Банка Республики Казахстан, за исключением поступлений от организаций нефтяного сектора</td>
-<td colspan="2">0</td>
+<td colspan="3">Штрафы, пени, санкции, взыскания, налагаемые государственными учреждениями, финансируемыми из государственного бюджета, а также содержащимися и финансируемыми из бюджета (сметы расходов) Национального Банка Республики Казахстан, за исключением поступлений от организаций нефтяного сектора</td>
+<td colspan="3">0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">06</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2">Прочие неналоговые поступления</td>
-<td colspan="2">36</td>
+<td colspan="3">Прочие неналоговые поступления</td>
+<td colspan="3">36</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">01</td>
 <td colspan="2"></td>
-<td colspan="2">Прочие неналоговые поступления</td>
-<td colspan="2">36</td>
+<td colspan="3">Прочие неналоговые поступления</td>
+<td colspan="3">36</td>
 </tr>
 <tr>
 <td colspan="2">3</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2">Поступления от продажи основного капитала</td>
-<td colspan="2">300</td>
+<td colspan="3">Поступления от продажи основного капитала</td>
+<td colspan="3">300</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">03</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2">Поступления от продажи земельных участков</td>
-<td colspan="2">300</td>
+<td colspan="3">Поступления от продажи земельных участков</td>
+<td colspan="3">300</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">1</td>
 <td colspan="2"></td>
-<td colspan="2">Поступления от продажи земельных участков</td>
-<td colspan="2">300</td>
+<td colspan="3">Поступления от продажи земельных участков</td>
+<td colspan="3">300</td>
 </tr>
 <tr>
 <td colspan="2">4</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2">Поступления трансфертов</td>
-<td colspan="2">46 679</td>
+<td colspan="3">Поступления трансфертов</td>
+<td colspan="3">48 476</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">02</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2">Трансферты из вышестоящих органов государственного управления</td>
-<td colspan="2">46 679</td>
+<td colspan="3">Трансферты из вышестоящих органов государственного управления</td>
+<td colspan="3">48 476</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">3</td>
 <td colspan="2"></td>
-<td colspan="2">Трансферты из районного (города областного значения) бюджета</td>
-<td colspan="2">46 679</td>
+<td colspan="3">Трансферты из районного (города областного значения) бюджета</td>
+<td colspan="3">48 476</td>
 </tr>
 <tr>
-<td colspan="10">Функциональная группа</td>
-<td colspan="2" rowspan="4">Сумма, тысяч тенге</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="8">Функциональная подпрограмма</td>
+<td colspan="11">Функциональная группа</td>
+<td colspan="3" rowspan="4">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="6">Администратор бюджетных программ</td>
+<td colspan="9">Функциональная подпрограмма</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
+<td colspan="7">Администратор бюджетных программ</td>
+</tr>
+<tr>
 <td colspan="2"></td>
-<td colspan="4">Программа</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="5">Программа</td>
 </tr>
 <tr>
 <td colspan="8">1</td>
-<td colspan="2">2</td>
-<td colspan="2">3</td>
+<td colspan="3">2</td>
+<td colspan="3">3</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2">2. ЗАТРАТЫ</td>
-<td colspan="2">58 442</td>
+<td colspan="3">2. ЗАТРАТЫ</td>
+<td colspan="3">63 716</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2">Государственные услуги общего характера</td>
-<td colspan="2">53 912</td>
+<td colspan="3">Государственные услуги общего характера</td>
+<td colspan="3">55 506</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">1</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2">Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td colspan="2">53 912</td>
+<td colspan="3">Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
+<td colspan="3">55 506</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">124</td>
 <td colspan="2"></td>
-<td colspan="2">Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">53 912</td>
+<td colspan="3">Аппарат акима города районного значения, села, поселка, сельского округа</td>
+<td colspan="3">55 506</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">001</td>
-<td colspan="2">Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">52 832</td>
+<td colspan="3">Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
+<td colspan="3">54 426</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">022</td>
-<td colspan="2">Капитальные расходы государственного органа</td>
-<td colspan="2">1080</td>
+<td colspan="3">Капитальные расходы государственного органа</td>
+<td colspan="3">1080</td>
 </tr>
 <tr>
 <td colspan="2">07</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2">Жилищно-коммунальное хозяйство</td>
-<td colspan="2">4 530</td>
+<td colspan="3">Жилищно-коммунальное хозяйство</td>
+<td colspan="3">5010</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">3</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2">Благоустройство населенных пунктов</td>
-<td colspan="2">4 530</td>
+<td colspan="3">Благоустройство населенных пунктов</td>
+<td colspan="3">5010</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">124</td>
 <td colspan="2"></td>
-<td colspan="2">Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">4 530</td>
+<td colspan="3">Аппарат акима города районного значения, села, поселка, сельского округа</td>
+<td colspan="3">5010</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">008</td>
-<td colspan="2">Освещение улиц населенных пунктов</td>
-<td colspan="2">2 494</td>
+<td colspan="3">Освещение улиц населенных пунктов</td>
+<td colspan="3">2 494</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">009</td>
-<td colspan="2">Обеспечение санитарии населенных пунктов</td>
-<td colspan="2">614</td>
+<td colspan="3">Обеспечение санитарии населенных пунктов</td>
+<td colspan="3">614</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">010</td>
-<td colspan="2">Содержание мест захоронений и погребение безродных</td>
-<td colspan="2">0</td>
+<td colspan="3">Содержание мест захоронений и погребение безродных</td>
+<td colspan="3">0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">011</td>
-<td colspan="2">Благоустройство и озеленение населенных пунктов</td>
-<td colspan="2">1422</td>
+<td colspan="3">Благоустройство и озеленение населенных пунктов</td>
+<td colspan="3">1902</td>
 </tr>
 <tr>
 <td colspan="2">15</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2">Трансферты</td>
-<td colspan="2">0</td>
+<td colspan="3">Трансферты</td>
+<td colspan="3">3200</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">1</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2">Трансферты</td>
-<td colspan="2">0</td>
+<td colspan="3">Трансферты</td>
+<td colspan="3">3200</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">124</td>
 <td colspan="2"></td>
-<td colspan="2">Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">0</td>
+<td colspan="3">Аппарат акима города районного значения, села, поселка, сельского округа</td>
+<td colspan="3">3200</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">043</td>
-<td colspan="2">Бюджетные изъятия</td>
-<td colspan="2"></td>
+<td colspan="3">Бюджетные изъятия</td>
+<td colspan="3">3200</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">051</td>
-<td colspan="2">Целевые текущие трансферты из нижестоящего бюджета на компенсацию потерь вышестоящего бюджета в связи с изменением законодательства</td>
-<td colspan="2">0</td>
+<td colspan="3">Целевые текущие трансферты из нижестоящего бюджета на компенсацию потерь вышестоящего бюджета в связи с изменением законодательства</td>
+<td colspan="3">0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2">3. Чистое бюджетное кредитование</td>
-<td colspan="2">0</td>
+<td colspan="3">3. Чистое бюджетное кредитование</td>
+<td colspan="3">0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2">Бюджетные кредиты</td>
-<td colspan="2">0</td>
+<td colspan="3">Бюджетные кредиты</td>
+<td colspan="3">0</td>
 </tr>
 <tr>
-<td colspan="10">Категория</td>
-<td colspan="2" rowspan="4">Сумма, тысяч тенге</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="8">Класс</td>
+<td colspan="11">Категория</td>
+<td colspan="3" rowspan="4">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="6">Подкласс</td>
+<td colspan="9">Класс</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="4">Специфика</td>
+<td colspan="7">Подкласс</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
+<td colspan="5">Специфика</td>
+</tr>
+<tr>
 <td colspan="2"></td>
-<td colspan="2">Погашение бюджетных кредитов</td>
-<td colspan="2">0</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">Погашение бюджетных кредитов</td>
+<td colspan="3">0</td>
 </tr>
 <tr>
 <td colspan="2">5</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2">Погашение бюджетных кредитов</td>
-<td colspan="2">0</td>
+<td colspan="3">Погашение бюджетных кредитов</td>
+<td colspan="3">0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">01</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2">Погашение бюджетных кредитов</td>
-<td colspan="2">0</td>
+<td colspan="3">Погашение бюджетных кредитов</td>
+<td colspan="3">0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">1</td>
 <td colspan="2"></td>
-<td colspan="2">Погашение бюджетных кредитов, выданных из государственного бюджета</td>
-<td colspan="2">0</td>
+<td colspan="3">Погашение бюджетных кредитов, выданных из государственного бюджета</td>
+<td colspan="3">0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2">4. Сальдо по операциям с финансовыми активами</td>
-<td colspan="2">0</td>
+<td colspan="3">4. Сальдо по операциям с финансовыми активами</td>
+<td colspan="3">0</td>
 </tr>
 <tr>
-<td colspan="10">Категория</td>
-<td colspan="2" rowspan="4">Сумма, тысяч тенге</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="8">Класс</td>
+<td colspan="11">Категория</td>
+<td colspan="3" rowspan="4">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="6">Подкласс</td>
+<td colspan="9">Класс</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="4">Специфика</td>
+<td colspan="7">Подкласс</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Приобретение финансовых активов</td>
-<td colspan="2">0</td>
+<td colspan="5">Специфика</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2">Поступление от продажи финансовых активов государства</td>
-<td colspan="2">0</td>
+<td colspan="3">Приобретение финансовых активов</td>
+<td colspan="3">0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2">5. Дефицит бюджета</td>
-<td colspan="2">0</td>
+<td colspan="3">Поступление от продажи финансовых активов государства</td>
+<td colspan="3">0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2">6. Финансирование дефицита бюджета</td>
-<td colspan="2">0</td>
+<td colspan="3">5. Дефицит бюджета</td>
+<td colspan="3">0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2">Поступление займов</td>
-<td colspan="2">0</td>
+<td colspan="3">6. Финансирование дефицита бюджета</td>
+<td colspan="3">0</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">Поступление займов</td>
+<td colspan="3">0</td>
 </tr>
 <tr>
 <td colspan="2">7</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2">Поступление займов</td>
-<td colspan="2">0</td>
+<td colspan="3">Поступление займов</td>
+<td colspan="3">0</td>
 </tr>
 <tr>
-<td colspan="10">Функциональная группа</td>
-<td colspan="2" rowspan="4">Сумма, тысяч тенге</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="8">Функциональная подпрограмма</td>
+<td colspan="11">Функциональная группа</td>
+<td colspan="3" rowspan="4">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="6">Администратор бюджетных программ</td>
+<td colspan="9">Функциональная подпрограмма</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="4">Программа</td>
+<td colspan="7">Администратор бюджетных программ</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
+<td colspan="5">Программа</td>
+</tr>
+<tr>
 <td colspan="2"></td>
-<td colspan="2">Погашение займов</td>
-<td colspan="2">0</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">Погашение займов</td>
+<td colspan="3">0</td>
 </tr>
 <tr>
 <td colspan="2">16</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2">Погашение займов</td>
-<td colspan="2">0</td>
+<td colspan="3">Погашение займов</td>
+<td colspan="3">0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">1</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2">Погашение займов</td>
-<td colspan="2">0</td>
+<td colspan="3">Погашение займов</td>
+<td colspan="3">0</td>
 </tr>
 <tr>
-<td colspan="10">Категория</td>
-<td colspan="2" rowspan="4">Сумма, тысяч тенге</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="8">Класс</td>
+<td colspan="11">Категория</td>
+<td colspan="3" rowspan="4">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="6">Подкласс</td>
+<td colspan="9">Класс</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="4">Специфика</td>
+<td colspan="7">Подкласс</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
+<td colspan="5">Специфика</td>
+</tr>
+<tr>
 <td colspan="2"></td>
-<td colspan="2">Используемые остатки бюджетных средств</td>
-<td colspan="2">0</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">Используемые остатки бюджетных средств</td>
+<td colspan="3">277</td>
 </tr>
 <tr>
 <td colspan="2">8</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2">Используемые остатки бюджетных средств</td>
-<td colspan="2">0</td>
+<td colspan="3">Используемые остатки бюджетных средств</td>
+<td colspan="3">277</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">01</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2">Остатки бюджетных средств</td>
-<td colspan="2">0</td>
+<td colspan="3">Остатки бюджетных средств</td>
+<td colspan="3">277</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">1</td>
 <td colspan="2"></td>
-<td colspan="2">Свободные остатки бюджетных средств</td>
-<td colspan="2">0</td>
+<td colspan="3">Свободные остатки бюджетных средств</td>
+<td colspan="3">277</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">01</td>
-<td colspan="2">Свободные остатки бюджетных средств</td>
-<td colspan="2">0</td>
+<td colspan="3">Свободные остатки бюджетных средств</td>
+<td colspan="3">277</td>
 </tr>
 </table>
 
@@ -1886,12 +2520,13 @@ source: https://zan.gov.kz/client/#!/doc/163814/rus/19.04.2022
 </tr>
 </table>
 
-> *Приложение 13 к решению*  
-> *маслихата района Байдибек*  
-> *от 29декабря 2021 года*  
-> *№13/85*
+> *Приложение 13 к решению маслихата*  
+> *района Байдибек от 29декабря 2021*  
+> *года №13/85*
 
 ## Бюджет сельского округа Боралдай на 2022 год
+
+> *Сноска. Приложение 13 в редакции решения Байдибекского районного маслихата Туркестанской области от 07.06.2022 № 19/127 (вводится в действие с 01.01.2022).*
 
 <table>
 <tr>
@@ -1899,19 +2534,19 @@ source: https://zan.gov.kz/client/#!/doc/163814/rus/19.04.2022
 <td colspan="2">Класс</td>
 <td colspan="4">Подкласс</td>
 <td colspan="2">Наименование</td>
-<td colspan="2">Сумма, тысяч тенге</td>
+<td colspan="4">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td colspan="8">1</td>
 <td colspan="2">2</td>
-<td colspan="2">3</td>
+<td colspan="4">3</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="4"></td>
 <td colspan="2">1. Доходы</td>
-<td colspan="2">60 882</td>
+<td colspan="4">69 062</td>
 </tr>
 <tr>
 <td colspan="2">1</td>
@@ -1919,7 +2554,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/rus/19.04.2022
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Налоговые поступления</td>
-<td colspan="2">16 703</td>
+<td colspan="4">20 750</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1927,7 +2562,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/rus/19.04.2022
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Подоходный налог</td>
-<td colspan="2">0</td>
+<td colspan="4">0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1935,7 +2570,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/rus/19.04.2022
 <td colspan="2">2</td>
 <td colspan="2"></td>
 <td colspan="2">Индивидуальный подоходный налог</td>
-<td colspan="2">0</td>
+<td colspan="4">0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1943,7 +2578,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/rus/19.04.2022
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Налоги на собственность</td>
-<td colspan="2">16242</td>
+<td colspan="4">16 242</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1951,7 +2586,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/rus/19.04.2022
 <td colspan="2">1</td>
 <td colspan="2"></td>
 <td colspan="2">Налоги на имущество</td>
-<td colspan="2">1006</td>
+<td colspan="4">1 006</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1959,7 +2594,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/rus/19.04.2022
 <td colspan="2">3</td>
 <td colspan="2"></td>
 <td colspan="2">Земельный налог</td>
-<td colspan="2">759</td>
+<td colspan="4">759</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1967,7 +2602,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/rus/19.04.2022
 <td colspan="2">4</td>
 <td colspan="2"></td>
 <td colspan="2">Налог на транспортные средства</td>
-<td colspan="2">14060</td>
+<td colspan="4">17 919</td>
 </tr>
 <tr>
 <td colspan="2">2</td>
@@ -1975,7 +2610,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/rus/19.04.2022
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Неналоговые поступления</td>
-<td colspan="2">161</td>
+<td colspan="4">160</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1983,7 +2618,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/rus/19.04.2022
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Доходы от государственной собственности</td>
-<td colspan="2">0</td>
+<td colspan="4">0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1991,7 +2626,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/rus/19.04.2022
 <td colspan="2">5</td>
 <td colspan="2"></td>
 <td colspan="2">Доходы от аренды имущества, находящегося в государственной собственности</td>
-<td colspan="2">0</td>
+<td colspan="4">0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1999,7 +2634,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/rus/19.04.2022
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Штрафы, пени, санкции, взыскания, налагаемые государственными учреждениями, финансируемыми из государственного бюджета, а также содержащимися и финансируемыми из бюджета (сметы расходов) Национального Банка Республики Казахстан</td>
-<td colspan="2">0</td>
+<td colspan="4">0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2007,7 +2642,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/rus/19.04.2022
 <td colspan="2">1</td>
 <td colspan="2"></td>
 <td colspan="2">Штрафы, пени, санкции, взыскания, налагаемые государственными учреждениями, финансируемыми из государственного бюджета, а также содержащимися и финансируемыми из бюджета (сметы расходов) Национального Банка Республики Казахстан, за исключением поступлений от организаций нефтяного сектора</td>
-<td colspan="2">0</td>
+<td colspan="4">0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2015,7 +2650,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/rus/19.04.2022
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Прочие неналоговые поступления</td>
-<td colspan="2">161</td>
+<td colspan="4">160</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2023,7 +2658,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/rus/19.04.2022
 <td colspan="2">01</td>
 <td colspan="2"></td>
 <td colspan="2">Прочие неналоговые поступления</td>
-<td colspan="2">161</td>
+<td colspan="4">160</td>
 </tr>
 <tr>
 <td colspan="2">3</td>
@@ -2031,7 +2666,23 @@ source: https://zan.gov.kz/client/#!/doc/163814/rus/19.04.2022
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Поступления от продажи основного капитала</td>
-<td colspan="2">0</td>
+<td colspan="4">300</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2">03</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Поступления от продажи земельных участков</td>
+<td colspan="4">300</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">1</td>
+<td colspan="2"></td>
+<td colspan="2">Поступления от продажи земельных участков</td>
+<td colspan="4">300</td>
 </tr>
 <tr>
 <td colspan="2">4</td>
@@ -2039,7 +2690,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/rus/19.04.2022
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Поступления трансфертов</td>
-<td colspan="2">44 179</td>
+<td colspan="4">44 992</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2047,7 +2698,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/rus/19.04.2022
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Трансферты из вышестоящих органов государственного управления</td>
-<td colspan="2">44 179</td>
+<td colspan="4">44 992</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2055,11 +2706,11 @@ source: https://zan.gov.kz/client/#!/doc/163814/rus/19.04.2022
 <td colspan="2">3</td>
 <td colspan="2"></td>
 <td colspan="2">Трансферты из районного (города областного значения) бюджета</td>
-<td colspan="2">44 179</td>
+<td colspan="4">44 992</td>
 </tr>
 <tr>
 <td colspan="10">Функциональная группа</td>
-<td colspan="2" rowspan="4">Сумма, тысяч тенге</td>
+<td colspan="4" rowspan="4">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2079,7 +2730,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/rus/19.04.2022
 <tr>
 <td colspan="8">1</td>
 <td colspan="2">2</td>
-<td colspan="2">3</td>
+<td colspan="4">3</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2087,7 +2738,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/rus/19.04.2022
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">2. ЗАТРАТЫ</td>
-<td colspan="2">60 882</td>
+<td colspan="4">69 781</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
@@ -2095,7 +2746,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/rus/19.04.2022
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Государственные услуги общего характера</td>
-<td colspan="2">52093</td>
+<td colspan="4">56 200</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2103,7 +2754,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/rus/19.04.2022
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td colspan="2">52093</td>
+<td colspan="4">56 200</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2111,7 +2762,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/rus/19.04.2022
 <td colspan="2">124</td>
 <td colspan="2"></td>
 <td colspan="2">Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">52093</td>
+<td colspan="4">56 200</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2119,7 +2770,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/rus/19.04.2022
 <td colspan="2"></td>
 <td colspan="2">001</td>
 <td colspan="2">Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">50964</td>
+<td colspan="4">55 071</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2127,7 +2778,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/rus/19.04.2022
 <td colspan="2"></td>
 <td colspan="2">022</td>
 <td colspan="2">Капитальные расходы государственного органа</td>
-<td colspan="2">1129</td>
+<td colspan="4">1129</td>
 </tr>
 <tr>
 <td colspan="2">07</td>
@@ -2135,7 +2786,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/rus/19.04.2022
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Жилищно-коммунальное хозяйство</td>
-<td colspan="2">8789</td>
+<td colspan="4">8789</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2143,7 +2794,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/rus/19.04.2022
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Благоустройство населенных пунктов</td>
-<td colspan="2">8789</td>
+<td colspan="4">8789</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2151,7 +2802,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/rus/19.04.2022
 <td colspan="2">124</td>
 <td colspan="2"></td>
 <td colspan="2">Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">8789</td>
+<td colspan="4">8789</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2159,7 +2810,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/rus/19.04.2022
 <td colspan="2"></td>
 <td colspan="2">008</td>
 <td colspan="2">Освещение улиц населенных пунктов</td>
-<td colspan="2">2062</td>
+<td colspan="4">2062</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2167,7 +2818,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/rus/19.04.2022
 <td colspan="2"></td>
 <td colspan="2">009</td>
 <td colspan="2">Обеспечение санитарии населенных пунктов</td>
-<td colspan="2">5298</td>
+<td colspan="4">5298</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2175,7 +2826,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/rus/19.04.2022
 <td colspan="2"></td>
 <td colspan="2">010</td>
 <td colspan="2">Содержание мест захоронений и погребение безродных</td>
-<td colspan="2">0</td>
+<td colspan="4">0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2183,7 +2834,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/rus/19.04.2022
 <td colspan="2"></td>
 <td colspan="2">011</td>
 <td colspan="2">Благоустройство и озеленение населенных пунктов</td>
-<td colspan="2">1 429</td>
+<td colspan="4">1 429</td>
 </tr>
 <tr>
 <td colspan="2">15</td>
@@ -2191,7 +2842,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/rus/19.04.2022
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Трансферты</td>
-<td colspan="2">0</td>
+<td colspan="4">4 047</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2199,7 +2850,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/rus/19.04.2022
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Трансферты</td>
-<td colspan="2">0</td>
+<td colspan="4">4 047</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2207,15 +2858,15 @@ source: https://zan.gov.kz/client/#!/doc/163814/rus/19.04.2022
 <td colspan="2">124</td>
 <td colspan="2"></td>
 <td colspan="2">Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">0</td>
+<td colspan="4">4 047</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2">043</td>
+<td colspan="2">049</td>
 <td colspan="2">Бюджетные изъятия</td>
-<td colspan="2"></td>
+<td colspan="4">4 047</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2223,7 +2874,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/rus/19.04.2022
 <td colspan="2"></td>
 <td colspan="2">051</td>
 <td colspan="2">Целевые текущие трансферты из нижестоящего бюджета на компенсацию потерь вышестоящего бюджета в связи с изменением законодательства</td>
-<td colspan="2">0</td>
+<td colspan="4">0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2231,7 +2882,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/rus/19.04.2022
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">3. Чистое бюджетное кредитование</td>
-<td colspan="2">0</td>
+<td colspan="4">0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2239,11 +2890,11 @@ source: https://zan.gov.kz/client/#!/doc/163814/rus/19.04.2022
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Бюджетные кредиты</td>
-<td colspan="2">0</td>
+<td colspan="4">0</td>
 </tr>
 <tr>
 <td colspan="10">Категория</td>
-<td colspan="2" rowspan="4">Сумма, тысяч тенге</td>
+<td colspan="4" rowspan="4">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2266,7 +2917,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/rus/19.04.2022
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Погашение бюджетных кредитов</td>
-<td colspan="2">0</td>
+<td colspan="4">0</td>
 </tr>
 <tr>
 <td colspan="2">5</td>
@@ -2274,7 +2925,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/rus/19.04.2022
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Погашение бюджетных кредитов</td>
-<td colspan="2">0</td>
+<td colspan="4">0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2282,7 +2933,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/rus/19.04.2022
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Погашение бюджетных кредитов</td>
-<td colspan="2">0</td>
+<td colspan="4">0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2290,7 +2941,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/rus/19.04.2022
 <td colspan="2">1</td>
 <td colspan="2"></td>
 <td colspan="2">Погашение бюджетных кредитов, выданных из государственного бюджета</td>
-<td colspan="2">0</td>
+<td colspan="4">0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2298,11 +2949,11 @@ source: https://zan.gov.kz/client/#!/doc/163814/rus/19.04.2022
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">4. Сальдо по операциям с финансовыми активами</td>
-<td colspan="2">0</td>
+<td colspan="4">0</td>
 </tr>
 <tr>
 <td colspan="10">Категория</td>
-<td colspan="2" rowspan="4">Сумма, тысяч тенге</td>
+<td colspan="4" rowspan="4">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2325,7 +2976,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/rus/19.04.2022
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Приобретение финансовых активов</td>
-<td colspan="2">0</td>
+<td colspan="4">0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2333,7 +2984,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/rus/19.04.2022
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Поступление от продажи финансовых активов государства</td>
-<td colspan="2">0</td>
+<td colspan="4">0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2341,7 +2992,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/rus/19.04.2022
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">5. Дефицит бюджета</td>
-<td colspan="2">0</td>
+<td colspan="4">0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2349,7 +3000,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/rus/19.04.2022
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">6. Финансирование дефицита бюджета</td>
-<td colspan="2">0</td>
+<td colspan="4">0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2357,7 +3008,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/rus/19.04.2022
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Поступление займов</td>
-<td colspan="2">0</td>
+<td colspan="4">0</td>
 </tr>
 <tr>
 <td colspan="2">7</td>
@@ -2365,11 +3016,11 @@ source: https://zan.gov.kz/client/#!/doc/163814/rus/19.04.2022
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Поступление займов</td>
-<td colspan="2">0</td>
+<td colspan="4">0</td>
 </tr>
 <tr>
 <td colspan="10">Функциональная группа</td>
-<td colspan="2" rowspan="4">Сумма, тысяч тенге</td>
+<td colspan="4" rowspan="4">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2392,7 +3043,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/rus/19.04.2022
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Погашение займов</td>
-<td colspan="2">0</td>
+<td colspan="4">0</td>
 </tr>
 <tr>
 <td colspan="2">16</td>
@@ -2400,7 +3051,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/rus/19.04.2022
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Погашение займов</td>
-<td colspan="2">0</td>
+<td colspan="4">0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2408,11 +3059,11 @@ source: https://zan.gov.kz/client/#!/doc/163814/rus/19.04.2022
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Погашение займов</td>
-<td colspan="2">0</td>
+<td colspan="4">0</td>
 </tr>
 <tr>
 <td colspan="10">Категория</td>
-<td colspan="2" rowspan="4">Сумма, тысяч тенге</td>
+<td colspan="4" rowspan="4">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2435,7 +3086,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/rus/19.04.2022
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Используемые остатки бюджетных средств</td>
-<td colspan="2">0</td>
+<td colspan="4">719</td>
 </tr>
 <tr>
 <td colspan="2">8</td>
@@ -2443,7 +3094,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/rus/19.04.2022
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Используемые остатки бюджетных средств</td>
-<td colspan="2">0</td>
+<td colspan="4">719</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2451,7 +3102,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/rus/19.04.2022
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Остатки бюджетных средств</td>
-<td colspan="2">0</td>
+<td colspan="4">719</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2459,7 +3110,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/rus/19.04.2022
 <td colspan="2">1</td>
 <td colspan="2"></td>
 <td colspan="2">Свободные остатки бюджетных средств</td>
-<td colspan="2">0</td>
+<td colspan="4">719</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2467,7 +3118,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/rus/19.04.2022
 <td colspan="2"></td>
 <td colspan="2">01</td>
 <td colspan="2">Свободные остатки бюджетных средств</td>
-<td colspan="2">0</td>
+<td colspan="4">719</td>
 </tr>
 </table>
 
@@ -3641,12 +4292,13 @@ source: https://zan.gov.kz/client/#!/doc/163814/rus/19.04.2022
 </tr>
 </table>
 
-> *Приложение 16 к решению*  
-> *маслихата района Байдибек*  
-> *от 29 декабря 2021 года*  
-> *№13/85*
+> *Приложение 16 к решению маслихата*  
+> *района Байдибек от 29 декабря 2021*  
+> *года №13/85*
 
 ## Бюджет сельского округа Боген на 2022 год
+
+> *Сноска. Приложение 16 в редакции решения Байдибекского районного маслихата Туркестанской области от 07.06.2022 № 19/127 (вводится в действие с 01.01.2022).*
 
 <table>
 <tr>
@@ -3666,7 +4318,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/rus/19.04.2022
 <td></td>
 <td colspan="2"></td>
 <td>1. Доходы</td>
-<td>80290</td>
+<td>89 553</td>
 </tr>
 <tr>
 <td>1</td>
@@ -3674,7 +4326,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/rus/19.04.2022
 <td></td>
 <td></td>
 <td>Налоговые поступления</td>
-<td>8348</td>
+<td>11767</td>
 </tr>
 <tr>
 <td></td>
@@ -3698,7 +4350,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/rus/19.04.2022
 <td></td>
 <td></td>
 <td>Hалоги на собственность</td>
-<td>7444</td>
+<td>11 244</td>
 </tr>
 <tr>
 <td></td>
@@ -3722,7 +4374,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/rus/19.04.2022
 <td>4</td>
 <td></td>
 <td>Hалог на транспортные средства</td>
-<td>6596</td>
+<td>10396</td>
 </tr>
 <tr>
 <td></td>
@@ -3810,7 +4462,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/rus/19.04.2022
 <td></td>
 <td></td>
 <td>Поступления трансфертов</td>
-<td>71942</td>
+<td>77405</td>
 </tr>
 <tr>
 <td></td>
@@ -3818,7 +4470,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/rus/19.04.2022
 <td></td>
 <td></td>
 <td>Трансферты из вышестоящих органов государственного управления</td>
-<td>71942</td>
+<td>77405</td>
 </tr>
 <tr>
 <td></td>
@@ -3826,7 +4478,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/rus/19.04.2022
 <td>3</td>
 <td></td>
 <td>Трансферты из районного (города областного значения) бюджета</td>
-<td>71942</td>
+<td>77405</td>
 </tr>
 <tr>
 <td colspan="5">Функциональная группа</td>
@@ -3858,7 +4510,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/rus/19.04.2022
 <td></td>
 <td></td>
 <td>2. ЗАТРАТЫ</td>
-<td>80290</td>
+<td>90091</td>
 </tr>
 <tr>
 <td>01</td>
@@ -3866,7 +4518,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/rus/19.04.2022
 <td></td>
 <td></td>
 <td>Государственные услуги общего характера</td>
-<td>78664</td>
+<td>81578</td>
 </tr>
 <tr>
 <td></td>
@@ -3874,7 +4526,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/rus/19.04.2022
 <td></td>
 <td></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>78664</td>
+<td>81578</td>
 </tr>
 <tr>
 <td></td>
@@ -3882,7 +4534,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/rus/19.04.2022
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>78664</td>
+<td>81578</td>
 </tr>
 <tr>
 <td></td>
@@ -3890,7 +4542,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/rus/19.04.2022
 <td></td>
 <td>001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>78344</td>
+<td>81258</td>
 </tr>
 <tr>
 <td></td>
@@ -3906,7 +4558,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/rus/19.04.2022
 <td></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>1626</td>
+<td>4713</td>
 </tr>
 <tr>
 <td></td>
@@ -3914,7 +4566,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/rus/19.04.2022
 <td></td>
 <td></td>
 <td>Благоустройство населенных пунктов</td>
-<td>1626</td>
+<td>4713</td>
 </tr>
 <tr>
 <td></td>
@@ -3922,7 +4574,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/rus/19.04.2022
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>1626</td>
+<td>4713</td>
 </tr>
 <tr>
 <td></td>
@@ -3930,7 +4582,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/rus/19.04.2022
 <td></td>
 <td>008</td>
 <td>Освещение улиц населенных пунктов</td>
-<td>458</td>
+<td>3545</td>
 </tr>
 <tr>
 <td></td>
@@ -3978,7 +4630,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/rus/19.04.2022
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>0</td>
+<td>3800</td>
 </tr>
 <tr>
 <td></td>
@@ -3986,7 +4638,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/rus/19.04.2022
 <td></td>
 <td>043</td>
 <td>Бюджетные изъятия</td>
-<td></td>
+<td>3800</td>
 </tr>
 <tr>
 <td></td>
@@ -3994,7 +4646,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/rus/19.04.2022
 <td></td>
 <td>051</td>
 <td>Целевые текущие трансферты из нижестоящего бюджета на компенсацию потерь вышестоящего бюджета в связи с изменением законодательства</td>
-<td>0</td>
+<td>3800</td>
 </tr>
 <tr>
 <td></td>
@@ -4206,7 +4858,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/rus/19.04.2022
 <td></td>
 <td></td>
 <td>Используемые остатки бюджетных средств</td>
-<td>0</td>
+<td>538</td>
 </tr>
 <tr>
 <td>8</td>
@@ -4214,7 +4866,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/rus/19.04.2022
 <td></td>
 <td></td>
 <td>Используемые остатки бюджетных средств</td>
-<td>0</td>
+<td>538</td>
 </tr>
 <tr>
 <td></td>
@@ -4222,7 +4874,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/rus/19.04.2022
 <td></td>
 <td></td>
 <td>Остатки бюджетных средств</td>
-<td>0</td>
+<td>538</td>
 </tr>
 <tr>
 <td></td>
@@ -4230,7 +4882,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/rus/19.04.2022
 <td>1</td>
 <td></td>
 <td>Свободные остатки бюджетных средств</td>
-<td>0</td>
+<td>538</td>
 </tr>
 <tr>
 <td></td>
@@ -4238,615 +4890,6 @@ source: https://zan.gov.kz/client/#!/doc/163814/rus/19.04.2022
 <td></td>
 <td>01</td>
 <td>Свободные остатки бюджетных средств</td>
-<td>0</td>
-</tr>
-</table>
-
-> *Приложение 17 к решению*  
-> *маслихата района Байдибек*  
-> *от 29 декабря 2021 года*  
-> *№13/85*
-
-## Бюджет сельского округа Боген на 2023 год
-
-<table>
-<tr>
-<td>Категория</td>
-<td>Класс</td>
-<td colspan="2">Подкласс</td>
-<td>Наименование</td>
-<td>Сумма, тысяч тенге</td>
-</tr>
-<tr>
-<td colspan="4">1</td>
-<td>2</td>
-<td>3</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td>1. Доходы</td>
-<td>44602</td>
-</tr>
-<tr>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td>Налоговые поступления</td>
-<td>10566</td>
-</tr>
-<tr>
-<td></td>
-<td>01</td>
-<td></td>
-<td></td>
-<td>Подоходный налог</td>
-<td>1950</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>2</td>
-<td></td>
-<td>Индивидуальный подоходный налог</td>
-<td>1950</td>
-</tr>
-<tr>
-<td></td>
-<td>04</td>
-<td></td>
-<td></td>
-<td>Hалоги на собственность</td>
-<td>8069</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>1</td>
-<td></td>
-<td>Hалоги на имущество</td>
-<td>596</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>3</td>
-<td></td>
-<td>Земельный налог</td>
-<td>291</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>4</td>
-<td></td>
-<td>Hалог на транспортные средства</td>
-<td>6892</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>5</td>
-<td></td>
-<td>Единый земельный налог</td>
-<td>290</td>
-</tr>
-<tr>
-<td></td>
-<td>05</td>
-<td></td>
-<td></td>
-<td>Внутренние налоги на товары, работы и услуги</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>3</td>
-<td></td>
-<td>Налога за использование земельных участков</td>
-<td>547</td>
-</tr>
-<tr>
-<td>2</td>
-<td></td>
-<td></td>
-<td></td>
-<td>Неналоговые поступления</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>01</td>
-<td></td>
-<td></td>
-<td>Доходы от государственной собственности</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>5</td>
-<td></td>
-<td>Доходы от аренды имущества, находящегося в государственной собственности</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>04</td>
-<td></td>
-<td></td>
-<td>Штрафы, пени, санкции, взыскания, налагаемые государственными учреждениями, финансируемыми из государственного бюджета, а также содержащимися и финансируемыми из бюджета (сметы расходов) Национального Банка Республики Казахстан</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>1</td>
-<td></td>
-<td>Штрафы, пени, санкции, взыскания, налагаемые государственными учреждениями, финансируемыми из государственного бюджета, а также содержащимися и финансируемыми из бюджета (сметы расходов) Национального Банка Республики Казахстан, за исключением поступлений от организаций нефтяного сектора</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>06</td>
-<td></td>
-<td></td>
-<td>Прочие неналоговые поступления</td>
-<td>85</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>01</td>
-<td></td>
-<td>Прочие неналоговые поступления</td>
-<td>85</td>
-</tr>
-<tr>
-<td>3</td>
-<td></td>
-<td></td>
-<td></td>
-<td>Поступления от продажи основного капитала</td>
-<td>314</td>
-</tr>
-<tr>
-<td>4</td>
-<td></td>
-<td></td>
-<td></td>
-<td>Поступления трансфертов</td>
-<td>33637</td>
-</tr>
-<tr>
-<td></td>
-<td>02</td>
-<td></td>
-<td></td>
-<td>Трансферты из вышестоящих органов государственного управления</td>
-<td>33637</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>3</td>
-<td></td>
-<td>Трансферты из районного (города областного значения) бюджета</td>
-<td>33637</td>
-</tr>
-<tr>
-<td colspan="5">Функциональная группа</td>
-<td rowspan="4">Сумма, тысяч тенге</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="4">Функциональная подпрограмма</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td colspan="3">Администратор бюджетных программ</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2">Программа</td>
-</tr>
-<tr>
-<td colspan="4">1</td>
-<td>2</td>
-<td>3</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>2. ЗАТРАТЫ</td>
-<td>44602</td>
-</tr>
-<tr>
-<td>01</td>
-<td></td>
-<td></td>
-<td></td>
-<td>Государственные услуги общего характера</td>
-<td>42893</td>
-</tr>
-<tr>
-<td></td>
-<td>1</td>
-<td></td>
-<td></td>
-<td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>42893</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>124</td>
-<td></td>
-<td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>42893</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>001</td>
-<td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>42893</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>022</td>
-<td>Капитальные расходы государственного органа</td>
-<td>0</td>
-</tr>
-<tr>
-<td>07</td>
-<td></td>
-<td></td>
-<td></td>
-<td>Жилищно-коммунальное хозяйство</td>
-<td>1709</td>
-</tr>
-<tr>
-<td></td>
-<td>3</td>
-<td></td>
-<td></td>
-<td>Благоустройство населенных пунктов</td>
-<td>1709</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>124</td>
-<td></td>
-<td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>1709</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>008</td>
-<td>Освещение улиц населенных пунктов</td>
-<td>482</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>009</td>
-<td>Обеспечение санитарии населенных пунктов</td>
-<td>611</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>010</td>
-<td>Содержание мест захоронений и погребение безродных</td>
-<td>0</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>011</td>
-<td>Благоустройство и озеленение населенных пунктов</td>
-<td>616</td>
-</tr>
-<tr>
-<td>15</td>
-<td></td>
-<td></td>
-<td></td>
-<td>Трансферты</td>
-<td>0</td>
-</tr>
-<tr>
-<td></td>
-<td>1</td>
-<td></td>
-<td></td>
-<td>Трансферты</td>
-<td>0</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>124</td>
-<td></td>
-<td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>0</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>043</td>
-<td>Бюджетные изъятия</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>051</td>
-<td>Целевые текущие трансферты из нижестоящего бюджета на компенсацию потерь вышестоящего бюджета в связи с изменением законодательства</td>
-<td>0</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>3. Чистое бюджетное кредитование</td>
-<td>0</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Бюджетные кредиты</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="5">Категория</td>
-<td rowspan="4">Сумма, тысяч тенге</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="4">Класс</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td colspan="3">Подкласс</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2">Специфика</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Погашение бюджетных кредитов</td>
-<td>0</td>
-</tr>
-<tr>
-<td>5</td>
-<td></td>
-<td></td>
-<td></td>
-<td>Погашение бюджетных кредитов</td>
-<td>0</td>
-</tr>
-<tr>
-<td></td>
-<td>01</td>
-<td></td>
-<td></td>
-<td>Погашение бюджетных кредитов</td>
-<td>0</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>1</td>
-<td></td>
-<td>Погашение бюджетных кредитов, выданных из государственного бюджета</td>
-<td>0</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>4. Сальдо по операциям с финансовыми активами</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="5">Категория</td>
-<td rowspan="4">Сумма, тысяч тенге</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="4">Класс</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td colspan="3">Подкласс</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2">Специфика</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Приобретение финансовых активов</td>
-<td>0</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Поступление от продажи финансовых активов государства</td>
-<td>0</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>5. Дефицит бюджета</td>
-<td>0</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>6. Финансирование дефицита бюджета</td>
-<td>0</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Поступление займов</td>
-<td>0</td>
-</tr>
-<tr>
-<td>7</td>
-<td></td>
-<td></td>
-<td></td>
-<td>Поступление займов</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="5">Функциональная группа</td>
-<td rowspan="4">Сумма, тысяч тенге</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="4">Функциональная подпрограмма</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td colspan="3">Администратор бюджетных программ</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2">Программа</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Погашение займов</td>
-<td>0</td>
-</tr>
-<tr>
-<td>16</td>
-<td></td>
-<td></td>
-<td></td>
-<td>Погашение займов</td>
-<td>0</td>
-</tr>
-<tr>
-<td></td>
-<td>1</td>
-<td></td>
-<td></td>
-<td>Погашение займов</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="5">Категория</td>
-<td rowspan="4">Сумма, тысяч тенге</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="4">Класс</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td colspan="3">Подкласс</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2">Специфика</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Используемые остатки бюджетных средств</td>
-<td>0</td>
-</tr>
-<tr>
-<td>8</td>
-<td></td>
-<td></td>
-<td></td>
-<td>Используемые остатки бюджетных средств</td>
-<td>0</td>
-</tr>
-<tr>
-<td></td>
-<td>01</td>
-<td></td>
-<td></td>
-<td>Остатки бюджетных средств</td>
-<td>0</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>1</td>
-<td></td>
-<td>Свободные остатки бюджетных средств</td>
-<td>0</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>01</td>
-<td>Свободные остатки бюджетных средств</td>
-<td>0</td>
+<td>538</td>
 </tr>
 </table>
