@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/161985/kaz/06.05.2022
+source: https://zan.gov.kz/client/#!/doc/161985/kaz/14.09.2022
 ---
 
 > *Түркістан облыстық*  
