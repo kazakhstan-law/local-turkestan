@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/162512/kaz/20.05.2022
+source: https://zan.gov.kz/client/#!/doc/162512/kaz/28.09.2022
 ---
 
 > *Мақтаарал аудандық мәслихатының*  
