@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/163189/rus/02.06.2022
+source: https://zan.gov.kz/client/#!/doc/163189/rus/30.09.2022
 ---
 
 > *Приложение 21 к решению*  
@@ -526,12 +526,12 @@ source: https://zan.gov.kz/client/#!/doc/163189/rus/02.06.2022
 </table>
 
 > *Приложение 22 к решению*  
-> *Созакского районого маслихата*  
+> *Созакского районогомаслихата*  
 > *от 28 декабря 2021 года №74*
 
 ## Бюджет сельского округа Шолаккорган на 2022 год
 
-> *Сноска. Приложение 22 в редакции решений Созакского районного маслихата Туркестанской области от 30.09.2022 № 131 (вводится в действие с 01.01.2022); от 02.06.2022 № 107 (вводится в действие с 01.01.2022).*
+> *Сноска. Приложение 22 в редакции решения Созакского районного маслихата Туркестанской области от 30.09.2022 № 131 (вводится в действие с 01.01.2022).*
 
 <table>
 <tr>
@@ -591,7 +591,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/rus/02.06.2022
 <td colspan="3"></td>
 <td colspan="5">1</td>
 <td>Hалоги на имущество</td>
-<td>2 115</td>
+<td>1 145</td>
 </tr>
 <tr>
 <td colspan="5"></td>
@@ -607,7 +607,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/rus/02.06.2022
 <td colspan="3"></td>
 <td colspan="5">4</td>
 <td>Hалог на транспортные средства</td>
-<td>46 600</td>
+<td>47570</td>
 </tr>
 <tr>
 <td colspan="5"></td>
@@ -706,7 +706,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/rus/02.06.2022
 <td>136 928</td>
 </tr>
 <tr>
-<td colspan="17">Функциональная группа Наименование</td>
+<td colspan="17">Функциональная группаНаименование</td>
 <td rowspan="4">Сумма, тысяч тенге</td>
 </tr>
 <tr>
@@ -738,7 +738,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/rus/02.06.2022
 <td colspan="5"></td>
 <td colspan="3"></td>
 <td>Государственные услуги общего характера</td>
-<td>138 304</td>
+<td>139 288</td>
 </tr>
 <tr>
 <td colspan="5"></td>
@@ -746,7 +746,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/rus/02.06.2022
 <td colspan="5"></td>
 <td colspan="3"></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>138 304</td>
+<td>139 288</td>
 </tr>
 <tr>
 <td colspan="5"></td>
@@ -754,7 +754,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/rus/02.06.2022
 <td colspan="5">124</td>
 <td colspan="3"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>138 304</td>
+<td>139 288</td>
 </tr>
 <tr>
 <td colspan="5"></td>
@@ -762,7 +762,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/rus/02.06.2022
 <td colspan="5"></td>
 <td colspan="3">001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>125 989</td>
+<td>129 283</td>
 </tr>
 <tr>
 <td colspan="5"></td>
@@ -770,7 +770,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/rus/02.06.2022
 <td colspan="5"></td>
 <td colspan="3">022</td>
 <td>Капитальныые расходы государственных органов</td>
-<td>12 315</td>
+<td>10 005</td>
 </tr>
 <tr>
 <td colspan="5">07</td>
@@ -778,7 +778,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/rus/02.06.2022
 <td colspan="5"></td>
 <td colspan="3"></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>76 270</td>
+<td>75 286</td>
 </tr>
 <tr>
 <td colspan="5"></td>
@@ -786,7 +786,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/rus/02.06.2022
 <td colspan="5"></td>
 <td colspan="3"></td>
 <td>Благоустройство населенных пунктов</td>
-<td>76 270</td>
+<td>75 286</td>
 </tr>
 <tr>
 <td colspan="4"></td>
@@ -794,7 +794,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/rus/02.06.2022
 <td colspan="5">124</td>
 <td colspan="3"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>76 270</td>
+<td>75 286</td>
 </tr>
 <tr>
 <td colspan="4"></td>
@@ -810,7 +810,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/rus/02.06.2022
 <td colspan="5"></td>
 <td colspan="3">011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td>20 290</td>
+<td>19 306</td>
 </tr>
 <tr>
 <td colspan="4">08</td>
@@ -975,7 +975,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/rus/02.06.2022
 <td>0</td>
 </tr>
 <tr>
-<td colspan="17">Категория Наименование</td>
+<td colspan="17">КатегорияНаименование</td>
 <td rowspan="4">Сумма, тысяч тенге</td>
 </tr>
 <tr>
@@ -2159,12 +2159,11 @@ source: https://zan.gov.kz/client/#!/doc/163189/rus/02.06.2022
 </table>
 
 > *Приложение 25 к решению*  
-> *Созакского районого маслихата*  
-> *от 28 декабря 2021 года №74*
+> *Созакского районного*  
+> *маслихата от 28 декабря*  
+> *2021 года №74*
 
 ## Бюджет сельского округа Шу на 2022 год
-
-> *Сноска. Приложение 25 в редакции решения Созакского районного маслихата Туркестанской области от 02.06.2022 № 107 (вводится в действие с 01.01.2022).*
 
 <table>
 <tr>
@@ -2299,7 +2298,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/rus/02.06.2022
 <td colspan="4"></td>
 <td colspan="4"></td>
 <td>2. Затраты</td>
-<td>52 734</td>
+<td>52 710</td>
 </tr>
 <tr>
 <td colspan="4">01</td>
@@ -2307,7 +2306,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/rus/02.06.2022
 <td colspan="4"></td>
 <td colspan="4"></td>
 <td>Государственные услуги общего характера</td>
-<td>44 472</td>
+<td>44 448</td>
 </tr>
 <tr>
 <td colspan="4"></td>
@@ -2315,7 +2314,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/rus/02.06.2022
 <td colspan="4"></td>
 <td colspan="4"></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>44 472</td>
+<td>44 448</td>
 </tr>
 <tr>
 <td colspan="4"></td>
@@ -2323,7 +2322,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/rus/02.06.2022
 <td colspan="4">124</td>
 <td colspan="4"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>44 472</td>
+<td>44 448</td>
 </tr>
 <tr>
 <td colspan="4"></td>
@@ -2331,7 +2330,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/rus/02.06.2022
 <td colspan="4"></td>
 <td colspan="4">001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>37 172</td>
+<td>37 148</td>
 </tr>
 <tr>
 <td colspan="4"></td>
@@ -2522,7 +2521,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/rus/02.06.2022
 <td colspan="3"></td>
 <td colspan="4"></td>
 <td colspan="2">5. Дефицит (профицит) бюджета</td>
-<td>-24</td>
+<td>0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2530,7 +2529,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/rus/02.06.2022
 <td colspan="3"></td>
 <td colspan="4"></td>
 <td colspan="2">6. Финансирование дефицита (использование профицита) бюджета</td>
-<td>24</td>
+<td>0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2610,7 +2609,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/rus/02.06.2022
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">Используемые остатки бюджетных средств</td>
-<td>24</td>
+<td>0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2618,7 +2617,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/rus/02.06.2022
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">Остатки бюджетных средств</td>
-<td>24</td>
+<td>0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2626,7 +2625,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/rus/02.06.2022
 <td colspan="2">1</td>
 <td colspan="3"></td>
 <td colspan="3">Свободные остатки бюджетных средств</td>
-<td>24</td>
+<td>0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2634,7 +2633,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/rus/02.06.2022
 <td colspan="2"></td>
 <td colspan="3">01</td>
 <td colspan="3">Свободные остатки бюджетных средств</td>
-<td>24</td>
+<td>0</td>
 </tr>
 </table>
 
@@ -3594,7 +3593,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/rus/02.06.2022
 
 ## Бюджет поселка Кыземшек на 2022 год
 
-> *Сноска. Приложение 28 в редакции решений Созакского районного маслихата Туркестанской области от 30.09.2022 № 131 (вводится в действие с 01.01.2022); от 02.06.2022 № 107 (вводится в действие с 01.01.2022).*
+> *Сноска. Приложение 28 в редакции решения Созакского районного маслихата Туркестанской области от 30.09.2022 № 131 (вводится в действие с 01.01.2022).*
 
 <table>
 <tr>
@@ -3662,7 +3661,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/rus/02.06.2022
 <td colspan="3">04</td>
 <td colspan="5"></td>
 <td>Hалоги на собственность</td>
-<td>21 450</td>
+<td>21 475</td>
 </tr>
 <tr>
 <td colspan="4"></td>
@@ -3670,7 +3669,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/rus/02.06.2022
 <td colspan="3"></td>
 <td colspan="5">1</td>
 <td>Hалоги на имущество</td>
-<td>250</td>
+<td>96</td>
 </tr>
 <tr>
 <td colspan="4"></td>
@@ -3686,7 +3685,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/rus/02.06.2022
 <td colspan="3"></td>
 <td colspan="5">4</td>
 <td>Hалог на транспортные средства</td>
-<td>21 200</td>
+<td>21 379</td>
 </tr>
 <tr>
 <td colspan="4"></td>
@@ -3694,7 +3693,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/rus/02.06.2022
 <td colspan="3">05</td>
 <td colspan="5"></td>
 <td>Внутренние налоги на товары, работы и услуги</td>
-<td>80</td>
+<td>55</td>
 </tr>
 <tr>
 <td colspan="4"></td>
@@ -3703,14 +3702,6 @@ source: https://zan.gov.kz/client/#!/doc/163189/rus/02.06.2022
 <td colspan="5">3</td>
 <td>Платежи за землепользование</td>
 <td>55</td>
-</tr>
-<tr>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="5">4</td>
-<td>Сборы за ведение предпринимательской и профессиональной деятельности</td>
-<td>25</td>
 </tr>
 <tr>
 <td colspan="4"></td>
@@ -3769,7 +3760,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/rus/02.06.2022
 <td>57 424</td>
 </tr>
 <tr>
-<td colspan="17">Функциональная группа Наименование</td>
+<td colspan="17">Функциональная группаНаименование</td>
 <td rowspan="4">Сумма, тысяч тенге</td>
 </tr>
 <tr>
@@ -3801,7 +3792,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/rus/02.06.2022
 <td colspan="7"></td>
 <td colspan="3"></td>
 <td>Государственные услуги общего характера</td>
-<td>56 868</td>
+<td>57 866</td>
 </tr>
 <tr>
 <td colspan="4"></td>
@@ -3809,7 +3800,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/rus/02.06.2022
 <td colspan="7"></td>
 <td colspan="3"></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>56 868</td>
+<td>57 866</td>
 </tr>
 <tr>
 <td colspan="4"></td>
@@ -3817,7 +3808,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/rus/02.06.2022
 <td colspan="7">124</td>
 <td colspan="3"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>56 868</td>
+<td>57 866</td>
 </tr>
 <tr>
 <td colspan="4"></td>
@@ -3825,7 +3816,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/rus/02.06.2022
 <td colspan="7"></td>
 <td colspan="3">001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>49 568</td>
+<td>51 045</td>
 </tr>
 <tr>
 <td colspan="4"></td>
@@ -3833,7 +3824,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/rus/02.06.2022
 <td colspan="7"></td>
 <td colspan="3">022</td>
 <td>Капительные расходы государственных органов</td>
-<td>7 300</td>
+<td>6 821</td>
 </tr>
 <tr>
 <td colspan="3">07</td>
@@ -3841,7 +3832,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/rus/02.06.2022
 <td colspan="7"></td>
 <td colspan="3"></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>25 262</td>
+<td>24 264</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -3849,7 +3840,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/rus/02.06.2022
 <td colspan="7"></td>
 <td colspan="3"></td>
 <td>Благоустройства населенных пунктов</td>
-<td>25 262</td>
+<td>24 264</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -3857,7 +3848,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/rus/02.06.2022
 <td colspan="7">124</td>
 <td colspan="3"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>25 262</td>
+<td>24 264</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -3881,7 +3872,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/rus/02.06.2022
 <td colspan="7"></td>
 <td colspan="3">011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td>25 262</td>
+<td>24 264</td>
 </tr>
 <tr>
 <td colspan="3">08</td>

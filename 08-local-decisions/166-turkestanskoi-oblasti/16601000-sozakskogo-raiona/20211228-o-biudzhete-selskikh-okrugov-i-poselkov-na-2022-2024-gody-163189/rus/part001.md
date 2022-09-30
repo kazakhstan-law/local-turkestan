@@ -1,19 +1,19 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/163189/rus/02.06.2022
+source: https://zan.gov.kz/client/#!/doc/163189/rus/30.09.2022
 ---
 
-> *Приложение 1 к решению*  
-> *Созакского районого маслихата*  
+> *Приложение 1к решению*  
+> *Созакского районогомаслихата*  
 > *от 28 декабря 2021 года №74*
 
 ## Бюджет сельского округа Жартытобе на 2022 год
 
-> *Сноска. Приложение 1 в редакции решений Созакского районного маслихата Туркестанской области от 30.09.2022 № 131 (вводится в действие с 01.01.2022); от 02.06.2022 № 107 (вводится в действие с 01.01.2022).*
+> *Сноска. Приложение 1 в редакции решения Созакского районного маслихата Туркестанской области от 30.09.2022 № 131 (вводится в действие с 01.01.2022).*
 
 <table>
 <tr>
-<td colspan="15">Категория Наименование</td>
+<td colspan="15">КатегорияНаименование</td>
 <td colspan="2" rowspan="4">Сумма, тысяч тенге</td>
 </tr>
 <tr>
@@ -44,7 +44,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/rus/02.06.2022
 <td colspan="6"></td>
 <td colspan="2"></td>
 <td colspan="3">1. Доходы</td>
-<td colspan="2">85 066</td>
+<td colspan="2">85 366</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -52,7 +52,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/rus/02.06.2022
 <td colspan="6"></td>
 <td colspan="2"></td>
 <td colspan="3">Налоговые поступления</td>
-<td colspan="2">4 510</td>
+<td colspan="2">4 810</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -60,7 +60,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/rus/02.06.2022
 <td colspan="6">04</td>
 <td colspan="2"></td>
 <td colspan="3">Hалоги на собственность</td>
-<td colspan="2">4 510</td>
+<td colspan="2">4 810</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -68,7 +68,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/rus/02.06.2022
 <td colspan="6"></td>
 <td colspan="2">1</td>
 <td colspan="3">Hалоги на имущество</td>
-<td colspan="2">280</td>
+<td colspan="2">160</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -76,7 +76,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/rus/02.06.2022
 <td colspan="6"></td>
 <td colspan="2">4</td>
 <td colspan="3">Hалог на транспортные средства</td>
-<td colspan="2">4 230</td>
+<td colspan="2">4 650</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -166,7 +166,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/rus/02.06.2022
 <td colspan="7"></td>
 <td colspan="2"></td>
 <td colspan="2">2. Затраты</td>
-<td colspan="2">86 263</td>
+<td colspan="2">86 563</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
@@ -174,7 +174,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/rus/02.06.2022
 <td colspan="7"></td>
 <td colspan="2"></td>
 <td colspan="2">Государственные услуги общего характера</td>
-<td colspan="2">64 449</td>
+<td colspan="2">64 749</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -182,7 +182,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/rus/02.06.2022
 <td colspan="7"></td>
 <td colspan="2"></td>
 <td colspan="2">Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td colspan="2">64 449</td>
+<td colspan="2">64 749</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -190,7 +190,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/rus/02.06.2022
 <td colspan="7">124</td>
 <td colspan="2"></td>
 <td colspan="2">Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">64 449</td>
+<td colspan="2">64 749</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -206,7 +206,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/rus/02.06.2022
 <td colspan="7"></td>
 <td colspan="2">022</td>
 <td colspan="2">Капитальные расходы государственного органа</td>
-<td colspan="2">1 197</td>
+<td colspan="2">1 497</td>
 </tr>
 <tr>
 <td colspan="2">07</td>
@@ -1534,12 +1534,12 @@ source: https://zan.gov.kz/client/#!/doc/163189/rus/02.06.2022
 </table>
 
 > *Приложение 4 к решению*  
-> *Созакского районого маслихата*  
+> *Созакского районогомаслихата*  
 > *от 28 декабря 2021 года №74*
 
 ## Бюджет сельского округа Жуантобе на 2022 год
 
-> *Сноска. Приложение 4 в редакции решений Созакского районного маслихата Туркестанской области от 30.09.2022 № 131 (вводится в действие с 01.01.2022); от 02.06.2022 № 107 (вводится в действие с 01.01.2022).*
+> *Сноска. Приложение 4 в редакции решения Созакского районного маслихата Туркестанской области от 30.09.2022 № 131 (вводится в действие с 01.01.2022).*
 
 <table>
 <tr>
@@ -1574,7 +1574,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/rus/02.06.2022
 <td></td>
 <td></td>
 <td>1. Доходы</td>
-<td>50 971</td>
+<td>52 116</td>
 </tr>
 <tr>
 <td colspan="4"></td>
@@ -1582,7 +1582,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/rus/02.06.2022
 <td></td>
 <td></td>
 <td>Налоговые поступления</td>
-<td>3 655</td>
+<td>4 800</td>
 </tr>
 <tr>
 <td colspan="4"></td>
@@ -1590,7 +1590,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/rus/02.06.2022
 <td>04</td>
 <td></td>
 <td>Hалоги на собственность</td>
-<td>3 655</td>
+<td>4 111</td>
 </tr>
 <tr>
 <td colspan="4"></td>
@@ -1598,7 +1598,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/rus/02.06.2022
 <td></td>
 <td>1</td>
 <td>Hалоги на имущество</td>
-<td>175</td>
+<td>15</td>
 </tr>
 <tr>
 <td colspan="4"></td>
@@ -1606,7 +1606,23 @@ source: https://zan.gov.kz/client/#!/doc/163189/rus/02.06.2022
 <td></td>
 <td>4</td>
 <td>Hалог на транспортные средства</td>
-<td>3 480</td>
+<td>4 096</td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td>05</td>
+<td></td>
+<td>Внутренние налоги на товары, работы и услуги</td>
+<td>689</td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td></td>
+<td>4</td>
+<td>Сборы за ведение предпринимательской и профессиональной деятельности</td>
+<td>689</td>
 </tr>
 <tr>
 <td colspan="4"></td>
@@ -1649,7 +1665,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/rus/02.06.2022
 <td>47 316</td>
 </tr>
 <tr>
-<td colspan="10">Функциональная группа Наименование</td>
+<td colspan="10">Функциональная группаНаименование</td>
 <td rowspan="4">Сумма, тысяч тенге</td>
 </tr>
 <tr>
@@ -1673,7 +1689,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/rus/02.06.2022
 <td></td>
 <td></td>
 <td>2. Затраты</td>
-<td>51 401</td>
+<td>52 546</td>
 </tr>
 <tr>
 <td colspan="4">01</td>
@@ -1681,7 +1697,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/rus/02.06.2022
 <td></td>
 <td></td>
 <td>Государственные услуги общего характера</td>
-<td>44 274</td>
+<td>45 419</td>
 </tr>
 <tr>
 <td colspan="4"></td>
@@ -1689,7 +1705,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/rus/02.06.2022
 <td></td>
 <td></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>44 274</td>
+<td>45 419</td>
 </tr>
 <tr>
 <td colspan="4"></td>
@@ -1697,7 +1713,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/rus/02.06.2022
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>44 274</td>
+<td>45 419</td>
 </tr>
 <tr>
 <td colspan="4"></td>
@@ -1705,7 +1721,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/rus/02.06.2022
 <td></td>
 <td>001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>44 274</td>
+<td>45 419</td>
 </tr>
 <tr>
 <td colspan="4">07</td>
@@ -2976,12 +2992,11 @@ source: https://zan.gov.kz/client/#!/doc/163189/rus/02.06.2022
 </table>
 
 > *Приложение 7 к решению*  
-> *Созакского районого маслихата*  
-> *от 28 декабря 2021 года №74*
+> *Созакского районного*  
+> *маслихата от 28 декабря*  
+> *2021 года №74*
 
 ## Бюджет сельского округа Каракур на 2022 год
-
-> *Сноска. Приложение 7 в редакции решения Созакского районного маслихата Туркестанской области от 02.06.2022 № 107 (вводится в действие с 01.01.2022).*
 
 <table>
 <tr>
@@ -3016,7 +3031,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/rus/02.06.2022
 <td colspan="3"></td>
 <td colspan="5"></td>
 <td>1. Доходы</td>
-<td>79 563</td>
+<td>51 769</td>
 </tr>
 <tr>
 <td colspan="5"></td>
@@ -3112,7 +3127,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/rus/02.06.2022
 <td colspan="3"></td>
 <td colspan="5"></td>
 <td>Поступления трансфертов</td>
-<td>72 925</td>
+<td>45 131</td>
 </tr>
 <tr>
 <td colspan="5"></td>
@@ -3120,7 +3135,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/rus/02.06.2022
 <td colspan="3">02</td>
 <td colspan="5"></td>
 <td>Трансферты из вышестоящих органов государственного управления</td>
-<td>72 925</td>
+<td>45 131</td>
 </tr>
 <tr>
 <td colspan="5"></td>
@@ -3128,7 +3143,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/rus/02.06.2022
 <td colspan="3"></td>
 <td colspan="5">3</td>
 <td>Трансферты из районного (города областного значения) бюджета</td>
-<td>72 925</td>
+<td>45 131</td>
 </tr>
 <tr>
 <td colspan="18">Функциональная группа Наименование</td>
@@ -3155,7 +3170,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/rus/02.06.2022
 <td colspan="7"></td>
 <td colspan="3"></td>
 <td>2. Затраты</td>
-<td>80 167</td>
+<td>51 769</td>
 </tr>
 <tr>
 <td colspan="5">01</td>
@@ -3163,7 +3178,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/rus/02.06.2022
 <td colspan="7"></td>
 <td colspan="3"></td>
 <td>Государственные услуги общего характера</td>
-<td>80 167</td>
+<td>50 969</td>
 </tr>
 <tr>
 <td colspan="5"></td>
@@ -3195,7 +3210,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/rus/02.06.2022
 <td colspan="7"></td>
 <td colspan="3"></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>28 998</td>
+<td>600</td>
 </tr>
 <tr>
 <td colspan="5"></td>
@@ -3203,7 +3218,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/rus/02.06.2022
 <td colspan="7"></td>
 <td colspan="3"></td>
 <td>Благоустройство населенных пунктов</td>
-<td>28 998</td>
+<td>600</td>
 </tr>
 <tr>
 <td colspan="5"></td>
@@ -3211,7 +3226,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/rus/02.06.2022
 <td colspan="7">124</td>
 <td colspan="3"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>28 998</td>
+<td>600</td>
 </tr>
 <tr>
 <td colspan="5"></td>
@@ -3219,7 +3234,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/rus/02.06.2022
 <td colspan="7"></td>
 <td colspan="3">008</td>
 <td>Освещение улиц в населенных пунктах</td>
-<td>28 398</td>
+<td>0</td>
 </tr>
 <tr>
 <td colspan="5"></td>
@@ -3373,7 +3388,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/rus/02.06.2022
 <td colspan="3"></td>
 <td colspan="4"></td>
 <td>5. Дефицит (профицит) бюджета</td>
-<td>-604</td>
+<td>0</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -3381,7 +3396,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/rus/02.06.2022
 <td colspan="3"></td>
 <td colspan="4"></td>
 <td>6. Финансирование дефицита (использование профицита) бюджета</td>
-<td>604</td>
+<td>0</td>
 </tr>
 <tr>
 <td colspan="3">7</td>
@@ -3451,7 +3466,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/rus/02.06.2022
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="2">Используемые остатки бюджетных средств</td>
-<td>604</td>
+<td>0</td>
 </tr>
 <tr>
 <td></td>
@@ -3459,7 +3474,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/rus/02.06.2022
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="2">Остатки бюджетных средств</td>
-<td>604</td>
+<td>0</td>
 </tr>
 <tr>
 <td></td>
@@ -3467,7 +3482,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/rus/02.06.2022
 <td colspan="3">1</td>
 <td colspan="3"></td>
 <td colspan="2">Свободные остатки бюджетных средств</td>
-<td>604</td>
+<td>0</td>
 </tr>
 <tr>
 <td></td>
@@ -3475,7 +3490,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/rus/02.06.2022
 <td colspan="3"></td>
 <td colspan="3">01</td>
 <td colspan="2">Свободные остатки бюджетных средств</td>
-<td>604</td>
+<td>0</td>
 </tr>
 </table>
 
@@ -4515,12 +4530,12 @@ source: https://zan.gov.kz/client/#!/doc/163189/rus/02.06.2022
 </table>
 
 > *Приложение 10 к решению*  
-> *Созакского районого маслихата*  
+> *Созакского районогомаслихата*  
 > *от 28 декабря 2021 года №74*
 
 ## Бюджет сельского округа Каратау на 2022 год
 
-> *Сноска. Приложение 10 в редакции решений Созакского районного маслихата Туркестанской области от 30.09.2022 № 131 (вводится в действие с 01.01.2022); от 02.06.2022 № 107 (вводится в действие с 01.01.2022).*
+> *Сноска. Приложение 10 в редакции решения Созакского районного маслихата Туркестанской области от 30.09.2022 № 131 (вводится в действие с 01.01.2022).*
 
 <table>
 <tr>
@@ -4556,7 +4571,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/rus/02.06.2022
 <td colspan="3"></td>
 <td colspan="4"></td>
 <td>1. Доходы</td>
-<td>58 875</td>
+<td>59 591</td>
 </tr>
 <tr>
 <td colspan="5"></td>
@@ -4564,7 +4579,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/rus/02.06.2022
 <td colspan="3"></td>
 <td colspan="4"></td>
 <td>Налоговые поступления</td>
-<td>35 423</td>
+<td>36 139</td>
 </tr>
 <tr>
 <td colspan="5"></td>
@@ -4572,7 +4587,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/rus/02.06.2022
 <td colspan="3">04</td>
 <td colspan="4"></td>
 <td>Hалоги на собственность</td>
-<td>28 008</td>
+<td>27 943</td>
 </tr>
 <tr>
 <td colspan="5"></td>
@@ -4580,7 +4595,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/rus/02.06.2022
 <td colspan="3"></td>
 <td colspan="4">1</td>
 <td>Hалоги на имущество</td>
-<td>155</td>
+<td>90</td>
 </tr>
 <tr>
 <td colspan="5"></td>
@@ -4604,15 +4619,15 @@ source: https://zan.gov.kz/client/#!/doc/163189/rus/02.06.2022
 <td colspan="3">05</td>
 <td colspan="4"></td>
 <td>Внутренние налоги на товары, работы и услуги</td>
-<td>7 415</td>
+<td>8196</td>
 </tr>
 <tr>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="3"></td>
-<td colspan="4">4</td>
+<td colspan="4">3</td>
 <td>Сборы за ведение предпринимательской и профессиональной деятельности</td>
-<td>7 415</td>
+<td>8196</td>
 </tr>
 <tr>
 <td colspan="5"></td>
@@ -4655,7 +4670,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/rus/02.06.2022
 <td>23 452</td>
 </tr>
 <tr>
-<td colspan="17">Функциональная группа Наименование</td>
+<td colspan="17">Функциональная группаНаименование</td>
 <td rowspan="4">Сумма, тысяч тенге</td>
 </tr>
 <tr>
@@ -4679,7 +4694,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/rus/02.06.2022
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td>2. Затраты</td>
-<td>59 946</td>
+<td>60 662</td>
 </tr>
 <tr>
 <td colspan="5">01</td>
@@ -4687,7 +4702,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/rus/02.06.2022
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td>Государственные услуги общего характера</td>
-<td>49 534</td>
+<td>50 250</td>
 </tr>
 <tr>
 <td colspan="5"></td>
@@ -4695,7 +4710,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/rus/02.06.2022
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>49 534</td>
+<td>50 250</td>
 </tr>
 <tr>
 <td colspan="5"></td>
@@ -4703,7 +4718,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/rus/02.06.2022
 <td colspan="5">124</td>
 <td colspan="4"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>49 534</td>
+<td>50 250</td>
 </tr>
 <tr>
 <td colspan="5"></td>
@@ -4711,7 +4726,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/rus/02.06.2022
 <td colspan="5"></td>
 <td colspan="4">001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>49 534</td>
+<td>50 250</td>
 </tr>
 <tr>
 <td colspan="5">07</td>
@@ -4743,7 +4758,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/rus/02.06.2022
 <td colspan="5"></td>
 <td colspan="4">008</td>
 <td>Освещение улиц в населенных пунктах</td>
-<td>9 612</td>
+<td>9612</td>
 </tr>
 <tr>
 <td colspan="4"></td>
