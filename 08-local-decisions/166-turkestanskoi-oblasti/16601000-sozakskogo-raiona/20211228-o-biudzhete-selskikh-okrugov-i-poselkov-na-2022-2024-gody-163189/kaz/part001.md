@@ -1,15 +1,15 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/163189/kaz/30.09.2022
+source: https://zan.gov.kz/client/#!/doc/163189/kaz/23.11.2022
 ---
 
 > *Созақ аудандық мәслихатының*  
-> *2021 жылғы 28 желтоқсан*  
+> *2021 жылғы 28 желтоқсандағы*  
 > *№74 шешіміне 1 қосымша*
 
 ## Жартытөбе ауылдық округінің 2022 жылға арналған бюджеті
 
-> *Ескерту. 1-қосымша жаңа редакцияда - Түркістан облысы Созақ аудандық мәслихатының 30.09.2022 № 131 (01.01.2022 бастап қолданысқа енгізіледі) шешiмiмен.*
+## Ескерту. 1-қосымша жаңа редакцияда - Түркістан облысы Созақ аудандық мәслихатының 30.09.2022 № 131 (01.01.2022 бастап қолданысқа енгізіледі); 02.06.2022 № 107 (01.01.2022 бастап қолданысқа енгізіледі) шешiмдерiмен.
 
 <table>
 <tr>
@@ -35,7 +35,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/kaz/30.09.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2">1. Кірістер</td>
-<td>85 366</td>
+<td>85 066</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -43,7 +43,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/kaz/30.09.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2">Салықтық түсімдер</td>
-<td>4 810</td>
+<td>4 510</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -51,7 +51,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/kaz/30.09.2022
 <td colspan="3">04</td>
 <td colspan="2"></td>
 <td colspan="2">Меншiкке салынатын салықтар</td>
-<td>4 810</td>
+<td>4 510</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -59,7 +59,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/kaz/30.09.2022
 <td colspan="3"></td>
 <td colspan="2">1</td>
 <td colspan="2">Мүлiкке салынатын салықтар</td>
-<td>160</td>
+<td>280</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -67,7 +67,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/kaz/30.09.2022
 <td colspan="3"></td>
 <td colspan="2">4</td>
 <td colspan="2">Көлiк құралдарына салынатын салық</td>
-<td>4 650</td>
+<td>4 230</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -150,7 +150,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/kaz/30.09.2022
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td>2. Шығындар</td>
-<td>86 563</td>
+<td>86 263</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
@@ -158,7 +158,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/kaz/30.09.2022
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>64 749</td>
+<td>64 449</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -166,7 +166,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/kaz/30.09.2022
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>64 749</td>
+<td>64 449</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -174,7 +174,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/kaz/30.09.2022
 <td colspan="3">124</td>
 <td colspan="3"></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>64 749</td>
+<td>64 449</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -190,7 +190,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/kaz/30.09.2022
 <td colspan="3"></td>
 <td colspan="3">022</td>
 <td>Мемлекеттік органның күрделі шығыстары</td>
-<td>1 497</td>
+<td>1 197</td>
 </tr>
 <tr>
 <td colspan="2">07</td>
@@ -238,7 +238,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/kaz/30.09.2022
 <td colspan="3"></td>
 <td colspan="3">011</td>
 <td>Елді мекендерді абаттандыру мен көгалдандыру</td>
-<td>5657</td>
+<td>5 657</td>
 </tr>
 <tr>
 <td colspan="2">08</td>
@@ -1504,12 +1504,12 @@ source: https://zan.gov.kz/client/#!/doc/163189/kaz/30.09.2022
 </table>
 
 > *Созақ аудандық мәслихатының*  
-> *2021 жылғы 28 желтоқсан*  
+> *2021 жылғы 28 желтоқсандағы*  
 > *№74 шешіміне 4 қосымша*
 
 ## Жуантөбе ауылдық округінің 2022 жылға арналған бюджеті
 
-> *Ескерту. 4-қосымша жаңа редакцияда - Түркістан облысы Созақ аудандық мәслихатының 30.09.2022 № 131 (01.01.2022 бастап қолданысқа енгізіледі) шешiмiмен.*
+> *Ескерту. 4-қосымша жаңа редакцияда - Түркістан облысы Созақ аудандық мәслихатының 30.09.2022 № 131 (01.01.2022 бастап қолданысқа енгізіледі); 02.06.2022 № 107 (01.01.2022 бастап қолданысқа енгізіледі) шешiмдерiмен.*
 
 <table>
 <tr>
@@ -1535,7 +1535,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/kaz/30.09.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2">1. Кірістер</td>
-<td>52 116</td>
+<td>50 971</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1543,7 +1543,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/kaz/30.09.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2">Салықтық түсімдер</td>
-<td>4 800</td>
+<td>3 655</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1551,7 +1551,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/kaz/30.09.2022
 <td colspan="3">04</td>
 <td colspan="2"></td>
 <td colspan="2">Меншiкке салынатын салықтар</td>
-<td>4 111</td>
+<td>3 655</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1559,7 +1559,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/kaz/30.09.2022
 <td colspan="3"></td>
 <td colspan="2">1</td>
 <td colspan="2">Мүлiкке салынатын салықтар</td>
-<td>15</td>
+<td>175</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1567,23 +1567,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/kaz/30.09.2022
 <td colspan="3"></td>
 <td colspan="2">4</td>
 <td colspan="2">Көлiк құралдарына салынатын салық</td>
-<td>4 096</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3">05</td>
-<td colspan="2"></td>
-<td colspan="2">Тауарларға, жұмыстарға және қызметтерге салынатын ішкі салықтар</td>
-<td>689</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="2">3</td>
-<td colspan="2">Табиғи және басқа да ресурстарды пайдаланғаны үшін түсетін түсімдер</td>
-<td>689</td>
+<td>3 480</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1650,7 +1634,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/kaz/30.09.2022
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td>2. Шығындар</td>
-<td>52 546</td>
+<td>51 401</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
@@ -1658,7 +1642,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/kaz/30.09.2022
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>45 419</td>
+<td>44 274</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1666,7 +1650,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/kaz/30.09.2022
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>45 419</td>
+<td>44 274</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1674,7 +1658,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/kaz/30.09.2022
 <td colspan="3">124</td>
 <td colspan="3"></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>45 419</td>
+<td>44 274</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1682,7 +1666,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/kaz/30.09.2022
 <td colspan="3"></td>
 <td colspan="3">001</td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>45 419</td>
+<td>44 274</td>
 </tr>
 <tr>
 <td colspan="2">07</td>
@@ -1714,7 +1698,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/kaz/30.09.2022
 <td colspan="3"></td>
 <td colspan="3">008</td>
 <td>Елді мекендердегі көшелерді жарықтандыру</td>
-<td>6 327</td>
+<td>6327</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2937,6 +2921,8 @@ source: https://zan.gov.kz/client/#!/doc/163189/kaz/30.09.2022
 
 ## Қарақұр ауылдық округінің 2022 жылға арналған бюджеті
 
+> *Ескерту. 7-қосымша жаңа редакцияда - Түркістан облысы Созақ аудандық мәслихатының 30.09.2022 № 131 (01.01.2022 бастап қолданысқа енгізіледі); 02.06.2022 № 107 (01.01.2022 бастап қолданысқа енгізіледі) шешiмдерiмен.*
+
 <table>
 <tr>
 <td colspan="10">Санаты Атауы</td>
@@ -2961,7 +2947,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/kaz/30.09.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2">1. Кірістер</td>
-<td>51 769</td>
+<td>79 563</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3057,7 +3043,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/kaz/30.09.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2">Трансферттердің түсімдері</td>
-<td>45 131</td>
+<td>72 925</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3065,7 +3051,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/kaz/30.09.2022
 <td colspan="3">02</td>
 <td colspan="2"></td>
 <td colspan="2">Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td>45 131</td>
+<td>72 925</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3073,7 +3059,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/kaz/30.09.2022
 <td colspan="3"></td>
 <td colspan="2">3</td>
 <td colspan="2">Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td>45 131</td>
+<td>72 925</td>
 </tr>
 <tr>
 <td colspan="10">Функционалдық топ Атауы</td>
@@ -3100,7 +3086,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/kaz/30.09.2022
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td>2. Шығындар</td>
-<td>51 769</td>
+<td>80 167</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
@@ -3108,7 +3094,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/kaz/30.09.2022
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>50 969</td>
+<td>80 167</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3140,7 +3126,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/kaz/30.09.2022
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>600</td>
+<td>28 998</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3148,7 +3134,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/kaz/30.09.2022
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td>Елді-мекендерді көркейту</td>
-<td>600</td>
+<td>28 998</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3156,7 +3142,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/kaz/30.09.2022
 <td colspan="3">124</td>
 <td colspan="3"></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>600</td>
+<td>28 998</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3164,7 +3150,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/kaz/30.09.2022
 <td colspan="3"></td>
 <td colspan="3">008</td>
 <td>Елді мекендердегі көшелерді жарықтандыру</td>
-<td>0</td>
+<td>28 398</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3318,7 +3304,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/kaz/30.09.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2">5. Бюджет тапшылығы (профициті)</td>
-<td>0</td>
+<td>-604</td>
 </tr>
 <tr>
 <td></td>
@@ -3326,7 +3312,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/kaz/30.09.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2">6. Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
-<td>0</td>
+<td>604</td>
 </tr>
 <tr>
 <td>7</td>
@@ -3397,7 +3383,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/kaz/30.09.2022
 <td colspan="4"></td>
 <td></td>
 <td colspan="2">Бюджет қаражатының пайдаланылатын қалдықтары</td>
-<td>0</td>
+<td>604</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3405,7 +3391,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/kaz/30.09.2022
 <td colspan="4"></td>
 <td></td>
 <td colspan="2">Бюджет қаражаты қалдықтары</td>
-<td>0</td>
+<td>604</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3413,7 +3399,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/kaz/30.09.2022
 <td colspan="4">1</td>
 <td></td>
 <td colspan="2">Бюджет қаражатының бос қалдықтары</td>
-<td>0</td>
+<td>604</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3421,7 +3407,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/kaz/30.09.2022
 <td colspan="4"></td>
 <td>01</td>
 <td colspan="2">Бюджет қаражатының бос қалдықтары</td>
-<td>0</td>
+<td>604</td>
 </tr>
 </table>
 
@@ -4446,12 +4432,12 @@ source: https://zan.gov.kz/client/#!/doc/163189/kaz/30.09.2022
 </table>
 
 > *Созақ аудандық мәслихатының*  
-> *2021 жылғы 28 желтоқсан*  
-> *№74шешіміне 10 қосымша*
+> *2021 жылғы 28 желтоқсандағы*  
+> *№74 шешіміне 10 қосымша*
 
 ## Қаратау ауылдық округінің 2022 жылға арналған бюджеті
 
-> *Ескерту. 10-қосымша жаңа редакцияда - Түркістан облысы Созақ аудандық мәслихатының 30.09.2022 № 131 (01.01.2022 бастап қолданысқа енгізіледі) шешiмiмен.*
+> *Ескерту. 10-қосымша жаңа редакцияда - Түркістан облысы Созақ аудандық мәслихатының 30.09.2022 № 131 (01.01.2022 бастап қолданысқа енгізіледі); 02.06.2022 № 107 (01.01.2022 бастап қолданысқа енгізіледі) шешiмдерiмен.*
 
 <table>
 <tr>
@@ -4477,7 +4463,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/kaz/30.09.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2">1. Кірістер</td>
-<td>59 591</td>
+<td>58 875</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -4485,7 +4471,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/kaz/30.09.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2">Салықтық түсімдер</td>
-<td>36 139</td>
+<td>35 423</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -4493,7 +4479,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/kaz/30.09.2022
 <td colspan="3">04</td>
 <td colspan="2"></td>
 <td colspan="2">Меншiкке салынатын салықтар</td>
-<td>27 943</td>
+<td>28 008</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -4501,7 +4487,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/kaz/30.09.2022
 <td colspan="3"></td>
 <td colspan="2">1</td>
 <td colspan="2">Мүлiкке салынатын салықтар</td>
-<td>90</td>
+<td>155</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -4517,7 +4503,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/kaz/30.09.2022
 <td colspan="3"></td>
 <td colspan="2">4</td>
 <td colspan="2">Көлiк құралдарына салынатын салық</td>
-<td>10205</td>
+<td>10 205</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -4525,7 +4511,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/kaz/30.09.2022
 <td colspan="3">05</td>
 <td colspan="2"></td>
 <td colspan="2">Тауарларға, жұмыстарға және қызметтерге салынатын ішкі салықтар</td>
-<td>8196</td>
+<td>7 415</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -4533,7 +4519,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/kaz/30.09.2022
 <td colspan="3"></td>
 <td colspan="2">3</td>
 <td colspan="2">Табиғи және басқа да ресурстарды пайдаланғаны үшін түсетін түсімдер</td>
-<td>8196</td>
+<td>7 415</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -4600,7 +4586,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/kaz/30.09.2022
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td>2. Шығындар</td>
-<td>60 662</td>
+<td>59 946</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
@@ -4608,7 +4594,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/kaz/30.09.2022
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>50 250</td>
+<td>49 534</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -4616,7 +4602,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/kaz/30.09.2022
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>50 250</td>
+<td>49 534</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -4624,7 +4610,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/kaz/30.09.2022
 <td colspan="3">124</td>
 <td colspan="3"></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>50 250</td>
+<td>49 534</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -4632,7 +4618,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/kaz/30.09.2022
 <td colspan="3"></td>
 <td colspan="3">001</td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>50 250</td>
+<td>49 534</td>
 </tr>
 <tr>
 <td colspan="2">07</td>
@@ -4905,7 +4891,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/kaz/30.09.2022
 <td colspan="4"></td>
 <td></td>
 <td colspan="2">Бюджет қаражаты қалдықтары</td>
-<td>1071</td>
+<td>1 071</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -4913,7 +4899,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/kaz/30.09.2022
 <td colspan="4">1</td>
 <td></td>
 <td colspan="2">Бюджет қаражатының бос қалдықтары</td>
-<td>1071</td>
+<td>1 071</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -4921,7 +4907,7 @@ source: https://zan.gov.kz/client/#!/doc/163189/kaz/30.09.2022
 <td colspan="4"></td>
 <td>01</td>
 <td colspan="2">Бюджет қаражатының бос қалдықтары</td>
-<td>1071</td>
+<td>1 071</td>
 </tr>
 </table>
 
