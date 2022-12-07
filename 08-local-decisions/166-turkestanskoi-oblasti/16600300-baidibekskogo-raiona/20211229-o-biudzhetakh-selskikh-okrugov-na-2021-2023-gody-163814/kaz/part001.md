@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/163814/kaz/07.10.2022
+source: https://zan.gov.kz/client/#!/doc/163814/kaz/07.12.2022
 ---
 
 > *Байдібек аудандық мәслихатының*  
@@ -9,7 +9,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/kaz/07.10.2022
 
 ## Ағыбет ауылдық округінің 2022 жылға арналған бюджеті
 
-> *Ескерту. 1-қосымша жаңа редакцияда - Түркістан облысы Бәйдібек аудандық мәслихатының 07.06.2022 № 19/127 (01.01.2022 бастап қолданысқа енгізіледі); 07.10.2022 № 23/141 (01.01.2022 бастап қолданысқа енгізіледі) шешімдерімен.*
+> *Ескерту. 1-қосымша жаңа редакцияда - Түркістан облысы Бәйдібек аудандық мәслихатының 07.06.2022 № 19/127 (01.01.2022 бастап қолданысқа енгізіледі); 07.10.2022 № 23/141 (01.01.2022 бастап қолданысқа енгізіледі); 07.12.2022 № 25/146 (01.01.2022 бастап қолданысқа енгізіледі) шешімдерімен.*
 
 <table>
 <tr>
@@ -30,7 +30,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/kaz/07.10.2022
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">1. Кірістер</td>
-<td>59 081</td>
+<td>59 883</td>
 </tr>
 <tr>
 <td colspan="2">1</td>
@@ -38,7 +38,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/kaz/07.10.2022
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Салықтық түсімдер</td>
-<td>3 982</td>
+<td>5 008</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -46,7 +46,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/kaz/07.10.2022
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Табыс салығы</td>
-<td>0</td>
+<td>1 244</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -54,7 +54,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/kaz/07.10.2022
 <td colspan="2">2</td>
 <td colspan="2"></td>
 <td colspan="2">Жеке табыс салығы</td>
-<td>0</td>
+<td>1 244</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -62,7 +62,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/kaz/07.10.2022
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Меншiкке салынатын салықтар</td>
-<td>3 852</td>
+<td>3 632</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -70,7 +70,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/kaz/07.10.2022
 <td colspan="2">1</td>
 <td colspan="2"></td>
 <td colspan="2">Мүлiкке салынатын салықтар</td>
-<td>350</td>
+<td>217</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -78,7 +78,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/kaz/07.10.2022
 <td colspan="2">3</td>
 <td colspan="2"></td>
 <td colspan="2">Жер салығы</td>
-<td>213</td>
+<td>50</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -86,7 +86,15 @@ source: https://zan.gov.kz/client/#!/doc/163814/kaz/07.10.2022
 <td colspan="2">4</td>
 <td colspan="2"></td>
 <td colspan="2">Көлiк құралдарына салынатын салық</td>
-<td>3 289</td>
+<td>3 364</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">5</td>
+<td colspan="2"></td>
+<td colspan="2">Бір ыңғай жер салығы</td>
+<td>1</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -94,7 +102,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/kaz/07.10.2022
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Тауарларға, жұмыстарға және қызметтерге салынатын iшкi салықтар</td>
-<td>130</td>
+<td>132</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -102,7 +110,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/kaz/07.10.2022
 <td colspan="2">3</td>
 <td colspan="2"></td>
 <td colspan="2">Жер учаскелерін пайдаланғаны үшін салық</td>
-<td>130</td>
+<td>132</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -118,7 +126,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/kaz/07.10.2022
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Салықтық емес түсiмдер</td>
-<td>118</td>
+<td>170</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -126,7 +134,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/kaz/07.10.2022
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Мемлекеттік меншiктен түсетiн кірістер</td>
-<td>16</td>
+<td>160</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -134,7 +142,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/kaz/07.10.2022
 <td colspan="2">5</td>
 <td colspan="2"></td>
 <td colspan="2">Мемлекет меншiгіндегі мүлікті жалға беруден түсетiн кірістер</td>
-<td>16</td>
+<td>160</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -158,7 +166,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/kaz/07.10.2022
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Басқа да салықтық емес түсімдер</td>
-<td>102</td>
+<td>10</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -166,7 +174,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/kaz/07.10.2022
 <td colspan="2">01</td>
 <td colspan="2"></td>
 <td colspan="2">Басқа да салықтық емес түсімдер</td>
-<td>102</td>
+<td>10</td>
 </tr>
 <tr>
 <td colspan="2">3</td>
@@ -174,7 +182,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/kaz/07.10.2022
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Негізгі капиталды сатудан түсетін түсімдер</td>
-<td>300</td>
+<td>24</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -182,7 +190,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/kaz/07.10.2022
 <td colspan="2">03</td>
 <td colspan="2"></td>
 <td colspan="2">Жер учаскелерін сатудан түсетін түсімдер</td>
-<td>300</td>
+<td>24</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -190,7 +198,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/kaz/07.10.2022
 <td colspan="2"></td>
 <td colspan="2">1</td>
 <td colspan="2">Жер учаскелерін сатудан түсетін түсімдер</td>
-<td>300</td>
+<td>24</td>
 </tr>
 <tr>
 <td colspan="2">4</td>
@@ -246,7 +254,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/kaz/07.10.2022
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">2. Шығындар</td>
-<td>59 257</td>
+<td>60 059</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
@@ -254,7 +262,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/kaz/07.10.2022
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>59 257</td>
+<td>44 288</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -262,7 +270,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/kaz/07.10.2022
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>59 257</td>
+<td>44 288</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -270,7 +278,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/kaz/07.10.2022
 <td colspan="2">124</td>
 <td colspan="2"></td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>59 257</td>
+<td>44 288</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -382,7 +390,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/kaz/07.10.2022
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Трансферттер</td>
-<td>1 200</td>
+<td>2 002</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -390,7 +398,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/kaz/07.10.2022
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Трансферттер</td>
-<td>1 200</td>
+<td>2 002</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -398,7 +406,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/kaz/07.10.2022
 <td colspan="2">124</td>
 <td colspan="2"></td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>1 200</td>
+<td>2 002</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -406,7 +414,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/kaz/07.10.2022
 <td colspan="2"></td>
 <td colspan="2">049</td>
 <td colspan="2">Бюджеттік алып қоюлар</td>
-<td>1 200</td>
+<td>2 002</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1902,7 +1910,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/kaz/07.10.2022
 
 ## Алғабас ауылдық округінің 2022 жылға арналған бюджеті
 
-> *Ескерту. 4-қосымша жаңа редакцияда - Түркістан облысы Бәйдібек аудандық мәслихатының 07.06.2022 № 19/127 (01.01.2022 бастап қолданысқа енгізіледі); 07.10.2022 № 23/141 (01.01.2022 бастап қолданысқа енгізіледі) шешімдерімен.*
+> *Ескерту. 4-қосымша жаңа редакцияда - Түркістан облысы Бәйдібек аудандық мәслихатының 07.06.2022 № 19/127 (01.01.2022 бастап қолданысқа енгізіледі); 07.10.2022 № 23/141 (01.01.2022 бастап қолданысқа енгізіледі); 07.12.2022 № 25/146 (01.01.2022 бастап қолданысқа енгізіледі) шешімдерімен.*
 
 <table>
 <tr>
@@ -1923,7 +1931,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/kaz/07.10.2022
 <td></td>
 <td></td>
 <td>1. Кірістер</td>
-<td>97 147</td>
+<td>103 308</td>
 </tr>
 <tr>
 <td>1</td>
@@ -1931,7 +1939,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/kaz/07.10.2022
 <td></td>
 <td></td>
 <td>Салықтық түсімдер</td>
-<td>6 858</td>
+<td>9 579</td>
 </tr>
 <tr>
 <td></td>
@@ -1939,7 +1947,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/kaz/07.10.2022
 <td></td>
 <td></td>
 <td>Табыс салығы</td>
-<td>0</td>
+<td>2380</td>
 </tr>
 <tr>
 <td></td>
@@ -1947,7 +1955,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/kaz/07.10.2022
 <td>2</td>
 <td></td>
 <td>Жеке табыс салығы</td>
-<td>0</td>
+<td>2380</td>
 </tr>
 <tr>
 <td></td>
@@ -1955,7 +1963,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/kaz/07.10.2022
 <td></td>
 <td></td>
 <td>Меншiкке салынатын салықтар</td>
-<td>6 438</td>
+<td>6 779</td>
 </tr>
 <tr>
 <td></td>
@@ -1963,7 +1971,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/kaz/07.10.2022
 <td>1</td>
 <td></td>
 <td>Мүлiкке салынатын салықтар</td>
-<td>533</td>
+<td>323</td>
 </tr>
 <tr>
 <td></td>
@@ -1971,7 +1979,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/kaz/07.10.2022
 <td>3</td>
 <td></td>
 <td>Жер салығы</td>
-<td>253</td>
+<td>42</td>
 </tr>
 <tr>
 <td></td>
@@ -1979,7 +1987,15 @@ source: https://zan.gov.kz/client/#!/doc/163814/kaz/07.10.2022
 <td>4</td>
 <td></td>
 <td>Көлiк құралдарына салынатын салық</td>
-<td>5652</td>
+<td>6380</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>5</td>
+<td></td>
+<td>Бәрыңғай жер салығы</td>
+<td>34</td>
 </tr>
 <tr>
 <td></td>
@@ -2067,7 +2083,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/kaz/07.10.2022
 <td></td>
 <td></td>
 <td>Негізгі капиталды сатудан түсетін түсімдер</td>
-<td>300</td>
+<td>154</td>
 </tr>
 <tr>
 <td></td>
@@ -2075,7 +2091,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/kaz/07.10.2022
 <td></td>
 <td></td>
 <td>Жер учаскелерін сатудан түсетін түсімдер</td>
-<td>300</td>
+<td>154</td>
 </tr>
 <tr>
 <td></td>
@@ -2083,7 +2099,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/kaz/07.10.2022
 <td>1</td>
 <td></td>
 <td>Жер учаскелерін сатудан түсетін түсімдер</td>
-<td>300</td>
+<td>154</td>
 </tr>
 <tr>
 <td>4</td>
@@ -2091,7 +2107,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/kaz/07.10.2022
 <td></td>
 <td></td>
 <td>Трансферттердің түсімдері</td>
-<td>89 163</td>
+<td>92 749</td>
 </tr>
 <tr>
 <td></td>
@@ -2099,7 +2115,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/kaz/07.10.2022
 <td></td>
 <td></td>
 <td>Мемлекеттік басқарудың жоғары тұрған органдарынан түсетін трансферттер</td>
-<td>89 163</td>
+<td>92 749</td>
 </tr>
 <tr>
 <td></td>
@@ -2107,7 +2123,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/kaz/07.10.2022
 <td>3</td>
 <td></td>
 <td>Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td>89 163</td>
+<td>92 749</td>
 </tr>
 <tr>
 <td colspan="5">Функционалдық топ</td>
@@ -2139,7 +2155,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/kaz/07.10.2022
 <td></td>
 <td></td>
 <td>2. Шығындар</td>
-<td>97 915</td>
+<td>104 076</td>
 </tr>
 <tr>
 <td>01</td>
@@ -2147,7 +2163,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/kaz/07.10.2022
 <td></td>
 <td></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>76 922</td>
+<td>83 483</td>
 </tr>
 <tr>
 <td></td>
@@ -2155,7 +2171,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/kaz/07.10.2022
 <td></td>
 <td></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>76 922</td>
+<td>83 483</td>
 </tr>
 <tr>
 <td></td>
@@ -2163,7 +2179,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/kaz/07.10.2022
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>76 922</td>
+<td>83 483</td>
 </tr>
 <tr>
 <td></td>
@@ -2171,7 +2187,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/kaz/07.10.2022
 <td></td>
 <td>001</td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>76 389</td>
+<td>82 950</td>
 </tr>
 <tr>
 <td></td>
@@ -2187,7 +2203,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/kaz/07.10.2022
 <td></td>
 <td></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>15 443</td>
+<td>15 043</td>
 </tr>
 <tr>
 <td></td>
@@ -2195,7 +2211,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/kaz/07.10.2022
 <td></td>
 <td></td>
 <td>Елді-мекендерді көркейту</td>
-<td>15 443</td>
+<td>15 043</td>
 </tr>
 <tr>
 <td></td>
@@ -2203,7 +2219,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/kaz/07.10.2022
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>15 443</td>
+<td>15 043</td>
 </tr>
 <tr>
 <td></td>
@@ -2211,7 +2227,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/kaz/07.10.2022
 <td></td>
 <td>008</td>
 <td>Елді мекендердегі көшелерді жарықтандыру</td>
-<td>8 683</td>
+<td>8 283</td>
 </tr>
 <tr>
 <td></td>
@@ -3827,7 +3843,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/kaz/07.10.2022
 
 ## Алмалы ауылдық округінің 2022 жылға арналған бюджеті
 
-> *Ескерту. 7-қосымша жаңа редакцияда - Түркістан облысы Бәйдібек аудандық мәслихатының 07.06.2022 № 19/127 (01.01.2022 бастап қолданысқа енгізіледі); 07.10.2022 № 23/141 (01.01.2022 бастап қолданысқа енгізіледі) шешімдерімен.*
+> *Ескерту. 7-қосымша жаңа редакцияда - Түркістан облысы Бәйдібек аудандық мәслихатының 07.06.2022 № 19/127 (01.01.2022 бастап қолданысқа енгізіледі); 07.10.2022 № 23/141 (01.01.2022 бастап қолданысқа енгізіледі); 07.12.2022 № 25/146 (01.01.2022 бастап қолданысқа енгізіледі) шешімдерімен.*
 
 <table>
 <tr>
@@ -3856,7 +3872,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/kaz/07.10.2022
 <td></td>
 <td></td>
 <td>Салықтық түсімдер</td>
-<td>4 917</td>
+<td>5071</td>
 </tr>
 <tr>
 <td></td>
@@ -3864,7 +3880,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/kaz/07.10.2022
 <td></td>
 <td></td>
 <td>Табыс салығы</td>
-<td>0</td>
+<td>37</td>
 </tr>
 <tr>
 <td></td>
@@ -3872,7 +3888,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/kaz/07.10.2022
 <td>2</td>
 <td></td>
 <td>Жеке табыс салығы</td>
-<td>0</td>
+<td>37</td>
 </tr>
 <tr>
 <td></td>
@@ -3880,7 +3896,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/kaz/07.10.2022
 <td></td>
 <td></td>
 <td>Меншiкке салынатын салықтар</td>
-<td>3 030</td>
+<td>4830</td>
 </tr>
 <tr>
 <td></td>
@@ -3888,7 +3904,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/kaz/07.10.2022
 <td>1</td>
 <td></td>
 <td>Мүлiкке салынатын салықтар</td>
-<td>465</td>
+<td>255</td>
 </tr>
 <tr>
 <td></td>
@@ -3896,7 +3912,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/kaz/07.10.2022
 <td>3</td>
 <td></td>
 <td>Жер салығы</td>
-<td>213</td>
+<td>70</td>
 </tr>
 <tr>
 <td></td>
@@ -3904,7 +3920,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/kaz/07.10.2022
 <td>4</td>
 <td></td>
 <td>Көлiк құралдарына салынатын салық</td>
-<td>4 152</td>
+<td>4505</td>
 </tr>
 <tr>
 <td></td>
@@ -3912,7 +3928,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/kaz/07.10.2022
 <td></td>
 <td></td>
 <td>Тауарларға, жұмыстарға және қызметтерге салынатын iшкi салықтар</td>
-<td>87</td>
+<td>204</td>
 </tr>
 <tr>
 <td></td>
@@ -3920,7 +3936,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/kaz/07.10.2022
 <td>3</td>
 <td></td>
 <td>Жер учаскелерін пайдаланғаны үшін салық</td>
-<td>87</td>
+<td>204</td>
 </tr>
 <tr>
 <td></td>
@@ -3992,7 +4008,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/kaz/07.10.2022
 <td></td>
 <td></td>
 <td>Негізгі капиталды сатудан түсетін түсімдер</td>
-<td>300</td>
+<td>849</td>
 </tr>
 <tr>
 <td></td>
@@ -4000,7 +4016,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/kaz/07.10.2022
 <td></td>
 <td></td>
 <td>Жер учаскелерін сатудан түсетін түсімдер</td>
-<td>300</td>
+<td>849</td>
 </tr>
 <tr>
 <td></td>
@@ -4008,7 +4024,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/kaz/07.10.2022
 <td>1</td>
 <td></td>
 <td>Жер учаскелерін сатудан түсетін түсімдер</td>
-<td>300</td>
+<td>849</td>
 </tr>
 <tr>
 <td>4</td>
@@ -4064,7 +4080,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/kaz/07.10.2022
 <td></td>
 <td></td>
 <td>2. Шығындар</td>
-<td>73 819</td>
+<td>74 522</td>
 </tr>
 <tr>
 <td>01</td>
@@ -4224,7 +4240,7 @@ source: https://zan.gov.kz/client/#!/doc/163814/kaz/07.10.2022
 <td></td>
 <td>049</td>
 <td>Бюджеттік алып қоюлар</td>
-<td>1800</td>
+<td>2503</td>
 </tr>
 <tr>
 <td></td>
