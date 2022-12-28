@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/163814/kaz/07.12.2022
+source: https://zan.gov.kz/client/#!/doc/163814/kaz/28.12.2022
 ---
 
 > *Байдібек аудандық мәслихатының*  
