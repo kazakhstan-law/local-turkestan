@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/177765/kaz/28.12.2022
+source: https://zan.gov.kz/client/#!/doc/177765/kaz/24.05.2023
 ---
 
 > *Созақ аудандық мәслихатының*  
@@ -8,6 +8,8 @@ source: https://zan.gov.kz/client/#!/doc/177765/kaz/28.12.2022
 > *№159 шешіміне 34 қосымша*
 
 ## Тасты ауылдық округінің 2023 жылға арналған бюджеті
+
+> *Ескерту. 34-қосымша жаңа редакцияда - Түркістан облысы Созақ аудандық мәслихатының 24.05.2023 № 22 (01.01.2023 бастап қолданысқа енгізіледі) шешiмiмен.*
 
 <table>
 <tr>
@@ -33,7 +35,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/kaz/28.12.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2">1. Кірістер</td>
-<td>43 443</td>
+<td>47 513</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -49,7 +51,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/kaz/28.12.2022
 <td colspan="3">04</td>
 <td colspan="2"></td>
 <td colspan="2">Меншiкке салынатын салықтар</td>
-<td>4 230</td>
+<td>5 873</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -105,7 +107,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/kaz/28.12.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2">Трансферттердің түсімдері</td>
-<td>37 570</td>
+<td>41 640</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -113,7 +115,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/kaz/28.12.2022
 <td colspan="3">02</td>
 <td colspan="2"></td>
 <td colspan="2">Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td>37 570</td>
+<td>41 640</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -121,7 +123,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/kaz/28.12.2022
 <td colspan="3"></td>
 <td colspan="2">3</td>
 <td colspan="2">Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td>37 570</td>
+<td>41 640</td>
 </tr>
 <tr>
 <td colspan="10">Функционалдық топ Атауы</td>
@@ -148,7 +150,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/kaz/28.12.2022
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td>2. Шығындар</td>
-<td>43 443</td>
+<td>51 483</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
@@ -156,7 +158,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/kaz/28.12.2022
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>43 243</td>
+<td>51 283</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -164,7 +166,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/kaz/28.12.2022
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>43 243</td>
+<td>51 283</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -172,7 +174,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/kaz/28.12.2022
 <td colspan="3">124</td>
 <td colspan="3"></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>43 243</td>
+<td>51 283</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -180,7 +182,15 @@ source: https://zan.gov.kz/client/#!/doc/177765/kaz/28.12.2022
 <td colspan="3"></td>
 <td colspan="3">001</td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>43 243</td>
+<td>50 433</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="3">022</td>
+<td>Мемлекеттік органның күрделі шығыстары</td>
+<td>850</td>
 </tr>
 <tr>
 <td colspan="2">07</td>
@@ -331,7 +341,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/kaz/28.12.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2">5. Бюджет тапшылығы (профициті)</td>
-<td>0</td>
+<td>-3 970</td>
 </tr>
 <tr>
 <td></td>
@@ -339,7 +349,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/kaz/28.12.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2">6. Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
-<td>0</td>
+<td>3 970</td>
 </tr>
 <tr>
 <td>7</td>
@@ -410,7 +420,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/kaz/28.12.2022
 <td colspan="4"></td>
 <td></td>
 <td colspan="2">Бюджет қаражатының пайдаланылатын қалдықтары</td>
-<td>0</td>
+<td>3 970</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -418,7 +428,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/kaz/28.12.2022
 <td colspan="4"></td>
 <td></td>
 <td colspan="2">Бюджет қаражаты қалдықтары</td>
-<td>0</td>
+<td>3 970</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -426,7 +436,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/kaz/28.12.2022
 <td colspan="4">1</td>
 <td></td>
 <td colspan="2">Бюджет қаражатының бос қалдықтары</td>
-<td>0</td>
+<td>3 970</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -434,7 +444,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/kaz/28.12.2022
 <td colspan="4"></td>
 <td>01</td>
 <td colspan="2">Бюджет қаражатының бос қалдықтары</td>
-<td>0</td>
+<td>3 970</td>
 </tr>
 </table>
 

@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/177765/rus/28.12.2022
+source: https://zan.gov.kz/client/#!/doc/177765/rus/24.05.2023
 ---
 
 > *Приложение 23 к решению*  
@@ -1018,6 +1018,8 @@ source: https://zan.gov.kz/client/#!/doc/177765/rus/28.12.2022
 
 ## Бюджет сельского округа Шу на 2023 год
 
+> *Сноска. Приложение 25 в редакции решения Созакского районного маслихата Туркестанской области от 24.05.2023 № 22 (вводится в действие с 01.01.2023).*
+
 <table>
 <tr>
 <td colspan="4"></td>
@@ -1059,7 +1061,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/rus/28.12.2022
 <td colspan="3"></td>
 <td colspan="5"></td>
 <td colspan="2">1. Доходы</td>
-<td>38 996</td>
+<td>43 245</td>
 </tr>
 <tr>
 <td colspan="4"></td>
@@ -1115,7 +1117,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/rus/28.12.2022
 <td colspan="3"></td>
 <td colspan="5"></td>
 <td colspan="2">Поступления трансфертов</td>
-<td>38 302</td>
+<td>42 551</td>
 </tr>
 <tr>
 <td colspan="4"></td>
@@ -1123,7 +1125,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/rus/28.12.2022
 <td colspan="3">02</td>
 <td colspan="5"></td>
 <td colspan="2">Трансферты из вышестоящих органов государственного управления</td>
-<td>38 302</td>
+<td>42 551</td>
 </tr>
 <tr>
 <td colspan="4"></td>
@@ -1131,7 +1133,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/rus/28.12.2022
 <td colspan="3"></td>
 <td colspan="5">3</td>
 <td colspan="2">Трансферты из районного (города областного значения) бюджета</td>
-<td>38 302</td>
+<td>42 551</td>
 </tr>
 <tr>
 <td colspan="17">Функциональная группа</td>
@@ -1165,7 +1167,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/rus/28.12.2022
 <td colspan="4"></td>
 <td colspan="4"></td>
 <td>2. Затраты</td>
-<td>38 996</td>
+<td>43 981</td>
 </tr>
 <tr>
 <td colspan="4">01</td>
@@ -1173,7 +1175,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/rus/28.12.2022
 <td colspan="4"></td>
 <td colspan="4"></td>
 <td>Государственные услуги общего характера</td>
-<td>38 796</td>
+<td>43 781</td>
 </tr>
 <tr>
 <td colspan="4"></td>
@@ -1181,7 +1183,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/rus/28.12.2022
 <td colspan="4"></td>
 <td colspan="4"></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>38 796</td>
+<td>43 781</td>
 </tr>
 <tr>
 <td colspan="4"></td>
@@ -1189,7 +1191,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/rus/28.12.2022
 <td colspan="4">124</td>
 <td colspan="4"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>38 796</td>
+<td>43 781</td>
 </tr>
 <tr>
 <td colspan="4"></td>
@@ -1197,7 +1199,15 @@ source: https://zan.gov.kz/client/#!/doc/177765/rus/28.12.2022
 <td colspan="4"></td>
 <td colspan="4">001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>38 796</td>
+<td>42 931</td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4">022</td>
+<td>Капитальные расходы государственных органов</td>
+<td>850</td>
 </tr>
 <tr>
 <td colspan="4">07</td>
@@ -1335,7 +1345,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/rus/28.12.2022
 <td colspan="3"></td>
 <td colspan="4"></td>
 <td colspan="2">5. Дефицит (профицит) бюджета</td>
-<td>0</td>
+<td>-736</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1343,7 +1353,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/rus/28.12.2022
 <td colspan="3"></td>
 <td colspan="4"></td>
 <td colspan="2">6. Финансирование дефицита (использование профицита) бюджета</td>
-<td>0</td>
+<td>736</td>
 </tr>
 <tr>
 <td colspan="2">7</td>
@@ -1415,7 +1425,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/rus/28.12.2022
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">Используемые остатки бюджетных средств</td>
-<td>0</td>
+<td>736</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1423,7 +1433,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/rus/28.12.2022
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">Остатки бюджетных средств</td>
-<td>0</td>
+<td>736</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1431,7 +1441,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/rus/28.12.2022
 <td colspan="2">1</td>
 <td colspan="3"></td>
 <td colspan="3">Свободные остатки бюджетных средств</td>
-<td>0</td>
+<td>736</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1439,7 +1449,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/rus/28.12.2022
 <td colspan="2"></td>
 <td colspan="3">01</td>
 <td colspan="3">Свободные остатки бюджетных средств</td>
-<td>0</td>
+<td>736</td>
 </tr>
 </table>
 
@@ -2330,6 +2340,8 @@ source: https://zan.gov.kz/client/#!/doc/177765/rus/28.12.2022
 
 ## Бюджет поселка Кыземшек на 2023 год
 
+> *Сноска. Приложение 28 в редакции решения Созакского районного маслихата Туркестанской области от 24.05.2023 № 22 (вводится в действие с 01.01.2023).*
+
 <table>
 <tr>
 <td colspan="4"></td>
@@ -2371,7 +2383,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/rus/28.12.2022
 <td colspan="3"></td>
 <td colspan="5"></td>
 <td>1. Доходы</td>
-<td>63 443</td>
+<td>70 085</td>
 </tr>
 <tr>
 <td colspan="4"></td>
@@ -2379,7 +2391,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/rus/28.12.2022
 <td colspan="3"></td>
 <td colspan="5"></td>
 <td>Налоговые поступления</td>
-<td>28 404</td>
+<td>30 465</td>
 </tr>
 <tr>
 <td colspan="4"></td>
@@ -2387,7 +2399,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/rus/28.12.2022
 <td colspan="3">01</td>
 <td colspan="5"></td>
 <td>Подоходный налог</td>
-<td>1 000</td>
+<td>3 061</td>
 </tr>
 <tr>
 <td colspan="4"></td>
@@ -2395,7 +2407,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/rus/28.12.2022
 <td colspan="3"></td>
 <td colspan="5">2</td>
 <td>Индивидуальный подоходный налог</td>
-<td>1 000</td>
+<td>3 061</td>
 </tr>
 <tr>
 <td colspan="4"></td>
@@ -2499,7 +2511,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/rus/28.12.2022
 <td colspan="3"></td>
 <td colspan="5"></td>
 <td>Поступления трансфертов</td>
-<td>33 401</td>
+<td>37 982</td>
 </tr>
 <tr>
 <td colspan="4"></td>
@@ -2507,7 +2519,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/rus/28.12.2022
 <td colspan="3">02</td>
 <td colspan="5"></td>
 <td>Трансферты из вышестоящих органов государственного управления</td>
-<td>33 401</td>
+<td>37 982</td>
 </tr>
 <tr>
 <td colspan="4"></td>
@@ -2515,7 +2527,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/rus/28.12.2022
 <td colspan="3"></td>
 <td colspan="5">3</td>
 <td>Трансферты из районного (города областного значения) бюджета</td>
-<td>33 401</td>
+<td>37 982</td>
 </tr>
 <tr>
 <td colspan="16">Функциональная группа</td>
@@ -2549,7 +2561,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/rus/28.12.2022
 <td colspan="5"></td>
 <td colspan="3"></td>
 <td>2. Затраты</td>
-<td>63 443</td>
+<td>74 369</td>
 </tr>
 <tr>
 <td colspan="4">01</td>
@@ -2557,7 +2569,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/rus/28.12.2022
 <td colspan="5"></td>
 <td colspan="3"></td>
 <td>Государственные услуги общего характера</td>
-<td>53 243</td>
+<td>62 379</td>
 </tr>
 <tr>
 <td colspan="4"></td>
@@ -2565,7 +2577,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/rus/28.12.2022
 <td colspan="5"></td>
 <td colspan="3"></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>53 243</td>
+<td>62 379</td>
 </tr>
 <tr>
 <td colspan="4"></td>
@@ -2573,7 +2585,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/rus/28.12.2022
 <td colspan="5">124</td>
 <td colspan="3"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>53 243</td>
+<td>62 379</td>
 </tr>
 <tr>
 <td colspan="4"></td>
@@ -2581,7 +2593,15 @@ source: https://zan.gov.kz/client/#!/doc/177765/rus/28.12.2022
 <td colspan="5"></td>
 <td colspan="3">001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>53 243</td>
+<td>61 529</td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td colspan="3">022</td>
+<td>Капитальные расходы государственных органов</td>
+<td>850</td>
 </tr>
 <tr>
 <td colspan="3">07</td>
@@ -2589,7 +2609,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/rus/28.12.2022
 <td colspan="5"></td>
 <td colspan="3"></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>10 200</td>
+<td>11 990</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -2597,7 +2617,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/rus/28.12.2022
 <td colspan="5"></td>
 <td colspan="3"></td>
 <td>Благоустройства населенных пунктов</td>
-<td>10 200</td>
+<td>11 990</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -2605,7 +2625,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/rus/28.12.2022
 <td colspan="5">124</td>
 <td colspan="3"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>10 200</td>
+<td>11 990</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -2613,7 +2633,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/rus/28.12.2022
 <td colspan="5"></td>
 <td colspan="3">008</td>
 <td>Освещение улиц в населенных пунктах</td>
-<td>10 200</td>
+<td>11 990</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -2717,7 +2737,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/rus/28.12.2022
 <td colspan="3"></td>
 <td colspan="4"></td>
 <td>5. Дефицит (профицит) бюджета</td>
-<td>0</td>
+<td>-4 284</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2725,7 +2745,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/rus/28.12.2022
 <td colspan="3"></td>
 <td colspan="4"></td>
 <td>6. Финансирование дефицита (использование профицита) бюджета</td>
-<td>0</td>
+<td>4 284</td>
 </tr>
 <tr>
 <td colspan="2">7</td>
@@ -2797,7 +2817,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/rus/28.12.2022
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">Используемые остатки бюджетных средств</td>
-<td>0</td>
+<td>4 284</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2805,7 +2825,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/rus/28.12.2022
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">Остатки бюджетных средств</td>
-<td>0</td>
+<td>4 284</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2813,7 +2833,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/rus/28.12.2022
 <td colspan="2">1</td>
 <td colspan="3"></td>
 <td colspan="2">Свободные остатки бюджетных средств</td>
-<td>0</td>
+<td>4 284</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2821,7 +2841,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/rus/28.12.2022
 <td colspan="2"></td>
 <td colspan="3">01</td>
 <td colspan="2">Свободные остатки бюджетных средств</td>
-<td>0</td>
+<td>4 284</td>
 </tr>
 </table>
 
@@ -3836,6 +3856,8 @@ source: https://zan.gov.kz/client/#!/doc/177765/rus/28.12.2022
 
 ## Бюджет поселка Таукент на 2023 год
 
+> *Сноска. Приложение 31 в редакции решения Созакского районного маслихата Туркестанской области от 24.05.2023 № 22 (вводится в действие с 01.01.2023).*
+
 <table>
 <tr>
 <td colspan="4"></td>
@@ -3877,7 +3899,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/rus/28.12.2022
 <td colspan="3"></td>
 <td colspan="5"></td>
 <td>1. Доходы</td>
-<td>76 932</td>
+<td>111 532</td>
 </tr>
 <tr>
 <td colspan="4"></td>
@@ -3885,7 +3907,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/rus/28.12.2022
 <td colspan="3"></td>
 <td colspan="5"></td>
 <td>Налоговые поступления</td>
-<td>42 586</td>
+<td>43 136</td>
 </tr>
 <tr>
 <td colspan="4"></td>
@@ -3893,7 +3915,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/rus/28.12.2022
 <td colspan="3">01</td>
 <td colspan="5"></td>
 <td>Подоходный налог</td>
-<td>1 200</td>
+<td>1 750</td>
 </tr>
 <tr>
 <td colspan="4"></td>
@@ -3901,7 +3923,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/rus/28.12.2022
 <td colspan="3"></td>
 <td colspan="5">2</td>
 <td>Индивидуальный подоходный налог</td>
-<td>1 200</td>
+<td>1 750</td>
 </tr>
 <tr>
 <td colspan="4"></td>
@@ -3989,7 +4011,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/rus/28.12.2022
 <td colspan="3"></td>
 <td colspan="5"></td>
 <td>Поступления трансфертов</td>
-<td>33 146</td>
+<td>67 196</td>
 </tr>
 <tr>
 <td colspan="4"></td>
@@ -3997,7 +4019,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/rus/28.12.2022
 <td colspan="3">02</td>
 <td colspan="5"></td>
 <td>Трансферты из вышестоящих органов государственного управления</td>
-<td>33 146</td>
+<td>67 196</td>
 </tr>
 <tr>
 <td colspan="4"></td>
@@ -4005,7 +4027,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/rus/28.12.2022
 <td colspan="3"></td>
 <td colspan="5">3</td>
 <td>Трансферты из районного (города областного значения) бюджета</td>
-<td>33 146</td>
+<td>67 196</td>
 </tr>
 <tr>
 <td colspan="17">Функциональная группа</td>
@@ -4039,7 +4061,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/rus/28.12.2022
 <td colspan="7"></td>
 <td colspan="3"></td>
 <td>2. Затраты</td>
-<td>76 932</td>
+<td>114 424</td>
 </tr>
 <tr>
 <td colspan="4">01</td>
@@ -4047,7 +4069,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/rus/28.12.2022
 <td colspan="7"></td>
 <td colspan="3"></td>
 <td>Государственные услуги общего характера</td>
-<td>59 890</td>
+<td>66 899</td>
 </tr>
 <tr>
 <td colspan="4"></td>
@@ -4055,7 +4077,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/rus/28.12.2022
 <td colspan="7"></td>
 <td colspan="3"></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>59 890</td>
+<td>66 899</td>
 </tr>
 <tr>
 <td colspan="4"></td>
@@ -4063,7 +4085,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/rus/28.12.2022
 <td colspan="7">124</td>
 <td colspan="3"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>59 890</td>
+<td>66 899</td>
 </tr>
 <tr>
 <td colspan="4"></td>
@@ -4071,7 +4093,15 @@ source: https://zan.gov.kz/client/#!/doc/177765/rus/28.12.2022
 <td colspan="7"></td>
 <td colspan="3">001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>59 890</td>
+<td>66 049</td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="7"></td>
+<td colspan="3">022</td>
+<td>Капитальные расходы государственных органов</td>
+<td>850</td>
 </tr>
 <tr>
 <td colspan="4">07</td>
@@ -4079,7 +4109,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/rus/28.12.2022
 <td colspan="7"></td>
 <td colspan="3"></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>17 042</td>
+<td>47 525</td>
 </tr>
 <tr>
 <td colspan="4"></td>
@@ -4087,7 +4117,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/rus/28.12.2022
 <td colspan="7"></td>
 <td colspan="3"></td>
 <td>Благоустройство населенных пунктов</td>
-<td>17 042</td>
+<td>47 525</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -4095,7 +4125,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/rus/28.12.2022
 <td colspan="7">124</td>
 <td colspan="3"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>17 042</td>
+<td>47 525</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -4103,7 +4133,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/rus/28.12.2022
 <td colspan="7"></td>
 <td colspan="3">008</td>
 <td>Освещение улиц в населенных пунктах</td>
-<td>17 042</td>
+<td>47 525</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -4190,10 +4220,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/rus/28.12.2022
 <tr>
 <td></td>
 <td colspan="8"></td>
-<td colspan="8">
-Подкласс
-Специфика Наименование
-</td>
+<td colspan="8">Подкласс Специфика Наименование</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -4217,7 +4244,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/rus/28.12.2022
 <td colspan="3"></td>
 <td colspan="4"></td>
 <td>5. Дефицит (профицит) бюджета</td>
-<td>0</td>
+<td>-2 892</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -4225,7 +4252,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/rus/28.12.2022
 <td colspan="3"></td>
 <td colspan="4"></td>
 <td>6. Финансирование дефицита (использование профицита) бюджета</td>
-<td>0</td>
+<td>2 892</td>
 </tr>
 <tr>
 <td colspan="2">7</td>
@@ -4297,7 +4324,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/rus/28.12.2022
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">Используемые остатки бюджетных средств</td>
-<td>0</td>
+<td>2 892</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -4305,7 +4332,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/rus/28.12.2022
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">Остатки бюджетных средств</td>
-<td>0</td>
+<td>2 892</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -4313,7 +4340,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/rus/28.12.2022
 <td colspan="2">1</td>
 <td colspan="3"></td>
 <td colspan="2">Свободные остатки бюджетных средств</td>
-<td>0</td>
+<td>2 892</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -4321,7 +4348,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/rus/28.12.2022
 <td colspan="2"></td>
 <td colspan="3">01</td>
 <td colspan="2">Свободные остатки бюджетных средств</td>
-<td>0</td>
+<td>2 892</td>
 </tr>
 </table>
 
