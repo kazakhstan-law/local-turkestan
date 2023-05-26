@@ -1,13 +1,16 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/176976/kaz/30.12.2022
+source: https://zan.gov.kz/client/#!/doc/176976/kaz/26.05.2023
 ---
 
 > *Арыс қалалық мәслихатының*  
 > *2022 жылғы 30 желтоқсандағы*  
-> *№33/171-VIІ шешіміне 1-қосымша*
+> *№33/171 -VII шешіміне*  
+> *1-қосымша*
 
 ## 2023 жылға арналған Ақдала ауылдық округінің бюджеті
+
+> *Ескерту. 1-қосымша жаңа редакцияда - Түркістан облысы Арыс қалалық мәслихатының 26.05.2023 № 4/22-VІІІ (01.01.2023 бастап қолданысқа енгізіледі) шешiмiмен.*
 
 <table>
 <tr>
@@ -35,7 +38,7 @@ source: https://zan.gov.kz/client/#!/doc/176976/kaz/30.12.2022
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">1. Кірістер</td>
-<td>45399</td>
+<td>51595</td>
 </tr>
 <tr>
 <td>1</td>
@@ -43,7 +46,7 @@ source: https://zan.gov.kz/client/#!/doc/176976/kaz/30.12.2022
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">Салықтық түсімдер</td>
-<td>9594</td>
+<td>10315</td>
 </tr>
 <tr>
 <td></td>
@@ -67,7 +70,7 @@ source: https://zan.gov.kz/client/#!/doc/176976/kaz/30.12.2022
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">Меншiкке салынатын салықтар</td>
-<td>8566</td>
+<td>9287</td>
 </tr>
 <tr>
 <td></td>
@@ -91,7 +94,7 @@ source: https://zan.gov.kz/client/#!/doc/176976/kaz/30.12.2022
 <td colspan="2">4</td>
 <td colspan="3"></td>
 <td colspan="3">Көлiк құралдарына салынатын салық</td>
-<td>7870</td>
+<td>8591</td>
 </tr>
 <tr>
 <td></td>
@@ -114,8 +117,8 @@ source: https://zan.gov.kz/client/#!/doc/176976/kaz/30.12.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="3"></td>
-<td colspan="3">Трансферттер түсімі</td>
-<td>35805</td>
+<td colspan="3">Трансферттердің түсімдері</td>
+<td>41280</td>
 </tr>
 <tr>
 <td></td>
@@ -123,7 +126,7 @@ source: https://zan.gov.kz/client/#!/doc/176976/kaz/30.12.2022
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td>35805</td>
+<td>41280</td>
 </tr>
 <tr>
 <td></td>
@@ -131,7 +134,7 @@ source: https://zan.gov.kz/client/#!/doc/176976/kaz/30.12.2022
 <td colspan="2">3</td>
 <td colspan="3"></td>
 <td colspan="3">Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td>35805</td>
+<td>41280</td>
 </tr>
 <tr>
 <td colspan="12">Функционалдық топ Атауы</td>
@@ -155,7 +158,7 @@ source: https://zan.gov.kz/client/#!/doc/176976/kaz/30.12.2022
 <tr>
 <td colspan="10">1</td>
 <td colspan="2">2</td>
-<td></td>
+<td>3</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -163,7 +166,7 @@ source: https://zan.gov.kz/client/#!/doc/176976/kaz/30.12.2022
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">2. Шығындар</td>
-<td>45399</td>
+<td>52150</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
@@ -171,7 +174,7 @@ source: https://zan.gov.kz/client/#!/doc/176976/kaz/30.12.2022
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>43873</td>
+<td>44753</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -179,7 +182,7 @@ source: https://zan.gov.kz/client/#!/doc/176976/kaz/30.12.2022
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>43873</td>
+<td>44753</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -187,7 +190,7 @@ source: https://zan.gov.kz/client/#!/doc/176976/kaz/30.12.2022
 <td colspan="2">124</td>
 <td colspan="3"></td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>43873</td>
+<td>44753</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -195,7 +198,15 @@ source: https://zan.gov.kz/client/#!/doc/176976/kaz/30.12.2022
 <td colspan="2"></td>
 <td colspan="3">001</td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>43873</td>
+<td>44553</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3">022</td>
+<td colspan="2">Мемлекеттік органның күрделі шығыстары</td>
+<td>200</td>
 </tr>
 <tr>
 <td colspan="2">05</td>
@@ -235,7 +246,7 @@ source: https://zan.gov.kz/client/#!/doc/176976/kaz/30.12.2022
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">Тұрғын үй-коммуналдық шаруашылық</td>
-<td>1500</td>
+<td>7371</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -243,7 +254,7 @@ source: https://zan.gov.kz/client/#!/doc/176976/kaz/30.12.2022
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">Елді-мекендерді көркейту</td>
-<td>1500</td>
+<td>7371</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -251,7 +262,15 @@ source: https://zan.gov.kz/client/#!/doc/176976/kaz/30.12.2022
 <td colspan="2">124</td>
 <td colspan="3"></td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>1500</td>
+<td>7371</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3">008</td>
+<td colspan="2">Елді мекендердегі көшелерді жарықтандыру</td>
+<td>1896</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -259,7 +278,7 @@ source: https://zan.gov.kz/client/#!/doc/176976/kaz/30.12.2022
 <td colspan="2"></td>
 <td colspan="3">011</td>
 <td colspan="2">Елді мекендерді абаттандыру мен көгалдандыру</td>
-<td>1500</td>
+<td>5475</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -315,7 +334,7 @@ source: https://zan.gov.kz/client/#!/doc/176976/kaz/30.12.2022
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">5. Бюджет тапшылығы (профициті)</td>
-<td>0</td>
+<td>-555</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -323,7 +342,7 @@ source: https://zan.gov.kz/client/#!/doc/176976/kaz/30.12.2022
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">6. Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
-<td>0</td>
+<td>555</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -347,31 +366,31 @@ source: https://zan.gov.kz/client/#!/doc/176976/kaz/30.12.2022
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">Бюджет қаражаттарының пайдаланылатын қалдықтары</td>
-<td>0</td>
+<td>555</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td colspan="2">8</td>
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">Бюджет қаражаттарының пайдаланылатын қалдықтары</td>
-<td>0</td>
+<td>555</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="3"></td>
+<td colspan="3">01</td>
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">Бюджет қаражаты қалдықтары</td>
-<td>0</td>
+<td>555</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="3"></td>
-<td colspan="2"></td>
+<td colspan="2">1</td>
 <td colspan="3"></td>
 <td colspan="2">Бюджет қаражатының бос қалдықтары</td>
-<td>0</td>
+<td>555</td>
 </tr>
 </table>
 
@@ -947,10 +966,12 @@ source: https://zan.gov.kz/client/#!/doc/176976/kaz/30.12.2022
 
 > *Арыс қалалық мәслихатының*  
 > *2022 жылғы 30 желтоқсандағы*  
-> *№33/171-VIІ шешіміне*  
+> *№33/171 -VII шешіміне*  
 > *4-қосымша*
 
 ## 2023 жылға арналған Байырқұм ауылдық округінің бюджеті
+
+> *Ескерту. 4-қосымша жаңа редакцияда - Түркістан облысы Арыс қалалық мәслихатының 26.05.2023 № 4/22-VІІІ (01.01.2023 бастап қолданысқа енгізіледі) шешiмiмен.*
 
 <table>
 <tr>
@@ -978,7 +999,7 @@ source: https://zan.gov.kz/client/#!/doc/176976/kaz/30.12.2022
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">1. Кірістер</td>
-<td>51670</td>
+<td>52628</td>
 </tr>
 <tr>
 <td>1</td>
@@ -986,7 +1007,7 @@ source: https://zan.gov.kz/client/#!/doc/176976/kaz/30.12.2022
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">Салықтық түсімдер</td>
-<td>8386</td>
+<td>9344</td>
 </tr>
 <tr>
 <td></td>
@@ -1010,7 +1031,7 @@ source: https://zan.gov.kz/client/#!/doc/176976/kaz/30.12.2022
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">Меншiкке салынатын салықтар</td>
-<td>7074</td>
+<td>8032</td>
 </tr>
 <tr>
 <td></td>
@@ -1034,7 +1055,7 @@ source: https://zan.gov.kz/client/#!/doc/176976/kaz/30.12.2022
 <td colspan="2">4</td>
 <td colspan="3"></td>
 <td colspan="3">Көлiк құралдарына салынатын салық</td>
-<td>6577</td>
+<td>7535</td>
 </tr>
 <tr>
 <td></td>
@@ -1057,7 +1078,7 @@ source: https://zan.gov.kz/client/#!/doc/176976/kaz/30.12.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="3"></td>
-<td colspan="3">Трансферттер түсімі</td>
+<td colspan="3">Трансферттердің түсімдері</td>
 <td>43284</td>
 </tr>
 <tr>
@@ -1106,7 +1127,7 @@ source: https://zan.gov.kz/client/#!/doc/176976/kaz/30.12.2022
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">2. Шығындар</td>
-<td>51670</td>
+<td>53170</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
@@ -1114,7 +1135,7 @@ source: https://zan.gov.kz/client/#!/doc/176976/kaz/30.12.2022
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>50149</td>
+<td>50486</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1122,7 +1143,7 @@ source: https://zan.gov.kz/client/#!/doc/176976/kaz/30.12.2022
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>50149</td>
+<td>50486</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1130,7 +1151,7 @@ source: https://zan.gov.kz/client/#!/doc/176976/kaz/30.12.2022
 <td colspan="2">124</td>
 <td colspan="3"></td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>50149</td>
+<td>50486</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1138,7 +1159,7 @@ source: https://zan.gov.kz/client/#!/doc/176976/kaz/30.12.2022
 <td colspan="2"></td>
 <td colspan="3">001</td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>50149</td>
+<td>50486</td>
 </tr>
 <tr>
 <td colspan="2">05</td>
@@ -1178,7 +1199,7 @@ source: https://zan.gov.kz/client/#!/doc/176976/kaz/30.12.2022
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">Тұрғын үй-коммуналдық шаруашылық</td>
-<td>1500</td>
+<td>2663</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1186,7 +1207,7 @@ source: https://zan.gov.kz/client/#!/doc/176976/kaz/30.12.2022
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">Елді-мекендерді көркейту</td>
-<td>1500</td>
+<td>2663</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1194,7 +1215,15 @@ source: https://zan.gov.kz/client/#!/doc/176976/kaz/30.12.2022
 <td colspan="2">124</td>
 <td colspan="3"></td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>1500</td>
+<td>2663</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3">009</td>
+<td colspan="2">Елді мекендердің санитариясын қамтамасыз ету</td>
+<td>1163</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1258,7 +1287,7 @@ source: https://zan.gov.kz/client/#!/doc/176976/kaz/30.12.2022
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">5. Бюджет тапшылығы (профициті)</td>
-<td>0</td>
+<td>-542</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1266,7 +1295,7 @@ source: https://zan.gov.kz/client/#!/doc/176976/kaz/30.12.2022
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">6. Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
-<td>0</td>
+<td>542</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1290,31 +1319,31 @@ source: https://zan.gov.kz/client/#!/doc/176976/kaz/30.12.2022
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">Бюджет қаражаттарының пайдаланылатын қалдықтары</td>
-<td>0</td>
+<td>542</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td colspan="2">8</td>
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">Бюджет қаражаттарының пайдаланылатын қалдықтары</td>
-<td>0</td>
+<td>542</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="3"></td>
+<td colspan="3">01</td>
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">Бюджет қаражаты қалдықтары</td>
-<td>0</td>
+<td>542</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="3"></td>
-<td colspan="2"></td>
+<td colspan="2">1</td>
 <td colspan="3"></td>
 <td colspan="2">Бюджет қаражатының бос қалдықтары</td>
-<td>0</td>
+<td>542</td>
 </tr>
 </table>
 
@@ -1890,10 +1919,12 @@ source: https://zan.gov.kz/client/#!/doc/176976/kaz/30.12.2022
 
 > *Арыс қалалық мәслихатының*  
 > *2022 жылғы 30 желтоқсандағы*  
-> *№33/171-VIІ шешіміне*  
+> *№33/171-VII шешіміне*  
 > *7-қосымша*
 
 ## 2023 жылға арналған Дермене ауылдық округінің бюджеті
+
+> *Ескерту. 7-қосымша жаңа редакцияда - Түркістан облысы Арыс қалалық мәслихатының 26.05.2023 № 4/22-VІІІ (01.01.2023 бастап қолданысқа енгізіледі) шешiмiмен.*
 
 <table>
 <tr>
@@ -1921,7 +1952,7 @@ source: https://zan.gov.kz/client/#!/doc/176976/kaz/30.12.2022
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">1. Кірістер</td>
-<td>51999</td>
+<td>52538</td>
 </tr>
 <tr>
 <td>1</td>
@@ -1929,7 +1960,7 @@ source: https://zan.gov.kz/client/#!/doc/176976/kaz/30.12.2022
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">Салықтық түсімдер</td>
-<td>9557</td>
+<td>10096</td>
 </tr>
 <tr>
 <td></td>
@@ -1942,7 +1973,7 @@ source: https://zan.gov.kz/client/#!/doc/176976/kaz/30.12.2022
 <tr>
 <td></td>
 <td colspan="3"></td>
-<td colspan="2"></td>
+<td colspan="2">2</td>
 <td colspan="3"></td>
 <td colspan="3">Жеке табыс салығы</td>
 <td>1024</td>
@@ -1953,7 +1984,7 @@ source: https://zan.gov.kz/client/#!/doc/176976/kaz/30.12.2022
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">Меншiкке салынатын салықтар</td>
-<td>7847</td>
+<td>8386</td>
 </tr>
 <tr>
 <td></td>
@@ -1977,7 +2008,7 @@ source: https://zan.gov.kz/client/#!/doc/176976/kaz/30.12.2022
 <td colspan="2">4</td>
 <td colspan="3"></td>
 <td colspan="3">Көлiк құралдарына салынатын салық</td>
-<td>6836</td>
+<td>7375</td>
 </tr>
 <tr>
 <td></td>
@@ -2000,7 +2031,7 @@ source: https://zan.gov.kz/client/#!/doc/176976/kaz/30.12.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="3"></td>
-<td colspan="3">Трансферттер түсімі</td>
+<td colspan="3">Трансферттердің түсімдері</td>
 <td>42442</td>
 </tr>
 <tr>
@@ -2049,7 +2080,7 @@ source: https://zan.gov.kz/client/#!/doc/176976/kaz/30.12.2022
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">2. Шығындар</td>
-<td>51999</td>
+<td>52789</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
@@ -2057,7 +2088,7 @@ source: https://zan.gov.kz/client/#!/doc/176976/kaz/30.12.2022
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>50499</td>
+<td>51289</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2065,7 +2096,7 @@ source: https://zan.gov.kz/client/#!/doc/176976/kaz/30.12.2022
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>50499</td>
+<td>51289</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2073,7 +2104,7 @@ source: https://zan.gov.kz/client/#!/doc/176976/kaz/30.12.2022
 <td colspan="2">124</td>
 <td colspan="3"></td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>50499</td>
+<td>51289</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2081,7 +2112,15 @@ source: https://zan.gov.kz/client/#!/doc/176976/kaz/30.12.2022
 <td colspan="2"></td>
 <td colspan="3">001</td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>50499</td>
+<td>50849</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3">022</td>
+<td colspan="2">Мемлекеттік органның күрделі шығыстары</td>
+<td>440</td>
 </tr>
 <tr>
 <td colspan="2">07</td>
@@ -2112,7 +2151,7 @@ source: https://zan.gov.kz/client/#!/doc/176976/kaz/30.12.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="3">011</td>
-<td colspan="2">Елді мекендерді абаттандыру мен көгалдандыру</td>
+<td colspan="2">Елді мекендерді абаттандырумен көгалдандыру</td>
 <td>1500</td>
 </tr>
 <tr>
@@ -2169,7 +2208,7 @@ source: https://zan.gov.kz/client/#!/doc/176976/kaz/30.12.2022
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">5. Бюджет тапшылығы (профициті)</td>
-<td>0</td>
+<td>-251</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2177,7 +2216,7 @@ source: https://zan.gov.kz/client/#!/doc/176976/kaz/30.12.2022
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">6. Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
-<td>0</td>
+<td>251</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2201,31 +2240,31 @@ source: https://zan.gov.kz/client/#!/doc/176976/kaz/30.12.2022
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">Бюджет қаражаттарының пайдаланылатын қалдықтары</td>
-<td>0</td>
+<td>251</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td colspan="2">8</td>
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">Бюджет қаражаттарының пайдаланылатын қалдықтары</td>
-<td>0</td>
+<td>251</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="3"></td>
+<td colspan="3">01</td>
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">Бюджет қаражаты қалдықтары</td>
-<td>0</td>
+<td>251</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="3"></td>
-<td colspan="2"></td>
+<td colspan="2">1</td>
 <td colspan="3"></td>
 <td colspan="2">Бюджет қаражатының бос қалдықтары</td>
-<td>0</td>
+<td>251</td>
 </tr>
 </table>
 
@@ -2801,10 +2840,12 @@ source: https://zan.gov.kz/client/#!/doc/176976/kaz/30.12.2022
 
 > *Арыс қалалық мәслихатының*  
 > *2022 жылғы 30 желтоқсандағы*  
-> *№33/171-VIІ шешіміне*  
+> *№33/171-VII шешіміне*  
 > *10-қосымша*
 
 ## 2023 жылға арналған Жиделі ауылдық округінің бюджеті
+
+> *Ескерту. 10-қосымша жаңа редакцияда - Түркістан облысы Арыс қалалық мәслихатының 26.05.2023 № 4/22-VІІІ (01.01.2023 бастап қолданысқа енгізіледі) шешiмiмен.*
 
 <table>
 <tr>
@@ -2832,7 +2873,7 @@ source: https://zan.gov.kz/client/#!/doc/176976/kaz/30.12.2022
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">1. Кірістер</td>
-<td>48976</td>
+<td>51050</td>
 </tr>
 <tr>
 <td>1</td>
@@ -2840,7 +2881,7 @@ source: https://zan.gov.kz/client/#!/doc/176976/kaz/30.12.2022
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">Салықтық түсімдер</td>
-<td>5585</td>
+<td>6159</td>
 </tr>
 <tr>
 <td></td>
@@ -2853,7 +2894,7 @@ source: https://zan.gov.kz/client/#!/doc/176976/kaz/30.12.2022
 <tr>
 <td></td>
 <td colspan="3"></td>
-<td colspan="2">1</td>
+<td colspan="2">2</td>
 <td colspan="3"></td>
 <td colspan="3">Жеке табыс салығы</td>
 <td>542</td>
@@ -2864,7 +2905,7 @@ source: https://zan.gov.kz/client/#!/doc/176976/kaz/30.12.2022
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">Меншiкке салынатын салықтар</td>
-<td>4979</td>
+<td>5553</td>
 </tr>
 <tr>
 <td></td>
@@ -2888,7 +2929,7 @@ source: https://zan.gov.kz/client/#!/doc/176976/kaz/30.12.2022
 <td colspan="2">4</td>
 <td colspan="3"></td>
 <td colspan="3">Көлiк құралдарына салынатын салық</td>
-<td>4213</td>
+<td>4787</td>
 </tr>
 <tr>
 <td></td>
@@ -2935,8 +2976,8 @@ source: https://zan.gov.kz/client/#!/doc/176976/kaz/30.12.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="3"></td>
-<td colspan="3">Трансферттер түсімі</td>
-<td>42706</td>
+<td colspan="3">Трансферттердің түсімдері</td>
+<td>44206</td>
 </tr>
 <tr>
 <td></td>
@@ -2944,7 +2985,7 @@ source: https://zan.gov.kz/client/#!/doc/176976/kaz/30.12.2022
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td>42706</td>
+<td>44206</td>
 </tr>
 <tr>
 <td></td>
@@ -2952,7 +2993,7 @@ source: https://zan.gov.kz/client/#!/doc/176976/kaz/30.12.2022
 <td colspan="2">3</td>
 <td colspan="3"></td>
 <td colspan="3">Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td>42706</td>
+<td>44206</td>
 </tr>
 <tr>
 <td colspan="12">Функционалдық топ Атауы</td>
@@ -2984,7 +3025,7 @@ source: https://zan.gov.kz/client/#!/doc/176976/kaz/30.12.2022
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">2. Шығындар</td>
-<td>48976</td>
+<td>51168</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
@@ -2992,7 +3033,7 @@ source: https://zan.gov.kz/client/#!/doc/176976/kaz/30.12.2022
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>47476</td>
+<td>48168</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3000,7 +3041,7 @@ source: https://zan.gov.kz/client/#!/doc/176976/kaz/30.12.2022
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>47476</td>
+<td>48168</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3008,7 +3049,7 @@ source: https://zan.gov.kz/client/#!/doc/176976/kaz/30.12.2022
 <td colspan="2">124</td>
 <td colspan="3"></td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>47476</td>
+<td>48168</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3016,7 +3057,15 @@ source: https://zan.gov.kz/client/#!/doc/176976/kaz/30.12.2022
 <td colspan="2"></td>
 <td colspan="3">001</td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>47476</td>
+<td>47226</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3">022</td>
+<td colspan="2">Мемлекеттік органның күрделі шығыстары</td>
+<td>942</td>
 </tr>
 <tr>
 <td colspan="2">07</td>
@@ -3024,7 +3073,7 @@ source: https://zan.gov.kz/client/#!/doc/176976/kaz/30.12.2022
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">Тұрғын үй-коммуналдық шаруашылық</td>
-<td>1500</td>
+<td>3000</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3032,7 +3081,7 @@ source: https://zan.gov.kz/client/#!/doc/176976/kaz/30.12.2022
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">Елді-мекендерді көркейту</td>
-<td>1500</td>
+<td>3000</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3040,6 +3089,14 @@ source: https://zan.gov.kz/client/#!/doc/176976/kaz/30.12.2022
 <td colspan="2">124</td>
 <td colspan="3"></td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
+<td>3000</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3">009</td>
+<td colspan="2">Елді мекендердің санитариясын қамтамасыз ету</td>
 <td>1500</td>
 </tr>
 <tr>
@@ -3104,7 +3161,7 @@ source: https://zan.gov.kz/client/#!/doc/176976/kaz/30.12.2022
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">5. Бюджет тапшылығы (профициті)</td>
-<td>0</td>
+<td>-118</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3112,7 +3169,7 @@ source: https://zan.gov.kz/client/#!/doc/176976/kaz/30.12.2022
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">6. Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
-<td>0</td>
+<td>118</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3136,31 +3193,31 @@ source: https://zan.gov.kz/client/#!/doc/176976/kaz/30.12.2022
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">Бюджет қаражаттарының пайдаланылатын қалдықтары</td>
-<td>0</td>
+<td>118</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td colspan="2">8</td>
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">Бюджет қаражаттарының пайдаланылатын қалдықтары</td>
-<td>0</td>
+<td>118</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="3"></td>
+<td colspan="3">01</td>
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">Бюджет қаражаты қалдықтары</td>
-<td>0</td>
+<td>118</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="3"></td>
-<td colspan="2"></td>
+<td colspan="2">1</td>
 <td colspan="3"></td>
 <td colspan="2">Бюджет қаражатының бос қалдықтары</td>
-<td>0</td>
+<td>118</td>
 </tr>
 </table>
 
@@ -3784,10 +3841,12 @@ source: https://zan.gov.kz/client/#!/doc/176976/kaz/30.12.2022
 
 > *Арыс қалалық мәслихатының*  
 > *2022 жылғы 30 желтоқсандағы*  
-> *№33/171-VIІ шешіміне*  
+> *№33/171-VII шешіміне*  
 > *13-қосымша*
 
 ## 2023 жылға арналған Қожатоғай ауылдық округінің бюджеті
+
+> *Ескерту. 13-қосымша жаңа редакцияда - Түркістан облысы Арыс қалалық мәслихатының 26.05.2023 № 4/22-VІІІ (01.01.2023 бастап қолданысқа енгізіледі) шешiмiмен.*
 
 <table>
 <tr>
@@ -3815,7 +3874,7 @@ source: https://zan.gov.kz/client/#!/doc/176976/kaz/30.12.2022
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">1. Кірістер</td>
-<td>51485</td>
+<td>52020</td>
 </tr>
 <tr>
 <td>1</td>
@@ -3823,7 +3882,7 @@ source: https://zan.gov.kz/client/#!/doc/176976/kaz/30.12.2022
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">Салықтық түсімдер</td>
-<td>23718</td>
+<td>24253</td>
 </tr>
 <tr>
 <td></td>
@@ -3847,7 +3906,7 @@ source: https://zan.gov.kz/client/#!/doc/176976/kaz/30.12.2022
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">Меншiкке салынатын салықтар</td>
-<td>19807</td>
+<td>20342</td>
 </tr>
 <tr>
 <td></td>
@@ -3871,7 +3930,7 @@ source: https://zan.gov.kz/client/#!/doc/176976/kaz/30.12.2022
 <td colspan="2">4</td>
 <td colspan="3"></td>
 <td colspan="3">Көлiк құралдарына салынатын салық</td>
-<td>18489</td>
+<td>19024</td>
 </tr>
 <tr>
 <td></td>
@@ -3894,7 +3953,7 @@ source: https://zan.gov.kz/client/#!/doc/176976/kaz/30.12.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="3"></td>
-<td colspan="3">Трансферттер түсімі</td>
+<td colspan="3">Трансферттердің түсімдері</td>
 <td>27767</td>
 </tr>
 <tr>
@@ -3943,7 +4002,7 @@ source: https://zan.gov.kz/client/#!/doc/176976/kaz/30.12.2022
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">2. Шығындар</td>
-<td>51485</td>
+<td>53099</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
@@ -3951,7 +4010,7 @@ source: https://zan.gov.kz/client/#!/doc/176976/kaz/30.12.2022
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>48955</td>
+<td>50569</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3959,7 +4018,7 @@ source: https://zan.gov.kz/client/#!/doc/176976/kaz/30.12.2022
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>48955</td>
+<td>50569</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3967,7 +4026,7 @@ source: https://zan.gov.kz/client/#!/doc/176976/kaz/30.12.2022
 <td colspan="2">124</td>
 <td colspan="3"></td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>48955</td>
+<td>50569</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3975,7 +4034,15 @@ source: https://zan.gov.kz/client/#!/doc/176976/kaz/30.12.2022
 <td colspan="2"></td>
 <td colspan="3">001</td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>48955</td>
+<td>50319</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3">022</td>
+<td colspan="2">Мемлекеттік органның күрделі шығыстары</td>
+<td>250</td>
 </tr>
 <tr>
 <td colspan="2">05</td>
@@ -4103,7 +4170,7 @@ source: https://zan.gov.kz/client/#!/doc/176976/kaz/30.12.2022
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">5. Бюджет тапшылығы (профициті)</td>
-<td>0</td>
+<td>-1079</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -4111,7 +4178,7 @@ source: https://zan.gov.kz/client/#!/doc/176976/kaz/30.12.2022
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">6. Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
-<td>0</td>
+<td>1079</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -4135,31 +4202,31 @@ source: https://zan.gov.kz/client/#!/doc/176976/kaz/30.12.2022
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">Бюджет қаражаттарының пайдаланылатын қалдықтары</td>
-<td>0</td>
+<td>1079</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td colspan="2">8</td>
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">Бюджет қаражаттарының пайдаланылатын қалдықтары</td>
-<td>0</td>
+<td>1079</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="3"></td>
+<td colspan="3">01</td>
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">Бюджет қаражаты қалдықтары</td>
-<td>0</td>
+<td>1079</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="3"></td>
-<td colspan="2"></td>
+<td colspan="2">1</td>
 <td colspan="3"></td>
 <td colspan="2">Бюджет қаражатының бос қалдықтары</td>
-<td>0</td>
+<td>1079</td>
 </tr>
 </table>
 
@@ -4734,11 +4801,13 @@ source: https://zan.gov.kz/client/#!/doc/176976/kaz/30.12.2022
 </table>
 
 > *Арыс қалалық мәслихатының*  
-> *2022 жылғы 30 желтоқсандағы*  
-> *№33/171-VIІ шешіміне*  
+> *2021 жылғы 31 желтоқсандағы*  
+> *№18/89-VII шешіміне*  
 > *16-қосымша*
 
 ## 2023 жылға арналған Монтайтас ауылдық округінің бюджеті
+
+> *Ескерту. 16-қосымша жаңа редакцияда - Түркістан облысы Арыс қалалық мәслихатының 26.05.2023 № 4/22-VІІІ (01.01.2023 бастап қолданысқа енгізіледі) шешiмiмен.*
 
 <table>
 <tr>
@@ -4766,7 +4835,7 @@ source: https://zan.gov.kz/client/#!/doc/176976/kaz/30.12.2022
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">1. Кірістер</td>
-<td>55178</td>
+<td>55177</td>
 </tr>
 <tr>
 <td>1</td>
@@ -4869,8 +4938,8 @@ source: https://zan.gov.kz/client/#!/doc/176976/kaz/30.12.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="3"></td>
-<td colspan="3">Трансферттер түсімі</td>
-<td>42041</td>
+<td colspan="3">Трансферттердің түсімдері</td>
+<td>42040</td>
 </tr>
 <tr>
 <td></td>
@@ -4878,7 +4947,7 @@ source: https://zan.gov.kz/client/#!/doc/176976/kaz/30.12.2022
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td>42041</td>
+<td>42040</td>
 </tr>
 <tr>
 <td></td>
@@ -4886,7 +4955,7 @@ source: https://zan.gov.kz/client/#!/doc/176976/kaz/30.12.2022
 <td colspan="2">3</td>
 <td colspan="3"></td>
 <td colspan="3">Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td>42041</td>
+<td>42040</td>
 </tr>
 <tr>
 <td colspan="12">Функционалдық топ Атауы</td>
@@ -4918,7 +4987,7 @@ source: https://zan.gov.kz/client/#!/doc/176976/kaz/30.12.2022
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">2. Шығындар</td>
-<td>55178</td>
+<td>56325</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
@@ -4926,7 +4995,7 @@ source: https://zan.gov.kz/client/#!/doc/176976/kaz/30.12.2022
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>53647</td>
+<td>54794</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -4934,7 +5003,7 @@ source: https://zan.gov.kz/client/#!/doc/176976/kaz/30.12.2022
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>53647</td>
+<td>54794</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -4942,7 +5011,7 @@ source: https://zan.gov.kz/client/#!/doc/176976/kaz/30.12.2022
 <td colspan="2">124</td>
 <td colspan="3"></td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>53647</td>
+<td>54794</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -4950,7 +5019,15 @@ source: https://zan.gov.kz/client/#!/doc/176976/kaz/30.12.2022
 <td colspan="2"></td>
 <td colspan="3">001</td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>53647</td>
+<td>54184</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3">022</td>
+<td colspan="2">Мемлекеттік органның күрделі шығыстары</td>
+<td>610</td>
 </tr>
 <tr>
 <td colspan="2">07</td>
@@ -5070,7 +5147,7 @@ source: https://zan.gov.kz/client/#!/doc/176976/kaz/30.12.2022
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">5. Бюджет тапшылығы (профициті)</td>
-<td>0</td>
+<td>-1148</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -5078,7 +5155,7 @@ source: https://zan.gov.kz/client/#!/doc/176976/kaz/30.12.2022
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">6. Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
-<td>0</td>
+<td>1148</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -5102,30 +5179,30 @@ source: https://zan.gov.kz/client/#!/doc/176976/kaz/30.12.2022
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">Бюджет қаражаттарының пайдаланылатын қалдықтары</td>
-<td>0</td>
+<td>1148</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td colspan="2">8</td>
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">Бюджет қаражаттарының пайдаланылатын қалдықтары</td>
-<td>0</td>
+<td>1148</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="3"></td>
+<td colspan="3">01</td>
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">Бюджет қаражаты қалдықтары</td>
-<td>0</td>
+<td>1148</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="3"></td>
-<td colspan="2"></td>
+<td colspan="2">1</td>
 <td colspan="3"></td>
 <td colspan="2">Бюджет қаражатының бос қалдықтары</td>
-<td>0</td>
+<td>1148</td>
 </tr>
 </table>

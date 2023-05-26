@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/176976/kaz/30.12.2022
+source: https://zan.gov.kz/client/#!/doc/176976/kaz/26.05.2023
 ---
 
 > *Арыс қалалық мәслихатының*  
