@@ -1,13 +1,16 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
+source: https://zan.gov.kz/client/#!/doc/177555/rus/31.05.2023
 ---
 
 > *Приложение 1 к решению*  
 > *маслихата Отрарского района*  
-> *от 26 декабря 2022 года №24/131- VII*
+> *от 26 декабря 2022 года*  
+> *№ 24/131-VII*
 
 ## Бюджет Караконырского сельского округа на 2023 год
+
+> *Сноска. Приложение 1 в редакции решения Отрарского районного маслихата Туркестанской области от 31.05.2023 № 3/22-VІІІ (вводится в действие с 01.01.2023).*
 
 <table>
 <tr>
@@ -29,7 +32,7 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td></td>
 <td></td>
 <td>1. Доходы</td>
-<td>58 681</td>
+<td>58 812</td>
 </tr>
 <tr>
 <td>1</td>
@@ -37,7 +40,23 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td></td>
 <td></td>
 <td>Налоговые поступления</td>
-<td>5 042</td>
+<td>5 260</td>
+</tr>
+<tr>
+<td></td>
+<td>01</td>
+<td></td>
+<td></td>
+<td>Подоходный налог</td>
+<td>207</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>2</td>
+<td></td>
+<td>Индивидуальный подоходный налог</td>
+<td>207</td>
 </tr>
 <tr>
 <td></td>
@@ -45,7 +64,7 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td></td>
 <td></td>
 <td>Hалоги на собственность</td>
-<td>4 826</td>
+<td>4 837</td>
 </tr>
 <tr>
 <td></td>
@@ -53,7 +72,7 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td>1</td>
 <td></td>
 <td>Hалоги на имущество</td>
-<td>228</td>
+<td>229</td>
 </tr>
 <tr>
 <td></td>
@@ -69,7 +88,7 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td>4</td>
 <td></td>
 <td>Hалог на транспортные средства</td>
-<td>4 563</td>
+<td>4 546</td>
 </tr>
 <tr>
 <td></td>
@@ -136,30 +155,6 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td>13</td>
 </tr>
 <tr>
-<td>3</td>
-<td></td>
-<td></td>
-<td></td>
-<td>Поступления от продажи основного капитала</td>
-<td>87</td>
-</tr>
-<tr>
-<td></td>
-<td>03</td>
-<td></td>
-<td></td>
-<td>Продажа земли и нематериальных активов</td>
-<td>87</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>1</td>
-<td></td>
-<td>Продажа земли</td>
-<td>87</td>
-</tr>
-<tr>
 <td>4</td>
 <td></td>
 <td></td>
@@ -209,7 +204,7 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td></td>
 <td></td>
 <td>2. Затраты</td>
-<td>58 681</td>
+<td>59 271</td>
 </tr>
 <tr>
 <td>01</td>
@@ -217,7 +212,7 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td></td>
 <td></td>
 <td>Государственные услуги общего характера</td>
-<td>52 889</td>
+<td>53 479</td>
 </tr>
 <tr>
 <td></td>
@@ -225,7 +220,7 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td></td>
 <td></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>52 889</td>
+<td>53 479</td>
 </tr>
 <tr>
 <td></td>
@@ -233,7 +228,7 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>52 889</td>
+<td>53 479</td>
 </tr>
 <tr>
 <td></td>
@@ -241,7 +236,7 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td></td>
 <td>001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>52 889</td>
+<td>53 479</td>
 </tr>
 <tr>
 <td>07</td>
@@ -345,7 +340,7 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td></td>
 <td></td>
 <td>5. Дефицит (профицит) бюджета</td>
-<td>0</td>
+<td>- 459</td>
 </tr>
 <tr>
 <td></td>
@@ -353,7 +348,7 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td></td>
 <td></td>
 <td>6. Финансирование дефицита (использование профицита) бюджета</td>
-<td>0</td>
+<td>459</td>
 </tr>
 <tr>
 <td></td>
@@ -377,7 +372,7 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td></td>
 <td></td>
 <td>Используемые остатки бюджетных средств</td>
-<td>0</td>
+<td>459</td>
 </tr>
 <tr>
 <td></td>
@@ -385,7 +380,7 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td></td>
 <td></td>
 <td>Остатки бюджетных средств</td>
-<td>0</td>
+<td>459</td>
 </tr>
 <tr>
 <td></td>
@@ -393,7 +388,7 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td>1</td>
 <td></td>
 <td>Свободные остатки бюджетных средств</td>
-<td>0</td>
+<td>459</td>
 </tr>
 </table>
 
@@ -1189,9 +1184,11 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 > *Приложение 4 к решению*  
 > *маслихата Отрарского района*  
 > *от 26 декабря 2022 года*  
-> *№24/131- VII*
+> *№ 24/131-VII*
 
 ## Бюджет Коксарайского сельского округа на 2023 год
+
+> *Сноска. Приложение 4 в редакции решения Отрарского районного маслихата Туркестанской области от 31.05.2023 № 3/22-VІІІ (вводится в действие с 01.01.2023).*
 
 <table>
 <tr>
@@ -1213,7 +1210,7 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td></td>
 <td></td>
 <td>1. Доходы</td>
-<td>74 020</td>
+<td>81 182</td>
 </tr>
 <tr>
 <td>1</td>
@@ -1221,7 +1218,23 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td></td>
 <td></td>
 <td>Налоговые поступления</td>
-<td>6 442</td>
+<td>13 632</td>
+</tr>
+<tr>
+<td></td>
+<td>01</td>
+<td></td>
+<td></td>
+<td>Подоходный налог</td>
+<td>939</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>2</td>
+<td></td>
+<td>Индивидуальный подоходный налог</td>
+<td>939</td>
 </tr>
 <tr>
 <td></td>
@@ -1229,7 +1242,7 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td></td>
 <td></td>
 <td>Hалоги на собственность</td>
-<td>6 226</td>
+<td>10 465</td>
 </tr>
 <tr>
 <td></td>
@@ -1237,7 +1250,7 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td>1</td>
 <td></td>
 <td>Hалоги на имущество</td>
-<td>445</td>
+<td>460</td>
 </tr>
 <tr>
 <td></td>
@@ -1245,7 +1258,7 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td>3</td>
 <td></td>
 <td>Земельный налог</td>
-<td>34</td>
+<td>24</td>
 </tr>
 <tr>
 <td></td>
@@ -1253,7 +1266,7 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td>4</td>
 <td></td>
 <td>Hалог на транспортные средства</td>
-<td>5 716</td>
+<td>9 950</td>
 </tr>
 <tr>
 <td></td>
@@ -1269,7 +1282,7 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td></td>
 <td></td>
 <td>Внутренние налоги на товары, работы и услуги</td>
-<td>216</td>
+<td>2228</td>
 </tr>
 <tr>
 <td></td>
@@ -1277,7 +1290,7 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td>3</td>
 <td></td>
 <td>Плата за пользование земельными участками</td>
-<td>216</td>
+<td>2228</td>
 </tr>
 <tr>
 <td>2</td>
@@ -1286,22 +1299,6 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td></td>
 <td>Неналоговые поступления</td>
 <td>15</td>
-</tr>
-<tr>
-<td></td>
-<td>01</td>
-<td></td>
-<td></td>
-<td>Доходы от государственной собственности</td>
-<td>0</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>5</td>
-<td></td>
-<td>Доходы от аренды имущества, находящегося в государственной собственности</td>
-<td>0</td>
 </tr>
 <tr>
 <td></td>
@@ -1325,7 +1322,7 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td></td>
 <td></td>
 <td>Поступления от продажи основного капитала</td>
-<td>106</td>
+<td>78</td>
 </tr>
 <tr>
 <td></td>
@@ -1333,7 +1330,7 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td></td>
 <td></td>
 <td>Продажа земли и нематериальных активов</td>
-<td>106</td>
+<td>78</td>
 </tr>
 <tr>
 <td></td>
@@ -1341,7 +1338,7 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td>1</td>
 <td></td>
 <td>Продажа земли</td>
-<td>106</td>
+<td>78</td>
 </tr>
 <tr>
 <td>4</td>
@@ -1393,7 +1390,7 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td></td>
 <td></td>
 <td>2. Затраты</td>
-<td>74 020</td>
+<td>84 801</td>
 </tr>
 <tr>
 <td>01</td>
@@ -1441,7 +1438,7 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>6 563</td>
+<td>17 344</td>
 </tr>
 <tr>
 <td></td>
@@ -1449,7 +1446,7 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td></td>
 <td></td>
 <td>Благоустройство населенных пунктов</td>
-<td>6 563</td>
+<td>17 344</td>
 </tr>
 <tr>
 <td></td>
@@ -1457,7 +1454,7 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>6 563</td>
+<td>17 344</td>
 </tr>
 <tr>
 <td></td>
@@ -1465,7 +1462,7 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td></td>
 <td>008</td>
 <td>Освещение улиц населенных пунктов</td>
-<td>800</td>
+<td>1 200</td>
 </tr>
 <tr>
 <td></td>
@@ -1481,7 +1478,7 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td></td>
 <td>011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td>4 263</td>
+<td>14 644</td>
 </tr>
 <tr>
 <td></td>
@@ -1537,7 +1534,7 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td></td>
 <td></td>
 <td>5. Дефицит (профицит) бюджета</td>
-<td>0</td>
+<td>-3 619</td>
 </tr>
 <tr>
 <td></td>
@@ -1545,7 +1542,7 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td></td>
 <td></td>
 <td>6. Финансирование дефицита (использование профицита) бюджета</td>
-<td>0</td>
+<td>3 619</td>
 </tr>
 <tr>
 <td></td>
@@ -1569,7 +1566,7 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td></td>
 <td></td>
 <td>Используемые остатки бюджетных средств</td>
-<td>0</td>
+<td>3 619</td>
 </tr>
 <tr>
 <td></td>
@@ -1577,7 +1574,7 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td></td>
 <td></td>
 <td>Остатки бюджетных средств</td>
-<td>0</td>
+<td>3 619</td>
 </tr>
 <tr>
 <td></td>
@@ -1585,7 +1582,7 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td>1</td>
 <td></td>
 <td>Свободные остатки бюджетных средств</td>
-<td>0</td>
+<td>3 619</td>
 </tr>
 </table>
 
@@ -2382,9 +2379,11 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 > *Приложение 7 к решению*  
 > *маслихата Отрарского района*  
 > *от 26 декабря 2022 года*  
-> *№24/131- VII*
+> *№ 24/131-VII*
 
 ## Бюджет Балтакольского сельского округа на 2023 год
+
+> *Сноска. Приложение 7 в редакции решения Отрарского районного маслихата Туркестанской области от 31.05.2023 № 3/22-VІІІ (вводится в действие с 01.01.2023).*
 
 <table>
 <tr>
@@ -2406,7 +2405,7 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td></td>
 <td></td>
 <td>1. Доходы</td>
-<td>57 466</td>
+<td>57 930</td>
 </tr>
 <tr>
 <td>1</td>
@@ -2414,7 +2413,23 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td></td>
 <td></td>
 <td>Налоговые поступления</td>
-<td>6 098</td>
+<td>6 364</td>
+</tr>
+<tr>
+<td></td>
+<td>01</td>
+<td></td>
+<td></td>
+<td>Подоходный налог</td>
+<td>413</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>2</td>
+<td></td>
+<td>Индивидуальный подоходный налог</td>
+<td>413</td>
 </tr>
 <tr>
 <td></td>
@@ -2422,7 +2437,7 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td></td>
 <td></td>
 <td>Hалоги на собственность</td>
-<td>5 882</td>
+<td>5 881</td>
 </tr>
 <tr>
 <td></td>
@@ -2430,7 +2445,7 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td>1</td>
 <td></td>
 <td>Hалоги на имущество</td>
-<td>345</td>
+<td>350</td>
 </tr>
 <tr>
 <td></td>
@@ -2438,7 +2453,7 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td>3</td>
 <td></td>
 <td>Земельный налог</td>
-<td>34</td>
+<td>29</td>
 </tr>
 <tr>
 <td></td>
@@ -2446,7 +2461,7 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td>4</td>
 <td></td>
 <td>Hалог на транспортные средства</td>
-<td>5 501</td>
+<td>5 500</td>
 </tr>
 <tr>
 <td></td>
@@ -2462,7 +2477,7 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td></td>
 <td></td>
 <td>Внутренние налоги на товары, работы и услуги</td>
-<td>216</td>
+<td>70</td>
 </tr>
 <tr>
 <td></td>
@@ -2470,7 +2485,7 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td>3</td>
 <td></td>
 <td>Плата за пользование земельными участками</td>
-<td>216</td>
+<td>70</td>
 </tr>
 <tr>
 <td>2</td>
@@ -2479,22 +2494,6 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td></td>
 <td>Неналоговые поступления</td>
 <td>13</td>
-</tr>
-<tr>
-<td></td>
-<td>01</td>
-<td></td>
-<td></td>
-<td>Доходы от государственной собственности</td>
-<td>0</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>5</td>
-<td></td>
-<td>Доходы от аренды имущества, находящегося в государственной собственности</td>
-<td>0</td>
 </tr>
 <tr>
 <td></td>
@@ -2518,7 +2517,7 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td></td>
 <td></td>
 <td>Поступления от продажи основного капитала</td>
-<td>35</td>
+<td>233</td>
 </tr>
 <tr>
 <td></td>
@@ -2526,7 +2525,7 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td></td>
 <td></td>
 <td>Продажа земли и нематериальных активов</td>
-<td>35</td>
+<td>233</td>
 </tr>
 <tr>
 <td></td>
@@ -2534,7 +2533,7 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td>1</td>
 <td></td>
 <td>Продажа земли</td>
-<td>35</td>
+<td>233</td>
 </tr>
 <tr>
 <td>4</td>
@@ -2586,7 +2585,7 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td></td>
 <td></td>
 <td>2. Затраты</td>
-<td>57 466</td>
+<td>58 024</td>
 </tr>
 <tr>
 <td>01</td>
@@ -2594,7 +2593,7 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td></td>
 <td></td>
 <td>Государственные услуги общего характера</td>
-<td>51 320</td>
+<td>51 414</td>
 </tr>
 <tr>
 <td></td>
@@ -2602,7 +2601,7 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td></td>
 <td></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>51 320</td>
+<td>51 414</td>
 </tr>
 <tr>
 <td></td>
@@ -2610,7 +2609,7 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>51 320</td>
+<td>51 414</td>
 </tr>
 <tr>
 <td></td>
@@ -2618,7 +2617,7 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td></td>
 <td>001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>51 320</td>
+<td>51 414</td>
 </tr>
 <tr>
 <td>07</td>
@@ -2626,7 +2625,7 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>2 518</td>
+<td>2 982</td>
 </tr>
 <tr>
 <td></td>
@@ -2634,7 +2633,7 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td></td>
 <td></td>
 <td>Благоустройство населенных пунктов</td>
-<td>2 518</td>
+<td>2 982</td>
 </tr>
 <tr>
 <td></td>
@@ -2642,7 +2641,7 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>2 518</td>
+<td>2 982</td>
 </tr>
 <tr>
 <td></td>
@@ -2666,7 +2665,7 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td></td>
 <td>011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td>1 218</td>
+<td>1 682</td>
 </tr>
 <tr>
 <td>12</td>
@@ -2754,7 +2753,7 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td></td>
 <td></td>
 <td>5. Дефицит (профицит) бюджета</td>
-<td>0</td>
+<td>-94</td>
 </tr>
 <tr>
 <td></td>
@@ -2762,7 +2761,7 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td></td>
 <td></td>
 <td>6. Финансирование дефицита (использование профицита) бюджета</td>
-<td>0</td>
+<td>94</td>
 </tr>
 <tr>
 <td></td>
@@ -2786,7 +2785,7 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td></td>
 <td></td>
 <td>Используемые остатки бюджетных средств</td>
-<td>0</td>
+<td>94</td>
 </tr>
 <tr>
 <td></td>
@@ -2794,7 +2793,7 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td></td>
 <td></td>
 <td>Остатки бюджетных средств</td>
-<td>0</td>
+<td>94</td>
 </tr>
 <tr>
 <td></td>
@@ -2802,7 +2801,7 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td>1</td>
 <td></td>
 <td>Свободные остатки бюджетных средств</td>
-<td>0</td>
+<td>94</td>
 </tr>
 </table>
 
@@ -3663,9 +3662,11 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 > *Приложение 10 к решению*  
 > *маслихата Отрарского района*  
 > *от 26 декабря 2022 года*  
-> *№24/131- VII*
+> *№ 24/131-VII*
 
 ## Бюджет Талаптинского сельского округа на 2023 год
+
+> *Сноска. Приложение 10 в редакции решения Отрарского районного маслихата Туркестанской области от 31.05.2023 № 3/22-VІІІ (вводится в действие с 01.01.2023).*
 
 <table>
 <tr>
@@ -3687,7 +3688,7 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td></td>
 <td></td>
 <td>1. Доходы</td>
-<td>77 437</td>
+<td>79 480</td>
 </tr>
 <tr>
 <td>1</td>
@@ -3695,7 +3696,23 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td></td>
 <td></td>
 <td>Налоговые поступления</td>
-<td>8 533</td>
+<td>10 216</td>
+</tr>
+<tr>
+<td></td>
+<td>01</td>
+<td></td>
+<td></td>
+<td>Подоходный налог</td>
+<td>1 777</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>2</td>
+<td></td>
+<td>Индивидуальный подоходный налог</td>
+<td>1 777</td>
 </tr>
 <tr>
 <td></td>
@@ -3703,7 +3720,7 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td></td>
 <td></td>
 <td>Hалоги на собственность</td>
-<td>8 317</td>
+<td>8 344</td>
 </tr>
 <tr>
 <td></td>
@@ -3711,7 +3728,7 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td>1</td>
 <td></td>
 <td>Hалоги на имущество</td>
-<td>580</td>
+<td>581</td>
 </tr>
 <tr>
 <td></td>
@@ -3719,7 +3736,7 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td>3</td>
 <td></td>
 <td>Земельный налог</td>
-<td>32</td>
+<td>52</td>
 </tr>
 <tr>
 <td></td>
@@ -3727,7 +3744,7 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td>4</td>
 <td></td>
 <td>Hалог на транспортные средства</td>
-<td>7 666</td>
+<td>7 672</td>
 </tr>
 <tr>
 <td></td>
@@ -3743,7 +3760,7 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td></td>
 <td></td>
 <td>Внутренние налоги на товары, работы и услуги</td>
-<td>216</td>
+<td>95</td>
 </tr>
 <tr>
 <td></td>
@@ -3751,7 +3768,7 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td>3</td>
 <td></td>
 <td>Плата за пользование земельными участками</td>
-<td>216</td>
+<td>95</td>
 </tr>
 <tr>
 <td>2</td>
@@ -3799,7 +3816,7 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td></td>
 <td></td>
 <td>Поступления от продажи основного капитала</td>
-<td>130</td>
+<td>490</td>
 </tr>
 <tr>
 <td></td>
@@ -3807,7 +3824,7 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td></td>
 <td></td>
 <td>Продажа земли и нематериальных активов</td>
-<td>130</td>
+<td>490</td>
 </tr>
 <tr>
 <td></td>
@@ -3815,7 +3832,7 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td>1</td>
 <td></td>
 <td>Продажа земли</td>
-<td>130</td>
+<td>490</td>
 </tr>
 <tr>
 <td>4</td>
@@ -3867,7 +3884,7 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td></td>
 <td></td>
 <td>2. Затраты</td>
-<td>77 437</td>
+<td>81 066</td>
 </tr>
 <tr>
 <td>01</td>
@@ -3907,7 +3924,7 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>3 741</td>
+<td>6 870</td>
 </tr>
 <tr>
 <td></td>
@@ -3915,7 +3932,7 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td></td>
 <td></td>
 <td>Благоустройство населенных пунктов</td>
-<td>3 741</td>
+<td>6 870</td>
 </tr>
 <tr>
 <td></td>
@@ -3923,7 +3940,7 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>3 741</td>
+<td>6 870</td>
 </tr>
 <tr>
 <td></td>
@@ -3931,7 +3948,7 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td></td>
 <td>008</td>
 <td>Освещение улиц населенных пунктов</td>
-<td>700</td>
+<td>3 329</td>
 </tr>
 <tr>
 <td></td>
@@ -3939,7 +3956,7 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td></td>
 <td>009</td>
 <td>Обеспечение санитарии населенных пунктов</td>
-<td>550</td>
+<td>2 050</td>
 </tr>
 <tr>
 <td></td>
@@ -3947,7 +3964,7 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td></td>
 <td>011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td>2 491</td>
+<td>1 491</td>
 </tr>
 <tr>
 <td>12</td>
@@ -4035,7 +4052,7 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td></td>
 <td></td>
 <td>5. Дефицит (профицит) бюджета</td>
-<td>0</td>
+<td>-1 586</td>
 </tr>
 <tr>
 <td></td>
@@ -4043,7 +4060,7 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td></td>
 <td></td>
 <td>6. Финансирование дефицита (использование профицита) бюджета</td>
-<td>0</td>
+<td>1 586</td>
 </tr>
 <tr>
 <td></td>
@@ -4067,7 +4084,7 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td></td>
 <td></td>
 <td>Используемые остатки бюджетных средств</td>
-<td>0</td>
+<td>1 586</td>
 </tr>
 <tr>
 <td></td>
@@ -4075,7 +4092,7 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td></td>
 <td></td>
 <td>Остатки бюджетных средств</td>
-<td>0</td>
+<td>1 586</td>
 </tr>
 <tr>
 <td></td>
@@ -4083,7 +4100,7 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td>1</td>
 <td></td>
 <td>Свободные остатки бюджетных средств</td>
-<td>0</td>
+<td>1 586</td>
 </tr>
 </table>
 
@@ -4944,9 +4961,11 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 > *Приложение 13 к решению*  
 > *маслихата Отрарского района*  
 > *от 26 декабря 2022 года*  
-> *№24/131- VII*
+> *№ 24/131-VII*
 
 ## Бюджет Шиликского сельского округа на 2023 год
+
+> *Сноска. Приложение 13 в редакции решения Отрарского районного маслихата Туркестанской области от 31.05.2023 № 3/22-VІІІ (вводится в действие с 01.01.2023).*
 
 <table>
 <tr>
@@ -4968,7 +4987,7 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td></td>
 <td></td>
 <td>1. Доходы</td>
-<td>89 364</td>
+<td>89 405</td>
 </tr>
 <tr>
 <td>1</td>
@@ -4976,7 +4995,23 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td></td>
 <td></td>
 <td>Налоговые поступления</td>
-<td>11 456</td>
+<td>11 640</td>
+</tr>
+<tr>
+<td></td>
+<td>01</td>
+<td></td>
+<td></td>
+<td>Подоходный налог</td>
+<td>476</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>2</td>
+<td></td>
+<td>Индивидуальный подоходный налог</td>
+<td>476</td>
 </tr>
 <tr>
 <td></td>
@@ -4984,7 +5019,7 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td></td>
 <td></td>
 <td>Hалоги на собственность</td>
-<td>11 240</td>
+<td>11 052</td>
 </tr>
 <tr>
 <td></td>
@@ -4992,7 +5027,7 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td>1</td>
 <td></td>
 <td>Hалоги на имущество</td>
-<td>267</td>
+<td>270</td>
 </tr>
 <tr>
 <td></td>
@@ -5000,7 +5035,7 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td>3</td>
 <td></td>
 <td>Земельный налог</td>
-<td>7</td>
+<td>11</td>
 </tr>
 <tr>
 <td></td>
@@ -5008,7 +5043,7 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td>4</td>
 <td></td>
 <td>Hалог на транспортные средства</td>
-<td>10 957</td>
+<td>10 762</td>
 </tr>
 <tr>
 <td></td>
@@ -5024,7 +5059,7 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td></td>
 <td></td>
 <td>Внутренние налоги на товары, работы и услуги</td>
-<td>216</td>
+<td>62</td>
 </tr>
 <tr>
 <td></td>
@@ -5032,7 +5067,7 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td>3</td>
 <td></td>
 <td>Плата за пользование земельными участками</td>
-<td>216</td>
+<td>62</td>
 </tr>
 <tr>
 <td>2</td>
@@ -5041,22 +5076,6 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td></td>
 <td>Неналоговые поступления</td>
 <td>13</td>
-</tr>
-<tr>
-<td></td>
-<td>01</td>
-<td></td>
-<td></td>
-<td>Доходы от государственной собственности</td>
-<td>0</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>5</td>
-<td></td>
-<td>Доходы от аренды имущества, находящегося в государственной собственности</td>
-<td>0</td>
 </tr>
 <tr>
 <td></td>
@@ -5080,7 +5099,7 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td></td>
 <td></td>
 <td>Поступления от продажи основного капитала</td>
-<td>130</td>
+<td>37</td>
 </tr>
 <tr>
 <td></td>
@@ -5088,7 +5107,7 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td></td>
 <td></td>
 <td>Продажа земли и нематериальных активов</td>
-<td>130</td>
+<td>37</td>
 </tr>
 <tr>
 <td></td>
@@ -5096,7 +5115,7 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td>1</td>
 <td></td>
 <td>Продажа земли</td>
-<td>130</td>
+<td>37</td>
 </tr>
 <tr>
 <td>4</td>
@@ -5148,7 +5167,7 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td></td>
 <td></td>
 <td>2. Затраты</td>
-<td>89 364</td>
+<td>90 100</td>
 </tr>
 <tr>
 <td>01</td>
@@ -5156,7 +5175,7 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td></td>
 <td></td>
 <td>Государственные услуги общего характера</td>
-<td>77 765</td>
+<td>78 460</td>
 </tr>
 <tr>
 <td></td>
@@ -5164,7 +5183,7 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td></td>
 <td></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>77 765</td>
+<td>78 460</td>
 </tr>
 <tr>
 <td></td>
@@ -5172,7 +5191,7 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>77 765</td>
+<td>78 460</td>
 </tr>
 <tr>
 <td></td>
@@ -5180,7 +5199,7 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td></td>
 <td>001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>77 765</td>
+<td>78 460</td>
 </tr>
 <tr>
 <td>07</td>
@@ -5188,7 +5207,7 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>6 631</td>
+<td>6 672</td>
 </tr>
 <tr>
 <td></td>
@@ -5196,7 +5215,7 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td></td>
 <td></td>
 <td>Благоустройство населенных пунктов</td>
-<td>6 631</td>
+<td>6 672</td>
 </tr>
 <tr>
 <td></td>
@@ -5204,7 +5223,7 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>6 631</td>
+<td>6 672</td>
 </tr>
 <tr>
 <td></td>
@@ -5228,7 +5247,7 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td></td>
 <td>011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td>2 631</td>
+<td>2 672</td>
 </tr>
 <tr>
 <td>12</td>
@@ -5316,7 +5335,7 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td></td>
 <td></td>
 <td>5. Дефицит (профицит) бюджета</td>
-<td>0</td>
+<td>-695</td>
 </tr>
 <tr>
 <td></td>
@@ -5324,7 +5343,7 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td></td>
 <td></td>
 <td>6. Финансирование дефицита (использование профицита) бюджета</td>
-<td>0</td>
+<td>695</td>
 </tr>
 <tr>
 <td></td>
@@ -5348,7 +5367,7 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td></td>
 <td></td>
 <td>Используемые остатки бюджетных средств</td>
-<td>0</td>
+<td>695</td>
 </tr>
 <tr>
 <td></td>
@@ -5356,7 +5375,7 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td></td>
 <td></td>
 <td>Остатки бюджетных средств</td>
-<td>0</td>
+<td>695</td>
 </tr>
 <tr>
 <td></td>
@@ -5364,7 +5383,7 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td>1</td>
 <td></td>
 <td>Свободные остатки бюджетных средств</td>
-<td>0</td>
+<td>695</td>
 </tr>
 </table>
 
@@ -6225,9 +6244,11 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 > *Приложение 16 к решению*  
 > *маслихата Отрарского района*  
 > *от 26 декабря 2022 года*  
-> *№24/131- VII*
+> *№ 24/131-VII*
 
 ## Бюджет Шаульдерского сельского округа на 2023 год
+
+> *Сноска. Приложение 16 в редакции решения Отрарского районного маслихата Туркестанской области от 31.05.2023 № 3/22-VІІІ (вводится в действие с 01.01.2023).*
 
 <table>
 <tr>
@@ -6249,7 +6270,7 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td></td>
 <td></td>
 <td>1. Доходы</td>
-<td>89 958</td>
+<td>96 136</td>
 </tr>
 <tr>
 <td>1</td>
@@ -6257,7 +6278,23 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td></td>
 <td></td>
 <td>Налоговые поступления</td>
-<td>25 620</td>
+<td>30 830</td>
+</tr>
+<tr>
+<td></td>
+<td>01</td>
+<td></td>
+<td></td>
+<td>Подоходный налог</td>
+<td>5 901</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>2</td>
+<td></td>
+<td>Индивидуальный подоходный налог</td>
+<td>5 901</td>
 </tr>
 <tr>
 <td></td>
@@ -6265,7 +6302,7 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td></td>
 <td></td>
 <td>Hалоги на собственность</td>
-<td>25 425</td>
+<td>24 698</td>
 </tr>
 <tr>
 <td></td>
@@ -6273,7 +6310,7 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td>1</td>
 <td></td>
 <td>Hалоги на имущество</td>
-<td>81</td>
+<td>900</td>
 </tr>
 <tr>
 <td></td>
@@ -6281,7 +6318,7 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td>3</td>
 <td></td>
 <td>Земельный налог</td>
-<td>751</td>
+<td>356</td>
 </tr>
 <tr>
 <td></td>
@@ -6289,15 +6326,7 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td>4</td>
 <td></td>
 <td>Hалог на транспортные средства</td>
-<td>24 593</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>5</td>
-<td></td>
-<td>Единый земелный налог</td>
-<td>0</td>
+<td>23 442</td>
 </tr>
 <tr>
 <td></td>
@@ -6305,7 +6334,7 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td></td>
 <td></td>
 <td>Внутренние налоги на товары, работы и услуги</td>
-<td>195</td>
+<td>231</td>
 </tr>
 <tr>
 <td></td>
@@ -6313,7 +6342,7 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td>3</td>
 <td></td>
 <td>Плата за пользование земельными участками</td>
-<td>0</td>
+<td>36</td>
 </tr>
 <tr>
 <td></td>
@@ -6330,22 +6359,6 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td></td>
 <td>Неналоговые поступления</td>
 <td>18</td>
-</tr>
-<tr>
-<td></td>
-<td>01</td>
-<td></td>
-<td></td>
-<td>Доходы от государственной собственности</td>
-<td>0</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>5</td>
-<td></td>
-<td>Доходы от аренды имущества, находящегося в государственной собственности</td>
-<td>0</td>
 </tr>
 <tr>
 <td></td>
@@ -6369,7 +6382,7 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td></td>
 <td></td>
 <td>Поступления от продажи основного капитала</td>
-<td>472</td>
+<td>1 440</td>
 </tr>
 <tr>
 <td></td>
@@ -6377,7 +6390,7 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td></td>
 <td></td>
 <td>Продажа земли и нематериальных активов</td>
-<td>472</td>
+<td>1 440</td>
 </tr>
 <tr>
 <td></td>
@@ -6385,7 +6398,7 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td>1</td>
 <td></td>
 <td>Продажа земли</td>
-<td>472</td>
+<td>1 440</td>
 </tr>
 <tr>
 <td>4</td>
@@ -6437,7 +6450,7 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td></td>
 <td></td>
 <td>2. Затраты</td>
-<td>89 958</td>
+<td>101 473</td>
 </tr>
 <tr>
 <td>01</td>
@@ -6445,7 +6458,7 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td></td>
 <td></td>
 <td>Государственные услуги общего характера</td>
-<td>63 848</td>
+<td>69 185</td>
 </tr>
 <tr>
 <td></td>
@@ -6453,7 +6466,7 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td></td>
 <td></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>63 848</td>
+<td>69 185</td>
 </tr>
 <tr>
 <td></td>
@@ -6461,7 +6474,7 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>63 848</td>
+<td>69 185</td>
 </tr>
 <tr>
 <td></td>
@@ -6469,7 +6482,7 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td></td>
 <td>001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>63 848</td>
+<td>69 185</td>
 </tr>
 <tr>
 <td>07</td>
@@ -6477,7 +6490,7 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>20 110</td>
+<td>26 288</td>
 </tr>
 <tr>
 <td></td>
@@ -6485,7 +6498,7 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td></td>
 <td></td>
 <td>Благоустройство населенных пунктов</td>
-<td>20 110</td>
+<td>26 288</td>
 </tr>
 <tr>
 <td></td>
@@ -6493,7 +6506,7 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>20 110</td>
+<td>26 288</td>
 </tr>
 <tr>
 <td></td>
@@ -6501,7 +6514,7 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td></td>
 <td>008</td>
 <td>Освещение улиц населенных пунктов</td>
-<td>9 000</td>
+<td>15 178</td>
 </tr>
 <tr>
 <td></td>
@@ -6621,7 +6634,7 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td></td>
 <td></td>
 <td>5. Дефицит (профицит) бюджета</td>
-<td>0</td>
+<td>-5 337</td>
 </tr>
 <tr>
 <td></td>
@@ -6629,7 +6642,7 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td></td>
 <td></td>
 <td>6. Финансирование дефицита (использование профицита) бюджета</td>
-<td>0</td>
+<td>5 337</td>
 </tr>
 <tr>
 <td></td>
@@ -6653,7 +6666,7 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td></td>
 <td></td>
 <td>Используемые остатки бюджетных средств</td>
-<td>0</td>
+<td>5 337</td>
 </tr>
 <tr>
 <td></td>
@@ -6661,7 +6674,7 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td></td>
 <td></td>
 <td>Остатки бюджетных средств</td>
-<td>0</td>
+<td>5 337</td>
 </tr>
 <tr>
 <td></td>
@@ -6669,6 +6682,6 @@ source: https://zan.gov.kz/client/#!/doc/177555/rus/26.12.2022
 <td>1</td>
 <td></td>
 <td>Свободные остатки бюджетных средств</td>
-<td>0</td>
+<td>5 337</td>
 </tr>
 </table>
