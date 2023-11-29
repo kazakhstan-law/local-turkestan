@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/177765/kaz/15.08.2023
+source: https://zan.gov.kz/client/#!/doc/177765/kaz/29.11.2023
 ---
 
 > *Созақ аудандық мәслихатының*  
@@ -9,7 +9,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/kaz/15.08.2023
 
 ## Тасты ауылдық округінің 2023 жылға арналған бюджеті
 
-> *Ескерту. 34-қосымша жаңа редакцияда - Түркістан облысы Созақ аудандық мәслихатының 24.05.2023 № 22 (01.01.2023 бастап қолданысқа енгізіледі) шешiмiмен.*
+> *Ескерту. 34-қосымша жаңа редакцияда - Түркістан облысы Созақ аудандық мәслихатының 24.05.2023 № 22 (01.01.2023 бастап қолданысқа енгізіледі); 29.11.2023 № 66 (01.01.2023 бастап қолданысқа енгізіледі) шешiмдерiмен.*
 
 <table>
 <tr>
@@ -35,7 +35,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/kaz/15.08.2023
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2">1. Кірістер</td>
-<td>47 513</td>
+<td>50 013</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -43,7 +43,23 @@ source: https://zan.gov.kz/client/#!/doc/177765/kaz/15.08.2023
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2">Салықтық түсімдер</td>
-<td>5 873</td>
+<td>8 373</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3">01</td>
+<td colspan="2"></td>
+<td colspan="2">Табыс салығы</td>
+<td>570</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2">2</td>
+<td colspan="2">Жеке табыс салығы</td>
+<td>570</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -51,7 +67,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/kaz/15.08.2023
 <td colspan="3">04</td>
 <td colspan="2"></td>
 <td colspan="2">Меншiкке салынатын салықтар</td>
-<td>5 873</td>
+<td>4 160</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -59,7 +75,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/kaz/15.08.2023
 <td colspan="3"></td>
 <td colspan="2">1</td>
 <td colspan="2">Мүлiкке салынатын салықтар</td>
-<td>90</td>
+<td>20</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -75,7 +91,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/kaz/15.08.2023
 <td colspan="3">05</td>
 <td colspan="2"></td>
 <td colspan="2">Тауарларға жұмыстарға және қызметтерге салынатын ішкі салықтар</td>
-<td>1 643</td>
+<td>3 643</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -83,7 +99,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/kaz/15.08.2023
 <td colspan="3"></td>
 <td colspan="2">3</td>
 <td colspan="2">Табиғи және басқа да ресурстарды пайдаланғаны үшiн түсетiн түсiмдер</td>
-<td>1 643</td>
+<td>3 643</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -150,7 +166,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/kaz/15.08.2023
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td>2. Шығындар</td>
-<td>51 483</td>
+<td>53 983</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
@@ -158,7 +174,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/kaz/15.08.2023
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>51 283</td>
+<td>53 783</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -166,7 +182,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/kaz/15.08.2023
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>51 283</td>
+<td>53 783</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -174,7 +190,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/kaz/15.08.2023
 <td colspan="3">124</td>
 <td colspan="3"></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>51 283</td>
+<td>53 783</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -182,7 +198,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/kaz/15.08.2023
 <td colspan="3"></td>
 <td colspan="3">001</td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>50 433</td>
+<td>51 833</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -190,7 +206,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/kaz/15.08.2023
 <td colspan="3"></td>
 <td colspan="3">022</td>
 <td>Мемлекеттік органның күрделі шығыстары</td>
-<td>850</td>
+<td>1 950</td>
 </tr>
 <tr>
 <td colspan="2">07</td>
@@ -341,7 +357,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/kaz/15.08.2023
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2">5. Бюджет тапшылығы (профициті)</td>
-<td>-3 970</td>
+<td>-3970</td>
 </tr>
 <tr>
 <td></td>
@@ -349,7 +365,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/kaz/15.08.2023
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2">6. Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
-<td>3 970</td>
+<td>3970</td>
 </tr>
 <tr>
 <td>7</td>
@@ -420,7 +436,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/kaz/15.08.2023
 <td colspan="4"></td>
 <td></td>
 <td colspan="2">Бюджет қаражатының пайдаланылатын қалдықтары</td>
-<td>3 970</td>
+<td>3970</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -428,7 +444,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/kaz/15.08.2023
 <td colspan="4"></td>
 <td></td>
 <td colspan="2">Бюджет қаражаты қалдықтары</td>
-<td>3 970</td>
+<td>3970</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -436,7 +452,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/kaz/15.08.2023
 <td colspan="4">1</td>
 <td></td>
 <td colspan="2">Бюджет қаражатының бос қалдықтары</td>
-<td>3 970</td>
+<td>3970</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -444,7 +460,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/kaz/15.08.2023
 <td colspan="4"></td>
 <td>01</td>
 <td colspan="2">Бюджет қаражатының бос қалдықтары</td>
-<td>3 970</td>
+<td>3970</td>
 </tr>
 </table>
 

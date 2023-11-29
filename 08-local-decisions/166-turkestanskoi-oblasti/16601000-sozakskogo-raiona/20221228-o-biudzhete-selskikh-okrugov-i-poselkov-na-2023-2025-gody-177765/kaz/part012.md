@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/177765/kaz/15.08.2023
+source: https://zan.gov.kz/client/#!/doc/177765/kaz/29.11.2023
 ---
 
 > *Созақ аудандық мәслихатының*  
@@ -476,7 +476,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/kaz/15.08.2023
 
 ## Құмкент ауылдық округінің 2023 жылға арналған бюджеті
 
-> *Ескерту. 13-қосымша жаңа редакцияда - Түркістан облысы Созақ аудандық мәслихатының 24.05.2023 № 22 (01.01.2023 бастап қолданысқа енгізіледі); 15.08.2023 № 42 (01.01.2023 бастап қолданысқа енгізіледі) шешiмдерiмен.*
+> *Ескерту. 13-қосымша жаңа редакцияда - Түркістан облысы Созақ аудандық мәслихатының 24.05.2023 № 22 (01.01.2023 бастап қолданысқа енгізіледі); 15.08.2023 № 42 (01.01.2023 бастап қолданысқа енгізіледі); 29.11.2023 № 66 (01.01.2023 бастап қолданысқа енгізіледі) шешiмдерiмен.*
 
 <table>
 <tr>
@@ -518,7 +518,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/kaz/15.08.2023
 <td colspan="3">01</td>
 <td colspan="2"></td>
 <td colspan="2">Табыс салығы</td>
-<td>225</td>
+<td>650</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -526,7 +526,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/kaz/15.08.2023
 <td colspan="3"></td>
 <td colspan="2">2</td>
 <td colspan="2">Жеке табыс салығы</td>
-<td>225</td>
+<td>650</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -534,7 +534,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/kaz/15.08.2023
 <td colspan="3">04</td>
 <td colspan="2"></td>
 <td colspan="2">Меншiкке салынатын салықтар</td>
-<td>7 666</td>
+<td>7 241</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -542,7 +542,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/kaz/15.08.2023
 <td colspan="3"></td>
 <td colspan="2">1</td>
 <td colspan="2">Мүлiкке салынатын салықтар</td>
-<td>502</td>
+<td>77</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -720,7 +720,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/kaz/15.08.2023
 <td></td>
 <td colspan="3"></td>
 <td colspan="3">011</td>
-<td>Елді мекендерді абаттандыру мен, көгалдандыру</td>
+<td>Елді мекендерді көркейту көгалдандыру</td>
 <td>22 227</td>
 </tr>
 <tr>
@@ -1887,7 +1887,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/kaz/15.08.2023
 
 ## Созақ ауылдық округінің 2023 жылға арналған бюджеті
 
-> *Ескерту. 16-қосымша жаңа редакцияда - Түркістан облысы Созақ аудандық мәслихатының 24.05.2023 № 22 (01.01.2023 бастап қолданысқа енгізіледі) шешiмiмен.*
+> *Ескерту. 16-қосымша жаңа редакцияда - Түркістан облысы Созақ аудандық мәслихатының 24.05.2023 № 22 (01.01.2023 бастап қолданысқа енгізіледі); 29.11.2023 № 66 (01.01.2023 бастап қолданысқа енгізіледі) шешiмдерiмен.*
 
 <table>
 <tr>
@@ -1913,7 +1913,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/kaz/15.08.2023
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2">1. Кірістер</td>
-<td>102 794</td>
+<td>104 094</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1921,7 +1921,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/kaz/15.08.2023
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2">Салықтық түсімдер</td>
-<td>27 873</td>
+<td>29 173</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1929,7 +1929,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/kaz/15.08.2023
 <td colspan="3">01</td>
 <td colspan="2"></td>
 <td colspan="2">Табыс салығы</td>
-<td>2 175</td>
+<td>5 432</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1937,7 +1937,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/kaz/15.08.2023
 <td colspan="3"></td>
 <td colspan="2">2</td>
 <td colspan="2">Жеке табыс салығы</td>
-<td>2 175</td>
+<td>5 432</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1945,7 +1945,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/kaz/15.08.2023
 <td colspan="3">04</td>
 <td colspan="2"></td>
 <td colspan="2">Меншiкке салынатын салықтар</td>
-<td>20 952</td>
+<td>20 222</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1953,7 +1953,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/kaz/15.08.2023
 <td colspan="3"></td>
 <td colspan="2">1</td>
 <td colspan="2">Мүлiкке салынатын салықтар</td>
-<td>1 152</td>
+<td>422</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1969,7 +1969,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/kaz/15.08.2023
 <td colspan="3">05</td>
 <td colspan="2"></td>
 <td colspan="2">Тауарларға, жұмыстарға және қызметтерге салынатын ішкі салықтар</td>
-<td>4 746</td>
+<td>3 519</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1977,7 +1977,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/kaz/15.08.2023
 <td colspan="3"></td>
 <td colspan="2">3</td>
 <td colspan="2">Табиғи және басқа да ресурстарды пайдаланғаны үшiн түсетiн түсiмдер</td>
-<td>4 746</td>
+<td>3 519</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2017,7 +2017,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/kaz/15.08.2023
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2">Трансферттердің түсімдері</td>
-<td>71 549</td>
+<td>71549</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2060,7 +2060,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/kaz/15.08.2023
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td>2. Шығындар</td>
-<td>107 946</td>
+<td>109 246</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
@@ -2068,7 +2068,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/kaz/15.08.2023
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>76 846</td>
+<td>77 956</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2076,7 +2076,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/kaz/15.08.2023
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>76 846</td>
+<td>77 956</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2084,7 +2084,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/kaz/15.08.2023
 <td colspan="3">124</td>
 <td colspan="3"></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>76 846</td>
+<td>77 956</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2092,7 +2092,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/kaz/15.08.2023
 <td colspan="3"></td>
 <td colspan="3">001</td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>75 034</td>
+<td>76 334</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2100,7 +2100,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/kaz/15.08.2023
 <td colspan="3"></td>
 <td colspan="3">022</td>
 <td>Мемлекеттік органның күрделі шығыстары</td>
-<td>1 812</td>
+<td>1 622</td>
 </tr>
 <tr>
 <td colspan="2">07</td>
@@ -2108,7 +2108,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/kaz/15.08.2023
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>31 100</td>
+<td>31 290</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2116,7 +2116,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/kaz/15.08.2023
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td>Елді-мекендерді көркейту</td>
-<td>31 100</td>
+<td>31 290</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2124,7 +2124,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/kaz/15.08.2023
 <td colspan="3">124</td>
 <td colspan="3"></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>31 100</td>
+<td>31 290</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2132,7 +2132,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/kaz/15.08.2023
 <td colspan="3"></td>
 <td colspan="3">008</td>
 <td>Елді мекендердегі көшелерді жарықтандыру</td>
-<td>22 976</td>
+<td>23 316</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2140,7 +2140,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/kaz/15.08.2023
 <td colspan="3"></td>
 <td colspan="3">009</td>
 <td>Елді мекендердің санитариясын қамтамасыз ету</td>
-<td>3 124</td>
+<td>2 974</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3362,7 +3362,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/kaz/15.08.2023
 
 ## Сызған ауылдық округінің 2023 жылға арналған бюджеті
 
-> *Ескерту. 19-қосымша жаңа редакцияда - Түркістан облысы Созақ аудандық мәслихатының 24.05.2023 № 22 (01.01.2023 бастап қолданысқа енгізіледі); 15.08.2023 № 42 (01.01.2023 бастап қолданысқа енгізіледі) шешiмдерiмен.*
+> *Ескерту. 19-қосымша жаңа редакцияда - Түркістан облысы Созақ аудандық мәслихатының 24.05.2023 № 22 (01.01.2023 бастап қолданысқа енгізіледі); 15.08.2023 № 42 (01.01.2023 бастап қолданысқа енгізіледі); 29.11.2023 № 66 (01.01.2023 бастап қолданысқа енгізіледі) шешiмдерiмен.*
 
 <table>
 <tr>
@@ -3404,7 +3404,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/kaz/15.08.2023
 <td colspan="3">01</td>
 <td colspan="2"></td>
 <td colspan="2">Табыс салығы</td>
-<td>800</td>
+<td>875</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3412,7 +3412,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/kaz/15.08.2023
 <td colspan="3"></td>
 <td colspan="2">2</td>
 <td colspan="2">Жеке табыс салығы</td>
-<td>800</td>
+<td>875</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3420,7 +3420,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/kaz/15.08.2023
 <td colspan="3">04</td>
 <td colspan="2"></td>
 <td colspan="2">Меншiкке салынатын салықтар</td>
-<td>6 775</td>
+<td>6 700</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3428,7 +3428,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/kaz/15.08.2023
 <td colspan="3"></td>
 <td colspan="2">1</td>
 <td colspan="2">Мүлiкке салынатын салықтар</td>
-<td>275</td>
+<td>200</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3543,7 +3543,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/kaz/15.08.2023
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>94 525</td>
+<td>90 906</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3551,7 +3551,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/kaz/15.08.2023
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>94 525</td>
+<td>90 906</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3559,7 +3559,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/kaz/15.08.2023
 <td colspan="3">124</td>
 <td colspan="3"></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>94 525</td>
+<td>90 906</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3567,7 +3567,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/kaz/15.08.2023
 <td colspan="3"></td>
 <td colspan="3">001</td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>93 118</td>
+<td>89 499</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3575,7 +3575,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/kaz/15.08.2023
 <td colspan="3"></td>
 <td colspan="3">022</td>
 <td>Мемлекеттік органның күрделі шығыстары</td>
-<td>1 407</td>
+<td>1407</td>
 </tr>
 <tr>
 <td colspan="2">07</td>
@@ -3583,7 +3583,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/kaz/15.08.2023
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>8 372</td>
+<td>11 991</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3591,7 +3591,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/kaz/15.08.2023
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td>Елді-мекендерді көркейту</td>
-<td>8 372</td>
+<td>11 991</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3599,7 +3599,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/kaz/15.08.2023
 <td colspan="3">124</td>
 <td colspan="3"></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>8 372</td>
+<td>11 991</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3607,7 +3607,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/kaz/15.08.2023
 <td colspan="3"></td>
 <td colspan="3">008</td>
 <td>Елді мекендердегі көшелерді жарықтандыру</td>
-<td>8172</td>
+<td>11 791</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -4797,7 +4797,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/kaz/15.08.2023
 
 ## Шолаққорған ауылдық округінің 2023 жылға арналған бюджеті
 
-> *Ескерту. 22-қосымша жаңа редакцияда - Түркістан облысы Созақ аудандық мәслихатының 24.05.2023 № 22 (01.01.2023 бастап қолданысқа енгізіледі); 15.08.2023 № 42 (01.01.2023 бастап қолданысқа енгізіледі) шешiмдерiмен.*
+> *Ескерту. 22-қосымша жаңа редакцияда - Түркістан облысы Созақ аудандық мәслихатының 24.05.2023 № 22 (01.01.2023 бастап қолданысқа енгізіледі); 15.08.2023 № 42 (01.01.2023 бастап қолданысқа енгізіледі); 29.11.2023 № 66 (01.01.2023 бастап қолданысқа енгізіледі) шешiмдерiмен.*
 
 <table>
 <tr>
@@ -4823,7 +4823,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/kaz/15.08.2023
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2">1. Кірістер</td>
-<td>219 716</td>
+<td>239 184</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -4831,7 +4831,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/kaz/15.08.2023
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2">Салықтық түсімдер</td>
-<td>78 371</td>
+<td>97 839</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -4839,7 +4839,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/kaz/15.08.2023
 <td colspan="3">01</td>
 <td colspan="2"></td>
 <td colspan="2">Табыс салығы</td>
-<td>18000</td>
+<td>37 883</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -4847,7 +4847,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/kaz/15.08.2023
 <td colspan="3"></td>
 <td colspan="2">2</td>
 <td colspan="2">Жеке табыс салығы</td>
-<td>18 000</td>
+<td>37 883</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -4855,7 +4855,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/kaz/15.08.2023
 <td colspan="3">04</td>
 <td colspan="2"></td>
 <td colspan="2">Меншiкке салынатын салықтар</td>
-<td>59 891</td>
+<td>59 476</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -4863,7 +4863,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/kaz/15.08.2023
 <td colspan="3"></td>
 <td colspan="2">1</td>
 <td colspan="2">Мүлiкке салынатын салықтар</td>
-<td>1 515</td>
+<td>1 100</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -4986,7 +4986,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/kaz/15.08.2023
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td>2. Шығындар</td>
-<td>232 050</td>
+<td>251 518</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
@@ -4994,7 +4994,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/kaz/15.08.2023
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>179 022</td>
+<td>201 470</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -5002,7 +5002,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/kaz/15.08.2023
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>179 022</td>
+<td>201 470</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -5010,7 +5010,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/kaz/15.08.2023
 <td colspan="3">124</td>
 <td colspan="3"></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>179 022</td>
+<td>201 470</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -5018,7 +5018,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/kaz/15.08.2023
 <td colspan="3"></td>
 <td colspan="3">001</td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>176 869</td>
+<td>199 513</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -5026,7 +5026,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/kaz/15.08.2023
 <td colspan="3"></td>
 <td colspan="3">022</td>
 <td>Мемлекеттік органның күрделі шығыстары</td>
-<td>2 153</td>
+<td>1 957</td>
 </tr>
 <tr>
 <td colspan="2">07</td>
@@ -5034,7 +5034,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/kaz/15.08.2023
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>53 028</td>
+<td>50 048</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -5042,7 +5042,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/kaz/15.08.2023
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td>Елді-мекендерді көркейту</td>
-<td>53 028</td>
+<td>50 048</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -5050,7 +5050,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/kaz/15.08.2023
 <td colspan="3">124</td>
 <td colspan="3"></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>53 028</td>
+<td>50048</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -5058,7 +5058,7 @@ source: https://zan.gov.kz/client/#!/doc/177765/kaz/15.08.2023
 <td colspan="3"></td>
 <td colspan="3">008</td>
 <td>Елді мекендердегі көшелерді жарықтандыру</td>
-<td>53 028</td>
+<td>50 048</td>
 </tr>
 <tr>
 <td colspan="2"></td>
