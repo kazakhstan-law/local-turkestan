@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/177249/rus/21.11.2023
+source: https://zan.gov.kz/client/#!/doc/177249/rus/25.12.2023
 ---
 
 > *Приложение 9 к решению*  
@@ -642,7 +642,7 @@ source: https://zan.gov.kz/client/#!/doc/177249/rus/21.11.2023
 
 ## Бюджет сельского округа Акбастау на 2023 год
 
-> *Сноска. Приложение 10 в редакции решений Байдибекского районного маслихата Туркестанской области от 29.05.2023 № 3/14 (вводится в действие с 01.01.2023); от 11.10.2023 № 7/32 (вводится в действие с 01.01.2023); от 21.11.2023 № 9/40 (вводится в действие с 01.01.2023).*
+> *Сноска. Приложение 10 в редакции решений Байдибекского районного маслихата Туркестанской области от 29.05.2023 № 3/14 (вводится в действие с 01.01.2023); от 11.10.2023 № 7/32 (вводится в действие с 01.01.2023); от 21.11.2023 № 9/40 (вводится в действие с 01.01.2023); от 25.12.2023 № 11/50 (вводится в действие с 01.01.2023).*
 
 <table>
 <tr>
@@ -662,7 +662,7 @@ source: https://zan.gov.kz/client/#!/doc/177249/rus/21.11.2023
 <td colspan="2"></td>
 <td colspan="4"></td>
 <td colspan="2">1. Доходы</td>
-<td colspan="2">61 989</td>
+<td colspan="2">62 126</td>
 </tr>
 <tr>
 <td colspan="2">1</td>
@@ -670,7 +670,7 @@ source: https://zan.gov.kz/client/#!/doc/177249/rus/21.11.2023
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Налоговые поступления</td>
-<td colspan="2">21 256</td>
+<td colspan="2">21 689</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -678,7 +678,7 @@ source: https://zan.gov.kz/client/#!/doc/177249/rus/21.11.2023
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Подоходный налог</td>
-<td colspan="2">1 338</td>
+<td colspan="2">4 567</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -686,7 +686,7 @@ source: https://zan.gov.kz/client/#!/doc/177249/rus/21.11.2023
 <td colspan="2">2</td>
 <td colspan="2"></td>
 <td colspan="2">Индивидуальный подоходный налог</td>
-<td colspan="2">1 338</td>
+<td colspan="2">4 567</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -694,7 +694,7 @@ source: https://zan.gov.kz/client/#!/doc/177249/rus/21.11.2023
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Налоги на собственность</td>
-<td colspan="2">15 655</td>
+<td colspan="2">14 843</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -702,7 +702,7 @@ source: https://zan.gov.kz/client/#!/doc/177249/rus/21.11.2023
 <td colspan="2">1</td>
 <td colspan="2"></td>
 <td colspan="2">Налоги на имущество</td>
-<td colspan="2">432</td>
+<td colspan="2">511</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -710,7 +710,7 @@ source: https://zan.gov.kz/client/#!/doc/177249/rus/21.11.2023
 <td colspan="2">3</td>
 <td colspan="2"></td>
 <td colspan="2">Земельный налог</td>
-<td colspan="2">209</td>
+<td colspan="2">104</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -718,7 +718,7 @@ source: https://zan.gov.kz/client/#!/doc/177249/rus/21.11.2023
 <td colspan="2">4</td>
 <td colspan="2"></td>
 <td colspan="2">Налог на транспортные средства</td>
-<td colspan="2">14 489</td>
+<td colspan="2">14 192</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -726,7 +726,7 @@ source: https://zan.gov.kz/client/#!/doc/177249/rus/21.11.2023
 <td colspan="2">5</td>
 <td colspan="2"></td>
 <td colspan="2">Единый земельный налог</td>
-<td colspan="2">525</td>
+<td colspan="2">36</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -734,7 +734,7 @@ source: https://zan.gov.kz/client/#!/doc/177249/rus/21.11.2023
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Внутренние налоги на товары, работы и услуги</td>
-<td colspan="2">4263</td>
+<td colspan="2">2 279</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -742,7 +742,7 @@ source: https://zan.gov.kz/client/#!/doc/177249/rus/21.11.2023
 <td colspan="2">3</td>
 <td colspan="2"></td>
 <td colspan="2">Налога за использование земельных участков</td>
-<td colspan="2">4263</td>
+<td colspan="2">2 279</td>
 </tr>
 <tr>
 <td colspan="2">2</td>
@@ -806,7 +806,7 @@ source: https://zan.gov.kz/client/#!/doc/177249/rus/21.11.2023
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Поступления от продажи основного капитала</td>
-<td colspan="2">315</td>
+<td colspan="2">19</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -814,7 +814,7 @@ source: https://zan.gov.kz/client/#!/doc/177249/rus/21.11.2023
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Поступления от продажи земельных участков</td>
-<td colspan="2">315</td>
+<td colspan="2">19</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -822,7 +822,7 @@ source: https://zan.gov.kz/client/#!/doc/177249/rus/21.11.2023
 <td colspan="2">1</td>
 <td colspan="2"></td>
 <td colspan="2">Поступления от продажи земельных участков</td>
-<td colspan="2">315</td>
+<td colspan="2">19</td>
 </tr>
 <tr>
 <td colspan="2">4</td>
@@ -878,7 +878,7 @@ source: https://zan.gov.kz/client/#!/doc/177249/rus/21.11.2023
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">2. ЗАТРАТЫ</td>
-<td colspan="2">63 150</td>
+<td colspan="2">63 287</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
@@ -886,7 +886,7 @@ source: https://zan.gov.kz/client/#!/doc/177249/rus/21.11.2023
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Государственные услуги общего характера</td>
-<td colspan="2">63 150</td>
+<td colspan="2">58 238</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -894,7 +894,7 @@ source: https://zan.gov.kz/client/#!/doc/177249/rus/21.11.2023
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td colspan="2">63 150</td>
+<td colspan="2">58 238</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -902,7 +902,7 @@ source: https://zan.gov.kz/client/#!/doc/177249/rus/21.11.2023
 <td colspan="2">124</td>
 <td colspan="2"></td>
 <td colspan="2">Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">53 117</td>
+<td colspan="2">58 238</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -910,7 +910,7 @@ source: https://zan.gov.kz/client/#!/doc/177249/rus/21.11.2023
 <td colspan="2"></td>
 <td colspan="2">001</td>
 <td colspan="2">Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">51 794</td>
+<td colspan="2">52 012</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -918,7 +918,7 @@ source: https://zan.gov.kz/client/#!/doc/177249/rus/21.11.2023
 <td colspan="2"></td>
 <td colspan="2">022</td>
 <td colspan="2">Капитальные расходы государственного органа</td>
-<td colspan="2">1323</td>
+<td colspan="2">1 287</td>
 </tr>
 <tr>
 <td colspan="2">07</td>
@@ -926,7 +926,7 @@ source: https://zan.gov.kz/client/#!/doc/177249/rus/21.11.2023
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Жилищно-коммунальное хозяйство</td>
-<td colspan="2">8 862</td>
+<td colspan="2">8 817</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -934,7 +934,7 @@ source: https://zan.gov.kz/client/#!/doc/177249/rus/21.11.2023
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Благоустройство населенных пунктов</td>
-<td colspan="2">8 862</td>
+<td colspan="2">8 817</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -942,7 +942,7 @@ source: https://zan.gov.kz/client/#!/doc/177249/rus/21.11.2023
 <td colspan="2">124</td>
 <td colspan="2"></td>
 <td colspan="2">Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">8 862</td>
+<td colspan="2">8 817</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -958,7 +958,7 @@ source: https://zan.gov.kz/client/#!/doc/177249/rus/21.11.2023
 <td colspan="2"></td>
 <td colspan="2">009</td>
 <td colspan="2">Обеспечение санитарии населенных пунктов</td>
-<td colspan="2">644</td>
+<td colspan="2">599</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2534,7 +2534,7 @@ source: https://zan.gov.kz/client/#!/doc/177249/rus/21.11.2023
 
 ## Бюджет сельского округа Боралдай на 2023 год
 
-> *Сноска. Приложение 13 в редакции решений Байдибекского районного маслихата Туркестанской области от 29.05.2023 № 3/14 (вводится в действие с 01.01.2023); от 11.10.2023 № 7/32 (вводится в действие с 01.01.2023); от 21.11.2023 № 9/40 (вводится в действие с 01.01.2023).*
+> *Сноска. Приложение 13 в редакции решений Байдибекского районного маслихата Туркестанской области от 29.05.2023 № 3/14 (вводится в действие с 01.01.2023); от 11.10.2023 № 7/32 (вводится в действие с 01.01.2023); от 21.11.2023 № 9/40 (вводится в действие с 01.01.2023); от 25.12.2023 № 11/50 (вводится в действие с 01.01.2023).*
 
 <table>
 <tr>
@@ -2554,7 +2554,7 @@ source: https://zan.gov.kz/client/#!/doc/177249/rus/21.11.2023
 <td colspan="2"></td>
 <td colspan="4"></td>
 <td colspan="2">1. Доходы</td>
-<td colspan="2">93 728</td>
+<td colspan="2">93 729</td>
 </tr>
 <tr>
 <td colspan="2">1</td>
@@ -2570,7 +2570,7 @@ source: https://zan.gov.kz/client/#!/doc/177249/rus/21.11.2023
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Подоходный налог</td>
-<td colspan="2">6 240</td>
+<td colspan="2">6 436</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2586,7 +2586,7 @@ source: https://zan.gov.kz/client/#!/doc/177249/rus/21.11.2023
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Налоги на собственность</td>
-<td colspan="2">23 255</td>
+<td colspan="2">23 323</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2594,7 +2594,7 @@ source: https://zan.gov.kz/client/#!/doc/177249/rus/21.11.2023
 <td colspan="2">1</td>
 <td colspan="2"></td>
 <td colspan="2">Налоги на имущество</td>
-<td colspan="2">504</td>
+<td colspan="2">920</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2602,7 +2602,7 @@ source: https://zan.gov.kz/client/#!/doc/177249/rus/21.11.2023
 <td colspan="2">3</td>
 <td colspan="2"></td>
 <td colspan="2">Земельный налог</td>
-<td colspan="2">793</td>
+<td colspan="2">444</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2610,7 +2610,7 @@ source: https://zan.gov.kz/client/#!/doc/177249/rus/21.11.2023
 <td colspan="2">4</td>
 <td colspan="2"></td>
 <td colspan="2">Налог на транспортные средства</td>
-<td colspan="2">21 918</td>
+<td colspan="2">21 919</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2618,7 +2618,7 @@ source: https://zan.gov.kz/client/#!/doc/177249/rus/21.11.2023
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2">1 324</td>
+<td colspan="2">1 543</td>
 </tr>
 <tr>
 <td colspan="2">2</td>
@@ -2682,7 +2682,7 @@ source: https://zan.gov.kz/client/#!/doc/177249/rus/21.11.2023
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Поступления от продажи основного капитала</td>
-<td colspan="2">10 794</td>
+<td colspan="2">10 312</td>
 </tr>
 <tr>
 <td colspan="2">4</td>
@@ -2770,7 +2770,7 @@ source: https://zan.gov.kz/client/#!/doc/177249/rus/21.11.2023
 <td colspan="2"></td>
 <td colspan="2">001</td>
 <td colspan="2">Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">60 077</td>
+<td colspan="2">60 263</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2778,7 +2778,7 @@ source: https://zan.gov.kz/client/#!/doc/177249/rus/21.11.2023
 <td colspan="2"></td>
 <td colspan="2">022</td>
 <td colspan="2">Капитальные расходы государственного органа</td>
-<td colspan="2">9 393</td>
+<td colspan="2">9 207</td>
 </tr>
 <tr>
 <td colspan="2">07</td>
@@ -4297,7 +4297,7 @@ source: https://zan.gov.kz/client/#!/doc/177249/rus/21.11.2023
 
 ## Бюджет сельского округа Боген на 2023 год
 
-> *Сноска. Приложение 16 в редакции решений Байдибекского районного маслихата Туркестанской области от 29.05.2023 № 3/14 (вводится в действие с 01.01.2023); от 11.10.2023 № 7/32 (вводится в действие с 01.01.2023); от 21.11.2023 № 9/40 (вводится в действие с 01.01.2023).*
+> *Сноска. Приложение 16 в редакции решений Байдибекского районного маслихата Туркестанской области от 29.05.2023 № 3/14 (вводится в действие с 01.01.2023); от 11.10.2023 № 7/32 (вводится в действие с 01.01.2023); от 21.11.2023 № 9/40 (вводится в действие с 01.01.2023); от 25.12.2023 № 11/50 (вводится в действие с 01.01.2023).*
 
 <table>
 <tr>
@@ -4333,7 +4333,7 @@ source: https://zan.gov.kz/client/#!/doc/177249/rus/21.11.2023
 <td></td>
 <td></td>
 <td>Подоходный налог</td>
-<td>1950</td>
+<td>3556</td>
 </tr>
 <tr>
 <td></td>
@@ -4341,7 +4341,7 @@ source: https://zan.gov.kz/client/#!/doc/177249/rus/21.11.2023
 <td>2</td>
 <td></td>
 <td>Индивидуальный подоходный налог</td>
-<td>1950</td>
+<td>3556</td>
 </tr>
 <tr>
 <td></td>
@@ -4349,7 +4349,7 @@ source: https://zan.gov.kz/client/#!/doc/177249/rus/21.11.2023
 <td></td>
 <td></td>
 <td>Hалоги на собственность</td>
-<td>14235</td>
+<td>10531</td>
 </tr>
 <tr>
 <td></td>
@@ -4357,7 +4357,7 @@ source: https://zan.gov.kz/client/#!/doc/177249/rus/21.11.2023
 <td>1</td>
 <td></td>
 <td>Hалоги на имущество</td>
-<td>662</td>
+<td>380</td>
 </tr>
 <tr>
 <td></td>
@@ -4365,7 +4365,7 @@ source: https://zan.gov.kz/client/#!/doc/177249/rus/21.11.2023
 <td>3</td>
 <td></td>
 <td>Земельный налог</td>
-<td>291</td>
+<td>339</td>
 </tr>
 <tr>
 <td></td>
@@ -4373,7 +4373,7 @@ source: https://zan.gov.kz/client/#!/doc/177249/rus/21.11.2023
 <td>4</td>
 <td></td>
 <td>Hалог на транспортные средства</td>
-<td>12965</td>
+<td>9717</td>
 </tr>
 <tr>
 <td></td>
@@ -4381,7 +4381,7 @@ source: https://zan.gov.kz/client/#!/doc/177249/rus/21.11.2023
 <td>5</td>
 <td></td>
 <td>Единый земельный налог</td>
-<td>317</td>
+<td>95</td>
 </tr>
 <tr>
 <td></td>
@@ -4389,7 +4389,7 @@ source: https://zan.gov.kz/client/#!/doc/177249/rus/21.11.2023
 <td></td>
 <td></td>
 <td>Внутренние налоги на товары, работы и услуги</td>
-<td>1152</td>
+<td>1177</td>
 </tr>
 <tr>
 <td></td>
@@ -4397,7 +4397,7 @@ source: https://zan.gov.kz/client/#!/doc/177249/rus/21.11.2023
 <td>3</td>
 <td></td>
 <td>Налога за использование земельных участков</td>
-<td>1152</td>
+<td>1177</td>
 </tr>
 <tr>
 <td>2</td>
@@ -4461,7 +4461,7 @@ source: https://zan.gov.kz/client/#!/doc/177249/rus/21.11.2023
 <td></td>
 <td></td>
 <td>Поступления от продажи основного капитала</td>
-<td>315</td>
+<td>2388</td>
 </tr>
 <tr>
 <td>4</td>
@@ -4525,7 +4525,7 @@ source: https://zan.gov.kz/client/#!/doc/177249/rus/21.11.2023
 <td></td>
 <td></td>
 <td>Государственные услуги общего характера</td>
-<td>66 102</td>
+<td>54923</td>
 </tr>
 <tr>
 <td></td>
@@ -4533,7 +4533,7 @@ source: https://zan.gov.kz/client/#!/doc/177249/rus/21.11.2023
 <td></td>
 <td></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>66 102</td>
+<td>54923</td>
 </tr>
 <tr>
 <td></td>
@@ -4541,7 +4541,7 @@ source: https://zan.gov.kz/client/#!/doc/177249/rus/21.11.2023
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>66 102</td>
+<td>54923</td>
 </tr>
 <tr>
 <td></td>
@@ -4549,7 +4549,7 @@ source: https://zan.gov.kz/client/#!/doc/177249/rus/21.11.2023
 <td></td>
 <td>001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>54 418</td>
+<td>53697</td>
 </tr>
 <tr>
 <td></td>
@@ -4557,7 +4557,7 @@ source: https://zan.gov.kz/client/#!/doc/177249/rus/21.11.2023
 <td></td>
 <td>022</td>
 <td>Капитальные расходы государственного органа</td>
-<td>1266</td>
+<td>1226</td>
 </tr>
 <tr>
 <td>07</td>
@@ -4565,7 +4565,7 @@ source: https://zan.gov.kz/client/#!/doc/177249/rus/21.11.2023
 <td></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>9 160</td>
+<td>9078</td>
 </tr>
 <tr>
 <td></td>
@@ -4573,7 +4573,7 @@ source: https://zan.gov.kz/client/#!/doc/177249/rus/21.11.2023
 <td></td>
 <td></td>
 <td>Благоустройство населенных пунктов</td>
-<td>9 160</td>
+<td>9 078</td>
 </tr>
 <tr>
 <td></td>
@@ -4581,7 +4581,7 @@ source: https://zan.gov.kz/client/#!/doc/177249/rus/21.11.2023
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>9 160</td>
+<td>9 078</td>
 </tr>
 <tr>
 <td></td>
@@ -4597,7 +4597,7 @@ source: https://zan.gov.kz/client/#!/doc/177249/rus/21.11.2023
 <td></td>
 <td>009</td>
 <td>Обеспечение санитарии населенных пунктов</td>
-<td>649</td>
+<td>597</td>
 </tr>
 <tr>
 <td></td>
@@ -4613,7 +4613,7 @@ source: https://zan.gov.kz/client/#!/doc/177249/rus/21.11.2023
 <td></td>
 <td>011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td>7 526</td>
+<td>7466</td>
 </tr>
 <tr>
 <td>15</td>
@@ -4621,7 +4621,7 @@ source: https://zan.gov.kz/client/#!/doc/177249/rus/21.11.2023
 <td></td>
 <td></td>
 <td>Трансферты</td>
-<td>1268</td>
+<td>2101</td>
 </tr>
 <tr>
 <td></td>
@@ -4629,7 +4629,7 @@ source: https://zan.gov.kz/client/#!/doc/177249/rus/21.11.2023
 <td></td>
 <td></td>
 <td>Трансферты</td>
-<td>1268</td>
+<td>2101</td>
 </tr>
 <tr>
 <td></td>
@@ -4637,7 +4637,7 @@ source: https://zan.gov.kz/client/#!/doc/177249/rus/21.11.2023
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>1268</td>
+<td>2101</td>
 </tr>
 <tr>
 <td></td>
@@ -4645,7 +4645,7 @@ source: https://zan.gov.kz/client/#!/doc/177249/rus/21.11.2023
 <td></td>
 <td>049</td>
 <td>Возврат трансфертов общего характерав случаях, предусмотренных бюджетным законодательствам</td>
-<td>1268</td>
+<td>2101</td>
 </tr>
 <tr>
 <td></td>
