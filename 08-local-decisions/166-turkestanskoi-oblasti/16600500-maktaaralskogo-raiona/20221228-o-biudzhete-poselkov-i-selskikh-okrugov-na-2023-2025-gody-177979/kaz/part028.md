@@ -1,16 +1,15 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/177979/kaz/10.11.2023
+source: https://zan.gov.kz/client/#!/doc/177979/kaz/27.12.2023
 ---
 
-> *Мақтаарал аудандық*  
-> *мәслихатының 2022 жылғы*  
-> *28 желтоқсандағы № 29-198-VII*  
-> *шешіміне 28-қосымша*
+> *Мақтаарал аудандықмәслихатының*  
+> *2022 жылғы28 желтоқсандағы*  
+> *№ 29-198-VII шешіміне 28-қосымша*
 
 ## Жамбыл ауылдық округінің 2023 жылға арналған бюджеті
 
-> *Ескерту. 28-қосымша жаңа редакцияда - Түркістан облысы Мақтаарал аудандық мәслихатының 24.05.2023 № 3-16-VIІI (01.01.2023 бастап қолданысқа енгізіледі); 10.11.2023 № 9-61-VIІI (01.01.2023 бастап қолданысқа енгізіледі) шешімдерімен.*
+> *Ескерту. 28-қосымша жаңа редакцияда - Түркістан облысы Мақтаарал аудандық мәслихатының 24.05.2023 № 3-16-VIІI (01.01.2023 бастап қолданысқа енгізіледі); 10.11.2023 № 9-61-VIІI (01.01.2023 бастап қолданысқа енгізіледі); 27.12.2023 № 11-74-VIІI (01.01.2023 бастап қолданысқа енгізіледі) шешімдерімен.*
 
 <table>
 <tr>
@@ -57,7 +56,7 @@ source: https://zan.gov.kz/client/#!/doc/177979/kaz/10.11.2023
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">Салықтық түсімдер</td>
-<td colspan="3">29 117</td>
+<td colspan="3">25 091</td>
 </tr>
 <tr>
 <td></td>
@@ -65,14 +64,14 @@ source: https://zan.gov.kz/client/#!/doc/177979/kaz/10.11.2023
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">Табыс салығы</td>
-<td colspan="3">14 626</td>
+<td colspan="3">9 600</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="3">2</td>
 <td colspan="2">Жеке табыс салығы</td>
-<td colspan="3">14 626</td>
+<td colspan="3">9 600</td>
 </tr>
 <tr>
 <td></td>
@@ -80,7 +79,7 @@ source: https://zan.gov.kz/client/#!/doc/177979/kaz/10.11.2023
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">Меншiкке салынатын салықтар</td>
-<td colspan="3">14 160</td>
+<td colspan="3">15 160</td>
 </tr>
 <tr>
 <td></td>
@@ -101,7 +100,7 @@ source: https://zan.gov.kz/client/#!/doc/177979/kaz/10.11.2023
 <td></td>
 <td colspan="3">4</td>
 <td colspan="2">Көлiк құралдарына салынатын салық</td>
-<td colspan="3">12 540</td>
+<td colspan="3">13 540</td>
 </tr>
 <tr>
 <td></td>
@@ -147,7 +146,7 @@ source: https://zan.gov.kz/client/#!/doc/177979/kaz/10.11.2023
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">Негізгі капиталды сатудан түсетін түсімдер</td>
-<td colspan="3">4 000</td>
+<td colspan="3">14 592</td>
 </tr>
 <tr>
 <td></td>
@@ -171,7 +170,7 @@ source: https://zan.gov.kz/client/#!/doc/177979/kaz/10.11.2023
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">Жердi және материалдық емес активтердi сату</td>
-<td colspan="3">4 000</td>
+<td colspan="3">14 592</td>
 </tr>
 <tr>
 <td></td>
@@ -179,7 +178,7 @@ source: https://zan.gov.kz/client/#!/doc/177979/kaz/10.11.2023
 <td>1</td>
 <td colspan="2"></td>
 <td colspan="2">Жерді сату</td>
-<td colspan="3">4 000</td>
+<td colspan="3">14 592</td>
 </tr>
 <tr>
 <td>4</td>
@@ -187,7 +186,7 @@ source: https://zan.gov.kz/client/#!/doc/177979/kaz/10.11.2023
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">Трансферттер түсімі</td>
-<td colspan="3">53 148</td>
+<td colspan="3">46 582</td>
 </tr>
 <tr>
 <td></td>
@@ -195,14 +194,14 @@ source: https://zan.gov.kz/client/#!/doc/177979/kaz/10.11.2023
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td colspan="3">53 148</td>
+<td colspan="3">46 582</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="3">3</td>
 <td colspan="2">Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td colspan="3">53 148</td>
+<td colspan="3">46 582</td>
 </tr>
 <tr>
 <td colspan="5">Функционалдық топ</td>
