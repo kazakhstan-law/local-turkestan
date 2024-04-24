@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/191249/kaz/25.12.2023
+source: https://zan.gov.kz/client/#!/doc/191249/kaz/24.04.2024
 ---
 
 > *Мақтаарал аудандық*  
