@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/191957/rus/29.12.2023
+source: https://zan.gov.kz/client/#!/doc/191957/rus/06.05.2024
 ---
 
 > *Приложение 37 к решению*  
