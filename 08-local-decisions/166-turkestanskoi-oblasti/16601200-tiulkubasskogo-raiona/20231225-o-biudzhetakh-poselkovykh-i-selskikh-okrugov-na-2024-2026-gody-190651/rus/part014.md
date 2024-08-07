@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/190651/rus/24.04.2024
+source: https://zan.gov.kz/client/#!/doc/190651/rus/07.08.2024
 ---
 
 > *Приложение 14 к решению*  
@@ -962,7 +962,7 @@ source: https://zan.gov.kz/client/#!/doc/190651/rus/24.04.2024
 
 ## Бюджет Келтемашатского сельского округа на 2024 год
 
-> *Сноска. Приложение 16 в редакции решения Тюлькубасского районного маслихата Туркестанской области от 24.04.2024 № 19/1-08 (вводится в действие с 01.01.2024).*
+> *Сноска. Приложение 16 в редакции решения Тюлькубасского районного маслихата Туркестанской области от 24.04.2024 № 19/1-08 (вводится в действие с 01.01.2024); от 07.08.2024 № 22/1-08 (вводится в действие с 01.01.2024).*
 
 <table>
 <tr>
@@ -982,35 +982,35 @@ source: https://zan.gov.kz/client/#!/doc/190651/rus/24.04.2024
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">1. Доходы</td>
-<td>63 662</td>
+<td>66 462</td>
 </tr>
 <tr>
 <td>1</td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">Налоговые поступления</td>
-<td>20 267</td>
+<td>23 067</td>
 </tr>
 <tr>
 <td></td>
 <td>01</td>
 <td colspan="2"></td>
 <td colspan="2">Подоходный налог</td>
-<td>4 229</td>
+<td>5 526</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="2">2</td>
 <td colspan="2">Индивидуальный подоходный налог</td>
-<td>4 229</td>
+<td>5 526</td>
 </tr>
 <tr>
 <td></td>
 <td>04</td>
 <td colspan="2"></td>
 <td colspan="2">Hалоги на собственность</td>
-<td>15 637</td>
+<td>17 140</td>
 </tr>
 <tr>
 <td></td>
@@ -1031,14 +1031,14 @@ source: https://zan.gov.kz/client/#!/doc/190651/rus/24.04.2024
 <td></td>
 <td colspan="2">4</td>
 <td colspan="2">Hалог на транспортные средства</td>
-<td>13 964</td>
+<td>15 404</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="2">5</td>
 <td colspan="2">Единный земельный налаг</td>
-<td>439</td>
+<td>502</td>
 </tr>
 <tr>
 <td></td>
@@ -1134,7 +1134,7 @@ source: https://zan.gov.kz/client/#!/doc/190651/rus/24.04.2024
 <td></td>
 <td></td>
 <td colspan="2">2. Затраты</td>
-<td>64 199</td>
+<td>66 999</td>
 </tr>
 <tr>
 <td>01</td>
@@ -1142,7 +1142,7 @@ source: https://zan.gov.kz/client/#!/doc/190651/rus/24.04.2024
 <td></td>
 <td></td>
 <td colspan="2">Государственные услуги общего характера</td>
-<td>57 532</td>
+<td>56 547</td>
 </tr>
 <tr>
 <td></td>
@@ -1150,7 +1150,7 @@ source: https://zan.gov.kz/client/#!/doc/190651/rus/24.04.2024
 <td></td>
 <td></td>
 <td colspan="2">Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>57 532</td>
+<td>56 547</td>
 </tr>
 <tr>
 <td></td>
@@ -1158,7 +1158,7 @@ source: https://zan.gov.kz/client/#!/doc/190651/rus/24.04.2024
 <td>124</td>
 <td></td>
 <td colspan="2">Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>57 532</td>
+<td>56 547</td>
 </tr>
 <tr>
 <td></td>
@@ -1166,7 +1166,7 @@ source: https://zan.gov.kz/client/#!/doc/190651/rus/24.04.2024
 <td></td>
 <td>001</td>
 <td colspan="2">Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>56 932</td>
+<td>56 139</td>
 </tr>
 <tr>
 <td></td>
@@ -1174,7 +1174,7 @@ source: https://zan.gov.kz/client/#!/doc/190651/rus/24.04.2024
 <td></td>
 <td>022</td>
 <td colspan="2">Капитальные расходы государственного органа</td>
-<td>600</td>
+<td>408</td>
 </tr>
 <tr>
 <td>07</td>
@@ -1182,7 +1182,7 @@ source: https://zan.gov.kz/client/#!/doc/190651/rus/24.04.2024
 <td></td>
 <td></td>
 <td colspan="2">Жилищно-коммунальное хозяйство</td>
-<td>6 667</td>
+<td>10 452</td>
 </tr>
 <tr>
 <td></td>
@@ -1190,7 +1190,7 @@ source: https://zan.gov.kz/client/#!/doc/190651/rus/24.04.2024
 <td></td>
 <td></td>
 <td colspan="2">Благоустройство населенных пунктов</td>
-<td>6 667</td>
+<td>10 452</td>
 </tr>
 <tr>
 <td></td>
@@ -1198,7 +1198,7 @@ source: https://zan.gov.kz/client/#!/doc/190651/rus/24.04.2024
 <td>124</td>
 <td></td>
 <td colspan="2">Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>6 667</td>
+<td>10 452</td>
 </tr>
 <tr>
 <td></td>
@@ -1206,7 +1206,7 @@ source: https://zan.gov.kz/client/#!/doc/190651/rus/24.04.2024
 <td></td>
 <td>008</td>
 <td colspan="2">Освещение улиц населенных пунктов</td>
-<td>3 484</td>
+<td>8 106</td>
 </tr>
 <tr>
 <td></td>
@@ -1222,7 +1222,7 @@ source: https://zan.gov.kz/client/#!/doc/190651/rus/24.04.2024
 <td></td>
 <td>011</td>
 <td colspan="2">Благоустройство и озеленение населенных пунктов</td>
-<td>1 964</td>
+<td>1 127</td>
 </tr>
 <tr>
 <td></td>
@@ -2385,7 +2385,7 @@ source: https://zan.gov.kz/client/#!/doc/190651/rus/24.04.2024
 
 ## Бюджет Кемербастауского сельского округа на 2024 год
 
-> *Сноска. Приложение 19 в редакции решения Тюлькубасского районного маслихата Туркестанской области от 24.04.2024 № 19/1-08 (вводится в действие с 01.01.2024).*
+> *Сноска. Приложение 19 в редакции решения Тюлькубасского районного маслихата Туркестанской области от 24.04.2024 № 19/1-08 (вводится в действие с 01.01.2024); от 07.08.2024 № 22/1-08 (вводится в действие с 01.01.2024).*
 
 <table>
 <tr>
@@ -2405,35 +2405,35 @@ source: https://zan.gov.kz/client/#!/doc/190651/rus/24.04.2024
 <td colspan="2"></td>
 <td colspan="4"></td>
 <td colspan="2">1. Доходы</td>
-<td colspan="2">71 170</td>
+<td colspan="2">73 845</td>
 </tr>
 <tr>
 <td colspan="2">1</td>
 <td colspan="2"></td>
 <td colspan="4"></td>
 <td colspan="2">Налоговые поступления</td>
-<td colspan="2">23 776</td>
+<td colspan="2">26 451</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">01</td>
 <td colspan="4"></td>
 <td colspan="2">Подоходный налог</td>
-<td colspan="2">7 303</td>
+<td colspan="2">8 598</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="4">2</td>
 <td colspan="2">Индивидуальный подоходный налог</td>
-<td colspan="2">7 303</td>
+<td colspan="2">8 598</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">04</td>
 <td colspan="4"></td>
 <td colspan="2">Hалоги на собственность</td>
-<td colspan="2">15 573</td>
+<td colspan="2">16 953</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2454,14 +2454,14 @@ source: https://zan.gov.kz/client/#!/doc/190651/rus/24.04.2024
 <td colspan="2"></td>
 <td colspan="4">4</td>
 <td colspan="2">Hалог на транспортные средства</td>
-<td colspan="2">13 920</td>
+<td colspan="2">15 000</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="4">5</td>
 <td colspan="2">Единный земельный налаг</td>
-<td colspan="2">1100</td>
+<td colspan="2">1400</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2557,7 +2557,7 @@ source: https://zan.gov.kz/client/#!/doc/190651/rus/24.04.2024
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">2. Затраты</td>
-<td colspan="2">72 643</td>
+<td colspan="2">75 318</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
@@ -2565,7 +2565,7 @@ source: https://zan.gov.kz/client/#!/doc/190651/rus/24.04.2024
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Государственные услуги общего характера</td>
-<td colspan="2">55 591</td>
+<td colspan="2">55 791</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2573,7 +2573,7 @@ source: https://zan.gov.kz/client/#!/doc/190651/rus/24.04.2024
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td colspan="2">55 591</td>
+<td colspan="2">55 791</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2581,7 +2581,7 @@ source: https://zan.gov.kz/client/#!/doc/190651/rus/24.04.2024
 <td colspan="2">124</td>
 <td colspan="2"></td>
 <td colspan="2">Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">55 591</td>
+<td colspan="2">55 791</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2597,7 +2597,7 @@ source: https://zan.gov.kz/client/#!/doc/190651/rus/24.04.2024
 <td colspan="2"></td>
 <td colspan="2">022</td>
 <td colspan="2">Капитальные расходы государственного органа</td>
-<td colspan="2">720</td>
+<td colspan="2">920</td>
 </tr>
 <tr>
 <td colspan="2">07</td>
@@ -2605,7 +2605,7 @@ source: https://zan.gov.kz/client/#!/doc/190651/rus/24.04.2024
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Жилищно-коммунальное хозяйство</td>
-<td colspan="2">17 052</td>
+<td colspan="2">19 727</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2613,7 +2613,7 @@ source: https://zan.gov.kz/client/#!/doc/190651/rus/24.04.2024
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Благоустройство населенных пунктов</td>
-<td colspan="2">17 052</td>
+<td colspan="2">19 727</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2621,7 +2621,7 @@ source: https://zan.gov.kz/client/#!/doc/190651/rus/24.04.2024
 <td colspan="2">124</td>
 <td colspan="2"></td>
 <td colspan="2">Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">17 052</td>
+<td colspan="2">19 727</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2645,7 +2645,7 @@ source: https://zan.gov.kz/client/#!/doc/190651/rus/24.04.2024
 <td colspan="2"></td>
 <td colspan="2">011</td>
 <td colspan="2">Благоустройство и озеленение населенных пунктов</td>
-<td colspan="2">7 030</td>
+<td colspan="2">9 505</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3836,7 +3836,7 @@ source: https://zan.gov.kz/client/#!/doc/190651/rus/24.04.2024
 
 ## Бюджет Майлыкентского сельского округа на 2024 год
 
-> *Сноска. Приложение 22 в редакции решения Тюлькубасского районного маслихата Туркестанской области от 24.04.2024 № 19/1-08 (вводится в действие с 01.01.2024).*
+> *Сноска. Приложение 22 в редакции решения Тюлькубасского районного маслихата Туркестанской области от 24.04.2024 № 19/1-08 (вводится в действие с 01.01.2024); от 07.08.2024 № 22/1-08 (вводится в действие с 01.01.2024).*
 
 <table>
 <tr>
@@ -3856,35 +3856,35 @@ source: https://zan.gov.kz/client/#!/doc/190651/rus/24.04.2024
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">1. Доходы</td>
-<td>275 553</td>
+<td>291 217</td>
 </tr>
 <tr>
 <td>1</td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">Налоговые поступления</td>
-<td>239 804</td>
+<td>255 468</td>
 </tr>
 <tr>
 <td></td>
 <td>01</td>
 <td colspan="2"></td>
 <td colspan="2">Подоходный налог</td>
-<td>153 000</td>
+<td>167 137</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="2">2</td>
 <td colspan="2">Индивидуальный подоходный налог</td>
-<td>153 000</td>
+<td>167 137</td>
 </tr>
 <tr>
 <td></td>
 <td>04</td>
 <td colspan="2"></td>
 <td colspan="2">Hалоги на собственность</td>
-<td>85 024</td>
+<td>86 252</td>
 </tr>
 <tr>
 <td></td>
@@ -3905,28 +3905,28 @@ source: https://zan.gov.kz/client/#!/doc/190651/rus/24.04.2024
 <td></td>
 <td colspan="2">4</td>
 <td colspan="2">Hалог на транспортные средства</td>
-<td>82 896</td>
+<td>84 016</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="2">5</td>
 <td colspan="2">Единный земельный налаг</td>
-<td>302</td>
+<td>410</td>
 </tr>
 <tr>
 <td></td>
 <td>05</td>
 <td colspan="2"></td>
 <td colspan="2">Внутренние налоги на товары, работы и услуги</td>
-<td>1 780</td>
+<td>2 079</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="2">3</td>
 <td colspan="2">Плата за пользование земельными участками</td>
-<td>345</td>
+<td>644</td>
 </tr>
 <tr>
 <td></td>
@@ -4029,7 +4029,7 @@ source: https://zan.gov.kz/client/#!/doc/190651/rus/24.04.2024
 <td></td>
 <td></td>
 <td colspan="2">2. Затраты</td>
-<td>282 902</td>
+<td>298 566</td>
 </tr>
 <tr>
 <td>01</td>
@@ -4077,7 +4077,7 @@ source: https://zan.gov.kz/client/#!/doc/190651/rus/24.04.2024
 <td></td>
 <td></td>
 <td colspan="2">Жилищно-коммунальное хозяйство</td>
-<td>153 596</td>
+<td>169 260</td>
 </tr>
 <tr>
 <td></td>
@@ -4085,7 +4085,7 @@ source: https://zan.gov.kz/client/#!/doc/190651/rus/24.04.2024
 <td></td>
 <td></td>
 <td colspan="2">Благоустройство населенных пунктов</td>
-<td>153 596</td>
+<td>169 260</td>
 </tr>
 <tr>
 <td></td>
@@ -4093,7 +4093,7 @@ source: https://zan.gov.kz/client/#!/doc/190651/rus/24.04.2024
 <td>124</td>
 <td></td>
 <td colspan="2">Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>153 596</td>
+<td>169 260</td>
 </tr>
 <tr>
 <td></td>
@@ -4101,7 +4101,7 @@ source: https://zan.gov.kz/client/#!/doc/190651/rus/24.04.2024
 <td></td>
 <td>008</td>
 <td colspan="2">Освещение улиц населенных пунктов</td>
-<td>93 744</td>
+<td>109 408</td>
 </tr>
 <tr>
 <td></td>
@@ -5425,13 +5425,14 @@ source: https://zan.gov.kz/client/#!/doc/190651/rus/24.04.2024
 </tr>
 </table>
 
+> *Приложение 25 к решению*  
 > *Тюлькубасского районного*  
 > *маслихата от 25 декабря*  
 > *2023 года №12/1-08*
 
 ## Бюджет Машатского сельского округа на 2024 год
 
-> *Сноска. Приложение 25 в редакции решения Тюлькубасского районного маслихата Туркестанской области от 24.04.2024 № 19/1-08 (вводится в действие с 01.01.2024).*
+> *Сноска. Приложение 25 в редакции решения Тюлькубасского районного маслихата Туркестанской области от 24.04.2024 № 19/1-08 (вводится в действие с 01.01.2024); от 07.08.2024 № 22/1-08 (вводится в действие с 01.01.2024).*
 
 <table>
 <tr>
@@ -5451,35 +5452,35 @@ source: https://zan.gov.kz/client/#!/doc/190651/rus/24.04.2024
 <td></td>
 <td colspan="2"></td>
 <td colspan="7">1. Доходы</td>
-<td>63 815</td>
+<td>66 222</td>
 </tr>
 <tr>
 <td>1</td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="7">Налоговые поступления</td>
-<td>14 497</td>
+<td>16 904</td>
 </tr>
 <tr>
 <td></td>
 <td>01</td>
 <td colspan="2"></td>
 <td colspan="7">Подоходный налог</td>
-<td>4 663</td>
+<td>5 663</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="2">2</td>
 <td colspan="7">Индивидуальный подоходный налог</td>
-<td>4 663</td>
+<td>5 663</td>
 </tr>
 <tr>
 <td></td>
 <td>04</td>
 <td colspan="2"></td>
 <td colspan="7">Hалоги на собственность</td>
-<td>9 711</td>
+<td>11 051</td>
 </tr>
 <tr>
 <td></td>
@@ -5493,35 +5494,35 @@ source: https://zan.gov.kz/client/#!/doc/190651/rus/24.04.2024
 <td></td>
 <td colspan="2">3</td>
 <td colspan="7">Земельный налог</td>
-<td>57</td>
+<td>85</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="2">4</td>
 <td colspan="7">Hалог на транспортные средства</td>
-<td>8 941</td>
+<td>10 011</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="2">5</td>
 <td colspan="7">Единный земельный налаг</td>
-<td>210</td>
+<td>452</td>
 </tr>
 <tr>
 <td></td>
 <td>05</td>
 <td colspan="2"></td>
 <td colspan="7">Внутренние налоги на товары, работы и услуги</td>
-<td>123</td>
+<td>190</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="2">3</td>
 <td colspan="7">Плата за пользование земельными участками</td>
-<td>103</td>
+<td>170</td>
 </tr>
 <tr>
 <td></td>
@@ -5624,7 +5625,7 @@ source: https://zan.gov.kz/client/#!/doc/190651/rus/24.04.2024
 <td></td>
 <td></td>
 <td colspan="7">2. Затраты</td>
-<td>63 980</td>
+<td>66 387</td>
 </tr>
 <tr>
 <td>01</td>
@@ -5632,7 +5633,7 @@ source: https://zan.gov.kz/client/#!/doc/190651/rus/24.04.2024
 <td></td>
 <td></td>
 <td colspan="7">Государственные услуги общего характера</td>
-<td>56 465</td>
+<td>58 070</td>
 </tr>
 <tr>
 <td></td>
@@ -5640,7 +5641,7 @@ source: https://zan.gov.kz/client/#!/doc/190651/rus/24.04.2024
 <td></td>
 <td></td>
 <td colspan="7">Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>56 465</td>
+<td>58 070</td>
 </tr>
 <tr>
 <td></td>
@@ -5648,7 +5649,7 @@ source: https://zan.gov.kz/client/#!/doc/190651/rus/24.04.2024
 <td>124</td>
 <td></td>
 <td colspan="7">Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>56 465</td>
+<td>58 070</td>
 </tr>
 <tr>
 <td></td>
@@ -5656,7 +5657,7 @@ source: https://zan.gov.kz/client/#!/doc/190651/rus/24.04.2024
 <td></td>
 <td>001</td>
 <td colspan="7">Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>55 287</td>
+<td>56 792</td>
 </tr>
 <tr>
 <td></td>
@@ -5664,7 +5665,7 @@ source: https://zan.gov.kz/client/#!/doc/190651/rus/24.04.2024
 <td></td>
 <td>022</td>
 <td colspan="7">Капитальные расходы государственного органа</td>
-<td>1 178</td>
+<td>1 278</td>
 </tr>
 <tr>
 <td>07</td>
@@ -5672,7 +5673,7 @@ source: https://zan.gov.kz/client/#!/doc/190651/rus/24.04.2024
 <td></td>
 <td></td>
 <td colspan="7">Жилищно-коммунальное хозяйство</td>
-<td>7 515</td>
+<td>8 317</td>
 </tr>
 <tr>
 <td></td>
@@ -5680,7 +5681,7 @@ source: https://zan.gov.kz/client/#!/doc/190651/rus/24.04.2024
 <td></td>
 <td></td>
 <td colspan="7">Благоустройство населенных пунктов</td>
-<td>7 515</td>
+<td>8 317</td>
 </tr>
 <tr>
 <td></td>
@@ -5688,7 +5689,7 @@ source: https://zan.gov.kz/client/#!/doc/190651/rus/24.04.2024
 <td>124</td>
 <td></td>
 <td colspan="7">Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>7 515</td>
+<td>8 317</td>
 </tr>
 <tr>
 <td></td>
@@ -5696,7 +5697,7 @@ source: https://zan.gov.kz/client/#!/doc/190651/rus/24.04.2024
 <td></td>
 <td>008</td>
 <td colspan="7">Освещение улиц населенных пунктов</td>
-<td>4 543</td>
+<td>5 345</td>
 </tr>
 <tr>
 <td></td>
