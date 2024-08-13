@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/191316/kaz/04.05.2024
+source: https://zan.gov.kz/client/#!/doc/191316/kaz/13.08.2024
 ---
 
 > *Мақтаарал аудандық*  
@@ -3016,13 +3016,13 @@ source: https://zan.gov.kz/client/#!/doc/191316/kaz/04.05.2024
 </tr>
 </table>
 
-> *Мақтаарал аудандықмәслихатының*  
-> *2023 жылғы27 желтоқсандағы*  
-> *№ 11-75-VIII шешіміне 28-қосымша*
+> *Мақтаарал аудандық мәслихатының*  
+> *2023 жылғы27 желтоқсандағы № 11-75-VIII*  
+> *шешіміне 28-қосымша*
 
 ## Жамбыл ауылдық округінің 2024 жылға арналған бюджеті
 
-> *Ескерту. 28-қосымша жаңа редакцияда - Түркістан облысы Мақтаарал аудандық мәслихатының 04.05.2024 № 16-108-VIII (01.01.2024 бастап қолданысқа енгізіледі) шешiмiмен.*
+> *Ескерту. 28-қосымша жаңа редакцияда - Түркістан облысы Мақтаарал аудандық мәслихатының 04.05.2024 № 16-108-VIII (01.01.2024 бастап қолданысқа енгізіледі); 13.08.2024 № 19-126-VIII (01.01.2024 бастап қолданысқа енгізіледі) шешiмдерімен.*
 
 <table>
 <tr>
@@ -3030,7 +3030,7 @@ source: https://zan.gov.kz/client/#!/doc/191316/kaz/04.05.2024
 <td></td>
 <td></td>
 <td colspan="2">Атауы</td>
-<td colspan="3" rowspan="3">Сомасы, мың теңге</td>
+<td rowspan="3">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
@@ -3048,12 +3048,12 @@ source: https://zan.gov.kz/client/#!/doc/191316/kaz/04.05.2024
 <td></td>
 <td></td>
 <td colspan="3">Ерекшелік</td>
-<td colspan="3"></td>
+<td></td>
 </tr>
 <tr>
 <td colspan="4">1</td>
 <td colspan="2">2</td>
-<td colspan="3">3</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
@@ -3061,7 +3061,7 @@ source: https://zan.gov.kz/client/#!/doc/191316/kaz/04.05.2024
 <td></td>
 <td></td>
 <td colspan="2">1.Кірістер</td>
-<td colspan="3">113 304</td>
+<td>113 304</td>
 </tr>
 <tr>
 <td>1</td>
@@ -3069,7 +3069,7 @@ source: https://zan.gov.kz/client/#!/doc/191316/kaz/04.05.2024
 <td></td>
 <td></td>
 <td colspan="2">Салықтық түсімдер</td>
-<td colspan="3">44 762</td>
+<td>44 762</td>
 </tr>
 <tr>
 <td></td>
@@ -3077,14 +3077,14 @@ source: https://zan.gov.kz/client/#!/doc/191316/kaz/04.05.2024
 <td></td>
 <td></td>
 <td colspan="2">Табыс салығы</td>
-<td colspan="3">22 380</td>
+<td>22 380</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="2">2</td>
 <td colspan="2">Жеке табыс салығы</td>
-<td colspan="3">22 380</td>
+<td>22 380</td>
 </tr>
 <tr>
 <td></td>
@@ -3092,35 +3092,35 @@ source: https://zan.gov.kz/client/#!/doc/191316/kaz/04.05.2024
 <td></td>
 <td></td>
 <td colspan="2">Меншiкке салынатын салықтар</td>
-<td colspan="3">22 140</td>
+<td>22 140</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="2">1</td>
 <td colspan="2">Мүлiкке салынатын салықтар</td>
-<td colspan="3">1 802</td>
+<td>1 802</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="2">3</td>
 <td colspan="2">Жер салығы</td>
-<td colspan="3">299</td>
+<td>299</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="2">4</td>
 <td colspan="2">Көлiк құралдарына салынатын салық</td>
-<td colspan="3">17 617</td>
+<td>17 617</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="2">5</td>
 <td colspan="2">Бірыңғай жер салығы</td>
-<td colspan="3">2 422</td>
+<td>2 422</td>
 </tr>
 <tr>
 <td></td>
@@ -3128,14 +3128,14 @@ source: https://zan.gov.kz/client/#!/doc/191316/kaz/04.05.2024
 <td></td>
 <td></td>
 <td colspan="2">Тауарларға, жұмыстарға және қызметтерге салынатын iшкi салықтар</td>
-<td colspan="3">242</td>
+<td>242</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="2">3</td>
 <td colspan="2">Табиғи және басқа да ресурстарды пайдаланғаны үшiн түсетiн түсiмдер</td>
-<td colspan="3">40</td>
+<td>242</td>
 </tr>
 <tr>
 <td>3</td>
@@ -3143,7 +3143,7 @@ source: https://zan.gov.kz/client/#!/doc/191316/kaz/04.05.2024
 <td></td>
 <td></td>
 <td colspan="2">Негізгі капиталды сатудан түсетін түсімдер</td>
-<td colspan="3">10 000</td>
+<td>10 000</td>
 </tr>
 <tr>
 <td></td>
@@ -3151,7 +3151,7 @@ source: https://zan.gov.kz/client/#!/doc/191316/kaz/04.05.2024
 <td></td>
 <td></td>
 <td colspan="2">Жердi және материалдық емес активтердi сату</td>
-<td colspan="3">10 000</td>
+<td>10 000</td>
 </tr>
 <tr>
 <td></td>
@@ -3159,7 +3159,7 @@ source: https://zan.gov.kz/client/#!/doc/191316/kaz/04.05.2024
 <td>1</td>
 <td></td>
 <td colspan="2">Жерді сату</td>
-<td colspan="3">10 000</td>
+<td>10 000</td>
 </tr>
 <tr>
 <td>4</td>
@@ -3167,7 +3167,7 @@ source: https://zan.gov.kz/client/#!/doc/191316/kaz/04.05.2024
 <td></td>
 <td></td>
 <td colspan="2">Трансферттер түсімі</td>
-<td colspan="3">58 542</td>
+<td>58 542</td>
 </tr>
 <tr>
 <td></td>
@@ -3175,19 +3175,19 @@ source: https://zan.gov.kz/client/#!/doc/191316/kaz/04.05.2024
 <td></td>
 <td></td>
 <td colspan="2">Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td colspan="3">58 542</td>
+<td>58 542</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="2">3</td>
 <td colspan="2">Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td colspan="3">58 542</td>
+<td>58 542</td>
 </tr>
 <tr>
 <td colspan="4">Функционалдық топ</td>
 <td colspan="2"></td>
-<td colspan="3" rowspan="4">Сомасы, мың теңге</td>
+<td rowspan="4">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
@@ -3208,7 +3208,7 @@ source: https://zan.gov.kz/client/#!/doc/191316/kaz/04.05.2024
 <tr>
 <td colspan="4">1</td>
 <td colspan="2">2</td>
-<td colspan="3">3</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
@@ -3216,7 +3216,7 @@ source: https://zan.gov.kz/client/#!/doc/191316/kaz/04.05.2024
 <td></td>
 <td></td>
 <td colspan="2">2.Шығындар</td>
-<td colspan="3">118 893</td>
+<td>118 893</td>
 </tr>
 <tr>
 <td>01</td>
@@ -3224,7 +3224,7 @@ source: https://zan.gov.kz/client/#!/doc/191316/kaz/04.05.2024
 <td></td>
 <td></td>
 <td colspan="2">Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td colspan="3">96 893</td>
+<td>94 490</td>
 </tr>
 <tr>
 <td></td>
@@ -3232,7 +3232,7 @@ source: https://zan.gov.kz/client/#!/doc/191316/kaz/04.05.2024
 <td></td>
 <td></td>
 <td colspan="2">Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td colspan="3">96 893</td>
+<td>94 490</td>
 </tr>
 <tr>
 <td></td>
@@ -3240,7 +3240,7 @@ source: https://zan.gov.kz/client/#!/doc/191316/kaz/04.05.2024
 <td>124</td>
 <td></td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td colspan="3">96 893</td>
+<td>94 490</td>
 </tr>
 <tr>
 <td></td>
@@ -3248,7 +3248,7 @@ source: https://zan.gov.kz/client/#!/doc/191316/kaz/04.05.2024
 <td></td>
 <td>001</td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td colspan="3">95 993</td>
+<td>93 490</td>
 </tr>
 <tr>
 <td></td>
@@ -3256,7 +3256,7 @@ source: https://zan.gov.kz/client/#!/doc/191316/kaz/04.05.2024
 <td></td>
 <td>022</td>
 <td colspan="2">Мемлекеттік органның күрделі шығыстары</td>
-<td colspan="3">900</td>
+<td>1 000</td>
 </tr>
 <tr>
 <td>07</td>
@@ -3264,7 +3264,7 @@ source: https://zan.gov.kz/client/#!/doc/191316/kaz/04.05.2024
 <td></td>
 <td></td>
 <td colspan="2">Тұрғын үй-коммуналдық шаруашылық</td>
-<td colspan="3">22 000</td>
+<td>24 403</td>
 </tr>
 <tr>
 <td></td>
@@ -3272,7 +3272,7 @@ source: https://zan.gov.kz/client/#!/doc/191316/kaz/04.05.2024
 <td></td>
 <td></td>
 <td colspan="2">Елді-мекендерді көркейту</td>
-<td colspan="3">22 000</td>
+<td>24 403</td>
 </tr>
 <tr>
 <td></td>
@@ -3280,7 +3280,7 @@ source: https://zan.gov.kz/client/#!/doc/191316/kaz/04.05.2024
 <td>124</td>
 <td></td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td colspan="3">22 000</td>
+<td>24 403</td>
 </tr>
 <tr>
 <td></td>
@@ -3288,7 +3288,7 @@ source: https://zan.gov.kz/client/#!/doc/191316/kaz/04.05.2024
 <td></td>
 <td>009</td>
 <td colspan="2">Елді мекендердің санитариясын қамтамасыз ету</td>
-<td colspan="3">2 000</td>
+<td>1 739</td>
 </tr>
 <tr>
 <td></td>
@@ -3296,7 +3296,7 @@ source: https://zan.gov.kz/client/#!/doc/191316/kaz/04.05.2024
 <td></td>
 <td>011</td>
 <td colspan="2">Елді мекендерді абаттандыру мен көгалдандыру</td>
-<td colspan="3">20 000</td>
+<td>22 664</td>
 </tr>
 <tr>
 <td></td>
@@ -3304,14 +3304,14 @@ source: https://zan.gov.kz/client/#!/doc/191316/kaz/04.05.2024
 <td></td>
 <td></td>
 <td colspan="2">3. Таза бюджеттік кредиттеу</td>
-<td colspan="3">0</td>
+<td>0</td>
 </tr>
 <tr>
 <td colspan="2">Санаты</td>
 <td></td>
 <td></td>
 <td colspan="2">Атауы</td>
-<td colspan="3" rowspan="3">Сомасы, мың теңге</td>
+<td rowspan="3">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
@@ -3327,28 +3327,28 @@ source: https://zan.gov.kz/client/#!/doc/191316/kaz/04.05.2024
 <tr>
 <td colspan="4">1</td>
 <td colspan="2">2</td>
-<td colspan="3">3</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">5. Бюджет тапшылығы (профициті)</td>
-<td colspan="3">-5 589</td>
+<td>-5 589</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">6. Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
-<td colspan="3">5 589</td>
+<td>5 589</td>
 </tr>
 <tr>
 <td colspan="2">Санаты</td>
 <td></td>
 <td></td>
 <td colspan="2">Атауы</td>
-<td colspan="3" rowspan="3">Сомасы, мың теңге</td>
+<td rowspan="3">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
@@ -3364,35 +3364,35 @@ source: https://zan.gov.kz/client/#!/doc/191316/kaz/04.05.2024
 <tr>
 <td colspan="4">1</td>
 <td colspan="2">2</td>
-<td colspan="3">3</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">Бюджет қаражатының пайдаланылатын қалдықтары</td>
-<td colspan="3">5 589</td>
+<td>5 589</td>
 </tr>
 <tr>
 <td>8</td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">Бюджет қаражатының пайдаланылатын қалдықтары</td>
-<td colspan="3">5 589</td>
+<td>5 589</td>
 </tr>
 <tr>
 <td></td>
 <td>01</td>
 <td colspan="2"></td>
 <td colspan="2">Бюджет қаражаты қалдықтары</td>
-<td colspan="3">5 589</td>
+<td>5 589</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="2">1</td>
 <td colspan="2">Бюджет қаражатының бос қалдықтары</td>
-<td colspan="3">5 589</td>
+<td>5 589</td>
 </tr>
 </table>
 
