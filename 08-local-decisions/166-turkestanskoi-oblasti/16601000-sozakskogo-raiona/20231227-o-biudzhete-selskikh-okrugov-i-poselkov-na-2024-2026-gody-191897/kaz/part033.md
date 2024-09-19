@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/191897/kaz/30.04.2024
+source: https://zan.gov.kz/client/#!/doc/191897/kaz/19.09.2024
 ---
 
 > *Созақ аудандық мәслихатының*  
@@ -528,11 +528,11 @@ source: https://zan.gov.kz/client/#!/doc/191897/kaz/30.04.2024
 
 > *Созақ аудандық мәслихатының*  
 > *2023 жылғы 27 желтоқсандағы*  
-> *№80 шешіміне 34 қосымша*
+> *№80 шешіміне 34қосымша*
 
 ## Тасты ауылдық округінің 2024 жылға арналған бюджеті
 
-> *Ескерту. 34-қосымша жаңа редакцияда - Түркістан облысы Созақ аудандық мәслихатының 30.04.2024 № 111 (01.01.2024 бастап қолданысқа енгізіледі) шешімімен.*
+> *Ескерту. 34-қосымша жаңа редакцияда - Түркістан облысы Созақ аудандық мәслихатының 30.04.2024 № 111 (01.01.2024 бастап қолданысқа енгізіледі); 19.09.2024 № 135 (01.01.2024 бастап қолданысқа енгізіледі) шешімдерімен.*
 
 <table>
 <tr>
@@ -560,7 +560,7 @@ source: https://zan.gov.kz/client/#!/doc/191897/kaz/30.04.2024
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">1. Кірістер</td>
-<td>68 505</td>
+<td>69 665</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -568,7 +568,7 @@ source: https://zan.gov.kz/client/#!/doc/191897/kaz/30.04.2024
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Салықтық түсімдер</td>
-<td>9 138</td>
+<td>10 298</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -592,7 +592,7 @@ source: https://zan.gov.kz/client/#!/doc/191897/kaz/30.04.2024
 <td colspan="2">04</td>
 <td colspan="2"></td>
 <td colspan="2">Меншiкке салынатын салықтар</td>
-<td>5 271</td>
+<td>6 431</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -616,7 +616,7 @@ source: https://zan.gov.kz/client/#!/doc/191897/kaz/30.04.2024
 <td colspan="2"></td>
 <td colspan="2">4</td>
 <td colspan="2">Көлiк құралдарына салынатын салық</td>
-<td>5 176</td>
+<td>6 336</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -693,7 +693,7 @@ source: https://zan.gov.kz/client/#!/doc/191897/kaz/30.04.2024
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td>2. Шығындар</td>
-<td>69 481</td>
+<td>70 641</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
@@ -701,7 +701,7 @@ source: https://zan.gov.kz/client/#!/doc/191897/kaz/30.04.2024
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>58 953</td>
+<td>60 113</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -709,7 +709,7 @@ source: https://zan.gov.kz/client/#!/doc/191897/kaz/30.04.2024
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>58 953</td>
+<td>60 113</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -717,7 +717,7 @@ source: https://zan.gov.kz/client/#!/doc/191897/kaz/30.04.2024
 <td colspan="2">124</td>
 <td colspan="3"></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>58 953</td>
+<td>60 113</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -725,7 +725,7 @@ source: https://zan.gov.kz/client/#!/doc/191897/kaz/30.04.2024
 <td colspan="2"></td>
 <td colspan="3">001</td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>56 123</td>
+<td>56 783</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -733,7 +733,7 @@ source: https://zan.gov.kz/client/#!/doc/191897/kaz/30.04.2024
 <td colspan="2"></td>
 <td colspan="3">022</td>
 <td>Мемлекеттік органның күрделі шығыстары</td>
-<td>2 830</td>
+<td>3 330</td>
 </tr>
 <tr>
 <td colspan="2">07</td>
