@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/190875/kaz/07.11.2024
+source: https://zan.gov.kz/client/#!/doc/190875/kaz/20.12.2024
 ---
 
 > *Сауран аудандық*  
