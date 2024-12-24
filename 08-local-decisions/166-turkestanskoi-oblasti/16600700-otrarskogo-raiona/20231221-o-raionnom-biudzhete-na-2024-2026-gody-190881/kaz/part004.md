@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/190881/kaz/06.11.2024
+source: https://zan.gov.kz/client/#!/doc/190881/kaz/24.12.2024
 ---
 
 > *Отырар аудандық мәслихатының*  
