@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/191924/kaz/24.09.2024
+source: https://zan.gov.kz/client/#!/doc/191924/kaz/25.12.2024
 ---
 
 > *Төлеби аудандық маслихатының*  
