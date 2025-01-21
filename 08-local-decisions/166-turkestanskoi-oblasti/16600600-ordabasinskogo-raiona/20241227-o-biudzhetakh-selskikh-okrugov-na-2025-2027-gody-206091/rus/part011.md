@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/206091/rus/27.12.2024
+source: https://zan.gov.kz/client/#!/doc/206091/rus/21.01.2025
 ---
 
 > *Приложение 11 к решению*  
@@ -3520,6 +3520,8 @@ source: https://zan.gov.kz/client/#!/doc/206091/rus/27.12.2024
 
 ## Бюджет сельского округа Караспан на 2025 год
 
+> *Сноска. Приложение 16 в редакции решения Ордабасинского районного маслихата Туркестанской области от 21.01.2025 № 28/1 (вводится в действие с 01.01.2025).*
+
 <table>
 <tr>
 <td colspan="5">Категория</td>
@@ -3553,7 +3555,7 @@ source: https://zan.gov.kz/client/#!/doc/206091/rus/27.12.2024
 <td></td>
 <td></td>
 <td>1. Доходы</td>
-<td>104 404</td>
+<td>108 404</td>
 </tr>
 <tr>
 <td>1</td>
@@ -3697,7 +3699,7 @@ source: https://zan.gov.kz/client/#!/doc/206091/rus/27.12.2024
 <td></td>
 <td></td>
 <td>Поступления трансфертов</td>
-<td>29 415</td>
+<td>33 415</td>
 </tr>
 <tr>
 <td></td>
@@ -3705,7 +3707,7 @@ source: https://zan.gov.kz/client/#!/doc/206091/rus/27.12.2024
 <td></td>
 <td></td>
 <td>Трансферты из вышестоящих органов государственного управления</td>
-<td>29 415</td>
+<td>33 415</td>
 </tr>
 <tr>
 <td></td>
@@ -3713,7 +3715,7 @@ source: https://zan.gov.kz/client/#!/doc/206091/rus/27.12.2024
 <td>3</td>
 <td></td>
 <td>Трансферты из районного (города областного значения) бюджета</td>
-<td>29 415</td>
+<td>33 415</td>
 </tr>
 <tr>
 <td colspan="5">Функциональная группа</td>
@@ -3754,7 +3756,7 @@ source: https://zan.gov.kz/client/#!/doc/206091/rus/27.12.2024
 <td></td>
 <td></td>
 <td>2.Расходы</td>
-<td>104 404</td>
+<td>110 720</td>
 </tr>
 <tr>
 <td>01</td>
@@ -3834,7 +3836,7 @@ source: https://zan.gov.kz/client/#!/doc/206091/rus/27.12.2024
 <td></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>21 000</td>
+<td>23 316</td>
 </tr>
 <tr>
 <td></td>
@@ -3842,7 +3844,7 @@ source: https://zan.gov.kz/client/#!/doc/206091/rus/27.12.2024
 <td></td>
 <td></td>
 <td>Благоустройство населенных пунктов</td>
-<td>21 000</td>
+<td>23 316</td>
 </tr>
 <tr>
 <td></td>
@@ -3850,7 +3852,7 @@ source: https://zan.gov.kz/client/#!/doc/206091/rus/27.12.2024
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>21 000</td>
+<td>23 316</td>
 </tr>
 <tr>
 <td></td>
@@ -3858,7 +3860,7 @@ source: https://zan.gov.kz/client/#!/doc/206091/rus/27.12.2024
 <td></td>
 <td>008</td>
 <td>Освещение улиц в населенных пунктах</td>
-<td>16 000</td>
+<td>18 316</td>
 </tr>
 <tr>
 <td></td>
@@ -3938,7 +3940,7 @@ source: https://zan.gov.kz/client/#!/doc/206091/rus/27.12.2024
 <td></td>
 <td></td>
 <td>Транспорт и коммуникации</td>
-<td>17 000</td>
+<td>21 000</td>
 </tr>
 <tr>
 <td></td>
@@ -3946,7 +3948,7 @@ source: https://zan.gov.kz/client/#!/doc/206091/rus/27.12.2024
 <td></td>
 <td></td>
 <td>Автомобильный транспорт</td>
-<td>17 000</td>
+<td>21 000</td>
 </tr>
 <tr>
 <td></td>
@@ -3954,7 +3956,7 @@ source: https://zan.gov.kz/client/#!/doc/206091/rus/27.12.2024
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>17 000</td>
+<td>21 000</td>
 </tr>
 <tr>
 <td></td>
@@ -3962,7 +3964,7 @@ source: https://zan.gov.kz/client/#!/doc/206091/rus/27.12.2024
 <td></td>
 <td>013</td>
 <td>Обеспечение функционирования автомобильных дорог в городах районного значения, селах, поселках, сельских округах</td>
-<td>17 000</td>
+<td>21 000</td>
 </tr>
 <tr>
 <td></td>
@@ -4130,7 +4132,7 @@ source: https://zan.gov.kz/client/#!/doc/206091/rus/27.12.2024
 <td></td>
 <td></td>
 <td>5. Дефицит (профицит) бюджета</td>
-<td>0</td>
+<td>-2 316</td>
 </tr>
 <tr>
 <td></td>
@@ -4138,7 +4140,7 @@ source: https://zan.gov.kz/client/#!/doc/206091/rus/27.12.2024
 <td></td>
 <td></td>
 <td>6. Финансирование дефицита (использование профицита) бюджета</td>
-<td>0</td>
+<td>2 316</td>
 </tr>
 <tr>
 <td colspan="5">Категория</td>
@@ -4243,7 +4245,7 @@ source: https://zan.gov.kz/client/#!/doc/206091/rus/27.12.2024
 <td></td>
 <td></td>
 <td>Используемые остатки бюджетных средств</td>
-<td>0</td>
+<td>2 316</td>
 </tr>
 </table>
 
@@ -5690,6 +5692,8 @@ source: https://zan.gov.kz/client/#!/doc/206091/rus/27.12.2024
 
 ## Бюджет сельского округа Кажымухан на 2025 год
 
+> *Сноска. Приложение 19 в редакции решения Ордабасинского районного маслихата Туркестанской области от 21.01.2025 № 28/1 (вводится в действие с 01.01.2025).*
+
 <table>
 <tr>
 <td colspan="5">Категория</td>
@@ -5723,7 +5727,7 @@ source: https://zan.gov.kz/client/#!/doc/206091/rus/27.12.2024
 <td></td>
 <td></td>
 <td>1. Доходы</td>
-<td>228 563</td>
+<td>234 763</td>
 </tr>
 <tr>
 <td>1</td>
@@ -5731,7 +5735,7 @@ source: https://zan.gov.kz/client/#!/doc/206091/rus/27.12.2024
 <td></td>
 <td></td>
 <td>Налоговые поступления</td>
-<td>224 006</td>
+<td>226 206</td>
 </tr>
 <tr>
 <td></td>
@@ -5739,7 +5743,7 @@ source: https://zan.gov.kz/client/#!/doc/206091/rus/27.12.2024
 <td></td>
 <td></td>
 <td>Подоходный налог</td>
-<td>134 562</td>
+<td>136 762</td>
 </tr>
 <tr>
 <td></td>
@@ -5747,7 +5751,7 @@ source: https://zan.gov.kz/client/#!/doc/206091/rus/27.12.2024
 <td>02</td>
 <td></td>
 <td>Индивидуальный подоходный налог</td>
-<td>134 562</td>
+<td>136 762</td>
 </tr>
 <tr>
 <td></td>
@@ -5859,7 +5863,7 @@ source: https://zan.gov.kz/client/#!/doc/206091/rus/27.12.2024
 <td></td>
 <td></td>
 <td>Поступления от продажи основного капитала</td>
-<td>4 000</td>
+<td>8 000</td>
 </tr>
 <tr>
 <td></td>
@@ -5867,7 +5871,7 @@ source: https://zan.gov.kz/client/#!/doc/206091/rus/27.12.2024
 <td></td>
 <td></td>
 <td>Продажа земли и нематериальных активов</td>
-<td>4 000</td>
+<td>8 000</td>
 </tr>
 <tr>
 <td></td>
@@ -5875,7 +5879,7 @@ source: https://zan.gov.kz/client/#!/doc/206091/rus/27.12.2024
 <td>1</td>
 <td></td>
 <td>Продажа земли</td>
-<td>4 000</td>
+<td>8 000</td>
 </tr>
 <tr>
 <td>4</td>
@@ -5924,7 +5928,7 @@ source: https://zan.gov.kz/client/#!/doc/206091/rus/27.12.2024
 <td></td>
 <td></td>
 <td>2.Расходы</td>
-<td>228 563</td>
+<td>240 571</td>
 </tr>
 <tr>
 <td>01</td>
@@ -6004,7 +6008,7 @@ source: https://zan.gov.kz/client/#!/doc/206091/rus/27.12.2024
 <td></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>72 325</td>
+<td>84 333</td>
 </tr>
 <tr>
 <td></td>
@@ -6012,7 +6016,7 @@ source: https://zan.gov.kz/client/#!/doc/206091/rus/27.12.2024
 <td></td>
 <td></td>
 <td>Благоустройство населенных пунктов</td>
-<td>72 325</td>
+<td>84 333</td>
 </tr>
 <tr>
 <td></td>
@@ -6020,7 +6024,7 @@ source: https://zan.gov.kz/client/#!/doc/206091/rus/27.12.2024
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>72 325</td>
+<td>84 333</td>
 </tr>
 <tr>
 <td></td>
@@ -6028,7 +6032,7 @@ source: https://zan.gov.kz/client/#!/doc/206091/rus/27.12.2024
 <td></td>
 <td>008</td>
 <td>Освещение улиц в населенных пунктах</td>
-<td>26 325</td>
+<td>32 133</td>
 </tr>
 <tr>
 <td></td>
@@ -6044,7 +6048,7 @@ source: https://zan.gov.kz/client/#!/doc/206091/rus/27.12.2024
 <td></td>
 <td>011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td>45 000</td>
+<td>51 200</td>
 </tr>
 <tr>
 <td>08</td>
@@ -6300,7 +6304,7 @@ source: https://zan.gov.kz/client/#!/doc/206091/rus/27.12.2024
 <td></td>
 <td></td>
 <td>5. Дефицит (профицит) бюджета</td>
-<td>0</td>
+<td>-5 808</td>
 </tr>
 <tr>
 <td></td>
@@ -6308,7 +6312,7 @@ source: https://zan.gov.kz/client/#!/doc/206091/rus/27.12.2024
 <td></td>
 <td></td>
 <td>6. Финансирование дефицита (использование профицита) бюджета</td>
-<td>0</td>
+<td>5 808</td>
 </tr>
 <tr>
 <td colspan="5">Категория</td>
@@ -6413,6 +6417,6 @@ source: https://zan.gov.kz/client/#!/doc/206091/rus/27.12.2024
 <td></td>
 <td></td>
 <td>Используемые остатки бюджетных средств</td>
-<td>0</td>
+<td>5 808</td>
 </tr>
 </table>
