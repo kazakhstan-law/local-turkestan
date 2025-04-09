@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/204325/kaz/13.12.2024
+source: https://zan.gov.kz/client/#!/doc/204325/kaz/09.04.2025
 ---
 
 > *Түркістан облыстық мәслихатының*  
