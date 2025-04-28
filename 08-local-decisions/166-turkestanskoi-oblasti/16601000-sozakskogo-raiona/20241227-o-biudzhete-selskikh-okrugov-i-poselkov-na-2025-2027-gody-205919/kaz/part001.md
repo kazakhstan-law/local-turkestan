@@ -1,15 +1,15 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/205919/kaz/28.03.2025
+source: https://zan.gov.kz/client/#!/doc/205919/kaz/28.04.2025
 ---
 
 > *Созақ аудандық мәслихатының*  
-> *2024 жылғы 27желтоқсандағы*  
+> *2024 жылғы 27 желтоқсандағы*  
 > *№165 шешіміне 1 қосымша*
 
 ## Жартытөбе ауылдық округінің 2025 жылға арналған бюджеті
 
-> *Ескерту. 1-қосымша жаңа редакцияда - Түркістан облысы Созақ аудандық мәслихатының 28.03.2025 № 186 (01.01.2025 бастап қолданысқа енгізіледі) шешімімен.*
+> *Ескерту. 1-қосымша жаңа редакцияда - Түркістан облысы Созақ аудандық мәслихатының 28.03.2025 № 186 (01.01.2025 бастап қолданысқа енгізіледі); 28.04.2025 № 191 (01.01.2025 бастап қолданысқа енгізіледі) шешімдерімен.*
 
 <table>
 <tr>
@@ -38,7 +38,7 @@ source: https://zan.gov.kz/client/#!/doc/205919/kaz/28.03.2025
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">1. Кірістер</td>
-<td>170 743</td>
+<td>476 000</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -174,7 +174,7 @@ source: https://zan.gov.kz/client/#!/doc/205919/kaz/28.03.2025
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Трансферттердің түсімдері</td>
-<td>151 378</td>
+<td>456 635</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -182,7 +182,7 @@ source: https://zan.gov.kz/client/#!/doc/205919/kaz/28.03.2025
 <td colspan="2">02</td>
 <td colspan="2"></td>
 <td colspan="2">Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td>151 378</td>
+<td>456 635</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -190,7 +190,7 @@ source: https://zan.gov.kz/client/#!/doc/205919/kaz/28.03.2025
 <td colspan="2"></td>
 <td colspan="2">3</td>
 <td colspan="2">Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td>151 378</td>
+<td>456 635</td>
 </tr>
 <tr>
 <td colspan="9">Функционалдық топ</td>
@@ -224,7 +224,7 @@ source: https://zan.gov.kz/client/#!/doc/205919/kaz/28.03.2025
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td>2. Шығындар</td>
-<td>177 413</td>
+<td>482 670</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
@@ -232,7 +232,7 @@ source: https://zan.gov.kz/client/#!/doc/205919/kaz/28.03.2025
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>105949</td>
+<td>169 295</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -240,7 +240,7 @@ source: https://zan.gov.kz/client/#!/doc/205919/kaz/28.03.2025
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>105 949</td>
+<td>169 295</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -248,7 +248,7 @@ source: https://zan.gov.kz/client/#!/doc/205919/kaz/28.03.2025
 <td colspan="2">124</td>
 <td colspan="3"></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>105 949</td>
+<td>169 295</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -256,7 +256,7 @@ source: https://zan.gov.kz/client/#!/doc/205919/kaz/28.03.2025
 <td colspan="2"></td>
 <td colspan="3">001</td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>96 850</td>
+<td>160 196</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -272,7 +272,7 @@ source: https://zan.gov.kz/client/#!/doc/205919/kaz/28.03.2025
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>71 464</td>
+<td>313 375</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -280,7 +280,7 @@ source: https://zan.gov.kz/client/#!/doc/205919/kaz/28.03.2025
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td>Елді-мекендерді көркейту</td>
-<td>71 464</td>
+<td>313 375</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -288,7 +288,7 @@ source: https://zan.gov.kz/client/#!/doc/205919/kaz/28.03.2025
 <td colspan="2">124</td>
 <td colspan="3"></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>71 464</td>
+<td>313 375</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -296,7 +296,7 @@ source: https://zan.gov.kz/client/#!/doc/205919/kaz/28.03.2025
 <td colspan="2"></td>
 <td colspan="3">008</td>
 <td>Елді мекендердегі көшелерді жарықтандыру</td>
-<td>22038</td>
+<td>31 841</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -312,7 +312,7 @@ source: https://zan.gov.kz/client/#!/doc/205919/kaz/28.03.2025
 <td colspan="2"></td>
 <td colspan="3">011</td>
 <td>Елді мекендерді абаттандыру мен көгалдандыру</td>
-<td>49 226</td>
+<td>281 334</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1553,7 +1553,7 @@ source: https://zan.gov.kz/client/#!/doc/205919/kaz/28.03.2025
 
 ## Жуантөбе ауылдық округінің 2025 жылға арналған бюджеті
 
-> *Ескерту. 4-қосымша жаңа редакцияда - Түркістан облысы Созақ аудандық мәслихатының 28.03.2025 № 186 (01.01.2025 бастап қолданысқа енгізіледі) шешімімен.*
+> *Ескерту. 4-қосымша жаңа редакцияда - Түркістан облысы Созақ аудандық мәслихатының 28.03.2025 № 186 (01.01.2025 бастап қолданысқа енгізіледі); 28.04.2025 № 191 (01.01.2025 бастап қолданысқа енгізіледі) шешімдерімен.*
 
 <table>
 <tr>
@@ -1582,7 +1582,7 @@ source: https://zan.gov.kz/client/#!/doc/205919/kaz/28.03.2025
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2">1. Кірістер</td>
-<td>98 735</td>
+<td>280 616</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1590,7 +1590,7 @@ source: https://zan.gov.kz/client/#!/doc/205919/kaz/28.03.2025
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2">Салықтық түсімдер</td>
-<td>11 462</td>
+<td>36 587</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1654,7 +1654,7 @@ source: https://zan.gov.kz/client/#!/doc/205919/kaz/28.03.2025
 <td colspan="3">05</td>
 <td colspan="2"></td>
 <td colspan="2">Тауарларға, жұмыстарға және қызметтерге салынатын ішкі салықтар</td>
-<td>1 000</td>
+<td>26 125</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1662,7 +1662,7 @@ source: https://zan.gov.kz/client/#!/doc/205919/kaz/28.03.2025
 <td colspan="3"></td>
 <td colspan="2">3</td>
 <td colspan="2">Табиғи және басқа да ресурстарды пайдаланғаны үшін түсетін түсімдер</td>
-<td>1 000</td>
+<td>26 125</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1686,7 +1686,7 @@ source: https://zan.gov.kz/client/#!/doc/205919/kaz/28.03.2025
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2">Трансферттердің түсімдері</td>
-<td>87 273</td>
+<td>244 029</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1694,7 +1694,7 @@ source: https://zan.gov.kz/client/#!/doc/205919/kaz/28.03.2025
 <td colspan="3">02</td>
 <td colspan="2"></td>
 <td colspan="2">Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td>87 273</td>
+<td>244 029</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1702,7 +1702,7 @@ source: https://zan.gov.kz/client/#!/doc/205919/kaz/28.03.2025
 <td colspan="3"></td>
 <td colspan="2">3</td>
 <td colspan="2">Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td>87 273</td>
+<td>244 029</td>
 </tr>
 <tr>
 <td colspan="10">Функционалдық топ</td>
@@ -1729,7 +1729,7 @@ source: https://zan.gov.kz/client/#!/doc/205919/kaz/28.03.2025
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td>2. Шығындар</td>
-<td>110 086</td>
+<td>291 967</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
@@ -1737,7 +1737,7 @@ source: https://zan.gov.kz/client/#!/doc/205919/kaz/28.03.2025
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>69 175</td>
+<td>84 955</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1745,7 +1745,7 @@ source: https://zan.gov.kz/client/#!/doc/205919/kaz/28.03.2025
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>69 175</td>
+<td>84 955</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1753,7 +1753,7 @@ source: https://zan.gov.kz/client/#!/doc/205919/kaz/28.03.2025
 <td colspan="3">124</td>
 <td colspan="3"></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>69 175</td>
+<td>84 955</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1761,7 +1761,15 @@ source: https://zan.gov.kz/client/#!/doc/205919/kaz/28.03.2025
 <td colspan="3"></td>
 <td colspan="3">001</td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>69 175</td>
+<td>84 345</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="3">022</td>
+<td>Мемлекеттік органның күрделі шығыстары</td>
+<td>610</td>
 </tr>
 <tr>
 <td colspan="2">07</td>
@@ -1769,7 +1777,7 @@ source: https://zan.gov.kz/client/#!/doc/205919/kaz/28.03.2025
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>40 911</td>
+<td>207 012</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1777,7 +1785,7 @@ source: https://zan.gov.kz/client/#!/doc/205919/kaz/28.03.2025
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td>Елді-мекендерді көркейту</td>
-<td>40 911</td>
+<td>207 012</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1785,7 +1793,7 @@ source: https://zan.gov.kz/client/#!/doc/205919/kaz/28.03.2025
 <td colspan="3">124</td>
 <td colspan="3"></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>40 911</td>
+<td>207 012</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1809,7 +1817,7 @@ source: https://zan.gov.kz/client/#!/doc/205919/kaz/28.03.2025
 <td colspan="3"></td>
 <td colspan="3">011</td>
 <td>Елді мекендерді абаттандыру мен көгалдандыру</td>
-<td>26 552</td>
+<td>192 653</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2999,7 +3007,7 @@ source: https://zan.gov.kz/client/#!/doc/205919/kaz/28.03.2025
 
 ## Қарақұр ауылдық округінің 2025 жылға арналған бюджеті
 
-> *Ескерту. 7-қосымша жаңа редакцияда - Түркістан облысы Созақ аудандық мәслихатының 28.03.2025 № 186 (01.01.2025 бастап қолданысқа енгізіледі) шешімімен.*
+> *Ескерту. 7-қосымша жаңа редакцияда - Түркістан облысы Созақ аудандық мәслихатының 28.03.2025 № 186 (01.01.2025 бастап қолданысқа енгізіледі); 28.04.2025 № 191 (01.01.2025 бастап қолданысқа енгізіледі) шешімдерімен.*
 
 <table>
 <tr>
@@ -3029,7 +3037,7 @@ source: https://zan.gov.kz/client/#!/doc/205919/kaz/28.03.2025
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2">1. Кірістер</td>
-<td>144 828</td>
+<td>211 146</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3149,7 +3157,7 @@ source: https://zan.gov.kz/client/#!/doc/205919/kaz/28.03.2025
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2">Трансферттердің түсімдері</td>
-<td>126 630</td>
+<td>192 948</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3157,7 +3165,7 @@ source: https://zan.gov.kz/client/#!/doc/205919/kaz/28.03.2025
 <td colspan="3">02</td>
 <td colspan="2"></td>
 <td colspan="2">Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td>126 630</td>
+<td>192 948</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3165,7 +3173,7 @@ source: https://zan.gov.kz/client/#!/doc/205919/kaz/28.03.2025
 <td colspan="3"></td>
 <td colspan="2">3</td>
 <td colspan="2">Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td>126 630</td>
+<td>192 948</td>
 </tr>
 <tr>
 <td colspan="10">Функционалдық топ</td>
@@ -3192,7 +3200,7 @@ source: https://zan.gov.kz/client/#!/doc/205919/kaz/28.03.2025
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td>2. Шығындар</td>
-<td>151 236</td>
+<td>217 554</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
@@ -3200,7 +3208,7 @@ source: https://zan.gov.kz/client/#!/doc/205919/kaz/28.03.2025
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>77 242</td>
+<td>81 826</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3208,7 +3216,7 @@ source: https://zan.gov.kz/client/#!/doc/205919/kaz/28.03.2025
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>77 242</td>
+<td>81 826</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3216,7 +3224,7 @@ source: https://zan.gov.kz/client/#!/doc/205919/kaz/28.03.2025
 <td colspan="3">124</td>
 <td colspan="3"></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>77 242</td>
+<td>81 826</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3224,7 +3232,7 @@ source: https://zan.gov.kz/client/#!/doc/205919/kaz/28.03.2025
 <td colspan="3"></td>
 <td colspan="3">001</td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>77 242</td>
+<td>81 826</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3240,7 +3248,7 @@ source: https://zan.gov.kz/client/#!/doc/205919/kaz/28.03.2025
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>73 994</td>
+<td>135 728</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3248,7 +3256,7 @@ source: https://zan.gov.kz/client/#!/doc/205919/kaz/28.03.2025
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td>Елді-мекендерді көркейту</td>
-<td>73 994</td>
+<td>135 728</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3256,7 +3264,7 @@ source: https://zan.gov.kz/client/#!/doc/205919/kaz/28.03.2025
 <td colspan="3">124</td>
 <td colspan="3"></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>73 994</td>
+<td>135 728</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3264,7 +3272,7 @@ source: https://zan.gov.kz/client/#!/doc/205919/kaz/28.03.2025
 <td colspan="3"></td>
 <td colspan="3">008</td>
 <td>Елді мекендердегі көшелерді жарықтандыру</td>
-<td>68 267</td>
+<td>72592</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3280,7 +3288,7 @@ source: https://zan.gov.kz/client/#!/doc/205919/kaz/28.03.2025
 <td colspan="3"></td>
 <td colspan="3">011</td>
 <td>Елді мекендерді абаттандыру мен көгалдандыру</td>
-<td>5 527</td>
+<td>62936</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -4494,7 +4502,7 @@ source: https://zan.gov.kz/client/#!/doc/205919/kaz/28.03.2025
 
 ## Қаратау ауылдық округінің 2025 жылға арналған бюджеті
 
-> *Ескерту. 10-қосымша жаңа редакцияда - Түркістан облысы Созақ аудандық мәслихатының 28.03.2025 № 186 (01.01.2025 бастап қолданысқа енгізіледі) шешімімен.*
+> *Ескерту. 10-қосымша жаңа редакцияда - Түркістан облысы Созақ аудандық мәслихатының 28.03.2025 № 186 (01.01.2025 бастап қолданысқа енгізіледі); 28.04.2025 № 191 (01.01.2025 бастап қолданысқа енгізіледі) шешімдерімен.*
 
 <table>
 <tr>
@@ -4523,7 +4531,7 @@ source: https://zan.gov.kz/client/#!/doc/205919/kaz/28.03.2025
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2">1. Кірістер</td>
-<td>100 927</td>
+<td>156 841</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -4627,7 +4635,7 @@ source: https://zan.gov.kz/client/#!/doc/205919/kaz/28.03.2025
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2">Трансферттердің түсімдері</td>
-<td>50 640</td>
+<td>106 554</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -4635,7 +4643,7 @@ source: https://zan.gov.kz/client/#!/doc/205919/kaz/28.03.2025
 <td colspan="3">02</td>
 <td colspan="2"></td>
 <td colspan="2">Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td>50 640</td>
+<td>106 554</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -4643,7 +4651,7 @@ source: https://zan.gov.kz/client/#!/doc/205919/kaz/28.03.2025
 <td colspan="3"></td>
 <td colspan="2">3</td>
 <td colspan="2">Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td>50 640</td>
+<td>106 554</td>
 </tr>
 <tr>
 <td colspan="10">Функционалдық топ</td>
@@ -4670,7 +4678,7 @@ source: https://zan.gov.kz/client/#!/doc/205919/kaz/28.03.2025
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td>2. Шығындар</td>
-<td>110 164</td>
+<td>166 078</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
@@ -4678,7 +4686,7 @@ source: https://zan.gov.kz/client/#!/doc/205919/kaz/28.03.2025
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>82 007</td>
+<td>85 493</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -4686,7 +4694,7 @@ source: https://zan.gov.kz/client/#!/doc/205919/kaz/28.03.2025
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>82 007</td>
+<td>85 493</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -4694,7 +4702,7 @@ source: https://zan.gov.kz/client/#!/doc/205919/kaz/28.03.2025
 <td colspan="3">124</td>
 <td colspan="3"></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>82 007</td>
+<td>85 493</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -4702,7 +4710,7 @@ source: https://zan.gov.kz/client/#!/doc/205919/kaz/28.03.2025
 <td colspan="3"></td>
 <td colspan="3">001</td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>81 707</td>
+<td>85 193</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -4718,7 +4726,7 @@ source: https://zan.gov.kz/client/#!/doc/205919/kaz/28.03.2025
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>28 157</td>
+<td>80 585</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -4726,7 +4734,7 @@ source: https://zan.gov.kz/client/#!/doc/205919/kaz/28.03.2025
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td>Елді-мекендерді көркейту</td>
-<td>28 157</td>
+<td>80 585</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -4734,7 +4742,7 @@ source: https://zan.gov.kz/client/#!/doc/205919/kaz/28.03.2025
 <td colspan="3">124</td>
 <td colspan="3"></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>28 157</td>
+<td>80 585</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -4742,7 +4750,7 @@ source: https://zan.gov.kz/client/#!/doc/205919/kaz/28.03.2025
 <td colspan="3"></td>
 <td colspan="3">008</td>
 <td>Елді мекендердегі көшелерді жарықтандыру</td>
-<td>17 802</td>
+<td>37 800</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -4758,7 +4766,7 @@ source: https://zan.gov.kz/client/#!/doc/205919/kaz/28.03.2025
 <td colspan="3"></td>
 <td colspan="3">011</td>
 <td>Елді мекендерді абаттандыру мен көгалдандыру</td>
-<td>10 155</td>
+<td>42 585</td>
 </tr>
 <tr>
 <td colspan="2"></td>

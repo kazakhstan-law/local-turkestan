@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/205919/rus/28.03.2025
+source: https://zan.gov.kz/client/#!/doc/205919/rus/28.04.2025
 ---
 
 > *Приложение 11 к решению*  
@@ -1051,14 +1051,14 @@ source: https://zan.gov.kz/client/#!/doc/205919/rus/28.03.2025
 </tr>
 </table>
 
-> *Приложение 13 к решению*  
+> *Приложение13 к решению*  
 > *Созакского районного*  
 > *маслихата от 27 марта*  
 > *2024 года №165*
 
 ## Бюджет сельского округа Кумкент на 2025 год
 
-> *Сноска. Приложение 13 в редакции решения Созакского районного маслихата Туркестанской области от 28.03.2025 № 186 (вводится в действие с 01.01.2025).*
+> *Сноска. Приложение 13 в редакции решений Созакского районного маслихата Туркестанской области от 28.03.2025 № 186 (вводится в действие с 01.01.2025); от 28.04.2025 № 191 (вводится в действие с 01.01.2025).*
 
 <table>
 <tr>
@@ -1094,7 +1094,7 @@ source: https://zan.gov.kz/client/#!/doc/205919/rus/28.03.2025
 <td colspan="2"></td>
 <td colspan="5"></td>
 <td>1. Доходы</td>
-<td>135 936</td>
+<td>252 466</td>
 </tr>
 <tr>
 <td></td>
@@ -1102,7 +1102,7 @@ source: https://zan.gov.kz/client/#!/doc/205919/rus/28.03.2025
 <td colspan="2"></td>
 <td colspan="5"></td>
 <td>Налоговые поступления</td>
-<td>14 899</td>
+<td>54 378</td>
 </tr>
 <tr>
 <td></td>
@@ -1166,7 +1166,7 @@ source: https://zan.gov.kz/client/#!/doc/205919/rus/28.03.2025
 <td colspan="2">05</td>
 <td colspan="5"></td>
 <td>Внутренние налоги на товары, работы и услуги</td>
-<td>3 405</td>
+<td>42 884</td>
 </tr>
 <tr>
 <td></td>
@@ -1174,7 +1174,7 @@ source: https://zan.gov.kz/client/#!/doc/205919/rus/28.03.2025
 <td colspan="2"></td>
 <td colspan="5">3</td>
 <td>Платежи за землепользование</td>
-<td>3 405</td>
+<td>42 884</td>
 </tr>
 <tr>
 <td></td>
@@ -1198,7 +1198,7 @@ source: https://zan.gov.kz/client/#!/doc/205919/rus/28.03.2025
 <td colspan="2"></td>
 <td colspan="5"></td>
 <td>Поступления трансфертов</td>
-<td>121 037</td>
+<td>198 088</td>
 </tr>
 <tr>
 <td></td>
@@ -1206,7 +1206,7 @@ source: https://zan.gov.kz/client/#!/doc/205919/rus/28.03.2025
 <td colspan="2">02</td>
 <td colspan="5"></td>
 <td>Трансферты из вышестоящих органов государственного управления</td>
-<td>121 037</td>
+<td>198 088</td>
 </tr>
 <tr>
 <td></td>
@@ -1214,7 +1214,7 @@ source: https://zan.gov.kz/client/#!/doc/205919/rus/28.03.2025
 <td colspan="2"></td>
 <td colspan="5">3</td>
 <td>Трансферты из районного (города областного значения) бюджета</td>
-<td>121 037</td>
+<td>198 088</td>
 </tr>
 <tr>
 <td colspan="11">Функциональная группа</td>
@@ -1233,7 +1233,7 @@ source: https://zan.gov.kz/client/#!/doc/205919/rus/28.03.2025
 <td></td>
 <td colspan="2"></td>
 <td colspan="4"></td>
-<td colspan="4">Программа Наименование</td>
+<td colspan="4">ПрограммаНаименование</td>
 </tr>
 <tr>
 <td></td>
@@ -1241,7 +1241,7 @@ source: https://zan.gov.kz/client/#!/doc/205919/rus/28.03.2025
 <td colspan="4"></td>
 <td colspan="3"></td>
 <td>2. Затраты</td>
-<td>209 580</td>
+<td>326 110</td>
 </tr>
 <tr>
 <td>01</td>
@@ -1249,7 +1249,7 @@ source: https://zan.gov.kz/client/#!/doc/205919/rus/28.03.2025
 <td colspan="4"></td>
 <td colspan="3"></td>
 <td>Государственные услуги общего характера</td>
-<td>90 289</td>
+<td>89 924</td>
 </tr>
 <tr>
 <td></td>
@@ -1257,7 +1257,7 @@ source: https://zan.gov.kz/client/#!/doc/205919/rus/28.03.2025
 <td colspan="4"></td>
 <td colspan="3"></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>90 289</td>
+<td>89 924</td>
 </tr>
 <tr>
 <td></td>
@@ -1265,7 +1265,7 @@ source: https://zan.gov.kz/client/#!/doc/205919/rus/28.03.2025
 <td colspan="4">124</td>
 <td colspan="3"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>90 289</td>
+<td>89 924</td>
 </tr>
 <tr>
 <td></td>
@@ -1273,7 +1273,7 @@ source: https://zan.gov.kz/client/#!/doc/205919/rus/28.03.2025
 <td colspan="4"></td>
 <td colspan="3">001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>89 915</td>
+<td>89550</td>
 </tr>
 <tr>
 <td></td>
@@ -1289,7 +1289,7 @@ source: https://zan.gov.kz/client/#!/doc/205919/rus/28.03.2025
 <td colspan="4"></td>
 <td colspan="3"></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>119 291</td>
+<td>236 186</td>
 </tr>
 <tr>
 <td></td>
@@ -1297,7 +1297,7 @@ source: https://zan.gov.kz/client/#!/doc/205919/rus/28.03.2025
 <td colspan="4"></td>
 <td colspan="3"></td>
 <td>Благоустройство населенных пунктов</td>
-<td>119 291</td>
+<td>236 186</td>
 </tr>
 <tr>
 <td></td>
@@ -1305,7 +1305,7 @@ source: https://zan.gov.kz/client/#!/doc/205919/rus/28.03.2025
 <td colspan="4">124</td>
 <td colspan="3"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>119 291</td>
+<td>236 186</td>
 </tr>
 <tr>
 <td></td>
@@ -1329,7 +1329,7 @@ source: https://zan.gov.kz/client/#!/doc/205919/rus/28.03.2025
 <td colspan="4"></td>
 <td colspan="3">011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td>65 231</td>
+<td>182 126</td>
 </tr>
 <tr>
 <td></td>
@@ -2602,12 +2602,12 @@ source: https://zan.gov.kz/client/#!/doc/205919/rus/28.03.2025
 
 > *Приложение 16 к решению*  
 > *Созакского районного*  
-> *маслихата от 27 декабря*  
+> *маслихата от 27декабря*  
 > *2024 года №165*
 
 ## Бюджет сельского округа Созак на 2025 год
 
-> *Сноска. Приложение 16 в редакции решения Созакского районного маслихата Туркестанской области от 28.03.2025 № 186 (вводится в действие с 01.01.2025).*
+> *Сноска. Приложение 16 в редакции решений Созакского районного маслихата Туркестанской области от 28.03.2025 № 186 (вводится в действие с 01.01.2025); от 28.04.2025 № 191 (вводится в действие с 01.01.2025).*
 
 <table>
 <tr>
@@ -2642,7 +2642,7 @@ source: https://zan.gov.kz/client/#!/doc/205919/rus/28.03.2025
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td>1. Доходы</td>
-<td>299 549</td>
+<td>632 624</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -2778,7 +2778,7 @@ source: https://zan.gov.kz/client/#!/doc/205919/rus/28.03.2025
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td>Поступления трансфертов</td>
-<td>235 834</td>
+<td>568 909</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -2786,7 +2786,7 @@ source: https://zan.gov.kz/client/#!/doc/205919/rus/28.03.2025
 <td colspan="5">02</td>
 <td colspan="4"></td>
 <td>Трансферты из вышестоящих органов государственного управления</td>
-<td>235 834</td>
+<td>568 909</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -2794,7 +2794,7 @@ source: https://zan.gov.kz/client/#!/doc/205919/rus/28.03.2025
 <td colspan="5"></td>
 <td colspan="4">3</td>
 <td>Трансферты из районного (города областного значения) бюджета</td>
-<td>235 834</td>
+<td>568 909</td>
 </tr>
 <tr>
 <td colspan="16">Функциональная группа</td>
@@ -2813,7 +2813,7 @@ source: https://zan.gov.kz/client/#!/doc/205919/rus/28.03.2025
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="4"></td>
-<td colspan="6">Программа Наименование</td>
+<td colspan="6">ПрограммаНаименование</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -2821,7 +2821,7 @@ source: https://zan.gov.kz/client/#!/doc/205919/rus/28.03.2025
 <td colspan="4"></td>
 <td colspan="4"></td>
 <td colspan="2">2. Затраты</td>
-<td>315 397</td>
+<td>648 472</td>
 </tr>
 <tr>
 <td colspan="3">01</td>
@@ -2829,7 +2829,7 @@ source: https://zan.gov.kz/client/#!/doc/205919/rus/28.03.2025
 <td colspan="4"></td>
 <td colspan="4"></td>
 <td colspan="2">Государственные услуги общего характера</td>
-<td>101 696</td>
+<td>648 472</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -2837,7 +2837,7 @@ source: https://zan.gov.kz/client/#!/doc/205919/rus/28.03.2025
 <td colspan="4"></td>
 <td colspan="4"></td>
 <td colspan="2">Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>101 696</td>
+<td>648 472</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -2845,7 +2845,7 @@ source: https://zan.gov.kz/client/#!/doc/205919/rus/28.03.2025
 <td colspan="4">124</td>
 <td colspan="4"></td>
 <td colspan="2">Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>101 696</td>
+<td>142 989</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -2853,7 +2853,7 @@ source: https://zan.gov.kz/client/#!/doc/205919/rus/28.03.2025
 <td colspan="4"></td>
 <td colspan="4">001</td>
 <td colspan="2">Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>101 696</td>
+<td>131 934</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -2861,7 +2861,7 @@ source: https://zan.gov.kz/client/#!/doc/205919/rus/28.03.2025
 <td colspan="4"></td>
 <td colspan="4">022</td>
 <td colspan="2">Капитальные расходы государственного органа</td>
-<td>0</td>
+<td>11 055</td>
 </tr>
 <tr>
 <td colspan="3">07</td>
@@ -2869,7 +2869,7 @@ source: https://zan.gov.kz/client/#!/doc/205919/rus/28.03.2025
 <td colspan="4"></td>
 <td colspan="4"></td>
 <td colspan="2">Жилищно-коммунальное хозяйство</td>
-<td>213 701</td>
+<td>505 483</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -2877,7 +2877,7 @@ source: https://zan.gov.kz/client/#!/doc/205919/rus/28.03.2025
 <td colspan="4"></td>
 <td colspan="4"></td>
 <td colspan="2">Благоустройство населенных пунктов</td>
-<td>213 701</td>
+<td>505 483</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -2885,7 +2885,7 @@ source: https://zan.gov.kz/client/#!/doc/205919/rus/28.03.2025
 <td colspan="4">124</td>
 <td colspan="4"></td>
 <td colspan="2">Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>213 701</td>
+<td>505 483</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -2893,7 +2893,7 @@ source: https://zan.gov.kz/client/#!/doc/205919/rus/28.03.2025
 <td colspan="4"></td>
 <td colspan="4">008</td>
 <td colspan="2">Освещение улиц в населенных пунктах</td>
-<td>196 853</td>
+<td>308 564</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -2909,7 +2909,7 @@ source: https://zan.gov.kz/client/#!/doc/205919/rus/28.03.2025
 <td colspan="4"></td>
 <td colspan="4">011</td>
 <td colspan="2">Благоустройство и озеленение населенных пунктов</td>
-<td>15 848</td>
+<td>195 919</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -2979,7 +2979,7 @@ source: https://zan.gov.kz/client/#!/doc/205919/rus/28.03.2025
 <tr>
 <td></td>
 <td colspan="3"></td>
-<td colspan="12">Подкласс Специфика Наименование</td>
+<td colspan="12">ПодклассСпецифика Наименование</td>
 </tr>
 <tr>
 <td></td>
@@ -4266,7 +4266,7 @@ source: https://zan.gov.kz/client/#!/doc/205919/rus/28.03.2025
 
 ## Бюджет сельского округа Сызган на 2025 год
 
-> *Сноска. Приложение 19 в редакции решения Созакского районного маслихата Туркестанской области от 28.03.2025 № 186 (вводится в действие с 01.01.2025).*
+> *Сноска. Приложение 19 в редакции решений Созакского районного маслихата Туркестанской области от 28.03.2025 № 186 (вводится в действие с 01.01.2025); от 28.04.2025 № 191 (вводится в действие с 01.01.2025).*
 
 <table>
 <tr>
@@ -4302,7 +4302,7 @@ source: https://zan.gov.kz/client/#!/doc/205919/rus/28.03.2025
 <td colspan="3"></td>
 <td colspan="5"></td>
 <td>1. Доходы</td>
-<td>128 870</td>
+<td>296 312</td>
 </tr>
 <tr>
 <td colspan="5"></td>
@@ -4310,7 +4310,7 @@ source: https://zan.gov.kz/client/#!/doc/205919/rus/28.03.2025
 <td colspan="3"></td>
 <td colspan="5"></td>
 <td>Налоговые поступления</td>
-<td>21 874</td>
+<td>27 808</td>
 </tr>
 <tr>
 <td colspan="5"></td>
@@ -4374,7 +4374,7 @@ source: https://zan.gov.kz/client/#!/doc/205919/rus/28.03.2025
 <td colspan="3">05</td>
 <td colspan="5"></td>
 <td>Внутренние налоги на товары, работы и услуги</td>
-<td>7 260</td>
+<td>13 194</td>
 </tr>
 <tr>
 <td colspan="5"></td>
@@ -4382,7 +4382,7 @@ source: https://zan.gov.kz/client/#!/doc/205919/rus/28.03.2025
 <td colspan="3"></td>
 <td colspan="5">4</td>
 <td>Сборы за ведение предпринимательской и профессиональной деятельности</td>
-<td>7 260</td>
+<td>13 194</td>
 </tr>
 <tr>
 <td colspan="5"></td>
@@ -4438,7 +4438,7 @@ source: https://zan.gov.kz/client/#!/doc/205919/rus/28.03.2025
 <td colspan="3"></td>
 <td colspan="5"></td>
 <td>Поступления трансфертов</td>
-<td>106 546</td>
+<td>268 054</td>
 </tr>
 <tr>
 <td colspan="5"></td>
@@ -4446,7 +4446,7 @@ source: https://zan.gov.kz/client/#!/doc/205919/rus/28.03.2025
 <td colspan="3">02</td>
 <td colspan="5"></td>
 <td>Трансферты из вышестоящих органов государственного управления</td>
-<td>106 546</td>
+<td>268 054</td>
 </tr>
 <tr>
 <td colspan="5"></td>
@@ -4454,7 +4454,7 @@ source: https://zan.gov.kz/client/#!/doc/205919/rus/28.03.2025
 <td colspan="3"></td>
 <td colspan="5">3</td>
 <td>Трансферты из районного (города областного значения) бюджета</td>
-<td>106 546</td>
+<td>268 054</td>
 </tr>
 <tr>
 <td colspan="16">Функциональная группа</td>
@@ -4488,7 +4488,7 @@ source: https://zan.gov.kz/client/#!/doc/205919/rus/28.03.2025
 <td colspan="5"></td>
 <td colspan="3"></td>
 <td>2. Затраты</td>
-<td>136 263</td>
+<td>303 705</td>
 </tr>
 <tr>
 <td colspan="5">01</td>
@@ -4496,7 +4496,7 @@ source: https://zan.gov.kz/client/#!/doc/205919/rus/28.03.2025
 <td colspan="5"></td>
 <td colspan="3"></td>
 <td>Государственные услуги общего характера</td>
-<td>90 308</td>
+<td>126 550</td>
 </tr>
 <tr>
 <td colspan="5"></td>
@@ -4504,7 +4504,7 @@ source: https://zan.gov.kz/client/#!/doc/205919/rus/28.03.2025
 <td colspan="5"></td>
 <td colspan="3"></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>90 308</td>
+<td>126 550</td>
 </tr>
 <tr>
 <td colspan="5"></td>
@@ -4512,7 +4512,7 @@ source: https://zan.gov.kz/client/#!/doc/205919/rus/28.03.2025
 <td colspan="5">124</td>
 <td colspan="3"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>90 308</td>
+<td>126 550</td>
 </tr>
 <tr>
 <td colspan="5"></td>
@@ -4520,7 +4520,7 @@ source: https://zan.gov.kz/client/#!/doc/205919/rus/28.03.2025
 <td colspan="5"></td>
 <td colspan="3">001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>89 948</td>
+<td>126 190</td>
 </tr>
 <tr>
 <td colspan="5"></td>
@@ -4536,7 +4536,7 @@ source: https://zan.gov.kz/client/#!/doc/205919/rus/28.03.2025
 <td colspan="5"></td>
 <td colspan="3"></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>45 955</td>
+<td>177 155</td>
 </tr>
 <tr>
 <td colspan="5"></td>
@@ -4544,7 +4544,7 @@ source: https://zan.gov.kz/client/#!/doc/205919/rus/28.03.2025
 <td colspan="5"></td>
 <td colspan="3"></td>
 <td>Благоустройство населенных пунктов</td>
-<td>45 955</td>
+<td>177 155</td>
 </tr>
 <tr>
 <td colspan="4"></td>
@@ -4552,7 +4552,7 @@ source: https://zan.gov.kz/client/#!/doc/205919/rus/28.03.2025
 <td colspan="5">124</td>
 <td colspan="3"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>45 955</td>
+<td>177 155</td>
 </tr>
 <tr>
 <td colspan="4"></td>
@@ -4560,7 +4560,7 @@ source: https://zan.gov.kz/client/#!/doc/205919/rus/28.03.2025
 <td colspan="5"></td>
 <td colspan="3">008</td>
 <td>Освещение улиц в населенных пунктах</td>
-<td>45 755</td>
+<td>93 258</td>
 </tr>
 <tr>
 <td colspan="4"></td>
@@ -4576,7 +4576,7 @@ source: https://zan.gov.kz/client/#!/doc/205919/rus/28.03.2025
 <td colspan="5"></td>
 <td colspan="3">011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td>0</td>
+<td>83 697</td>
 </tr>
 <tr>
 <td colspan="4"></td>
@@ -4712,6 +4712,14 @@ source: https://zan.gov.kz/client/#!/doc/205919/rus/28.03.2025
 <td colspan="5"></td>
 <td colspan="2"></td>
 <td colspan="6">Программа Наименование</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td colspan="3">16</td>

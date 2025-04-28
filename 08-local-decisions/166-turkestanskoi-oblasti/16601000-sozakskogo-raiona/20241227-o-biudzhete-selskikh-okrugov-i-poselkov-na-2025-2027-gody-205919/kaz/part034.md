@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/205919/kaz/28.03.2025
+source: https://zan.gov.kz/client/#!/doc/205919/kaz/28.04.2025
 ---
 
 > *Созақ аудандық мәслихатының*  
@@ -9,7 +9,7 @@ source: https://zan.gov.kz/client/#!/doc/205919/kaz/28.03.2025
 
 ## Тасты ауылдық округінің 2025 жылға арналған бюджеті
 
-> *Ескерту. 34-қосымша жаңа редакцияда - Түркістан облысы Созақ аудандық мәслихатының 28.03.2025 № 186 (01.01.2025 бастап қолданысқа енгізіледі) шешімімен.*
+> *Ескерту. 34-қосымша жаңа редакцияда - Түркістан облысы Созақ аудандық мәслихатының 28.03.2025 № 186 (01.01.2025 бастап қолданысқа енгізіледі); 28.04.2025 № 191 (01.01.2025 бастап қолданысқа енгізіледі) шешімдерімен.*
 
 <table>
 <tr>
@@ -38,7 +38,7 @@ source: https://zan.gov.kz/client/#!/doc/205919/kaz/28.03.2025
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2">1. Кірістер</td>
-<td>83 536</td>
+<td>116 649</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -142,7 +142,7 @@ source: https://zan.gov.kz/client/#!/doc/205919/kaz/28.03.2025
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2">Трансферттердің түсімдері</td>
-<td>71 686</td>
+<td>104 799</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -150,7 +150,7 @@ source: https://zan.gov.kz/client/#!/doc/205919/kaz/28.03.2025
 <td colspan="3">02</td>
 <td colspan="2"></td>
 <td colspan="2">Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td>71 686</td>
+<td>104 799</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -158,7 +158,7 @@ source: https://zan.gov.kz/client/#!/doc/205919/kaz/28.03.2025
 <td colspan="3"></td>
 <td colspan="2">3</td>
 <td colspan="2">Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td>71 686</td>
+<td>104 799</td>
 </tr>
 <tr>
 <td colspan="10">Функционалдық топ</td>
@@ -185,7 +185,7 @@ source: https://zan.gov.kz/client/#!/doc/205919/kaz/28.03.2025
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td>2. Шығындар</td>
-<td>94 201</td>
+<td>127 314</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
@@ -193,7 +193,7 @@ source: https://zan.gov.kz/client/#!/doc/205919/kaz/28.03.2025
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>61 554</td>
+<td>65 464</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -201,7 +201,7 @@ source: https://zan.gov.kz/client/#!/doc/205919/kaz/28.03.2025
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>61 554</td>
+<td>65 464</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -209,7 +209,7 @@ source: https://zan.gov.kz/client/#!/doc/205919/kaz/28.03.2025
 <td colspan="3">124</td>
 <td colspan="3"></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>61 554</td>
+<td>65 464</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -217,7 +217,7 @@ source: https://zan.gov.kz/client/#!/doc/205919/kaz/28.03.2025
 <td colspan="3"></td>
 <td colspan="3">001</td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>61554</td>
+<td>65 464</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -233,7 +233,7 @@ source: https://zan.gov.kz/client/#!/doc/205919/kaz/28.03.2025
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>32647</td>
+<td>61 850</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -241,7 +241,7 @@ source: https://zan.gov.kz/client/#!/doc/205919/kaz/28.03.2025
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td>Елді-мекендерді көркейту</td>
-<td>32 647</td>
+<td>61 850</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -249,7 +249,7 @@ source: https://zan.gov.kz/client/#!/doc/205919/kaz/28.03.2025
 <td colspan="3">124</td>
 <td colspan="3"></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>32 647</td>
+<td>61 850</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -257,7 +257,7 @@ source: https://zan.gov.kz/client/#!/doc/205919/kaz/28.03.2025
 <td colspan="3"></td>
 <td colspan="3">008</td>
 <td>Елді мекендердегі көшелерді жарықтандыру</td>
-<td>24 247</td>
+<td>30 240</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -273,7 +273,7 @@ source: https://zan.gov.kz/client/#!/doc/205919/kaz/28.03.2025
 <td colspan="3"></td>
 <td colspan="3">011</td>
 <td>Елді мекендерді абаттандыру мен көгалдандыру</td>
-<td>8 200</td>
+<td>31 410</td>
 </tr>
 <tr>
 <td colspan="2"></td>
