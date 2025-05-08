@@ -1,13 +1,16 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/205962/rus/30.12.2024
+source: https://zan.gov.kz/client/#!/doc/205962/rus/08.05.2025
 ---
 
 > *Приложение 37 к решению*  
-> *Жетысайского районного маслихата*  
-> *от 30 декабря 2024 года №25-151-VIII*
+> *Жетысайского районного*  
+> *маслихата от 30 декабря*  
+> *2024 года №25-151-VIII*
 
 ## Бюджет сельского округа Ынтымак на 2025 год
+
+> *Сноска. Приложение 37 в редакции решения Жетысайского районного маслихата Туркестанской области от 08.05.2025 № 29-175-VIII (вводится в действие с 01.01.2025).*
 
 <table>
 <tr>
@@ -38,7 +41,7 @@ source: https://zan.gov.kz/client/#!/doc/205962/rus/30.12.2024
 <td></td>
 <td></td>
 <td>1.Доходы</td>
-<td>84 301</td>
+<td>90 732</td>
 </tr>
 <tr>
 <td>1</td>
@@ -46,7 +49,7 @@ source: https://zan.gov.kz/client/#!/doc/205962/rus/30.12.2024
 <td></td>
 <td></td>
 <td>Налоговые поступления</td>
-<td>57 576</td>
+<td>62 007</td>
 </tr>
 <tr>
 <td></td>
@@ -54,14 +57,14 @@ source: https://zan.gov.kz/client/#!/doc/205962/rus/30.12.2024
 <td></td>
 <td></td>
 <td>Подоходный налог</td>
-<td>29 880</td>
+<td>29 311</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="2">2</td>
 <td>Индивидуальный подоходный налог</td>
-<td>29 880</td>
+<td>29 311</td>
 </tr>
 <tr>
 <td></td>
@@ -69,7 +72,7 @@ source: https://zan.gov.kz/client/#!/doc/205962/rus/30.12.2024
 <td></td>
 <td></td>
 <td>Hалоги на собственность</td>
-<td>27 663</td>
+<td>32 663</td>
 </tr>
 <tr>
 <td></td>
@@ -97,7 +100,7 @@ source: https://zan.gov.kz/client/#!/doc/205962/rus/30.12.2024
 <td></td>
 <td colspan="2">5</td>
 <td>Единый земельный налог</td>
-<td>300</td>
+<td>5 300</td>
 </tr>
 <tr>
 <td></td>
@@ -142,7 +145,7 @@ source: https://zan.gov.kz/client/#!/doc/205962/rus/30.12.2024
 <td></td>
 <td></td>
 <td>Поступления от продажи основного капитала</td>
-<td>28</td>
+<td>2 028</td>
 </tr>
 <tr>
 <td></td>
@@ -166,7 +169,7 @@ source: https://zan.gov.kz/client/#!/doc/205962/rus/30.12.2024
 <td></td>
 <td></td>
 <td>Продажа земли и нематериальных активов</td>
-<td>28</td>
+<td>2 028</td>
 </tr>
 <tr>
 <td></td>
@@ -174,7 +177,7 @@ source: https://zan.gov.kz/client/#!/doc/205962/rus/30.12.2024
 <td>1</td>
 <td></td>
 <td>Продажа земли</td>
-<td>28</td>
+<td>2 028</td>
 </tr>
 <tr>
 <td>4</td>
@@ -229,7 +232,7 @@ source: https://zan.gov.kz/client/#!/doc/205962/rus/30.12.2024
 <td></td>
 <td></td>
 <td>2.Затраты</td>
-<td>84 301</td>
+<td>92 746</td>
 </tr>
 <tr>
 <td>01</td>
@@ -237,7 +240,7 @@ source: https://zan.gov.kz/client/#!/doc/205962/rus/30.12.2024
 <td></td>
 <td></td>
 <td>Государственные услуги общего характера</td>
-<td>79 301</td>
+<td>80 651</td>
 </tr>
 <tr>
 <td></td>
@@ -245,7 +248,7 @@ source: https://zan.gov.kz/client/#!/doc/205962/rus/30.12.2024
 <td></td>
 <td></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>79 301</td>
+<td>80 651</td>
 </tr>
 <tr>
 <td></td>
@@ -253,7 +256,7 @@ source: https://zan.gov.kz/client/#!/doc/205962/rus/30.12.2024
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>79 301</td>
+<td>80 651</td>
 </tr>
 <tr>
 <td></td>
@@ -261,7 +264,7 @@ source: https://zan.gov.kz/client/#!/doc/205962/rus/30.12.2024
 <td></td>
 <td>001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>79 301</td>
+<td>80 651</td>
 </tr>
 <tr>
 <td></td>
@@ -277,7 +280,7 @@ source: https://zan.gov.kz/client/#!/doc/205962/rus/30.12.2024
 <td></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>5 000</td>
+<td>12 095</td>
 </tr>
 <tr>
 <td></td>
@@ -309,7 +312,7 @@ source: https://zan.gov.kz/client/#!/doc/205962/rus/30.12.2024
 <td></td>
 <td></td>
 <td>Благоустройство населенных пунктов</td>
-<td>5 000</td>
+<td>12 095</td>
 </tr>
 <tr>
 <td></td>
@@ -317,7 +320,7 @@ source: https://zan.gov.kz/client/#!/doc/205962/rus/30.12.2024
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>5 000</td>
+<td>12 095</td>
 </tr>
 <tr>
 <td></td>
@@ -325,7 +328,7 @@ source: https://zan.gov.kz/client/#!/doc/205962/rus/30.12.2024
 <td></td>
 <td>008</td>
 <td>Освещение улиц населенных пунктов</td>
-<td>0</td>
+<td>2 009</td>
 </tr>
 <tr>
 <td></td>
@@ -341,7 +344,7 @@ source: https://zan.gov.kz/client/#!/doc/205962/rus/30.12.2024
 <td></td>
 <td>011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td>0</td>
+<td>5 086</td>
 </tr>
 <tr>
 <td>08</td>
@@ -587,14 +590,14 @@ source: https://zan.gov.kz/client/#!/doc/205962/rus/30.12.2024
 <td></td>
 <td colspan="2"></td>
 <td>5. Дефицит (профицит) бюджета</td>
-<td>0</td>
+<td>-2 014</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="2"></td>
 <td>6. Финансирование дефицита (использования профицита) бюджета</td>
-<td>0</td>
+<td>2 014</td>
 </tr>
 <tr>
 <td colspan="3">Категория</td>
@@ -721,28 +724,28 @@ source: https://zan.gov.kz/client/#!/doc/205962/rus/30.12.2024
 <td></td>
 <td colspan="2"></td>
 <td>Бюджет қаражатының пайдаланылатын қалдықтары</td>
-<td>0</td>
+<td>2 014</td>
 </tr>
 <tr>
 <td>8</td>
 <td></td>
 <td colspan="2"></td>
 <td>Бюджет қаражатының пайдаланылатын қалдықтары</td>
-<td>0</td>
+<td>2 014</td>
 </tr>
 <tr>
 <td></td>
 <td>01</td>
 <td colspan="2"></td>
 <td>Бюджет қаражаты қалдықтары</td>
-<td>0</td>
+<td>2 014</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="2">1</td>
 <td>Бюджет қаражатының бос қалдықтары</td>
-<td>0</td>
+<td>2 014</td>
 </tr>
 </table>
 
