@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/204453/kaz/23.04.2025
+source: https://zan.gov.kz/client/#!/doc/204453/kaz/14.07.2025
 ---
 
 > *Келес аудандық*  
