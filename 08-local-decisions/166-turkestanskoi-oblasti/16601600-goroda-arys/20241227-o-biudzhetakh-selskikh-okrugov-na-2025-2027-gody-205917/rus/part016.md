@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/205917/rus/21.05.2025
+source: https://zan.gov.kz/client/#!/doc/205917/rus/29.07.2025
 ---
 
 > *Приложение 16 к решению*  
@@ -10,7 +10,7 @@ source: https://zan.gov.kz/client/#!/doc/205917/rus/21.05.2025
 
 ## Бюджет сельского округа Монтайтас на 2025 год
 
-> *Сноска. Приложение 16 в редакции решения Арысского городского маслихата Туркестанской области от 27.03.2025 № 30/175-VIII (вводится в действие с 01.01.2025); от 21.05.2025 № 32/183-VІІІ (водится в действие с 01.01.2025).*
+> *Сноска. Приложение 16 в редакции решения Арысского городского маслихата Туркестанской области от 27.03.2025 № 30/175-VIII (вводится в действие с 01.01.2025); от 21.05.2025 № 32/183-VІІІ (водится в действие с 01.01.2025); от 29.07.2025 № 35/197-VIII (вводится в действие с 01.01.2025).*
 
 <table>
 <tr>
@@ -41,7 +41,7 @@ source: https://zan.gov.kz/client/#!/doc/205917/rus/21.05.2025
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">1. Доходы</td>
-<td colspan="2">114909</td>
+<td colspan="2">115748</td>
 </tr>
 <tr>
 <td>1</td>
@@ -97,7 +97,7 @@ source: https://zan.gov.kz/client/#!/doc/205917/rus/21.05.2025
 <td>4</td>
 <td colspan="2"></td>
 <td colspan="2">Hалог на транспортные средства</td>
-<td colspan="2">10462</td>
+<td colspan="2">9762</td>
 </tr>
 <tr>
 <td></td>
@@ -105,7 +105,7 @@ source: https://zan.gov.kz/client/#!/doc/205917/rus/21.05.2025
 <td>5</td>
 <td colspan="2"></td>
 <td colspan="2">Единый земельный налог</td>
-<td colspan="2">574</td>
+<td colspan="2">1274</td>
 </tr>
 <tr>
 <td></td>
@@ -153,7 +153,7 @@ source: https://zan.gov.kz/client/#!/doc/205917/rus/21.05.2025
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">Поступления трансфертов</td>
-<td colspan="2">98496</td>
+<td colspan="2">99335</td>
 </tr>
 <tr>
 <td></td>
@@ -161,7 +161,7 @@ source: https://zan.gov.kz/client/#!/doc/205917/rus/21.05.2025
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">Трансферты из вышестоящих органов государственного управления</td>
-<td colspan="2">98496</td>
+<td colspan="2">99335</td>
 </tr>
 <tr>
 <td></td>
@@ -169,7 +169,7 @@ source: https://zan.gov.kz/client/#!/doc/205917/rus/21.05.2025
 <td>3</td>
 <td colspan="2"></td>
 <td colspan="2">Трансферты из районного (города областного значения) бюджета</td>
-<td colspan="2">98496</td>
+<td colspan="2">99335</td>
 </tr>
 <tr>
 <td colspan="7">Функциональная группа</td>
@@ -199,7 +199,7 @@ source: https://zan.gov.kz/client/#!/doc/205917/rus/21.05.2025
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">2. Затраты</td>
-<td colspan="2">115906</td>
+<td colspan="2">116745</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
@@ -207,7 +207,7 @@ source: https://zan.gov.kz/client/#!/doc/205917/rus/21.05.2025
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">Государственные услуги общего характера</td>
-<td colspan="2">76039</td>
+<td colspan="2">76878</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -215,7 +215,7 @@ source: https://zan.gov.kz/client/#!/doc/205917/rus/21.05.2025
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td colspan="2">76039</td>
+<td colspan="2">76878</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -223,7 +223,7 @@ source: https://zan.gov.kz/client/#!/doc/205917/rus/21.05.2025
 <td>124</td>
 <td colspan="2"></td>
 <td colspan="2">Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">76039</td>
+<td colspan="2">76878</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -231,7 +231,7 @@ source: https://zan.gov.kz/client/#!/doc/205917/rus/21.05.2025
 <td></td>
 <td colspan="2">001</td>
 <td colspan="2">Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">74189</td>
+<td colspan="2">75048</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -239,7 +239,7 @@ source: https://zan.gov.kz/client/#!/doc/205917/rus/21.05.2025
 <td></td>
 <td colspan="2">022</td>
 <td colspan="2">Капитальные расходы государственного органа</td>
-<td colspan="2">1850</td>
+<td colspan="2">1830</td>
 </tr>
 <tr>
 <td colspan="2">07</td>
