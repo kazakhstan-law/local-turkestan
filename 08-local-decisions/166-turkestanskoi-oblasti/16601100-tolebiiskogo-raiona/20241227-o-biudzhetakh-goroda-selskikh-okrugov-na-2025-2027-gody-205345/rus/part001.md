@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/205345/rus/04.06.2025
+source: https://zan.gov.kz/client/#!/doc/205345/rus/10.11.2025
 ---
 
 > *Приложение 1 к решению*  
@@ -9,7 +9,7 @@ source: https://zan.gov.kz/client/#!/doc/205345/rus/04.06.2025
 
 ## Бюджет города Ленгер на 2025 год
 
-> *Сноска. Приложение 1 в редакции решения Толебийского районного маслихата Туркестанской области от 04.06.2025 № 26/150-VIII (вводится в действие с 01.01.2025).*
+> *Сноска. Приложение 1 в редакции решения Толебийского районного маслихата Туркестанской области от 04.06.2025 № 26/150-VIII (вводится в действие с 01.01.2025); от 10.11.2025 № 29/174-VIII (вводится в действие с 01.01.2025).*
 
 <table>
 <tr>
@@ -35,14 +35,14 @@ source: https://zan.gov.kz/client/#!/doc/205345/rus/04.06.2025
 <td colspan="2"></td>
 <td colspan="4"></td>
 <td colspan="2">1. Доходы</td>
-<td colspan="2">500 606</td>
+<td colspan="2">524 938</td>
 </tr>
 <tr>
 <td>1</td>
 <td colspan="2"></td>
 <td colspan="4"></td>
 <td colspan="2">Налоговые поступления</td>
-<td colspan="2">500 332</td>
+<td colspan="2">509 332</td>
 </tr>
 <tr>
 <td></td>
@@ -63,7 +63,7 @@ source: https://zan.gov.kz/client/#!/doc/205345/rus/04.06.2025
 <td colspan="2">04</td>
 <td colspan="4"></td>
 <td colspan="2">Hалоги на собственность</td>
-<td colspan="2">110 312</td>
+<td colspan="2">119 312</td>
 </tr>
 <tr>
 <td></td>
@@ -84,7 +84,7 @@ source: https://zan.gov.kz/client/#!/doc/205345/rus/04.06.2025
 <td colspan="2"></td>
 <td colspan="4">4</td>
 <td colspan="2">Hалог на транспортные средства</td>
-<td colspan="2">98 422</td>
+<td colspan="2">107 422</td>
 </tr>
 <tr>
 <td></td>
@@ -129,21 +129,21 @@ source: https://zan.gov.kz/client/#!/doc/205345/rus/04.06.2025
 <td colspan="2"></td>
 <td colspan="4"></td>
 <td colspan="2">Поступления трансфертов</td>
-<td colspan="2">274</td>
+<td colspan="2">15 606</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">02</td>
 <td colspan="4"></td>
 <td colspan="2">Трансферты из вышестоящих органов государственного управления</td>
-<td colspan="2">274</td>
+<td colspan="2">15 606</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="4">3</td>
 <td colspan="2">Трансферты из районного (города областного значения) бюджета</td>
-<td colspan="2">274</td>
+<td colspan="2">15 606</td>
 </tr>
 <tr>
 <td></td>
@@ -178,7 +178,7 @@ source: https://zan.gov.kz/client/#!/doc/205345/rus/04.06.2025
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">2. Затраты</td>
-<td colspan="2">618 228</td>
+<td colspan="2">642 560</td>
 </tr>
 <tr>
 <td>01</td>
@@ -186,7 +186,7 @@ source: https://zan.gov.kz/client/#!/doc/205345/rus/04.06.2025
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Государственные услуги общего характера</td>
-<td colspan="2">154 200</td>
+<td colspan="2">171 659</td>
 </tr>
 <tr>
 <td></td>
@@ -194,7 +194,7 @@ source: https://zan.gov.kz/client/#!/doc/205345/rus/04.06.2025
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td colspan="2">154 200</td>
+<td colspan="2">171 659</td>
 </tr>
 <tr>
 <td></td>
@@ -202,7 +202,7 @@ source: https://zan.gov.kz/client/#!/doc/205345/rus/04.06.2025
 <td colspan="2">124</td>
 <td colspan="2"></td>
 <td colspan="2">Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">154 200</td>
+<td colspan="2">171 659</td>
 </tr>
 <tr>
 <td></td>
@@ -210,7 +210,7 @@ source: https://zan.gov.kz/client/#!/doc/205345/rus/04.06.2025
 <td colspan="2"></td>
 <td colspan="2">001</td>
 <td colspan="2">Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">147 707</td>
+<td colspan="2">165 166</td>
 </tr>
 <tr>
 <td></td>
@@ -234,7 +234,7 @@ source: https://zan.gov.kz/client/#!/doc/205345/rus/04.06.2025
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Жилищно-коммунальное хозяйство</td>
-<td colspan="2">380 556</td>
+<td colspan="2">383 319</td>
 </tr>
 <tr>
 <td></td>
@@ -242,7 +242,7 @@ source: https://zan.gov.kz/client/#!/doc/205345/rus/04.06.2025
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Благоустройство населенных пунктов</td>
-<td colspan="2">380 556</td>
+<td colspan="2">383 319</td>
 </tr>
 <tr>
 <td></td>
@@ -250,7 +250,7 @@ source: https://zan.gov.kz/client/#!/doc/205345/rus/04.06.2025
 <td colspan="2">124</td>
 <td colspan="2"></td>
 <td colspan="2">Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">380 556</td>
+<td colspan="2">383 319</td>
 </tr>
 <tr>
 <td></td>
@@ -258,7 +258,7 @@ source: https://zan.gov.kz/client/#!/doc/205345/rus/04.06.2025
 <td colspan="2"></td>
 <td colspan="2">008</td>
 <td colspan="2">Освещение улиц населенных пунктов</td>
-<td colspan="2">3 028</td>
+<td colspan="2">8 871</td>
 </tr>
 <tr>
 <td></td>
@@ -274,7 +274,7 @@ source: https://zan.gov.kz/client/#!/doc/205345/rus/04.06.2025
 <td colspan="2"></td>
 <td colspan="2">011</td>
 <td colspan="2">Благоустройство и озеленение населенных пунктов</td>
-<td colspan="2">263 948</td>
+<td colspan="2">260 868</td>
 </tr>
 <tr>
 <td>12</td>
@@ -282,7 +282,7 @@ source: https://zan.gov.kz/client/#!/doc/205345/rus/04.06.2025
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Транспорт и коммуникации</td>
-<td colspan="2">83 472</td>
+<td colspan="2">87 582</td>
 </tr>
 <tr>
 <td></td>
@@ -290,7 +290,7 @@ source: https://zan.gov.kz/client/#!/doc/205345/rus/04.06.2025
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Автомобильный транспорт</td>
-<td colspan="2">83 472</td>
+<td colspan="2">87 582</td>
 </tr>
 <tr>
 <td></td>
@@ -298,7 +298,7 @@ source: https://zan.gov.kz/client/#!/doc/205345/rus/04.06.2025
 <td colspan="2">124</td>
 <td colspan="2"></td>
 <td colspan="2">Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">83 472</td>
+<td colspan="2">87 582</td>
 </tr>
 <tr>
 <td></td>
@@ -306,7 +306,7 @@ source: https://zan.gov.kz/client/#!/doc/205345/rus/04.06.2025
 <td colspan="2"></td>
 <td colspan="2">013</td>
 <td colspan="2">Обеспечение функционирования автомобильных дорог в городах районного значения, селах, поселках, сельских округах</td>
-<td colspan="2">83 472</td>
+<td colspan="2">87 582</td>
 </tr>
 <tr>
 <td></td>
@@ -4118,7 +4118,7 @@ source: https://zan.gov.kz/client/#!/doc/205345/rus/04.06.2025
 
 ## Бюджет Первомаевского сельского округа на 2025 год
 
-> *Сноска. Приложение 10 в редакции решения Толебийского районного маслихата Туркестанской области от 04.06.2025 № 26/150-VIII (вводится в действие с 01.01.2025).*
+> *Сноска. Приложение 10 в редакции решения Толебийского районного маслихата Туркестанской области от 04.06.2025 № 26/150-VIII (вводится в действие с 01.01.2025); от 10.11.2025 № 29/174-VIII (вводится в действие с 01.01.2025).*
 
 <table>
 <tr>
@@ -4144,14 +4144,14 @@ source: https://zan.gov.kz/client/#!/doc/205345/rus/04.06.2025
 <td></td>
 <td colspan="2"></td>
 <td>1. Доходы</td>
-<td>101 606</td>
+<td>104 606</td>
 </tr>
 <tr>
 <td>1</td>
 <td></td>
 <td colspan="2"></td>
 <td>Налоговые поступления</td>
-<td>101 500</td>
+<td>104 500</td>
 </tr>
 <tr>
 <td></td>
@@ -4172,7 +4172,7 @@ source: https://zan.gov.kz/client/#!/doc/205345/rus/04.06.2025
 <td>04</td>
 <td colspan="2"></td>
 <td>Hалоги на собственность</td>
-<td>52 084</td>
+<td>55 084</td>
 </tr>
 <tr>
 <td></td>
@@ -4193,7 +4193,7 @@ source: https://zan.gov.kz/client/#!/doc/205345/rus/04.06.2025
 <td></td>
 <td colspan="2">4</td>
 <td>Hалог на транспортные средства</td>
-<td>49 384</td>
+<td>52 384</td>
 </tr>
 <tr>
 <td></td>
@@ -4279,7 +4279,7 @@ source: https://zan.gov.kz/client/#!/doc/205345/rus/04.06.2025
 <td></td>
 <td></td>
 <td>2. Затраты</td>
-<td>130 614</td>
+<td>133 614</td>
 </tr>
 <tr>
 <td>01</td>
@@ -4287,7 +4287,7 @@ source: https://zan.gov.kz/client/#!/doc/205345/rus/04.06.2025
 <td></td>
 <td></td>
 <td>Государственные услуги общего характера</td>
-<td>80 966</td>
+<td>83 966</td>
 </tr>
 <tr>
 <td></td>
@@ -4295,7 +4295,7 @@ source: https://zan.gov.kz/client/#!/doc/205345/rus/04.06.2025
 <td></td>
 <td></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>80 966</td>
+<td>83 966</td>
 </tr>
 <tr>
 <td></td>
@@ -4303,7 +4303,7 @@ source: https://zan.gov.kz/client/#!/doc/205345/rus/04.06.2025
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>80 966</td>
+<td>83 966</td>
 </tr>
 <tr>
 <td></td>
@@ -4311,7 +4311,7 @@ source: https://zan.gov.kz/client/#!/doc/205345/rus/04.06.2025
 <td></td>
 <td>001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>79 366</td>
+<td>82 366</td>
 </tr>
 <tr>
 <td></td>
