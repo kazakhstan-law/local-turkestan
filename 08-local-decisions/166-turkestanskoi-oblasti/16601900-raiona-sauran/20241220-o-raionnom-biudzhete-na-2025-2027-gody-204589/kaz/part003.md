@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/204589/kaz/15.07.2025
+source: https://zan.gov.kz/client/#!/doc/204589/kaz/26.11.2025
 ---
 
 > *Сауран аудандық мәслихатының*  
