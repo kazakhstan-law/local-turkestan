@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/205917/rus/06.11.2025
+source: https://zan.gov.kz/client/#!/doc/205917/rus/12.12.2025
 ---
 
 > *Приложение 16 к решению*  
@@ -10,7 +10,7 @@ source: https://zan.gov.kz/client/#!/doc/205917/rus/06.11.2025
 
 ## Бюджет сельского округа Монтайтас на 2025 год
 
-> *Сноска. Приложение 16 в редакции решения Арысского городского маслихата Туркестанской области от 27.03.2025 № 30/175-VIII (вводится в действие с 01.01.2025); от 21.05.2025 № 32/183-VІІІ (водится в действие с 01.01.2025); от 29.07.2025 № 35/197-VIII (вводится в действие с 01.01.2025); от 06.11.2025 № 38/215-VІІІ (вводится в действие с 01.01.2025).*
+> *Сноска. Приложение 16 в редакции решения Арысского городского маслихата Туркестанской области от 27.03.2025 № 30/175-VIII (вводится в действие с 01.01.2025); от 21.05.2025 № 32/183-VІІІ (водится в действие с 01.01.2025); от 29.07.2025 № 35/197-VIII (вводится в действие с 01.01.2025); от 06.11.2025 № 38/215-VІІІ (вводится в действие с 01.01.2025); от 12.12.2025 № 40/223-VІІІ (вводится в действие с 01.01.2025).*
 
 <table>
 <tr>
@@ -41,7 +41,7 @@ source: https://zan.gov.kz/client/#!/doc/205917/rus/06.11.2025
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">1. Доходы</td>
-<td colspan="2">117108</td>
+<td colspan="2">92910</td>
 </tr>
 <tr>
 <td>1</td>
@@ -57,7 +57,7 @@ source: https://zan.gov.kz/client/#!/doc/205917/rus/06.11.2025
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">Подоходный налог</td>
-<td colspan="2">3100</td>
+<td colspan="2">3322</td>
 </tr>
 <tr>
 <td></td>
@@ -65,7 +65,7 @@ source: https://zan.gov.kz/client/#!/doc/205917/rus/06.11.2025
 <td>2</td>
 <td colspan="2"></td>
 <td colspan="2">Индивидуальный подоходный налог</td>
-<td colspan="2">3100</td>
+<td colspan="2">3322</td>
 </tr>
 <tr>
 <td></td>
@@ -73,7 +73,7 @@ source: https://zan.gov.kz/client/#!/doc/205917/rus/06.11.2025
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">Hалоги на собственность</td>
-<td colspan="2">11990</td>
+<td colspan="2">11704</td>
 </tr>
 <tr>
 <td></td>
@@ -81,7 +81,7 @@ source: https://zan.gov.kz/client/#!/doc/205917/rus/06.11.2025
 <td>1</td>
 <td colspan="2"></td>
 <td colspan="2">Hалоги на имущество</td>
-<td colspan="2">473</td>
+<td colspan="2">501</td>
 </tr>
 <tr>
 <td></td>
@@ -97,7 +97,7 @@ source: https://zan.gov.kz/client/#!/doc/205917/rus/06.11.2025
 <td>4</td>
 <td colspan="2"></td>
 <td colspan="2">Hалог на транспортные средства</td>
-<td colspan="2">9830</td>
+<td colspan="2">9408</td>
 </tr>
 <tr>
 <td></td>
@@ -105,7 +105,7 @@ source: https://zan.gov.kz/client/#!/doc/205917/rus/06.11.2025
 <td>5</td>
 <td colspan="2"></td>
 <td colspan="2">Единый земельный налог</td>
-<td colspan="2">1478</td>
+<td colspan="2">1586</td>
 </tr>
 <tr>
 <td></td>
@@ -113,7 +113,7 @@ source: https://zan.gov.kz/client/#!/doc/205917/rus/06.11.2025
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">Внутренние налоги на товары, работы и услуги</td>
-<td colspan="2">826</td>
+<td colspan="2">890</td>
 </tr>
 <tr>
 <td></td>
@@ -121,7 +121,7 @@ source: https://zan.gov.kz/client/#!/doc/205917/rus/06.11.2025
 <td>3</td>
 <td colspan="2"></td>
 <td colspan="2">Поступления за использование природных и других ресурсов</td>
-<td colspan="2">826</td>
+<td colspan="2">890</td>
 </tr>
 <tr>
 <td>2</td>
@@ -169,7 +169,7 @@ source: https://zan.gov.kz/client/#!/doc/205917/rus/06.11.2025
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">Поступления трансфертов</td>
-<td colspan="2">99335</td>
+<td colspan="2">75137</td>
 </tr>
 <tr>
 <td></td>
@@ -177,7 +177,7 @@ source: https://zan.gov.kz/client/#!/doc/205917/rus/06.11.2025
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">Трансферты из вышестоящих органов государственного управления</td>
-<td colspan="2">99335</td>
+<td colspan="2">75137</td>
 </tr>
 <tr>
 <td></td>
@@ -185,7 +185,7 @@ source: https://zan.gov.kz/client/#!/doc/205917/rus/06.11.2025
 <td>3</td>
 <td colspan="2"></td>
 <td colspan="2">Трансферты из районного (города областного значения) бюджета</td>
-<td colspan="2">99335</td>
+<td colspan="2">75137</td>
 </tr>
 <tr>
 <td colspan="7">Функциональная группа</td>
@@ -215,7 +215,7 @@ source: https://zan.gov.kz/client/#!/doc/205917/rus/06.11.2025
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">2. Затраты</td>
-<td colspan="2">118105</td>
+<td colspan="2">93907</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
@@ -223,7 +223,7 @@ source: https://zan.gov.kz/client/#!/doc/205917/rus/06.11.2025
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">Государственные услуги общего характера</td>
-<td colspan="2">77508</td>
+<td colspan="2">76918</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -231,7 +231,7 @@ source: https://zan.gov.kz/client/#!/doc/205917/rus/06.11.2025
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td colspan="2">77508</td>
+<td colspan="2">76918</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -239,7 +239,7 @@ source: https://zan.gov.kz/client/#!/doc/205917/rus/06.11.2025
 <td>124</td>
 <td colspan="2"></td>
 <td colspan="2">Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">77508</td>
+<td colspan="2">76918</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -247,7 +247,7 @@ source: https://zan.gov.kz/client/#!/doc/205917/rus/06.11.2025
 <td></td>
 <td colspan="2">001</td>
 <td colspan="2">Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">75779</td>
+<td colspan="2">75189</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -263,7 +263,7 @@ source: https://zan.gov.kz/client/#!/doc/205917/rus/06.11.2025
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">Жилищно-коммунальное хозяйство</td>
-<td colspan="2">25597</td>
+<td colspan="2">6115</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -271,7 +271,7 @@ source: https://zan.gov.kz/client/#!/doc/205917/rus/06.11.2025
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">Благоустройство населенных пунктов</td>
-<td colspan="2">25597</td>
+<td colspan="2">6115</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -279,7 +279,7 @@ source: https://zan.gov.kz/client/#!/doc/205917/rus/06.11.2025
 <td>124</td>
 <td colspan="2"></td>
 <td colspan="2">Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">25597</td>
+<td colspan="2">6115</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -287,7 +287,7 @@ source: https://zan.gov.kz/client/#!/doc/205917/rus/06.11.2025
 <td></td>
 <td colspan="2">008</td>
 <td colspan="2">Освещение улиц в населенных пунктах</td>
-<td colspan="2">1370</td>
+<td colspan="2">1996</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -303,7 +303,7 @@ source: https://zan.gov.kz/client/#!/doc/205917/rus/06.11.2025
 <td></td>
 <td colspan="2">011</td>
 <td colspan="2">Благоустройство и озеленение населенных пунктов</td>
-<td colspan="2">22727</td>
+<td colspan="2">2619</td>
 </tr>
 <tr>
 <td colspan="2">12</td>
@@ -311,7 +311,7 @@ source: https://zan.gov.kz/client/#!/doc/205917/rus/06.11.2025
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">Транспорт и коммуникации</td>
-<td colspan="2">15000</td>
+<td colspan="2">10874</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -319,7 +319,7 @@ source: https://zan.gov.kz/client/#!/doc/205917/rus/06.11.2025
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">Автомобильный транспорт</td>
-<td colspan="2">15000</td>
+<td colspan="2">10874</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -327,7 +327,7 @@ source: https://zan.gov.kz/client/#!/doc/205917/rus/06.11.2025
 <td>124</td>
 <td colspan="2"></td>
 <td colspan="2">Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">15000</td>
+<td colspan="2">10874</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -335,7 +335,7 @@ source: https://zan.gov.kz/client/#!/doc/205917/rus/06.11.2025
 <td></td>
 <td colspan="2">013</td>
 <td colspan="2">Обеспечение функционирования автомобильных дорог в городах районного значения, селах, поселках, сельских округах</td>
-<td colspan="2">15000</td>
+<td colspan="2">10874</td>
 </tr>
 <tr>
 <td colspan="2"></td>
