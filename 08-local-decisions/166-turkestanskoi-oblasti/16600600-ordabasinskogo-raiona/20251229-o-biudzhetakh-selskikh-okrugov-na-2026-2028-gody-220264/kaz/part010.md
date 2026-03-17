@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/220264/kaz/20.01.2026
+source: https://zan.gov.kz/client/#!/doc/220264/kaz/17.03.2026
 ---
 
 > *Ордабасы аудандық*  
@@ -9,6 +9,8 @@ source: https://zan.gov.kz/client/#!/doc/220264/kaz/20.01.2026
 > *шешіміне 10-қосымша*
 
 ## 2026 жылға арналған Жеңіс ауылдық округінің бюджеті
+
+> *Ескерту. 10-қосымша жаңа редакцияда - Түркістан облысы Ордабасы аудандық мәслихатының 17.03.2026 № 45/1 (01.01.2026 бастап қолданысқа енгізіледі) шешiмiмен.*
 
 <table>
 <tr>
@@ -41,7 +43,7 @@ source: https://zan.gov.kz/client/#!/doc/220264/kaz/20.01.2026
 <td></td>
 <td></td>
 <td colspan="2">1. КІРІСТЕР</td>
-<td>41 844</td>
+<td>41 917</td>
 </tr>
 <tr>
 <td>1</td>
@@ -49,7 +51,7 @@ source: https://zan.gov.kz/client/#!/doc/220264/kaz/20.01.2026
 <td></td>
 <td></td>
 <td colspan="2">Салықтық түсімдер</td>
-<td>10 400</td>
+<td>10 472</td>
 </tr>
 <tr>
 <td></td>
@@ -57,7 +59,7 @@ source: https://zan.gov.kz/client/#!/doc/220264/kaz/20.01.2026
 <td></td>
 <td></td>
 <td colspan="2">Табыс салығы</td>
-<td>3 000</td>
+<td>3 073</td>
 </tr>
 <tr>
 <td></td>
@@ -65,7 +67,7 @@ source: https://zan.gov.kz/client/#!/doc/220264/kaz/20.01.2026
 <td>2</td>
 <td></td>
 <td colspan="2">Жеке табыс салығы</td>
-<td>3 000</td>
+<td>3 073</td>
 </tr>
 <tr>
 <td></td>
@@ -73,7 +75,7 @@ source: https://zan.gov.kz/client/#!/doc/220264/kaz/20.01.2026
 <td></td>
 <td></td>
 <td colspan="2">Меншікке салынатын салықтар</td>
-<td>7 400</td>
+<td>7 368</td>
 </tr>
 <tr>
 <td></td>
@@ -113,7 +115,7 @@ source: https://zan.gov.kz/client/#!/doc/220264/kaz/20.01.2026
 <td></td>
 <td></td>
 <td colspan="2">Тауарларға, жұмыстарға және қызметтерге салынатын iшкi салықтар</td>
-<td>32</td>
+<td>31</td>
 </tr>
 <tr>
 <td></td>
@@ -121,7 +123,7 @@ source: https://zan.gov.kz/client/#!/doc/220264/kaz/20.01.2026
 <td>3</td>
 <td></td>
 <td colspan="2">Табиғи және басқа да ресурстарды пайдаланғаны үшін түсетін түсімдер</td>
-<td>32</td>
+<td>31</td>
 </tr>
 <tr>
 <td></td>
@@ -184,8 +186,16 @@ source: https://zan.gov.kz/client/#!/doc/220264/kaz/20.01.2026
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2">Арнаулы түсімдер</td>
+<td>0</td>
+</tr>
+<tr>
+<td>5</td>
+<td></td>
+<td></td>
+<td></td>
 <td colspan="2">Трансферттер түсімі</td>
-<td>31 354</td>
+<td>31 355</td>
 </tr>
 <tr>
 <td></td>
@@ -193,7 +203,7 @@ source: https://zan.gov.kz/client/#!/doc/220264/kaz/20.01.2026
 <td></td>
 <td></td>
 <td colspan="2">Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td>31 354</td>
+<td>31 355</td>
 </tr>
 <tr>
 <td></td>
@@ -201,11 +211,11 @@ source: https://zan.gov.kz/client/#!/doc/220264/kaz/20.01.2026
 <td>3</td>
 <td></td>
 <td colspan="2">Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td>31 354</td>
+<td>31 355</td>
 </tr>
 <tr>
 <td colspan="6">Функционалдық топ Атауы</td>
-<td rowspan="5"></td>
+<td rowspan="5">Сомасы мың теңге</td>
 </tr>
 <tr>
 <td></td>
@@ -235,7 +245,7 @@ source: https://zan.gov.kz/client/#!/doc/220264/kaz/20.01.2026
 <td></td>
 <td></td>
 <td colspan="2">2.ШЫҒЫНДАР</td>
-<td>41 844</td>
+<td>42 094</td>
 </tr>
 <tr>
 <td>01</td>
@@ -243,7 +253,7 @@ source: https://zan.gov.kz/client/#!/doc/220264/kaz/20.01.2026
 <td></td>
 <td></td>
 <td colspan="2">Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>36 096</td>
+<td>36 346</td>
 </tr>
 <tr>
 <td></td>
@@ -251,7 +261,7 @@ source: https://zan.gov.kz/client/#!/doc/220264/kaz/20.01.2026
 <td></td>
 <td></td>
 <td colspan="2">Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>36 096</td>
+<td>36 346</td>
 </tr>
 <tr>
 <td></td>
@@ -259,7 +269,7 @@ source: https://zan.gov.kz/client/#!/doc/220264/kaz/20.01.2026
 <td>124</td>
 <td></td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>36 096</td>
+<td>36 346</td>
 </tr>
 <tr>
 <td></td>
@@ -267,7 +277,7 @@ source: https://zan.gov.kz/client/#!/doc/220264/kaz/20.01.2026
 <td></td>
 <td>001</td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>36 090</td>
+<td>36 340</td>
 </tr>
 <tr>
 <td></td>
@@ -612,7 +622,7 @@ source: https://zan.gov.kz/client/#!/doc/220264/kaz/20.01.2026
 <td></td>
 <td></td>
 <td colspan="2">5. БЮДЖЕТ ТАПШЫЛЫҒЫ (ПРОФИЦИТ)</td>
-<td>0</td>
+<td>- 177</td>
 </tr>
 <tr>
 <td></td>
@@ -620,7 +630,7 @@ source: https://zan.gov.kz/client/#!/doc/220264/kaz/20.01.2026
 <td></td>
 <td></td>
 <td colspan="2">6. БЮДЖЕТ ТАПШЫЛЫҒЫН ҚАРЖЫЛАНДЫРУ (ПРОФИЦИТІН ПАЙДАЛАНУ)</td>
-<td>0</td>
+<td>177</td>
 </tr>
 <tr>
 <td colspan="6">Санаты Атауы</td>
@@ -701,12 +711,12 @@ source: https://zan.gov.kz/client/#!/doc/220264/kaz/20.01.2026
 <td colspan="3">Ерекшелігі</td>
 </tr>
 <tr>
-<td></td>
+<td>9</td>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">Бюджет қаражатының пайдаланылатын қалдықтары</td>
-<td>0</td>
+<td>177</td>
 </tr>
 </table>
 
@@ -2131,7 +2141,7 @@ source: https://zan.gov.kz/client/#!/doc/220264/kaz/20.01.2026
 
 ## 2026 жылға арналған Қарақұм ауылдық округінің бюджеті
 
-> *Ескерту. 13-қосымша жаңа редакцияда - Түркістан облысы Ордабасы аудандық мәслихатының 20.01.2026 № 43/1 (01.01.2026 бастап қолданысқа енгізіледі) шешiмiмен.*
+> *Ескерту. 13-қосымша жаңа редакцияда - Түркістан облысы Ордабасы аудандық мәслихатының 20.01.2026 № 43/1 (01.01.2026 бастап қолданысқа енгізіледі); 17.03.2026 № 45/1 (01.01.2026 бастап қолданысқа енгізіледі) шешiмдерiмен.*
 
 <table>
 <tr>
@@ -2164,7 +2174,7 @@ source: https://zan.gov.kz/client/#!/doc/220264/kaz/20.01.2026
 <td></td>
 <td></td>
 <td colspan="2">1. КІРІСТЕР</td>
-<td>77 139</td>
+<td>77 491</td>
 </tr>
 <tr>
 <td>1</td>
@@ -2172,7 +2182,7 @@ source: https://zan.gov.kz/client/#!/doc/220264/kaz/20.01.2026
 <td></td>
 <td></td>
 <td colspan="2">Салықтық түсімдер</td>
-<td>15 013</td>
+<td>15 365</td>
 </tr>
 <tr>
 <td></td>
@@ -2180,7 +2190,7 @@ source: https://zan.gov.kz/client/#!/doc/220264/kaz/20.01.2026
 <td></td>
 <td></td>
 <td colspan="2">Табыс салығы</td>
-<td>5 500</td>
+<td>5 852</td>
 </tr>
 <tr>
 <td></td>
@@ -2188,7 +2198,7 @@ source: https://zan.gov.kz/client/#!/doc/220264/kaz/20.01.2026
 <td>2</td>
 <td></td>
 <td colspan="2">Жеке табыс салығы</td>
-<td>5 500</td>
+<td>5 852</td>
 </tr>
 <tr>
 <td></td>
@@ -2366,7 +2376,7 @@ source: https://zan.gov.kz/client/#!/doc/220264/kaz/20.01.2026
 <td></td>
 <td></td>
 <td colspan="2">2.ШЫҒЫНДАР</td>
-<td>77 784</td>
+<td>78 149</td>
 </tr>
 <tr>
 <td>01</td>
@@ -2374,7 +2384,7 @@ source: https://zan.gov.kz/client/#!/doc/220264/kaz/20.01.2026
 <td></td>
 <td></td>
 <td colspan="2">Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>57 164</td>
+<td>57 529</td>
 </tr>
 <tr>
 <td></td>
@@ -2382,7 +2392,7 @@ source: https://zan.gov.kz/client/#!/doc/220264/kaz/20.01.2026
 <td></td>
 <td></td>
 <td colspan="2">Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>57 164</td>
+<td>57 529</td>
 </tr>
 <tr>
 <td></td>
@@ -2390,7 +2400,7 @@ source: https://zan.gov.kz/client/#!/doc/220264/kaz/20.01.2026
 <td>124</td>
 <td></td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>57 164</td>
+<td>57 529</td>
 </tr>
 <tr>
 <td></td>
@@ -2398,7 +2408,7 @@ source: https://zan.gov.kz/client/#!/doc/220264/kaz/20.01.2026
 <td></td>
 <td>001</td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>56 298</td>
+<td>56 663</td>
 </tr>
 <tr>
 <td></td>
@@ -2743,7 +2753,7 @@ source: https://zan.gov.kz/client/#!/doc/220264/kaz/20.01.2026
 <td></td>
 <td></td>
 <td colspan="2">5. БЮДЖЕТ ТАПШЫЛЫҒЫ (ПРОФИЦИТ)</td>
-<td>- 645</td>
+<td>- 658</td>
 </tr>
 <tr>
 <td></td>
@@ -2751,7 +2761,7 @@ source: https://zan.gov.kz/client/#!/doc/220264/kaz/20.01.2026
 <td></td>
 <td></td>
 <td colspan="2">6. БЮДЖЕТ ТАПШЫЛЫҒЫН ҚАРЖЫЛАНДЫРУ (ПРОФИЦИТІН ПАЙДАЛАНУ)</td>
-<td>645</td>
+<td>658</td>
 </tr>
 <tr>
 <td colspan="6">Санаты Атауы</td>
@@ -2837,7 +2847,7 @@ source: https://zan.gov.kz/client/#!/doc/220264/kaz/20.01.2026
 <td></td>
 <td></td>
 <td colspan="2">Бюджет қаражатының пайдаланылатын қалдықтары</td>
-<td>645</td>
+<td>658</td>
 </tr>
 </table>
 
@@ -4262,7 +4272,7 @@ source: https://zan.gov.kz/client/#!/doc/220264/kaz/20.01.2026
 
 ## 2026 жылға арналған Қараспан ауылдық округінің бюджеті
 
-> *Ескерту. 16-қосымша жаңа редакцияда - Түркістан облысы Ордабасы аудандық мәслихатының 20.01.2026 № 43/1 (01.01.2026 бастап қолданысқа енгізіледі) шешiмiмен.*
+> *Ескерту. 16-қосымша жаңа редакцияда - Түркістан облысы Ордабасы аудандық мәслихатының 20.01.2026 № 43/1 (01.01.2026 бастап қолданысқа енгізіледі); 17.03.2026 № 45/1 (01.01.2026 бастап қолданысқа енгізіледі) шешiмдерiмен.*
 
 <table>
 <tr>
@@ -4295,7 +4305,7 @@ source: https://zan.gov.kz/client/#!/doc/220264/kaz/20.01.2026
 <td></td>
 <td></td>
 <td colspan="2">1. КІРІСТЕР</td>
-<td>122 680</td>
+<td>124 536</td>
 </tr>
 <tr>
 <td>1</td>
@@ -4303,7 +4313,7 @@ source: https://zan.gov.kz/client/#!/doc/220264/kaz/20.01.2026
 <td></td>
 <td></td>
 <td colspan="2">Салықтық түсімдер</td>
-<td>92 970</td>
+<td>94 826</td>
 </tr>
 <tr>
 <td></td>
@@ -4311,7 +4321,7 @@ source: https://zan.gov.kz/client/#!/doc/220264/kaz/20.01.2026
 <td></td>
 <td></td>
 <td colspan="2">Табыс салығы</td>
-<td>53 150</td>
+<td>55 000</td>
 </tr>
 <tr>
 <td></td>
@@ -4319,7 +4329,7 @@ source: https://zan.gov.kz/client/#!/doc/220264/kaz/20.01.2026
 <td>2</td>
 <td></td>
 <td colspan="2">Жеке табыс салығы</td>
-<td>53 150</td>
+<td>55 000</td>
 </tr>
 <tr>
 <td></td>
@@ -4327,7 +4337,7 @@ source: https://zan.gov.kz/client/#!/doc/220264/kaz/20.01.2026
 <td></td>
 <td></td>
 <td colspan="2">Меншікке салынатын салықтар</td>
-<td>39 558</td>
+<td>39 564</td>
 </tr>
 <tr>
 <td></td>
@@ -4343,7 +4353,7 @@ source: https://zan.gov.kz/client/#!/doc/220264/kaz/20.01.2026
 <td>3</td>
 <td></td>
 <td colspan="2">Жер салығы</td>
-<td>372</td>
+<td>378</td>
 </tr>
 <tr>
 <td></td>
@@ -4497,7 +4507,7 @@ source: https://zan.gov.kz/client/#!/doc/220264/kaz/20.01.2026
 <td></td>
 <td></td>
 <td colspan="2">2.ШЫҒЫНДАР</td>
-<td>123 529</td>
+<td>125 385</td>
 </tr>
 <tr>
 <td>01</td>
@@ -4505,7 +4515,7 @@ source: https://zan.gov.kz/client/#!/doc/220264/kaz/20.01.2026
 <td></td>
 <td></td>
 <td colspan="2">Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>66 933</td>
+<td>67 298</td>
 </tr>
 <tr>
 <td></td>
@@ -4513,7 +4523,7 @@ source: https://zan.gov.kz/client/#!/doc/220264/kaz/20.01.2026
 <td></td>
 <td></td>
 <td colspan="2">Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>66 933</td>
+<td>67 298</td>
 </tr>
 <tr>
 <td></td>
@@ -4521,7 +4531,7 @@ source: https://zan.gov.kz/client/#!/doc/220264/kaz/20.01.2026
 <td>124</td>
 <td></td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>66 933</td>
+<td>67 298</td>
 </tr>
 <tr>
 <td></td>
@@ -4529,7 +4539,7 @@ source: https://zan.gov.kz/client/#!/doc/220264/kaz/20.01.2026
 <td></td>
 <td>001</td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>66 893</td>
+<td>67 258</td>
 </tr>
 <tr>
 <td></td>
@@ -4577,7 +4587,7 @@ source: https://zan.gov.kz/client/#!/doc/220264/kaz/20.01.2026
 <td></td>
 <td></td>
 <td colspan="2">Тұрғын үй-коммуналдық шаруашылық</td>
-<td>36 148</td>
+<td>36 154</td>
 </tr>
 <tr>
 <td></td>
@@ -4585,7 +4595,7 @@ source: https://zan.gov.kz/client/#!/doc/220264/kaz/20.01.2026
 <td></td>
 <td></td>
 <td colspan="2">Елді-мекендерді көркейту</td>
-<td>36 148</td>
+<td>36 154</td>
 </tr>
 <tr>
 <td></td>
@@ -4593,7 +4603,7 @@ source: https://zan.gov.kz/client/#!/doc/220264/kaz/20.01.2026
 <td>124</td>
 <td></td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>36 148</td>
+<td>36 154</td>
 </tr>
 <tr>
 <td></td>
@@ -4601,7 +4611,7 @@ source: https://zan.gov.kz/client/#!/doc/220264/kaz/20.01.2026
 <td></td>
 <td>008</td>
 <td colspan="2">Елді мекендердегі көшелерді жарықтандыру</td>
-<td>22 148</td>
+<td>22 154</td>
 </tr>
 <tr>
 <td></td>
@@ -4681,7 +4691,7 @@ source: https://zan.gov.kz/client/#!/doc/220264/kaz/20.01.2026
 <td></td>
 <td></td>
 <td colspan="2">Көлiк және коммуникация</td>
-<td>0</td>
+<td>1 485</td>
 </tr>
 <tr>
 <td></td>
@@ -4689,7 +4699,7 @@ source: https://zan.gov.kz/client/#!/doc/220264/kaz/20.01.2026
 <td></td>
 <td></td>
 <td colspan="2">Автомобиль көлiгi</td>
-<td>0</td>
+<td>1 485</td>
 </tr>
 <tr>
 <td></td>
@@ -4697,7 +4707,7 @@ source: https://zan.gov.kz/client/#!/doc/220264/kaz/20.01.2026
 <td>124</td>
 <td></td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>0</td>
+<td>1 485</td>
 </tr>
 <tr>
 <td></td>
@@ -4705,7 +4715,7 @@ source: https://zan.gov.kz/client/#!/doc/220264/kaz/20.01.2026
 <td></td>
 <td>013</td>
 <td colspan="2">Аудандық маңызы бар қалаларда, ауылдарда, кенттерде, ауылдық округтерде автомобиль жолдарының жұмыс істеуін қамтамасыз ету</td>
-<td>0</td>
+<td>1 485</td>
 </tr>
 <tr>
 <td>15</td>
