@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/220240/rus/29.12.2025
+source: https://zan.gov.kz/client/#!/doc/220240/rus/19.03.2026
 ---
 
 > *Приложение 33 к решению*  
@@ -395,6 +395,8 @@ source: https://zan.gov.kz/client/#!/doc/220240/rus/29.12.2025
 
 ## Бюджет Аккумского сельского округа на 2026 год
 
+> *Сноска. Приложение 34 в редакции решения Отрарского районного маслихата Туркестанской области от 19.03.2026 № 35/195-VIII (вводится в действие с 01.01.2026).*
+
 <table>
 <tr>
 <td>Категория</td>
@@ -522,7 +524,7 @@ source: https://zan.gov.kz/client/#!/doc/220240/rus/29.12.2025
 <td>15</td>
 </tr>
 <tr>
-<td>4</td>
+<td>5</td>
 <td></td>
 <td></td>
 <td></td>
@@ -571,7 +573,7 @@ source: https://zan.gov.kz/client/#!/doc/220240/rus/29.12.2025
 <td></td>
 <td></td>
 <td>2. Затраты</td>
-<td>56 151</td>
+<td>56 941</td>
 </tr>
 <tr>
 <td>01</td>
@@ -579,7 +581,7 @@ source: https://zan.gov.kz/client/#!/doc/220240/rus/29.12.2025
 <td></td>
 <td></td>
 <td>Государственные услуги общего характера</td>
-<td>55 195</td>
+<td>55 985</td>
 </tr>
 <tr>
 <td></td>
@@ -587,7 +589,7 @@ source: https://zan.gov.kz/client/#!/doc/220240/rus/29.12.2025
 <td></td>
 <td></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>55 195</td>
+<td>55 985</td>
 </tr>
 <tr>
 <td></td>
@@ -595,7 +597,7 @@ source: https://zan.gov.kz/client/#!/doc/220240/rus/29.12.2025
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>55 195</td>
+<td>55 985</td>
 </tr>
 <tr>
 <td></td>
@@ -603,7 +605,7 @@ source: https://zan.gov.kz/client/#!/doc/220240/rus/29.12.2025
 <td></td>
 <td>001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>54 995</td>
+<td>55 785</td>
 </tr>
 <tr>
 <td></td>
@@ -699,7 +701,7 @@ source: https://zan.gov.kz/client/#!/doc/220240/rus/29.12.2025
 <td></td>
 <td></td>
 <td>5. Дефицит (профицит) бюджета</td>
-<td>0</td>
+<td>-790</td>
 </tr>
 <tr>
 <td></td>
@@ -707,7 +709,7 @@ source: https://zan.gov.kz/client/#!/doc/220240/rus/29.12.2025
 <td></td>
 <td></td>
 <td>6. Финансирование дефицита (использование профицита) бюджета</td>
-<td>0</td>
+<td>790</td>
 </tr>
 <tr>
 <td></td>
@@ -726,12 +728,12 @@ source: https://zan.gov.kz/client/#!/doc/220240/rus/29.12.2025
 <td>0</td>
 </tr>
 <tr>
-<td>8</td>
+<td>9</td>
 <td></td>
 <td></td>
 <td></td>
 <td>Используемые остатки бюджетных средств</td>
-<td>0</td>
+<td>790</td>
 </tr>
 <tr>
 <td></td>
@@ -739,7 +741,7 @@ source: https://zan.gov.kz/client/#!/doc/220240/rus/29.12.2025
 <td></td>
 <td></td>
 <td>Остатки бюджетных средств</td>
-<td>0</td>
+<td>790</td>
 </tr>
 <tr>
 <td></td>
@@ -747,7 +749,7 @@ source: https://zan.gov.kz/client/#!/doc/220240/rus/29.12.2025
 <td>1</td>
 <td></td>
 <td>Свободные остатки бюджетных средств</td>
-<td>0</td>
+<td>790</td>
 </tr>
 </table>
 
@@ -1561,6 +1563,8 @@ source: https://zan.gov.kz/client/#!/doc/220240/rus/29.12.2025
 
 ## Бюджет Актюбинского сельского округа на 2026 год
 
+> *Сноска. Приложение 37 в редакции решения Отрарского районного маслихата Туркестанской области от 19.03.2026 № 35/195-VIII (вводится в действие с 01.01.2026).*
+
 <table>
 <tr>
 <td>Категория</td>
@@ -1712,7 +1716,7 @@ source: https://zan.gov.kz/client/#!/doc/220240/rus/29.12.2025
 <td>147</td>
 </tr>
 <tr>
-<td>4</td>
+<td>5</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1801,7 +1805,7 @@ source: https://zan.gov.kz/client/#!/doc/220240/rus/29.12.2025
 <td></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>1 800</td>
+<td>3 049</td>
 </tr>
 <tr>
 <td></td>
@@ -1809,7 +1813,7 @@ source: https://zan.gov.kz/client/#!/doc/220240/rus/29.12.2025
 <td></td>
 <td></td>
 <td>Благоустройство населенных пунктов</td>
-<td>1 800</td>
+<td>3 049</td>
 </tr>
 <tr>
 <td></td>
@@ -1817,7 +1821,7 @@ source: https://zan.gov.kz/client/#!/doc/220240/rus/29.12.2025
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>1 800</td>
+<td>3 049</td>
 </tr>
 <tr>
 <td></td>
@@ -1825,7 +1829,7 @@ source: https://zan.gov.kz/client/#!/doc/220240/rus/29.12.2025
 <td></td>
 <td>008</td>
 <td>Освещение улиц населенных пунктов</td>
-<td>800</td>
+<td>2 049</td>
 </tr>
 <tr>
 <td></td>
@@ -1921,7 +1925,7 @@ source: https://zan.gov.kz/client/#!/doc/220240/rus/29.12.2025
 <td></td>
 <td></td>
 <td>5. Дефицит (профицит) бюджета</td>
-<td>0</td>
+<td>-1 249</td>
 </tr>
 <tr>
 <td></td>
@@ -1929,7 +1933,7 @@ source: https://zan.gov.kz/client/#!/doc/220240/rus/29.12.2025
 <td></td>
 <td></td>
 <td>6. Финансирование дефицита (использование профицита) бюджета</td>
-<td>0</td>
+<td>1 249</td>
 </tr>
 <tr>
 <td></td>
@@ -1948,12 +1952,12 @@ source: https://zan.gov.kz/client/#!/doc/220240/rus/29.12.2025
 <td>0</td>
 </tr>
 <tr>
-<td>8</td>
+<td>9</td>
 <td></td>
 <td></td>
 <td></td>
 <td>Используемые остатки бюджетных средств</td>
-<td>0</td>
+<td>1 249</td>
 </tr>
 <tr>
 <td></td>
@@ -1961,7 +1965,7 @@ source: https://zan.gov.kz/client/#!/doc/220240/rus/29.12.2025
 <td></td>
 <td></td>
 <td>Остатки бюджетных средств</td>
-<td>0</td>
+<td>1 249</td>
 </tr>
 <tr>
 <td></td>
@@ -1969,7 +1973,7 @@ source: https://zan.gov.kz/client/#!/doc/220240/rus/29.12.2025
 <td>1</td>
 <td></td>
 <td>Свободные остатки бюджетных средств</td>
-<td>0</td>
+<td>1 249</td>
 </tr>
 </table>
 
