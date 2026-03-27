@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/220264/kaz/17.03.2026
+source: https://zan.gov.kz/client/#!/doc/220264/kaz/27.03.2026
 ---
 
 > *Ордабасы аудандық*  
@@ -10,7 +10,7 @@ source: https://zan.gov.kz/client/#!/doc/220264/kaz/17.03.2026
 
 ## 2026 жылға арналған Бадам ауылдық округінің бюджеті
 
-> *Ескерту. 1-қосымша жаңа редакцияда - Түркістан облысы Ордабасы аудандық мәслихатының 20.01.2026 № 43/1 (01.01.2026 бастап қолданысқа енгізіледі) шешiмiмен.*
+> *Ескерту. 1-қосымша жаңа редакцияда - Түркістан облысы Ордабасы аудандық мәслихатының 20.01.2026 № 43/1 (01.01.2026 бастап қолданысқа енгізіледі); 27.03.2026 № 46/6 (01.01.2026 бастап қолданысқа енгізіледі) шешiмдерiмен.*
 
 <table>
 <tr>
@@ -43,7 +43,7 @@ source: https://zan.gov.kz/client/#!/doc/220264/kaz/17.03.2026
 <td></td>
 <td></td>
 <td colspan="2">1. КІРІСТЕР</td>
-<td>198 177</td>
+<td>205 677</td>
 </tr>
 <tr>
 <td>1</td>
@@ -51,7 +51,7 @@ source: https://zan.gov.kz/client/#!/doc/220264/kaz/17.03.2026
 <td></td>
 <td></td>
 <td colspan="2">Салықтық түсімдер</td>
-<td>162 302</td>
+<td>169 802</td>
 </tr>
 <tr>
 <td></td>
@@ -59,7 +59,7 @@ source: https://zan.gov.kz/client/#!/doc/220264/kaz/17.03.2026
 <td></td>
 <td></td>
 <td colspan="2">Табыс салығы</td>
-<td>85 125</td>
+<td>92 625</td>
 </tr>
 <tr>
 <td></td>
@@ -67,7 +67,7 @@ source: https://zan.gov.kz/client/#!/doc/220264/kaz/17.03.2026
 <td>2</td>
 <td></td>
 <td colspan="2">Жеке табыс салығы</td>
-<td>85 125</td>
+<td>92 625</td>
 </tr>
 <tr>
 <td></td>
@@ -215,7 +215,7 @@ source: https://zan.gov.kz/client/#!/doc/220264/kaz/17.03.2026
 </tr>
 <tr>
 <td colspan="6">Функционалдық топ Атауы</td>
-<td rowspan="5">Сомасы, мың теңге</td>
+<td rowspan="5">Сомасы мың теңге</td>
 </tr>
 <tr>
 <td></td>
@@ -245,7 +245,7 @@ source: https://zan.gov.kz/client/#!/doc/220264/kaz/17.03.2026
 <td></td>
 <td></td>
 <td colspan="2">2.ШЫҒЫНДАР</td>
-<td>201 602</td>
+<td>209 102</td>
 </tr>
 <tr>
 <td>01</td>
@@ -325,7 +325,7 @@ source: https://zan.gov.kz/client/#!/doc/220264/kaz/17.03.2026
 <td></td>
 <td></td>
 <td colspan="2">Тұрғын үй-коммуналдық шаруашылық</td>
-<td>47 345</td>
+<td>54 845</td>
 </tr>
 <tr>
 <td></td>
@@ -333,7 +333,7 @@ source: https://zan.gov.kz/client/#!/doc/220264/kaz/17.03.2026
 <td></td>
 <td></td>
 <td colspan="2">Елді-мекендерді көркейту</td>
-<td>47 345</td>
+<td>54 845</td>
 </tr>
 <tr>
 <td></td>
@@ -341,7 +341,7 @@ source: https://zan.gov.kz/client/#!/doc/220264/kaz/17.03.2026
 <td>124</td>
 <td></td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>47 345</td>
+<td>54 845</td>
 </tr>
 <tr>
 <td></td>
@@ -357,7 +357,7 @@ source: https://zan.gov.kz/client/#!/doc/220264/kaz/17.03.2026
 <td></td>
 <td>009</td>
 <td colspan="2">Елді мекендердің санитариясын қамтамасыз ету</td>
-<td>2 000</td>
+<td>9 500</td>
 </tr>
 <tr>
 <td></td>
@@ -462,14 +462,6 @@ source: https://zan.gov.kz/client/#!/doc/220264/kaz/17.03.2026
 <td>045</td>
 <td colspan="2">Аудандық маңызы бар қалаларда, ауылдарда, кенттерде, ауылдық округтерде автомобиль жолдарын күрделі және орташа жөндеу</td>
 <td>8 000</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
 </tr>
 <tr>
 <td>15</td>

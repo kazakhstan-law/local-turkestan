@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/220264/kaz/17.03.2026
+source: https://zan.gov.kz/client/#!/doc/220264/kaz/27.03.2026
 ---
 
 > *Ордабасы аудандық*  
