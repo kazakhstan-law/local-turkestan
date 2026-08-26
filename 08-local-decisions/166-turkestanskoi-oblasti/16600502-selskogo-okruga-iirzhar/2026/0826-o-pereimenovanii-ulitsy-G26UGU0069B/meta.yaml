@@ -1,0 +1,25 @@
+key: G26UGU0069B
+akn: /akn/kz/act/2026-08-26/G26UGU0069B
+act_code: '229854'
+requisite: Решение акима поселка Атакент Мактааральского района Туркестанской области от 26 августа 2026 года № 69
+title:
+  rus: О переименований улицы
+  kaz: Көшеге қайта атау беру туралы
+form: РЕШ
+type_codes:
+- РЕШ
+approved_on: 2026-08-26
+in_force_from: 2026-09-09
+approved_by:
+- '166005021001'
+versions:
+- date: 2026-08-26
+  languages:
+  - kaz
+  - rus
+version_date:
+  kaz: 2026-08-26
+  rus: 2026-08-26
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/229854/kaz/26.08.2026
+  rus: https://zan.gov.kz/client/#!/doc/229854/rus/26.08.2026
